@@ -3,1014 +3,952 @@ export const budgetData = {
   "currency": "crores",
   "ministries": [
     {
-      "ministry": "Ministry of Agriculture and Farmers Welfare",
+      "ministry": "MINISTRY OF AGRICULTURE AND FARMERS WELFARE",
       "total": 127469.88,
       "departments": [
         {
           "department": "Department of Agriculture and Farmers Welfare",
           "revenue": 117433.15,
           "capital": 95.64,
-          "total": 117528.79,
-          "pages": "1-5"
+          "total": 117528.79
         },
         {
           "department": "Department of Agricultural Research and Education",
           "revenue": 9934.59,
-          "capital": 6.50,
-          "total": 9941.09,
-          "pages": "6-9"
+          "capital": 6.5,
+          "total": 9941.09
         }
       ]
     },
     {
-      "ministry": "Department of Atomic Energy",
+      "ministry": "DEPARTMENT OF ATOMIC ENERGY",
       "total": 24968.98,
       "departments": [
         {
           "department": "Atomic Energy",
           "revenue": 11108.19,
           "capital": 13860.79,
-          "total": 24968.98,
-          "pages": "10-15"
+          "total": 24968.98
         }
       ]
     },
     {
-      "ministry": "Ministry of Ayush",
+      "ministry": "MINISTRY OF AYUSH",
       "total": 3712.49,
       "departments": [
         {
           "department": "Ministry of Ayush",
           "revenue": 3703.74,
           "capital": 8.75,
-          "total": 3712.49,
-          "pages": "16-19"
+          "total": 3712.49
         }
       ]
     },
     {
-      "ministry": "Ministry of Chemicals and Fertilisers",
+      "ministry": "MINISTRY OF CHEMICALS AND FERTILISERS",
       "total": 168379.81,
       "departments": [
         {
           "department": "Department of Chemicals and Petrochemicals",
           "revenue": 136.82,
           "capital": 2.23,
-          "total": 139.05,
-          "pages": "20-22"
+          "total": 139.05
         },
         {
           "department": "Department of Fertilisers",
-          "revenue": 164147.20,
+          "revenue": 164147.2,
           "capital": 3.61,
-          "total": 164150.81,
-          "pages": "23-25"
+          "total": 164150.81
         },
         {
           "department": "Department of Pharmaceuticals",
           "revenue": 4088.69,
           "capital": 1.26,
-          "total": 4089.95,
-          "pages": "26-29"
+          "total": 4089.95
         }
       ]
     },
     {
-      "ministry": "Ministry of Civil Aviation",
-      "total": 2300.00,
+      "ministry": "MINISTRY OF CIVIL AVIATION",
+      "total": 2300.0,
       "departments": [
         {
           "department": "Ministry of Civil Aviation",
           "revenue": 2257.79,
           "capital": 42.21,
-          "total": 2300.00,
-          "pages": "30-32"
+          "total": 2300.0
         }
       ]
     },
     {
-      "ministry": "Ministry of Coal",
+      "ministry": "MINISTRY OF COAL",
       "total": 192.55,
       "departments": [
         {
           "department": "Ministry of Coal",
           "revenue": 190.35,
-          "capital": 2.20,
-          "total": 192.55,
-          "pages": "33-35"
+          "capital": 2.2,
+          "total": 192.55
         }
       ]
     },
     {
-      "ministry": "Ministry of Commerce and Industry",
+      "ministry": "MINISTRY OF COMMERCE AND INDUSTRY",
       "total": 10404.63,
       "departments": [
         {
           "department": "Department of Commerce",
           "revenue": 3920.33,
           "capital": 59.22,
-          "total": 3979.55,
-          "pages": "36-40"
+          "total": 3979.55
         },
         {
           "department": "Department for Promotion of Industry and Internal Trade",
           "revenue": 5020.69,
           "capital": 1404.39,
-          "total": 6425.08,
-          "pages": "41-46"
+          "total": 6425.08
         }
       ]
     },
     {
-      "ministry": "Ministry of Communications",
+      "ministry": "MINISTRY OF COMMUNICATIONS",
       "total": 137255.14,
       "departments": [
         {
           "department": "Department of Posts",
           "revenue": 24115.87,
-          "capital": 1262.60,
-          "total": 25378.47,
-          "pages": "47-48"
+          "capital": 1262.6,
+          "total": 25378.47
         },
         {
           "department": "Department of Telecommunications",
           "revenue": 27419.17,
-          "capital": 84457.50,
-          "total": 111876.67,
-          "pages": "49-53"
+          "capital": 84457.5,
+          "total": 111876.67
         }
       ]
     },
     {
-      "ministry": "Ministry of Consumer Affairs, Food and Public Distribution",
+      "ministry": "MINISTRY OF CONSUMER AFFAIRS, FOOD AND PUBLIC DISTRIBUTION",
       "total": 213323.37,
       "departments": [
         {
           "department": "Department of Consumer Affairs",
-          "revenue": 237.30,
+          "revenue": 237.3,
           "capital": 66.32,
-          "total": 303.62,
-          "pages": "54-56"
+          "total": 303.62
         },
         {
           "department": "Department of Food and Public Distribution",
           "revenue": 212976.21,
           "capital": 43.54,
-          "total": 213019.75,
-          "pages": "57-60"
+          "total": 213019.75
         }
       ]
     },
     {
-      "ministry": "Ministry of Cooperation",
+      "ministry": "MINISTRY OF COOPERATION",
       "total": 1183.39,
       "departments": [
         {
           "department": "Ministry of Cooperation",
           "revenue": 1182.38,
           "capital": 1.01,
-          "total": 1183.39,
-          "pages": "61-63"
+          "total": 1183.39
         }
       ]
     },
     {
-      "ministry": "Ministry of Corporate Affairs",
+      "ministry": "MINISTRY OF CORPORATE AFFAIRS",
       "total": 667.06,
       "departments": [
         {
           "department": "Ministry of Corporate Affairs",
           "revenue": 611.96,
-          "capital": 55.10,
-          "total": 667.06,
-          "pages": "64-66"
+          "capital": 55.1,
+          "total": 667.06
         }
       ]
     },
     {
-      "ministry": "Ministry of Culture",
+      "ministry": "MINISTRY OF CULTURE",
       "total": 3260.93,
       "departments": [
         {
           "department": "Ministry of Culture",
           "revenue": 3070.92,
           "capital": 190.01,
-          "total": 3260.93,
-          "pages": "67-69"
+          "total": 3260.93
         }
       ]
     },
     {
-      "ministry": "Ministry of Defence",
+      "ministry": "MINISTRY OF DEFENCE",
       "total": 621540.85,
       "departments": [
         {
           "department": "Ministry of Defence (Civil)",
           "revenue": 15322.33,
           "capital": 10240.85,
-          "total": 25563.18,
-          "pages": "70-73"
+          "total": 25563.18
         },
         {
           "department": "Defence Services (Revenue)",
           "revenue": 282772.67,
-          "capital": 0.00,
-          "total": 282772.67,
-          "pages": "74-76"
+          "capital": 0,
+          "total": 282772.67
         },
         {
           "department": "Capital Outlay on Defence Services",
-          "revenue": 0.00,
-          "capital": 172000.00,
-          "total": 172000.00,
-          "pages": "77-79"
+          "revenue": 0,
+          "capital": 172000.0,
+          "total": 172000.0
         },
         {
           "department": "Defence Pensions",
-          "revenue": 141205.00,
-          "capital": 0.00,
-          "total": 141205.00,
-          "pages": "80-81"
+          "revenue": 141205.0,
+          "capital": 0,
+          "total": 141205.0
         }
       ]
     },
     {
-      "ministry": "Ministry of Development of North Eastern Region",
-      "total": 5900.00,
+      "ministry": "MINISTRY OF DEVELOPMENT OF NORTH EASTERN REGION",
+      "total": 5900.0,
       "departments": [
         {
           "department": "Ministry of Development of North Eastern Region",
           "revenue": 2040.68,
           "capital": 3859.32,
-          "total": 5900.00,
-          "pages": "82-85"
+          "total": 5900.0
         }
       ]
     },
     {
-      "ministry": "Ministry of Earth Sciences",
+      "ministry": "MINISTRY OF EARTH SCIENCES",
       "total": 2521.83,
       "departments": [
         {
           "department": "Ministry of Earth Sciences",
           "revenue": 1963.49,
           "capital": 558.34,
-          "total": 2521.83,
-          "pages": "86-88"
+          "total": 2521.83
         }
       ]
     },
     {
-      "ministry": "Ministry of Education",
+      "ministry": "MINISTRY OF EDUCATION",
       "total": 120627.87,
       "departments": [
         {
           "department": "Department of School Education and Literacy",
           "revenue": 73007.34,
           "capital": 0.76,
-          "total": 73008.10,
-          "pages": "89-91"
+          "total": 73008.1
         },
         {
           "department": "Department of Higher Education",
           "revenue": 47612.71,
           "capital": 7.06,
-          "total": 47619.77,
-          "pages": "92-100"
+          "total": 47619.77
         }
       ]
     },
     {
-      "ministry": "Ministry of Electronics and Information Technology",
+      "ministry": "MINISTRY OF ELECTRONICS AND INFORMATION TECHNOLOGY",
       "total": 21385.15,
       "departments": [
         {
           "department": "Ministry of Electronics and Information Technology",
-          "revenue": 20804.19,
-          "capital": 580.96,
-          "total": 21385.15,
-          "pages": "101-106"
+          "revenue": 20804.14,
+          "capital": 581.01,
+          "total": 21385.15
         }
       ]
     },
     {
-      "ministry": "Ministry of Environment, Forests and Climate Change",
-      "total": 3763.15,
+      "ministry": "MINISTRY OF ENVIRONMENT, FORESTS AND CLIMATE CHANGE",
+      "total": 3265.53,
       "departments": [
         {
           "department": "Ministry of Environment, Forests and Climate Change",
-          "revenue": 3503.96,
-          "capital": 259.19,
-          "total": 3763.15,
-          "pages": "107-109"
+          "revenue": 3172.28,
+          "capital": 93.25,
+          "total": 3265.53
         }
       ]
     },
     {
-      "ministry": "Ministry of External Affairs",
-      "total": 23003.88,
+      "ministry": "MINISTRY OF EXTERNAL AFFAIRS",
+      "total": 22154.67,
       "departments": [
         {
           "department": "Ministry of External Affairs",
-          "revenue": 19912.22,
-          "capital": 3091.66,
-          "total": 23003.88,
-          "pages": "110-115"
+          "revenue": 20479.49,
+          "capital": 1675.18,
+          "total": 22154.67
         }
       ]
     },
     {
-      "ministry": "Ministry of Finance",
-      "total": 489267.42,
+      "ministry": "MINISTRY OF FINANCE",
+      "total": 1850228.87,
       "departments": [
         {
           "department": "Department of Economic Affairs",
-          "revenue": 12646.34,
-          "capital": 1088.00,
-          "total": 13734.34,
-          "pages": "116-120"
+          "revenue": 9524.64,
+          "capital": 74051.72,
+          "total": 83576.36
         },
         {
           "department": "Department of Expenditure",
-          "revenue": 33100.60,
-          "capital": 63.00,
-          "total": 33163.60,
-          "pages": "121-124"
+          "revenue": 412.68,
+          "capital": 91.46,
+          "total": 504.14
         },
         {
           "department": "Department of Financial Services",
-          "revenue": 287.92,
-          "capital": 0.08,
-          "total": 288.00,
-          "pages": "125-127"
-        },
-        {
-          "department": "Department of Investment and Public Asset Management",
-          "revenue": 80.55,
-          "capital": 0.00,
-          "total": 80.55,
-          "pages": "128-130"
+          "revenue": 2783.21,
+          "capital": 61.94,
+          "total": 2845.15
         },
         {
           "department": "Department of Public Enterprises",
-          "revenue": 276.53,
-          "capital": 0.00,
-          "total": 276.53,
-          "pages": "131-134"
+          "revenue": 25.91,
+          "capital": 0.69,
+          "total": 26.6
+        },
+        {
+          "department": "Department of Investment and Public Asset Management (DIPAM)",
+          "revenue": 48.27,
+          "capital": 1.47,
+          "total": 49.74
+        },
+        {
+          "department": "Department of Revenue",
+          "revenue": 151449.33,
+          "capital": 411.36,
+          "total": 151860.69
         },
         {
           "department": "Direct Taxes",
-          "revenue": 10774.08,
-          "capital": 1342.98,
-          "total": 12117.06,
-          "pages": "135-138"
+          "revenue": 9025.42,
+          "capital": 1312.96,
+          "total": 10338.38
         },
         {
           "department": "Indirect Taxes",
-          "revenue": 12036.53,
-          "capital": 265.41,
-          "total": 12301.94,
-          "pages": "139-143"
+          "revenue": 38859.36,
+          "capital": 2238.62,
+          "total": 41097.98
         },
         {
-          "department": "Repayment of Debt",
-          "revenue": 0.00,
-          "capital": 417274.40,
-          "total": 417274.40,
-          "pages": "144-147"
+          "department": "Indian Audit and Accounts Department",
+          "revenue": 5785.98,
+          "capital": 175.5,
+          "total": 5961.48
         },
         {
           "department": "Interest Payments",
-          "revenue": 0.00,
-          "capital": 0.00,
-          "total": 0.00,
-          "pages": "148-149"
+          "revenue": 1190440.29,
+          "capital": 0,
+          "total": 1190440.29
+        },
+        {
+          "department": "Repayment of Debt",
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        {
+          "department": "Pensions",
+          "revenue": 76741.0,
+          "capital": 0,
+          "total": 76741.0
+        },
+        {
+          "department": "Transfers to States",
+          "revenue": 144378.18,
+          "capital": 142408.88,
+          "total": 286787.06
         }
       ]
     },
     {
-      "ministry": "Ministry of Fisheries, Animal Husbandry and Dairying",
-      "total": 6332.97,
+      "ministry": "MINISTRY OF FISHERIES, ANIMAL HUSBANDRY AND DAIRYING",
+      "total": 7105.74,
       "departments": [
         {
           "department": "Department of Fisheries",
-          "revenue": 2067.68,
-          "capital": 24.50,
-          "total": 2092.18,
-          "pages": "150-153"
+          "revenue": 2565.5,
+          "capital": 19.0,
+          "total": 2584.5
         },
         {
           "department": "Department of Animal Husbandry and Dairying",
-          "revenue": 4238.73,
-          "capital": 2.06,
-          "total": 4240.79,
-          "pages": "154-157"
+          "revenue": 4283.57,
+          "capital": 237.67,
+          "total": 4521.24
         }
       ]
     },
     {
-      "ministry": "Ministry of Food Processing Industries",
-      "total": 2281.87,
+      "ministry": "MINISTRY OF FOOD PROCESSING INDUSTRIES",
+      "total": 3290.0,
       "departments": [
         {
           "department": "Ministry of Food Processing Industries",
-          "revenue": 2226.92,
-          "capital": 54.95,
-          "total": 2281.87,
-          "pages": "158-160"
+          "revenue": 3287.46,
+          "capital": 2.54,
+          "total": 3290.0
         }
       ]
     },
     {
-      "ministry": "Ministry of Health and Family Welfare",
-      "total": 89855.77,
+      "ministry": "MINISTRY OF HEALTH AND FAMILY WELFARE",
+      "total": 90658.63,
       "departments": [
         {
           "department": "Department of Health and Family Welfare",
-          "revenue": 84965.94,
-          "capital": 471.52,
-          "total": 85437.46,
-          "pages": "161-170"
+          "revenue": 83305.28,
+          "capital": 4351.62,
+          "total": 87656.9
         },
         {
           "department": "Department of Health Research",
-          "revenue": 4420.31,
-          "capital": 997.00,
-          "total": 5417.31,
-          "pages": "171-175"
+          "revenue": 3000.87,
+          "capital": 0.86,
+          "total": 3001.73
         }
       ]
     },
     {
-      "ministry": "Ministry of Heavy Industries",
-      "total": 1552.23,
+      "ministry": "MINISTRY OF HEAVY INDUSTRIES",
+      "total": 6729.0,
       "departments": [
         {
           "department": "Ministry of Heavy Industries",
-          "revenue": 1519.19,
-          "capital": 33.04,
-          "total": 1552.23,
-          "pages": "176-179"
+          "revenue": 6727.2,
+          "capital": 1.8,
+          "total": 6729.0
         }
       ]
     },
     {
-      "ministry": "Ministry of Home Affairs",
-      "total": 156832.92,
+      "ministry": "MINISTRY OF HOME AFFAIRS",
+      "total": 202868.7,
       "departments": [
         {
           "department": "Ministry of Home Affairs",
-          "revenue": 4294.54,
-          "capital": 49.25,
-          "total": 4343.79,
-          "pages": "180-183"
+          "revenue": 5365.8,
+          "capital": 367.71,
+          "total": 5733.51
+        },
+        {
+          "department": "Cabinet",
+          "revenue": 1159.26,
+          "capital": 89.65,
+          "total": 1248.91
         },
         {
           "department": "Police",
-          "revenue": 106581.43,
-          "capital": 19629.20,
-          "total": 126210.63,
-          "pages": "184-190"
+          "revenue": 120588.1,
+          "capital": 11757.37,
+          "total": 132345.47
         },
         {
           "department": "Andaman and Nicobar Islands",
-          "revenue": 5461.74,
-          "capital": 720.56,
-          "total": 6182.30,
-          "pages": "191-195"
+          "revenue": 5399.24,
+          "capital": 467.13,
+          "total": 5866.37
         },
         {
           "department": "Chandigarh",
-          "revenue": 4292.54,
-          "capital": 145.53,
-          "total": 4438.07,
-          "pages": "196-199"
+          "revenue": 5327.62,
+          "capital": 535.0,
+          "total": 5862.62
         },
         {
           "department": "Dadra and Nagar Haveli and Daman and Diu",
-          "revenue": 3150.66,
-          "capital": 1017.02,
-          "total": 4167.68,
-          "pages": "200-203"
+          "revenue": 1632.71,
+          "capital": 1016.26,
+          "total": 2648.97
+        },
+        {
+          "department": "Ladakh",
+          "revenue": 2881.84,
+          "capital": 3076.16,
+          "total": 5958.0
         },
         {
           "department": "Lakshadweep",
-          "revenue": 1532.92,
-          "capital": 47.58,
-          "total": 1580.50,
-          "pages": "204-207"
+          "revenue": 1173.25,
+          "capital": 316.85,
+          "total": 1490.1
         },
         {
-          "department": "Delhi",
-          "revenue": 6255.23,
-          "capital": 6554.72,
-          "total": 12809.95,
-          "pages": "208-210"
+          "department": "Transfers to Delhi",
+          "revenue": 1168.0,
+          "capital": 0.01,
+          "total": 1168.01
         },
         {
-          "department": "Disaster Management",
-          "revenue": 1060.83,
-          "capital": 839.17,
-          "total": 1900.00,
-          "pages": "211-214"
+          "department": "Transfers to Jammu and Kashmir",
+          "revenue": 37277.74,
+          "capital": 0,
+          "total": 37277.74
+        },
+        {
+          "department": "Transfers to Puducherry",
+          "revenue": 3268.99,
+          "capital": 0.01,
+          "total": 3269.0
         }
       ]
     },
     {
-      "ministry": "Ministry of Housing and Urban Affairs",
-      "total": 83921.33,
+      "ministry": "MINISTRY OF HOUSING AND URBAN AFFAIRS",
+      "total": 77523.58,
       "departments": [
         {
           "department": "Ministry of Housing and Urban Affairs",
-          "revenue": 25534.76,
-          "capital": 58386.57,
-          "total": 83921.33,
-          "pages": "215-218"
+          "revenue": 48897.1,
+          "capital": 28626.48,
+          "total": 77523.58
         }
       ]
     },
     {
-      "ministry": "Ministry of Information and Broadcasting",
-      "total": 4781.33,
+      "ministry": "MINISTRY OF INFORMATION AND BROADCASTING",
+      "total": 4342.55,
       "departments": [
         {
           "department": "Ministry of Information and Broadcasting",
-          "revenue": 4478.33,
-          "capital": 303.00,
-          "total": 4781.33,
-          "pages": "219-221"
+          "revenue": 4303.71,
+          "capital": 38.84,
+          "total": 4342.55
         }
       ]
     },
     {
-      "ministry": "Ministry of Jal Shakti",
-      "total": 97179.85,
+      "ministry": "MINISTRY OF JAL SHAKTI",
+      "total": 98418.79,
       "departments": [
         {
           "department": "Department of Water Resources, River Development and Ganga Rejuvenation",
-          "revenue": 8958.78,
-          "capital": 3407.11,
-          "total": 12365.89,
-          "pages": "222-225"
+          "revenue": 20627.97,
+          "capital": 400.14,
+          "total": 21028.11
         },
         {
           "department": "Department of Drinking Water and Sanitation",
-          "revenue": 84787.08,
-          "capital": 26.88,
-          "total": 84813.96,
-          "pages": "226-229"
+          "revenue": 77389.18,
+          "capital": 1.5,
+          "total": 77390.68
         }
       ]
     },
     {
-      "ministry": "Ministry of Labour and Employment",
-      "total": 17205.63,
+      "ministry": "MINISTRY OF LABOUR AND EMPLOYMENT",
+      "total": 12531.47,
       "departments": [
         {
           "department": "Ministry of Labour and Employment",
-          "revenue": 17062.44,
-          "capital": 143.19,
-          "total": 17205.63,
-          "pages": "230-234"
+          "revenue": 12481.88,
+          "capital": 49.59,
+          "total": 12531.47
         }
       ]
     },
     {
-      "ministry": "Ministry of Law and Justice",
-      "total": 4563.68,
+      "ministry": "MINISTRY OF LAW AND JUSTICE",
+      "total": 6461.7,
       "departments": [
         {
           "department": "Law and Justice",
-          "revenue": 3257.48,
-          "capital": 1284.61,
-          "total": 4542.09,
-          "pages": "235-239"
+          "revenue": 5573.79,
+          "capital": 80.53,
+          "total": 5654.32
         },
         {
           "department": "Election Commission",
-          "revenue": 21.59,
-          "capital": 0.00,
-          "total": 21.59,
-          "pages": "240-243"
+          "revenue": 306.06,
+          "capital": 15.83,
+          "total": 321.89
+        },
+        {
+          "department": "Supreme Court of India",
+          "revenue": 456.54,
+          "capital": 28.95,
+          "total": 485.49
         }
       ]
     },
     {
-      "ministry": "Ministry of Micro, Small and Medium Enterprises",
-      "total": 22905.20,
+      "ministry": "MINISTRY OF MICRO, SMALL AND MEDIUM ENTERPRISES",
+      "total": 22137.95,
       "departments": [
         {
           "department": "Ministry of Micro, Small and Medium Enterprises",
-          "revenue": 22865.32,
-          "capital": 39.88,
-          "total": 22905.20,
-          "pages": "244-248"
+          "revenue": 21549.87,
+          "capital": 588.08,
+          "total": 22137.95
         }
       ]
     },
     {
-      "ministry": "Ministry of Mines",
-      "total": 2158.92,
+      "ministry": "MINISTRY OF MINES",
+      "total": 1941.06,
       "departments": [
         {
           "department": "Ministry of Mines",
-          "revenue": 1242.14,
-          "capital": 916.78,
-          "total": 2158.92,
-          "pages": "249-252"
+          "revenue": 1895.64,
+          "capital": 45.42,
+          "total": 1941.06
         }
       ]
     },
     {
-      "ministry": "Ministry of Minority Affairs",
-      "total": 3097.60,
+      "ministry": "MINISTRY OF MINORITY AFFAIRS",
+      "total": 3183.24,
       "departments": [
         {
           "department": "Ministry of Minority Affairs",
-          "revenue": 3038.60,
-          "capital": 59.00,
-          "total": 3097.60,
-          "pages": "253-256"
+          "revenue": 3179.49,
+          "capital": 3.75,
+          "total": 3183.24
         }
       ]
     },
     {
-      "ministry": "Ministry of New and Renewable Energy",
-      "total": 10422.16,
+      "ministry": "MINISTRY OF NEW AND RENEWABLE ENERGY",
+      "total": 12850.0,
       "departments": [
         {
           "department": "Ministry of New and Renewable Energy",
-          "revenue": 10398.73,
-          "capital": 23.43,
-          "total": 10422.16,
-          "pages": "257-260"
+          "revenue": 12832.55,
+          "capital": 17.45,
+          "total": 12850.0
         }
       ]
     },
     {
-      "ministry": "Ministry of Panchayati Raj",
-      "total": 1007.00,
+      "ministry": "MINISTRY OF PANCHAYATI RAJ",
+      "total": 1183.64,
       "departments": [
         {
           "department": "Ministry of Panchayati Raj",
-          "revenue": 997.61,
-          "capital": 9.39,
-          "total": 1007.00,
-          "pages": "261-264"
+          "revenue": 1161.2,
+          "capital": 22.44,
+          "total": 1183.64
         }
       ]
     },
     {
-      "ministry": "Ministry of Parliamentary Affairs",
-      "total": 135.34,
+      "ministry": "MINISTRY OF PARLIAMENTARY AFFAIRS",
+      "total": 64.0,
       "departments": [
         {
           "department": "Ministry of Parliamentary Affairs",
-          "revenue": 134.75,
-          "capital": 0.59,
-          "total": 135.34,
-          "pages": "265-268"
+          "revenue": 59.7,
+          "capital": 4.3,
+          "total": 64.0
         }
       ]
     },
     {
-      "ministry": "Ministry of Petroleum and Natural Gas",
-      "total": 1343.94,
+      "ministry": "MINISTRY OF PERSONNEL, PUBLIC GRIEVANCES AND PENSIONS",
+      "total": 2284.87,
+      "departments": [
+        {
+          "department": "Ministry of Personnel, Public Grievances and Pensions",
+          "revenue": 1957.63,
+          "capital": 275.93,
+          "total": 2233.56
+        },
+        {
+          "department": "Central Vigilance Commission",
+          "revenue": 49.69,
+          "capital": 1.62,
+          "total": 51.31
+        }
+      ]
+    },
+    {
+      "ministry": "MINISTRY OF PETROLEUM AND NATURAL GAS",
+      "total": 29713.0,
       "departments": [
         {
           "department": "Ministry of Petroleum and Natural Gas",
-          "revenue": 1322.02,
-          "capital": 21.92,
-          "total": 1343.94,
-          "pages": "269-272"
+          "revenue": 14304.99,
+          "capital": 15408.01,
+          "total": 29713.0
         }
       ]
     },
     {
-      "ministry": "Ministry of Planning",
-      "total": 812.34,
+      "ministry": "MINISTRY OF PLANNING",
+      "total": 837.26,
       "departments": [
         {
           "department": "Ministry of Planning",
-          "revenue": 801.65,
-          "capital": 10.69,
-          "total": 812.34,
-          "pages": "273-276"
+          "revenue": 818.3,
+          "capital": 18.96,
+          "total": 837.26
         }
       ]
     },
     {
-      "ministry": "Ministry of Ports, Shipping and Waterways",
-      "total": 1822.80,
+      "ministry": "MINISTRY OF PORTS, SHIPPING AND WATERWAYS",
+      "total": 2345.55,
       "departments": [
         {
           "department": "Ministry of Ports, Shipping and Waterways",
-          "revenue": 1783.00,
-          "capital": 39.80,
-          "total": 1822.80,
-          "pages": "277-280"
+          "revenue": 1267.62,
+          "capital": 1077.93,
+          "total": 2345.55
         }
       ]
     },
     {
-      "ministry": "Ministry of Power",
-      "total": 17182.61,
+      "ministry": "MINISTRY OF POWER",
+      "total": 20502.0,
       "departments": [
         {
           "department": "Ministry of Power",
-          "revenue": 604.46,
-          "capital": 16578.15,
-          "total": 17182.61,
-          "pages": "281-284"
+          "revenue": 19984.18,
+          "capital": 517.82,
+          "total": 20502.0
         }
       ]
     },
     {
-      "ministry": "The President, Parliament, Union Public Service Commission and the Secretariat of the Vice-President",
-      "total": 3167.30,
+      "ministry": "VICE PRESIDENT",
+      "total": 1877.6,
       "departments": [
         {
           "department": "Staff, Household and Allowances of the President",
-          "revenue": 81.49,
-          "capital": 0.00,
-          "total": 81.49,
-          "pages": "285-287"
+          "revenue": 108.09,
+          "capital": 36.09,
+          "total": 144.18
         },
         {
           "department": "Lok Sabha",
-          "revenue": 928.85,
-          "capital": 0.00,
-          "total": 928.85,
-          "pages": "288-291"
+          "revenue": 782.77,
+          "capital": 79.23,
+          "total": 862.0
         },
         {
           "department": "Rajya Sabha",
-          "revenue": 516.68,
-          "capital": 0.00,
-          "total": 516.68,
-          "pages": "292-295"
+          "revenue": 418.42,
+          "capital": 15.68,
+          "total": 434.1
         },
         {
-          "department": "Secretariat of the Vice-President",
-          "revenue": 14.00,
-          "capital": 0.00,
-          "total": 14.00,
-          "pages": "296-298"
-        },
-        {
-          "department": "Union Public Service Commission",
-          "revenue": 361.80,
-          "capital": 0.00,
-          "total": 361.80,
-          "pages": "299-301"
-        },
-        {
-          "department": "Secretariat of the Vice-President",
-          "revenue": 361.80,
-          "capital": 0.00,
-          "total": 361.80,
-          "pages": "299-301"
-        },
-        {
-          "department": "Staff, Household and Allowances of the President",
-          "revenue": 81.49,
-          "capital": 0.00,
-          "total": 81.49,
-          "pages": "285-287"
-        },
-        {
-          "department": "Lok Sabha",
-          "revenue": 928.85,
-          "capital": 0.00,
-          "total": 928.85,
-          "pages": "288-291"
-        },
-        {
-          "department": "Rajya Sabha",
-          "revenue": 516.68,
-          "capital": 0.00,
-          "total": 516.68,
-          "pages": "292-295"
-        },
-        {
-          "department": "Secretariat of the Vice-President",
-          "revenue": 14.00,
-          "capital": 0.00,
-          "total": 14.00,
-          "pages": "296-298"
+          "department": "Secretariat of the Vice -President",
+          "revenue": 11.3,
+          "capital": 0.31,
+          "total": 11.61
         },
         {
           "department": "Union Public Service Commission",
-          "revenue": 361.80,
-          "capital": 0.00,
-          "total": 361.80,
-          "pages": "299-301"
+          "revenue": 404.17,
+          "capital": 21.54,
+          "total": 425.71
         }
       ]
     },
     {
-      "ministry": "Ministry of Railways",
-      "total": 41975.00,
+      "ministry": "MINISTRY OF RAILWAYS",
+      "total": 255393.0,
       "departments": [
         {
           "department": "Ministry of Railways",
-          "revenue": 0.00,
-          "capital": 41975.00,
-          "total": 41975.00,
-          "pages": "302-305"
+          "revenue": 3393.0,
+          "capital": 252000.0,
+          "total": 255393.0
         }
       ]
     },
     {
-      "ministry": "Ministry of Road Transport and Highways",
-      "total": 271694.73,
+      "ministry": "MINISTRY OF ROAD TRANSPORT AND HIGHWAYS",
+      "total": 278000.0,
       "departments": [
         {
           "department": "Ministry of Road Transport and Highways",
-          "revenue": 6178.63,
-          "capital": 265516.10,
-          "total": 271694.73,
-          "pages": "306-310"
+          "revenue": 5758.85,
+          "capital": 272241.15,
+          "total": 278000.0
         }
       ]
     },
     {
-      "ministry": "Ministry of Rural Development",
-      "total": 142902.83,
+      "ministry": "MINISTRY OF RURAL DEVELOPMENT",
+      "total": 180233.43,
       "departments": [
         {
           "department": "Department of Rural Development",
-          "revenue": 142672.65,
-          "capital": 100.00,
-          "total": 142772.65,
-          "pages": "311-316"
+          "revenue": 177562.05,
+          "capital": 4.14,
+          "total": 177566.19
         },
         {
           "department": "Department of Land Resources",
-          "revenue": 129.82,
-          "capital": 0.36,
-          "total": 130.18,
-          "pages": "317-321"
+          "revenue": 2666.23,
+          "capital": 1.01,
+          "total": 2667.24
         }
       ]
     },
     {
-      "ministry": "Ministry of Science and Technology",
-      "total": 16191.50,
+      "ministry": "MINISTRY OF SCIENCE AND TECHNOLOGY",
+      "total": 16603.94,
       "departments": [
         {
           "department": "Department of Science and Technology",
-          "revenue": 7013.38,
-          "capital": 80.52,
-          "total": 7093.90,
-          "pages": "322-326"
+          "revenue": 7964.51,
+          "capital": 64.5,
+          "total": 8029.01
         },
         {
           "department": "Department of Biotechnology",
-          "revenue": 2937.20,
-          "capital": 0.00,
-          "total": 2937.20,
-          "pages": "327-330"
+          "revenue": 2251.52,
+          "capital": 0,
+          "total": 2251.52
         },
         {
           "department": "Department of Scientific and Industrial Research",
-          "revenue": 4154.75,
-          "capital": 5.65,
-          "total": 4160.40,
-          "pages": "331-336"
+          "revenue": 6321.71,
+          "capital": 1.7,
+          "total": 6323.41
         }
       ]
     },
     {
-      "ministry": "Ministry of Ports, Shipping and Waterways",
-      "total": 1822.80,
+      "ministry": "MINISTRY OF SKILL DEVELOPMENT AND ENTREPRENEURSHIP",
+      "total": 3520.0,
       "departments": [
         {
-          "department": "Ministry of Ports, Shipping and Waterways",
-          "revenue": 1783.00,
-          "capital": 39.80,
-          "total": 1822.80,
-          "pages": "277-280"
+          "department": "Ministry of Skill Development and Entrepreneurship",
+          "revenue": 3409.63,
+          "capital": 110.37,
+          "total": 3520.0
         }
       ]
     },
     {
-      "ministry": "Ministry of Social Justice and Empowerment",
-      "total": 15178.65,
+      "ministry": "MINISTRY OF SOCIAL JUSTICE AND EMPOWERMENT",
+      "total": 14225.47,
       "departments": [
         {
           "department": "Department of Social Justice and Empowerment",
-          "revenue": 11706.79,
-          "capital": 118.16,
-          "total": 11824.95,
-          "pages": "337-340"
+          "revenue": 12939.16,
+          "capital": 61.04,
+          "total": 13000.2
         },
         {
           "department": "Department of Empowerment of Persons with Disabilities",
-          "revenue": 3342.65,
-          "capital": 11.05,
-          "total": 3353.70,
-          "pages": "341-344"
+          "revenue": 1224.07,
+          "capital": 1.2,
+          "total": 1225.27
         }
       ]
     },
     {
-      "ministry": "Ministry of Statistics and Programme Implementation",
-      "total": 2415.60,
+      "ministry": "DEPARMENT OF SPACE",
+      "total": 13042.75,
+      "departments": [
+        {
+          "department": "Department of Space",
+          "revenue": 7475.22,
+          "capital": 5567.53,
+          "total": 13042.75
+        }
+      ]
+    },
+    {
+      "ministry": "MINISTRY OF STATISTICS AND PROGRAMME IMPLEMENTATION",
+      "total": 5453.83,
       "departments": [
         {
           "department": "Ministry of Statistics and Programme Implementation",
-          "revenue": 1874.86,
-          "capital": 540.74,
-          "total": 2415.60,
-          "pages": "345-349"
+          "revenue": 5408.85,
+          "capital": 44.98,
+          "total": 5453.83
         }
       ]
     },
     {
-      "ministry": "Ministry of Steel",
-      "total": 272.11,
+      "ministry": "MINISTRY OF STEEL",
+      "total": 325.66,
       "departments": [
         {
           "department": "Ministry of Steel",
-          "revenue": 92.11,
-          "capital": 180.00,
-          "total": 272.11,
-          "pages": "350-353"
+          "revenue": 324.19,
+          "capital": 1.47,
+          "total": 325.66
         }
       ]
     },
     {
-      "ministry": "Ministry of Textiles",
-      "total": 4404.20,
+      "ministry": "MINISTRY OF TEXTILES",
+      "total": 4392.85,
       "departments": [
         {
           "department": "Ministry of Textiles",
-          "revenue": 4373.00,
-          "capital": 31.20,
-          "total": 4404.20,
-          "pages": "354-358"
+          "revenue": 4373.7,
+          "capital": 19.15,
+          "total": 4392.85
         }
       ]
     },
     {
-      "ministry": "Ministry of Tourism",
-      "total": 2400.00,
+      "ministry": "MINISTRY OF TOURISM",
+      "total": 2449.62,
       "departments": [
         {
           "department": "Ministry of Tourism",
-          "revenue": 2398.00,
-          "capital": 2.00,
-          "total": 2400.00,
-          "pages": "359-362"
+          "revenue": 2447.85,
+          "capital": 1.77,
+          "total": 2449.62
         }
       ]
     },
     {
-      "ministry": "Ministry of Tribal Affairs",
-      "total": 12461.88,
+      "ministry": "MINISTRY OF TRIBAL AFFAIRS",
+      "total": 13000.0,
       "departments": [
         {
           "department": "Ministry of Tribal Affairs",
-          "revenue": 12363.88,
-          "capital": 98.00,
-          "total": 12461.88,
-          "pages": "363-366"
+          "revenue": 12968.17,
+          "capital": 31.83,
+          "total": 13000.0
         }
       ]
     },
     {
-      "ministry": "Ministry of Women and Child Development",
-      "total": 25931.41,
+      "ministry": "MINISTRY OF WOMEN AND CHILD DEVELOPMENT",
+      "total": 26092.19,
       "departments": [
         {
           "department": "Ministry of Women and Child Development",
-          "revenue": 25644.38,
-          "capital": 287.03,
-          "total": 25931.41,
-          "pages": "367-370"
+          "revenue": 26088.81,
+          "capital": 3.38,
+          "total": 26092.19
         }
       ]
     },
     {
-      "ministry": "Ministry of Youth Affairs and Sports",
-      "total": 3457.03,
+      "ministry": "MINISTRY OF YOUTH AFFAIRS AND SPORTS",
+      "total": 3442.32,
       "departments": [
         {
-          "department": "Department of Youth Affairs",
-          "revenue": 914.79,
-          "capital": 12.00,
-          "total": 926.79,
-          "pages": "371-374"
-        },
-        {
-          "department": "Department of Sports",
-          "revenue": 2527.57,
-          "capital": 2.67,
-          "total": 2530.24,
-          "pages": "375-378"
+          "department": "Ministry of Youth Affairs and Sports",
+          "revenue": 3435.85,
+          "capital": 6.47,
+          "total": 3442.32
         }
       ]
     }
-  ]
+  ]  
 };

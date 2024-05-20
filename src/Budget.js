@@ -15,6 +15,9 @@ const Budget = () => {
 
   const totalExpenditure = pieData.reduce((acc, curr) => acc + curr.value, 0);
 
+  console.log('pieData', pieData, totalExpenditure);
+
+
   return (
     <div>
       <h1>Budget 2024</h1>
