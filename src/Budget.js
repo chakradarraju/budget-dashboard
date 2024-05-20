@@ -15,9 +15,6 @@ const Budget = () => {
 
   const totalExpenditure = pieData.reduce((acc, curr) => acc + curr.value, 0);
 
-  console.log('pieData', pieData, totalExpenditure);
-
-
   return (
     <div>
       <h1>Budget 2024</h1>
@@ -31,6 +28,10 @@ const Budget = () => {
               </tr>
             </thead>
             <tbody>
+              <tr>
+                <td><b>Total</b></td>
+                <td><b>{totalExpenditure.toLocaleString()}</b></td>
+              </tr>
               {budgetData.ministries.map(ministry => (
                 <tr key={ministry.ministry}>
                   <td>{ministry.ministry}</td>
