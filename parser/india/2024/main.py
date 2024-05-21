@@ -11,12 +11,12 @@ def process_summary_page(page, ministries):
         if is_ministry_line(line):
             parts = line.split()
             ministries.append({
-                "ministry": " ".join(parts[:-3]),
-                "total": float(parts[-1]),
-                "departments": []
+                "label": " ".join(parts[:-3]),
+                "value": float(parts[-1]),
+                "subitems": []
             })
         elif line.startswith(tuple(string.digits)):
-            ministries[-1]["departments"].append(parse_line(line))
+            ministries[-1]["subitems"].append(parse_line(line))
 
 def parse_number(str, default):
     return float(str) if is_number(str) else default
@@ -24,10 +24,10 @@ def parse_number(str, default):
 def parse_line(line):
     parts = line.split()
     result = {}
-    result["department"] = " ".join(parts[1:-4])
-    result["revenue"] = parse_number(parts[-4], 0)
-    result["capital"] = parse_number(parts[-3], 0)
-    result["total"] = parse_number(parts[-2], 0)
+    result["label"] = " ".join(parts[1:-4])
+    result["subvalue1"] = parse_number(parts[-4], 0)
+    result["subvalue2"] = parse_number(parts[-3], 0)
+    result["value"] = parse_number(parts[-2], 0)
     return result
 
 def process_pages(pages, reader):
@@ -62,7 +62,7 @@ def check_and_download_pdf(filename, url):
     file_path = os.path.join(tmp_dir, filename)
 
     directory = os.path.dirname(file_path)
-    
+
     os.makedirs(directory, exist_ok=True)
     
     # Check if the file already exists
@@ -78,9 +78,34 @@ def check_and_download_pdf(filename, url):
         with open(file_path, 'wb') as file:
             file.write(response.content)
 
-    return PdfReader(file_path)        
+    return PdfReader(file_path)      
+
+def sort_items(result):
+    for item in result:
+        item['subitems'] = sorted(item['subitems'], key=lambda x: x['value'], reverse=True)
+    return sorted(result, key=lambda x: x['value'], reverse=True)
+
+def with_metadata(result):
+    return {
+        "label": "Expenditure Budget 2024-25",
+        "sourceUrl": "https://www.indiabudget.gov.in/doc/eb/allsbe.pdf",
+        "link": "/india/2024/",
+        "schema": {
+            "label": "Ministry",
+            "value": "Total Expenditure (in cr.)",
+            "subitems": {
+            "label": "Department",
+            "value": "Total",
+            "subvalue1": "Revenue",
+            "subvalue2": "Capital"
+            }
+        },
+        "data": result
+    }
 
 if __name__ == '__main__':
     reader = check_and_download_pdf('india/2024/allsbe.pdf', 'https://www.indiabudget.gov.in/doc/eb/allsbe.pdf')
-    print(json.dumps(process_pages(range(2, 8), reader), indent=2))
+    result = process_pages(range(2, 8), reader)
+    result = sort_items(result)
+    print(json.dumps(with_metadata(result), indent=2))
     
