@@ -6,22 +6,28 @@ import KeyboardArrowUpIcon from '@mui/icons-material/KeyboardArrowUp';
 
 const COLORS = ['#0088FE', '#00C49F', '#FFBB28', '#FF8042', '#AAFF00', '#FF00AA', '#00AAFF'];
 
-const Row = ({row, schema}) => {
+const Row = ({row, schema, totalValue}) => {
   const [open, setOpen] = React.useState(false);
   const hasSubItems = row?.subitems?.length > 0;
   return (<>
     <TableRow>
-      <TableCell>{hasSubItems && <IconButton
+      <TableCell>
+        {hasSubItems && <IconButton
             aria-label="expand row"
             size="small"
             onClick={() => setOpen(!open)}
           >
             {open ? <KeyboardArrowUpIcon /> : <KeyboardArrowDownIcon />}
-          </IconButton>}{row.label}</TableCell>
+          </IconButton>}
+        {row.label}
+      </TableCell>
+      <TableCell align='right' style={{ fontFamily: 'monospace' }}>
+        {(row.value / totalValue * 100).toFixed(2)}
+      </TableCell>
       <TableCell align='right' style={{ fontFamily: 'monospace' }}>{row.value.toFixed(2)}</TableCell>
     </TableRow>
     {hasSubItems && <TableRow>
-      <TableCell colSpan={2} style={{ padding: 0 }}>
+      <TableCell colSpan={3} style={{ padding: 0 }}>
         <Collapse in={open} timeout="auto" unmountOnExit>
           <Table size='small' style={{ margin: 0 }}>
             <TableHead>
@@ -29,6 +35,7 @@ const Row = ({row, schema}) => {
                 <TableCell>{schema?.subitems?.label}</TableCell>
                 {schema?.subitems?.subvalue1 && <TableCell>{schema.subitems.subvalue1}</TableCell>}
                 {schema?.subitems?.subvalue2 && <TableCell>{schema.subitems.subvalue2}</TableCell>}
+                <TableCell>%</TableCell>
                 <TableCell>{schema?.subitems?.value}</TableCell>
               </TableRow>
             </TableHead>
@@ -37,6 +44,7 @@ const Row = ({row, schema}) => {
                 <TableCell>{subrow.label}</TableCell>
                 {subrow?.subvalue1 !== undefined && <TableCell align='right' style={{ fontFamily: 'monospace'}}>{subrow.subvalue1.toFixed(2)}</TableCell>}
                 {subrow?.subvalue2 !== undefined && <TableCell align='right' style={{ fontFamily: 'monospace'}}>{subrow.subvalue2.toFixed(2)}</TableCell>}
+                <TableCell align='right' style={{ fontFamily: 'monospace'}}>{(subrow.value / row.value * 100).toFixed(2)}</TableCell>
                 <TableCell align='right' style={{ fontFamily: 'monospace'}}>{subrow.value.toFixed(2)}</TableCell>
               </TableRow>))}
             </TableBody>
@@ -62,16 +70,18 @@ const Dashboard = ({data}) => {
           <Table aria-label="collapsible table">
             <TableHead>
               <TableRow>
-                <TableCell>{data.schema.label}</TableCell>
-                <TableCell align='right'>{data.schema.value}</TableCell>
+                <TableCell><b>{data.schema.label}</b></TableCell>
+                <TableCell align='right'><b>%</b></TableCell>
+                <TableCell align='right'><b>{data.schema.value}</b></TableCell>
               </TableRow>
               <TableRow>
                 <TableCell><b>Total</b></TableCell>
+                <TableCell align='right' style={{ fontFamily: 'monospace' }}>100.00</TableCell>
                 <TableCell align='right' style={{ fontFamily: 'monospace' }}><b>{totalValue.toFixed(2)}</b></TableCell>
               </TableRow>
             </TableHead>
             <TableBody>
-              {data.data.map(row => <Row row={row} schema={data.schema}/>)}
+              {data.data.map(row => <Row row={row} schema={data.schema} totalValue={totalValue} />)}
             </TableBody>
           </Table>
         </TableContainer>
