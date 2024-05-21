@@ -5,6 +5,15 @@ import KeyboardArrowDownIcon from '@mui/icons-material/KeyboardArrowDown';
 import KeyboardArrowUpIcon from '@mui/icons-material/KeyboardArrowUp';
 
 const COLORS = ['#0088FE', '#00C49F', '#FFBB28', '#FF8042', '#AAFF00', '#FF00AA', '#00AAFF'];
+const NUMBER_FORMAT = Intl.NumberFormat('en-IN', {minimumFractionDigits:2,maximumFractionDigits:2});
+
+function formatRuppee(n) {
+  return '₹' + NUMBER_FORMAT.format(n);
+}
+
+function formatNumber(n) {
+  return NUMBER_FORMAT.format(n);
+}
 
 const Row = ({row, schema, totalValue}) => {
   const [open, setOpen] = React.useState(false);
@@ -24,7 +33,7 @@ const Row = ({row, schema, totalValue}) => {
       <TableCell align='right' style={{ fontFamily: 'monospace' }}>
         {(row.value / totalValue * 100).toFixed(2)}
       </TableCell>
-      <TableCell align='right' style={{ fontFamily: 'monospace' }}>{row.value.toFixed(2)}</TableCell>
+      <TableCell align='right' style={{ fontFamily: 'monospace' }}>{formatRuppee(row.value)}</TableCell>
     </TableRow>
     {hasSubItems && <TableRow>
       <TableCell colSpan={3} style={{ padding: 0 }}>
@@ -45,7 +54,7 @@ const Row = ({row, schema, totalValue}) => {
                 {subrow?.subvalue1 !== undefined && <TableCell align='right' style={{ fontFamily: 'monospace'}}>{subrow.subvalue1.toFixed(2)}</TableCell>}
                 {subrow?.subvalue2 !== undefined && <TableCell align='right' style={{ fontFamily: 'monospace'}}>{subrow.subvalue2.toFixed(2)}</TableCell>}
                 <TableCell align='right' style={{ fontFamily: 'monospace'}}>{(subrow.value / row.value * 100).toFixed(2)}</TableCell>
-                <TableCell align='right' style={{ fontFamily: 'monospace'}}>{subrow.value.toFixed(2)}</TableCell>
+                <TableCell align='right' style={{ fontFamily: 'monospace'}}>{formatRuppee(subrow.value)}</TableCell>
               </TableRow>))}
             </TableBody>
           </Table>
@@ -77,7 +86,7 @@ const Dashboard = ({data}) => {
               <TableRow>
                 <TableCell><b>Total</b></TableCell>
                 <TableCell align='right' style={{ fontFamily: 'monospace' }}>100.00</TableCell>
-                <TableCell align='right' style={{ fontFamily: 'monospace' }}><b>{totalValue.toFixed(2)}</b></TableCell>
+                <TableCell align='right' style={{ fontFamily: 'monospace' }}><b>{formatRuppee(totalValue)}</b></TableCell>
               </TableRow>
             </TableHead>
             <TableBody>
@@ -109,7 +118,7 @@ const Dashboard = ({data}) => {
             <Tooltip 
               formatter={(value, name, props) => {
                 const percentage = ((value / totalValue) * 100).toFixed(2);
-                return [`₹${value.toLocaleString()} (${percentage}%)`, name];
+                return [`${formatRuppee(value)} (${percentage}%)`, name];
               }}
             />
           </PieChart>
