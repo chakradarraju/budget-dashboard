@@ -125,6 +125,7 @@ const Dashboard = ({data}) => {
         </ResponsiveContainer>
         <span>
           Source: <a href={data.sourceUrl}>{data.label}</a>
+          Source code: <a href="https://github.com/chakradarraju/budget-dashboard">Github</a>
         </span>
       </Grid>
     </Grid>
