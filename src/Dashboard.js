@@ -148,10 +148,10 @@ const Dashboard = (props) => {
             />
           </PieChart>
         </ResponsiveContainer>
-        <div>
-          Source: <a href={data.data.sourceUrl}>{data.data.label}</a>
+        <div align="center">
+          Source: <a href={data.data.sourceUrl} target="_blank">{data.data.label}</a>
         </div>
-        <div>
+        <div align="center">
           Source code: <a href="https://github.com/chakradarraju/budget-dashboard">Github</a>
         </div>
       </Grid>
