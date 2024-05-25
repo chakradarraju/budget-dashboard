@@ -1,0 +1,614 @@
+{
+  "name": "MINISTRY OF HOME AFFAIRS",
+  "demand": "DEMAND NO. 56",
+  "department": "Ministry of Home Affairs (Lakshadweep)",
+  "sections": {
+    "allocation": [
+      {
+        "index": "1",
+        "name": "Secretariat",
+        "2024_budget": {
+          "revenue": 34.32,
+          "capital": 0,
+          "total": 34.32
+        },
+        "2023": {
+          "budget": {
+            "revenue": 20.4,
+            "capital": 0,
+            "total": 20.4
+          },
+          "revised": {
+            "revenue": 20.4,
+            "capital": 0,
+            "total": 20.4
+          }
+        },
+        "2022_actual": {
+          "revenue": 15.79,
+          "capital": 0,
+          "total": 15.79
+        }
+      },
+      {
+        "index": "2",
+        "name": "Other Establishment",
+        "2024_budget": {
+          "revenue": 419.96,
+          "capital": 0,
+          "total": 419.96
+        },
+        "2023": {
+          "budget": {
+            "revenue": 407.42,
+            "capital": 0,
+            "total": 407.42
+          },
+          "revised": {
+            "revenue": 407.42,
+            "capital": 0,
+            "total": 407.42
+          }
+        },
+        "2022_actual": {
+          "revenue": 403.19,
+          "capital": 0,
+          "total": 403.19
+        }
+      },
+      {
+        "index": "3.",
+        "name": "Schemes of UT"
+      },
+      {
+        "index": "3.01",
+        "name": "Disaster Management",
+        "2024_budget": {
+          "revenue": 0.26,
+          "capital": 0,
+          "total": 0.26
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0.3,
+            "capital": 0,
+            "total": 0.3
+          },
+          "revised": {
+            "revenue": 0.3,
+            "capital": 0,
+            "total": 0.3
+          }
+        },
+        "2022_actual": {
+          "revenue": 4.05,
+          "capital": 0,
+          "total": 4.05
+        }
+      },
+      {
+        "index": "3.02",
+        "name": "Information Technology",
+        "2024_budget": {
+          "revenue": 4.85,
+          "capital": 65.01,
+          "total": 69.86
+        },
+        "2023": {
+          "budget": {
+            "revenue": 9.5,
+            "capital": 55.0,
+            "total": 64.5
+          },
+          "revised": {
+            "revenue": 8.0,
+            "capital": 161.0,
+            "total": 169.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 60.0,
+          "capital": 0,
+          "total": 60.0
+        }
+      },
+      {
+        "index": "3.03",
+        "name": "Police",
+        "2024_budget": {
+          "revenue": 2.25,
+          "capital": 10.43,
+          "total": 12.68
+        },
+        "2023": {
+          "budget": {
+            "revenue": 2.5,
+            "capital": 10.8,
+            "total": 13.3
+          },
+          "revised": {
+            "revenue": 2.5,
+            "capital": 7.36,
+            "total": 9.86
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 6.1,
+          "total": 6.1
+        }
+      },
+      {
+        "index": "3.04",
+        "name": "Power",
+        "2024_budget": {
+          "revenue": 174.04,
+          "capital": 11.76,
+          "total": 185.8
+        },
+        "2023": {
+          "budget": {
+            "revenue": 146.0,
+            "capital": 7.55,
+            "total": 153.55
+          },
+          "revised": {
+            "revenue": 214.0,
+            "capital": 6.68,
+            "total": 220.68
+          }
+        },
+        "2022_actual": {
+          "revenue": 202.56,
+          "capital": 3.05,
+          "total": 205.61
+        }
+      },
+      {
+        "index": "3.05",
+        "name": "Agriculture and Allied Activities",
+        "2024_budget": {
+          "revenue": 5.48,
+          "capital": 1.07,
+          "total": 6.55
+        },
+        "2023": {
+          "budget": {
+            "revenue": 6.1,
+            "capital": 2.1,
+            "total": 8.2
+          },
+          "revised": {
+            "revenue": 4.35,
+            "capital": 1.5,
+            "total": 5.85
+          }
+        },
+        "2022_actual": {
+          "revenue": 4.25,
+          "capital": 1.71,
+          "total": 5.96
+        }
+      },
+      {
+        "index": "3.06",
+        "name": "Environment and Forest",
+        "2024_budget": {
+          "revenue": 1.29,
+          "capital": 0.32,
+          "total": 1.61
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1.6,
+            "capital": 0.25,
+            "total": 1.85
+          },
+          "revised": {
+            "revenue": 1.4,
+            "capital": 0.07,
+            "total": 1.47
+          }
+        },
+        "2022_actual": {
+          "revenue": 0.92,
+          "capital": 0.68,
+          "total": 1.6
+        }
+      },
+      {
+        "index": "3.07",
+        "name": "Panchayati Raj",
+        "2024_budget": {
+          "revenue": 7.23,
+          "capital": 2.65,
+          "total": 9.88
+        },
+        "2023": {
+          "budget": {
+            "revenue": 7.0,
+            "capital": 0.3,
+            "total": 7.3
+          },
+          "revised": {
+            "revenue": 5.0,
+            "capital": 0.06,
+            "total": 5.06
+          }
+        },
+        "2022_actual": {
+          "revenue": 2.66,
+          "capital": 0,
+          "total": 2.66
+        }
+      },
+      {
+        "index": "3.08",
+        "name": "Civil Supplies",
+        "2024_budget": {
+          "revenue": 5.0,
+          "capital": 0.7,
+          "total": 5.7
+        },
+        "2023": {
+          "budget": {
+            "revenue": 5.0,
+            "capital": 0.75,
+            "total": 5.75
+          },
+          "revised": {
+            "revenue": 5.0,
+            "capital": 0.25,
+            "total": 5.25
+          }
+        },
+        "2022_actual": {
+          "revenue": 4.77,
+          "capital": 0.69,
+          "total": 5.46
+        }
+      },
+      {
+        "index": "3.09",
+        "name": "Health",
+        "2024_budget": {
+          "revenue": 34.33,
+          "capital": 77.7,
+          "total": 112.03
+        },
+        "2023": {
+          "budget": {
+            "revenue": 36.0,
+            "capital": 50.0,
+            "total": 86.0
+          },
+          "revised": {
+            "revenue": 33.55,
+            "capital": 6.69,
+            "total": 40.24
+          }
+        },
+        "2022_actual": {
+          "revenue": 24.6,
+          "capital": 6.74,
+          "total": 31.34
+        }
+      },
+      {
+        "index": "3.10",
+        "name": "Education, Sports, Arts and Culture",
+        "2024_budget": {
+          "revenue": 45.66,
+          "capital": 57.37,
+          "total": 103.03
+        },
+        "2023": {
+          "budget": {
+            "revenue": 41.2,
+            "capital": 52.2,
+            "total": 93.4
+          },
+          "revised": {
+            "revenue": 30.2,
+            "capital": 18.74,
+            "total": 48.94
+          }
+        },
+        "2022_actual": {
+          "revenue": 28.34,
+          "capital": 10.12,
+          "total": 38.46
+        }
+      },
+      {
+        "index": "3.11",
+        "name": "Social Welfare, Women and Child Development",
+        "2024_budget": {
+          "revenue": 8.22,
+          "capital": 3.59,
+          "total": 11.81
+        },
+        "2023": {
+          "budget": {
+            "revenue": 7.0,
+            "capital": 2.5,
+            "total": 9.5
+          },
+          "revised": {
+            "revenue": 7.19,
+            "capital": 1.94,
+            "total": 9.13
+          }
+        },
+        "2022_actual": {
+          "revenue": 7.64,
+          "capital": 0.35,
+          "total": 7.99
+        }
+      },
+      {
+        "index": "3.12",
+        "name": "Village and Small Industries",
+        "2024_budget": {
+          "revenue": 0.49,
+          "capital": 0.19,
+          "total": 0.68
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0.75,
+            "capital": 0.25,
+            "total": 1.0
+          },
+          "revised": {
+            "revenue": 0.75,
+            "capital": 0.15,
+            "total": 0.9
+          }
+        },
+        "2022_actual": {
+          "revenue": 0.19,
+          "capital": 0.26,
+          "total": 0.45
+        }
+      },
+      {
+        "index": "3.13",
+        "name": "Employment and Training",
+        "2024_budget": {
+          "revenue": 2.21,
+          "capital": 0.86,
+          "total": 3.07
+        },
+        "2023": {
+          "budget": {
+            "revenue": 3.0,
+            "capital": 1.55,
+            "total": 4.55
+          },
+          "revised": {
+            "revenue": 2.2,
+            "capital": 0.35,
+            "total": 2.55
+          }
+        },
+        "2022_actual": {
+          "revenue": 2.4,
+          "capital": 0.06,
+          "total": 2.46
+        }
+      },
+      {
+        "index": "3.14",
+        "name": "Science and Technology",
+        "2024_budget": {
+          "revenue": 1.45,
+          "capital": 0.57,
+          "total": 2.02
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1.75,
+            "capital": 0.5,
+            "total": 2.25
+          },
+          "revised": {
+            "revenue": 1.75,
+            "capital": 0.4,
+            "total": 2.15
+          }
+        },
+        "2022_actual": {
+          "revenue": 0.64,
+          "capital": 0.05,
+          "total": 0.69
+        }
+      },
+      {
+        "index": "3.15",
+        "name": "Urban Development, Housing, Water Supply and Flood Control",
+        "2024_budget": {
+          "revenue": 16.62,
+          "capital": 43.07,
+          "total": 59.69
+        },
+        "2023": {
+          "budget": {
+            "revenue": 13.65,
+            "capital": 61.8,
+            "total": 75.45
+          },
+          "revised": {
+            "revenue": 13.65,
+            "capital": 44.84,
+            "total": 58.49
+          }
+        },
+        "2022_actual": {
+          "revenue": 24.74,
+          "capital": 40.41,
+          "total": 65.15
+        }
+      },
+      {
+        "index": "3.16",
+        "name": "Roads",
+        "2024_budget": {
+          "revenue": 0.3,
+          "capital": 13.0,
+          "total": 13.3
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0.2,
+            "capital": 10.0,
+            "total": 10.2
+          },
+          "revised": {
+            "revenue": 0.2,
+            "capital": 4.0,
+            "total": 4.2
+          }
+        },
+        "2022_actual": {
+          "revenue": 0.06,
+          "capital": 4.62,
+          "total": 4.68
+        }
+      },
+      {
+        "index": "3.17",
+        "name": "Transport",
+        "2024_budget": {
+          "revenue": 426.81,
+          "capital": 18.79,
+          "total": 445.6
+        },
+        "2023": {
+          "budget": {
+            "revenue": 417.0,
+            "capital": 21.5,
+            "total": 438.5
+          },
+          "revised": {
+            "revenue": 557.0,
+            "capital": 10.45,
+            "total": 567.45
+          }
+        },
+        "2022_actual": {
+          "revenue": 390.94,
+          "capital": 9.26,
+          "total": 400.2
+        }
+      },
+      {
+        "index": "3.18",
+        "name": "Tourism Development",
+        "2024_budget": {
+          "revenue": 2.03,
+          "capital": 5.55,
+          "total": 7.58
+        },
+        "2023": {
+          "budget": {
+            "revenue": 3.0,
+            "capital": 4.9,
+            "total": 7.9
+          },
+          "revised": {
+            "revenue": 3.0,
+            "capital": 12.5,
+            "total": 15.5
+          }
+        },
+        "2022_actual": {
+          "revenue": 1.32,
+          "capital": 2.78,
+          "total": 4.1
+        }
+      },
+      {
+        "index": "4",
+        "name": "UT's Supplement to Centrally Sponsored Schemes",
+        "2024_budget": {
+          "revenue": 2.79,
+          "capital": 0,
+          "total": 2.79
+        },
+        "2023": {
+          "budget": {
+            "revenue": 2.8,
+            "capital": 0,
+            "total": 2.8
+          },
+          "revised": {
+            "revenue": 2.15,
+            "capital": 0,
+            "total": 2.15
+          }
+        },
+        "2022_actual": {
+          "revenue": 2.72,
+          "capital": 0,
+          "total": 2.72
+        }
+      },
+      {
+        "index": "5",
+        "name": "Grantee / Other Bodies",
+        "2024_budget": {
+          "revenue": 2.8,
+          "capital": 0,
+          "total": 2.8
+        },
+        "2023": {
+          "budget": {
+            "revenue": 2.2,
+            "capital": 0,
+            "total": 2.2
+          },
+          "revised": {
+            "revenue": 3.1,
+            "capital": 0,
+            "total": 3.1
+          }
+        },
+        "2022_actual": {
+          "revenue": 2.06,
+          "capital": 0,
+          "total": 2.06
+        }
+      },
+      {
+        "index": "6",
+        "name": "Other Expenditure of UT",
+        "2024_budget": {
+          "revenue": 1.36,
+          "capital": 4.47,
+          "total": 5.83
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1.65,
+            "capital": 3.53,
+            "total": 5.18
+          },
+          "revised": {
+            "revenue": 1.15,
+            "capital": 1.39,
+            "total": 2.54
+          }
+        },
+        "2022_actual": {
+          "revenue": 2.13,
+          "capital": 0.56,
+          "total": 2.69
+        }
+      }
+    ],
+    "development_heads": [],
+    "public_enterprises": []
+  },
+  "number": 56
+}

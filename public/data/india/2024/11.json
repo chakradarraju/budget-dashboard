@@ -1,0 +1,1369 @@
+{
+  "name": "MINISTRY OF COMMERCE  AND INDUSTRY",
+  "demand": "DEMAND NO. 11",
+  "department": "Department for Promotion of Industry and Internal Trade",
+  "sections": {
+    "allocation": [
+      {
+        "index": "1",
+        "name": "Secretariat",
+        "2024_budget": {
+          "revenue": 228.34,
+          "capital": 4.47,
+          "total": 232.81
+        },
+        "2023": {
+          "budget": {
+            "revenue": 197.15,
+            "capital": 4.95,
+            "total": 202.1
+          },
+          "revised": {
+            "revenue": 230.08,
+            "capital": 5.38,
+            "total": 235.46
+          }
+        },
+        "2022_actual": {
+          "revenue": 171.87,
+          "capital": 0,
+          "total": 171.87
+        }
+      },
+      {
+        "index": "2",
+        "name": "Intellectual Property 2.01 Controller General of Patent Designs and Trademarks",
+        "2024_budget": {
+          "revenue": 276.93,
+          "capital": 2.25,
+          "total": 279.18
+        },
+        "2023": {
+          "budget": {
+            "revenue": 277.6,
+            "capital": 4.0,
+            "total": 281.6
+          },
+          "revised": {
+            "revenue": 248.29,
+            "capital": 2.0,
+            "total": 250.29
+          }
+        },
+        "2022_actual": {
+          "revenue": 218.73,
+          "capital": 0,
+          "total": 218.73
+        }
+      },
+      {
+        "index": "2.02",
+        "name": "Intellectual Policy Rights (IPR) Policy Management",
+        "2024_budget": {
+          "revenue": 20.74,
+          "capital": 0.1,
+          "total": 20.84
+        },
+        "2023": {
+          "budget": {
+            "revenue": 36.21,
+            "capital": 0.1,
+            "total": 36.31
+          },
+          "revised": {
+            "revenue": 24.49,
+            "capital": 0.1,
+            "total": 24.59
+          }
+        },
+        "2022_actual": {
+          "revenue": 10.99,
+          "capital": 0,
+          "total": 10.99
+        }
+      },
+      {
+        "index": "2.03",
+        "name": "Infrastructure Development in Controller General of Patents Designs and Trade Marks (IDCGPDTM)",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 18.0,
+          "total": 18.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 11.0,
+            "total": 11.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 24.0,
+            "total": 24.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 33.28,
+          "total": 33.28
+        }
+      },
+      {
+        "index": "3",
+        "name": "Attached and Subordinate Offices 3.01 Petroleum and Explosives Safety Organisation (PESO)",
+        "2024_budget": {
+          "revenue": 56.75,
+          "capital": 4.17,
+          "total": 60.92
+        },
+        "2023": {
+          "budget": {
+            "revenue": 64.1,
+            "capital": 0.9,
+            "total": 65.0
+          },
+          "revised": {
+            "revenue": 57.38,
+            "capital": 0.46,
+            "total": 57.84
+          }
+        },
+        "2022_actual": {
+          "revenue": 62.24,
+          "capital": 0,
+          "total": 62.24
+        }
+      },
+      {
+        "index": "3.02",
+        "name": "Salt Commissioner",
+        "2024_budget": {
+          "revenue": 43.3,
+          "capital": 0.25,
+          "total": 43.55
+        },
+        "2023": {
+          "budget": {
+            "revenue": 51.49,
+            "capital": 0.6,
+            "total": 52.09
+          },
+          "revised": {
+            "revenue": 34.9,
+            "capital": 0.22,
+            "total": 35.12
+          }
+        },
+        "2022_actual": {
+          "revenue": 32.77,
+          "capital": 0,
+          "total": 32.77
+        }
+      },
+      {
+        "index": "3.03",
+        "name": "Tariff Commission",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 1.59,
+          "capital": 0,
+          "total": 1.59
+        }
+      },
+      {
+        "index": "3.04",
+        "name": "Survey of Boiler",
+        "2024_budget": {
+          "revenue": 1.2,
+          "capital": 0,
+          "total": 1.2
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0.25,
+            "capital": 0,
+            "total": 0.25
+          },
+          "revised": {
+            "revenue": 0.25,
+            "capital": 0,
+            "total": 0.25
+          }
+        },
+        "2022_actual": {
+          "revenue": 0.24,
+          "capital": 0,
+          "total": 0.24
+        }
+      },
+      {
+        "index": "4",
+        "name": "Footwear, Leather and Accessories Development Programme (FLADP)",
+        "2024_budget": {
+          "revenue": 250.0,
+          "capital": 0,
+          "total": 250.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 250.0,
+            "capital": 0,
+            "total": 250.0
+          },
+          "revised": {
+            "revenue": 250.0,
+            "capital": 0,
+            "total": 250.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 120.66,
+          "capital": 0,
+          "total": 120.66
+        }
+      },
+      {
+        "index": "5",
+        "name": "Industrial Infrastructure Upgradation Scheme (IIUS)",
+        "2024_budget": {
+          "revenue": 0.01,
+          "capital": 0,
+          "total": 0.01
+        },
+        "2023": {
+          "budget": {
+            "revenue": 5.0,
+            "capital": 0,
+            "total": 5.0
+          },
+          "revised": {
+            "revenue": 9.09,
+            "capital": 0,
+            "total": 9.09
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "6",
+        "name": "Price and Production Statistics",
+        "2024_budget": {
+          "revenue": 17.0,
+          "capital": 0,
+          "total": 17.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 17.85,
+            "capital": 0,
+            "total": 17.85
+          },
+          "revised": {
+            "revenue": 17.85,
+            "capital": 0,
+            "total": 17.85
+          }
+        },
+        "2022_actual": {
+          "revenue": 14.94,
+          "capital": 0,
+          "total": 14.94
+        }
+      },
+      {
+        "index": "7",
+        "name": "National Industrial Corridor Development and Implementation Trust (NICDIT)",
+        "2024_budget": {
+          "revenue": 500.0,
+          "capital": 0,
+          "total": 500.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 2000.0,
+            "capital": 0,
+            "total": 2000.0
+          },
+          "revised": {
+            "revenue": 150.0,
+            "capital": 0,
+            "total": 150.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 108.69,
+          "capital": 0,
+          "total": 108.69
+        }
+      },
+      {
+        "index": "8",
+        "name": "Scheme for Investment Promotion",
+        "2024_budget": {
+          "revenue": 179.85,
+          "capital": 0.15,
+          "total": 180.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 194.85,
+            "capital": 0.15,
+            "total": 195.0
+          },
+          "revised": {
+            "revenue": 194.85,
+            "capital": 0.15,
+            "total": 195.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 184.26,
+          "capital": 0,
+          "total": 184.26
+        }
+      },
+      {
+        "index": "9",
+        "name": "Fund of Funds",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 1200.0,
+          "total": 1200.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 1470.0,
+            "total": 1470.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 1470.0,
+            "total": 1470.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 1425.0,
+          "total": 1425.0
+        }
+      },
+      {
+        "index": "10",
+        "name": "Credit Guarantee Fund",
+        "2024_budget": {
+          "revenue": 100.0,
+          "capital": 0,
+          "total": 100.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 250.0,
+            "capital": 0,
+            "total": 250.0
+          },
+          "revised": {
+            "revenue": 220.0,
+            "capital": 0,
+            "total": 220.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 25.0,
+          "capital": 0,
+          "total": 25.0
+        }
+      },
+      {
+        "index": "11",
+        "name": "Startup India",
+        "2024_budget": {
+          "revenue": 0.01,
+          "capital": 0,
+          "total": 0.01
+        },
+        "2023": {
+          "budget": {
+            "revenue": 30.0,
+            "capital": 0,
+            "total": 30.0
+          },
+          "revised": {
+            "revenue": 45.61,
+            "capital": 0,
+            "total": 45.61
+          }
+        },
+        "2022_actual": {
+          "revenue": 44.21,
+          "capital": 0,
+          "total": 44.21
+        }
+      },
+      {
+        "index": "12",
+        "name": "Startup India Seed Fund Scheme (SISFS)",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 175.0,
+          "total": 175.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 160.0,
+            "total": 160.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 160.0,
+            "total": 160.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 140.0,
+          "total": 140.0
+        }
+      },
+      {
+        "index": "13",
+        "name": "Ease of Doing Business",
+        "2024_budget": {
+          "revenue": 10.0,
+          "capital": 0,
+          "total": 10.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 10.0,
+            "capital": 0,
+            "total": 10.0
+          },
+          "revised": {
+            "revenue": 9.5,
+            "capital": 0,
+            "total": 9.5
+          }
+        },
+        "2022_actual": {
+          "revenue": 10.89,
+          "capital": 0,
+          "total": 10.89
+        }
+      },
+      {
+        "index": "14",
+        "name": "Production Linked Incentive Scheme (PLI) for White Goods (ACs and LED Lights)",
+        "2024_budget": {
+          "revenue": 298.02,
+          "capital": 0,
+          "total": 298.02
+        },
+        "2023": {
+          "budget": {
+            "revenue": 65.0,
+            "capital": 0,
+            "total": 65.0
+          },
+          "revised": {
+            "revenue": 64.99,
+            "capital": 0,
+            "total": 64.99
+          }
+        },
+        "2022_actual": {
+          "revenue": 3.54,
+          "capital": 0,
+          "total": 3.54
+        }
+      },
+      {
+        "index": "15",
+        "name": "Production Linked Incentive (PLI) Scheme for Toys",
+        "2024_budget": {
+          "revenue": 0.01,
+          "capital": 0,
+          "total": 0.01
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "16",
+        "name": "Production Linked Incentive (PLI) Scheme for Footwear and Leather Sector",
+        "2024_budget": {
+          "revenue": 0.01,
+          "capital": 0,
+          "total": 0.01
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "17",
+        "name": "North Eastern Industrial and Investment Promotion Policy (NEIPP)",
+        "2024_budget": {
+          "revenue": 80.0,
+          "capital": 0,
+          "total": 80.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 200.0,
+            "capital": 0,
+            "total": 200.0
+          },
+          "revised": {
+            "revenue": 220.0,
+            "capital": 0,
+            "total": 220.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 109.97,
+          "capital": 0,
+          "total": 109.97
+        }
+      },
+      {
+        "index": "18",
+        "name": "North East Industrial Development Scheme (NEIDS) 2017",
+        "2024_budget": {
+          "revenue": 400.0,
+          "capital": 0,
+          "total": 400.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 400.0,
+            "capital": 0,
+            "total": 400.0
+          },
+          "revised": {
+            "revenue": 400.0,
+            "capital": 0,
+            "total": 400.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 164.99,
+          "capital": 0,
+          "total": 164.99
+        }
+      },
+      {
+        "index": "19",
+        "name": "Transport/Freight Subsidy Scheme",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 50.0,
+            "capital": 0,
+            "total": 50.0
+          },
+          "revised": {
+            "revenue": 85.0,
+            "capital": 0,
+            "total": 85.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 203.39,
+          "capital": 0,
+          "total": 203.39
+        }
+      },
+      {
+        "index": "20",
+        "name": "Package for Special Catagory States for Jammu and Kashmir, Himachal Pradesh and Uttarakhand",
+        "2024_budget": {
+          "revenue": 0.01,
+          "capital": 0,
+          "total": 0.01
+        },
+        "2023": {
+          "budget": {
+            "revenue": 8.0,
+            "capital": 0,
+            "total": 8.0
+          },
+          "revised": {
+            "revenue": 5.0,
+            "capital": 0,
+            "total": 5.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 9.08,
+          "capital": 0,
+          "total": 9.08
+        }
+      },
+      {
+        "index": "21",
+        "name": "Industrial Development Scheme, 2017 for Union Territory of Jammu & Kashmir and Union Territory of Ladakh",
+        "2024_budget": {
+          "revenue": 100.0,
+          "capital": 0,
+          "total": 100.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 50.0,
+            "capital": 0,
+            "total": 50.0
+          },
+          "revised": {
+            "revenue": 39.95,
+            "capital": 0,
+            "total": 39.95
+          }
+        },
+        "2022_actual": {
+          "revenue": 8.29,
+          "capital": 0,
+          "total": 8.29
+        }
+      },
+      {
+        "index": "22",
+        "name": "Industrial Development Scheme for Himachal Pradesh & Uttarakhand, 2017",
+        "2024_budget": {
+          "revenue": 567.0,
+          "capital": 0,
+          "total": 567.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 250.0,
+            "capital": 0,
+            "total": 250.0
+          },
+          "revised": {
+            "revenue": 350.51,
+            "capital": 0,
+            "total": 350.51
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "23",
+        "name": "Industrial Development of UT of Jammu and Kashmir",
+        "2024_budget": {
+          "revenue": 300.0,
+          "capital": 0,
+          "total": 300.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 150.0,
+            "capital": 0,
+            "total": 150.0
+          },
+          "revised": {
+            "revenue": 148.97,
+            "capital": 0,
+            "total": 148.97
+          }
+        },
+        "2022_actual": {
+          "revenue": 44.97,
+          "capital": 0,
+          "total": 44.97
+        }
+      },
+      {
+        "index": "24",
+        "name": "Industrial Development of Ladakh, 2022",
+        "2024_budget": {
+          "revenue": 5.0,
+          "capital": 0,
+          "total": 5.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 97.3,
+            "capital": 0,
+            "total": 97.3
+          },
+          "revised": {
+            "revenue": 0.01,
+            "capital": 0,
+            "total": 0.01
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "25",
+        "name": "Refund of Central and Integrated GST to Industrial Units in North Eastern Region and Himalayan States",
+        "2024_budget": {
+          "revenue": 1382.35,
+          "capital": 0,
+          "total": 1382.35
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1713.88,
+            "capital": 0,
+            "total": 1713.88
+          },
+          "revised": {
+            "revenue": 1755.22,
+            "capital": 0,
+            "total": 1755.22
+          }
+        },
+        "2022_actual": {
+          "revenue": 2637.5,
+          "capital": 0,
+          "total": 2637.5
+        }
+      },
+      {
+        "index": "26.",
+        "name": "Autonomous Organisations"
+      },
+      {
+        "index": "26.01",
+        "name": "Support to Autonomous Institutions",
+        "2024_budget": {
+          "revenue": 138.45,
+          "capital": 0,
+          "total": 138.45
+        },
+        "2023": {
+          "budget": {
+            "revenue": 116.66,
+            "capital": 0,
+            "total": 116.66
+          },
+          "revised": {
+            "revenue": 120.82,
+            "capital": 0,
+            "total": 120.82
+          }
+        },
+        "2022_actual": {
+          "revenue": 109.21,
+          "capital": 0,
+          "total": 109.21
+        }
+      },
+      {
+        "index": "26.02",
+        "name": "World Intellectual Property Organisation (WIPO)",
+        "2024_budget": {
+          "revenue": 1.0,
+          "capital": 0,
+          "total": 1.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0.83,
+            "capital": 0,
+            "total": 0.83
+          },
+          "revised": {
+            "revenue": 0.87,
+            "capital": 0,
+            "total": 0.87
+          }
+        },
+        "2022_actual": {
+          "revenue": 0.76,
+          "capital": 0,
+          "total": 0.76
+        }
+      },
+      {
+        "index": "26.03",
+        "name": "Asian Productivity Organization/United Nations Industrial Development Organization",
+        "2024_budget": {
+          "revenue": 30.35,
+          "capital": 0,
+          "total": 30.35
+        },
+        "2023": {
+          "budget": {
+            "revenue": 22.0,
+            "capital": 0,
+            "total": 22.0
+          },
+          "revised": {
+            "revenue": 19.73,
+            "capital": 0,
+            "total": 19.73
+          }
+        },
+        "2022_actual": {
+          "revenue": 17.95,
+          "capital": 0,
+          "total": 17.95
+        }
+      },
+      {
+        "index": "26.04",
+        "name": "Assistance to Autonomous Bodies",
+        "2024_budget": {
+          "revenue": 34.35,
+          "capital": 0,
+          "total": 34.35
+        },
+        "2023": {
+          "budget": {
+            "revenue": 40.75,
+            "capital": 0,
+            "total": 40.75
+          },
+          "revised": {
+            "revenue": 38.11,
+            "capital": 0,
+            "total": 38.11
+          }
+        },
+        "2022_actual": {
+          "revenue": 41.14,
+          "capital": 0,
+          "total": 41.14
+        }
+      },
+      {
+        "index": "27",
+        "name": "Implementation of India - Korea Joint applied R&D Programme",
+        "2024_budget": {
+          "revenue": 0.01,
+          "capital": 0,
+          "total": 0.01
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0.01,
+            "capital": 0,
+            "total": 0.01
+          },
+          "revised": {
+            "revenue": 0.01,
+            "capital": 0,
+            "total": 0.01
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "28",
+        "name": "Actual Recovery",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": -9.28,
+          "capital": 0,
+          "total": -9.28
+        }
+      }
+    ],
+    "development_heads": [
+      {
+        "index": "1",
+        "name": "Other Administrative Services",
+        "2024_budget": {
+          "revenue": 56.75,
+          "capital": 0,
+          "total": 56.75
+        },
+        "2023": {
+          "budget": {
+            "revenue": 64.1,
+            "capital": 0,
+            "total": 64.1
+          },
+          "revised": {
+            "revenue": 57.38,
+            "capital": 0,
+            "total": 57.38
+          }
+        },
+        "2022_actual": {
+          "revenue": 62.15,
+          "capital": 0,
+          "total": 62.15
+        }
+      },
+      {
+        "index": "2",
+        "name": "Capital Outlay on Public Works",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 18.0,
+          "total": 18.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 11.0,
+            "total": 11.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 24.0,
+            "total": 24.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 33.28,
+          "total": 33.28
+        }
+      },
+      {
+        "index": "3",
+        "name": "Capital Outlay on Other Administrative Services",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 4.17,
+          "total": 4.17
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0.9,
+            "total": 0.9
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0.46,
+            "total": 0.46
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "4",
+        "name": "Industries",
+        "2024_budget": {
+          "revenue": 1070.07,
+          "capital": 0,
+          "total": 1070.07
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1021.01,
+            "capital": 0,
+            "total": 1021.01
+          },
+          "revised": {
+            "revenue": 992.86,
+            "capital": 0,
+            "total": 992.86
+          }
+        },
+        "2022_actual": {
+          "revenue": 585.28,
+          "capital": 0,
+          "total": 585.28
+        }
+      },
+      {
+        "index": "5",
+        "name": "Other Outlays on Industries and Minerals",
+        "2024_budget": {
+          "revenue": 1671.01,
+          "capital": 0,
+          "total": 1671.01
+        },
+        "2023": {
+          "budget": {
+            "revenue": 2840.36,
+            "capital": 0,
+            "total": 2840.36
+          },
+          "revised": {
+            "revenue": 988.82,
+            "capital": 0,
+            "total": 988.82
+          }
+        },
+        "2022_actual": {
+          "revenue": 3284.07,
+          "capital": 0,
+          "total": 3284.07
+        }
+      },
+      {
+        "index": "6",
+        "name": "Secretariat -Economic Services",
+        "2024_budget": {
+          "revenue": 228.34,
+          "capital": 0,
+          "total": 228.34
+        },
+        "2023": {
+          "budget": {
+            "revenue": 197.15,
+            "capital": 0,
+            "total": 197.15
+          },
+          "revised": {
+            "revenue": 230.08,
+            "capital": 0,
+            "total": 230.08
+          }
+        },
+        "2022_actual": {
+          "revenue": 171.77,
+          "capital": 0,
+          "total": 171.77
+        }
+      },
+      {
+        "index": "7",
+        "name": "Other General Economic Services",
+        "2024_budget": {
+          "revenue": 314.91,
+          "capital": 0,
+          "total": 314.91
+        },
+        "2023": {
+          "budget": {
+            "revenue": 331.73,
+            "capital": 0,
+            "total": 331.73
+          },
+          "revised": {
+            "revenue": 290.74,
+            "capital": 0,
+            "total": 290.74
+          }
+        },
+        "2022_actual": {
+          "revenue": 245.32,
+          "capital": 0,
+          "total": 245.32
+        }
+      },
+      {
+        "index": "8",
+        "name": "Capital Outlay on Other Industries",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 1382.22,
+          "total": 1382.22
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 1639.8,
+            "total": 1639.8
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 1637.85,
+            "total": 1637.85
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 1565.0,
+          "total": 1565.0
+        }
+      },
+      {
+        "index": "9",
+        "name": "North Eastern Areas",
+        "2024_budget": {
+          "revenue": 1679.61,
+          "capital": 0,
+          "total": 1679.61
+        },
+        "2023": {
+          "budget": {
+            "revenue": 2094.58,
+            "capital": 0,
+            "total": 2094.58
+          },
+          "revised": {
+            "revenue": 2181.6,
+            "capital": 0,
+            "total": 2181.6
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "1",
+        "name": "Secretariat: ..Provides for Secretariat expenditure of the Department of Promotion for Industry and Internal Trade & Office of Economic Adviser. 2.01. Controller General of Patent Designs and Trademarks: ..This office is responsible for the administration of laws relating to Industrial Property Rights, namely, Patents Act 1970, the Designs A ct, 2000, the Trade",
+        "2024_budget": {
+          "revenue": 1957.0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 1999.0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "3.02",
+        "name": "Salt Commissioner: ..The Organisation is responsible for planning production, targets and distribution of salt, price surveillance, custody & superintendence of department salt lands including court cases thereon, maintenance of standard & quality of s alt, export of salt. It is nodal agency for implementation of National Iodine Deficiency Control Programme (NIDDCP). It regulates the production and rational distribution of salt including iodized salt. It also regularly monitors the price and availability of salt. The budget provides for establishment charges of the organization, for development/welfare schemes of salt workers and cost incurred on management of SCO land. 3.03. Tariff Commission: ..The scheme has been closed. 3.04. Survey of Boiler: ..Provi des for organizing workshops on operation and maintenance of boilers and conducting examinations for implementation of Boilers Act. 4. Footwear, Leather and Accessories Development Programme (FLADP): ..Footwear, Leather and Accessories Development Programm e (FLADP) scheme has been approved for continuation by the Cabinet on 19.01.2022 with changed name as Footwear, Leather and Accessories Development Programme for implementation during 2021 -26. 5. Industrial Infrastructure Upgradation Scheme (IIUS): ..To enhance competitiveness of industry by providing quality infrastructure to promote industrial growth Infrastructure Development in the selected functional clusters will be done through implementing agencies of the State Government. Token provision has been made for the FY 24 -25. 6. Price and Production Statistics: ..This scheme Price and Production Statistics was formed by merging of two continuing old",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 2017.0,
+            "capital": -18.0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "7",
+        "name": "Nation al Industrial Corridor Development and Implementation Trust (NICDIT): ..Government of India (GoI) on 7th December, 2016 had approved the expansion of the scope of existing Delhi Mumbai Industrial Corridor Project Implementation Trust Fund (DMIC -PITF) and re -designated it as National Industrial Corridor Development and Implementation Trust (NICDIT) for coordinated and unified development of Industrial Corridor Projects in India. NICDIT is under administrative control of DPIIT and presently 11 different Indust rial Corridors and various other Industrial Corridors which might come in future will also function under the administrative control of NICDIT. The development framework for the industrial corridors is based on the partnership approach between GoI and th e respective State Govt.(s) where GoI provides funds as equity and/or debt to city/node/project Special Purpose Vehicles (SPVs) for development of trunk infrastructure, the States are responsible for providing land as part of their equity in the city/node/ project SPV. 8. Scheme for Investment Promotion: ..Investment Promotion is a multi -faceted strategic activity that pursues bringing Investment opportunities to the existing and potential investors. To garner the benefits of influx of capital, jobs, skills, technology, productivity, and innovation for a country, Investment Promotion requires continuous efforts to be channelized around the main activities such as Foreign Direct Investment (FDI) reforms, Investment facilitation and Targeted outreach. To incr ease the investment inflow, the Department for Promotion of Industry and Internal Trade (DPIIT) has been undertaking various initiatives and reforms such as the launching of Make in India, supporting champion sectors and sub -sectors, setting up of an Empow ered Group of Secretaries and Project Development Cells, creating an Industrial Information System and National Investment Clearance Cell amongst others. The components for continuation",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 2025.0,
+          "total": -26.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 2021.0,
+            "total": -22.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "13",
+        "name": "Ease of Doing Business: ..Ease of Doing Business is an initiative which aims of creating a conducive business environment by identifying regulatory burden and streamlining the existing regulations and pr ocesses and eliminating redundant requirements and procedures. Expenditures are incurred primarily to meet the cost of consulting fee, survey fee and website maintenance charges, etc. 14. Production Linked Incentive Scheme (PLI) for White Goods (ACs and L ED Lights): ..Union Cabinet chaired by Honble Prime Minister has approved the Production Linked Incentive (PLI) Scheme for White Goods on 7th April, 2021 with an outlay of ..`.6,238 crore for the period of 5 years. The scheme was notified in E - Gazette on",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 2021.0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 16.0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "15",
+        "name": "Production Linked Incentive (PLI) Scheme for Toys: ..The PLI Scheme for Toys is recommended with an outlay of ..`.3489 crore with a scheme",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 32.0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 2024.0,
+            "capital": 0,
+            "total": 25.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 2031.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "2025",
+        "name": ".. 16. Production Linked Incentive (PLI) Scheme for Footwear and Leather Sector: ..The PLI Scheme for Leather and Footwear Manufacturers of India with the total outlay of the scheme is ..`.2600 crore. The scheme period is FY 2023 - 24 to",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 32.0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 2031.0,
+          "total": 0
+        }
+      },
+      {
+        "index": "17",
+        "name": "North Eastern Industrial and Investment Promotion Policy (NEIPP): ..The North East Industrial and Investment Promotion P olicy (NEIIPP), 2007 has been discontinued with effect from 31.03.2017. However, the grandfathering of the scheme shall continue till 31.03.2027. 18. North East Industrial Development Scheme (NEIDS) 2017: ..To promote industrialization in NE States and to boost employment income generation, a Scheme namely North East Industrial Development Scheme (NEIDS), 2017 was notified on 12.04.2018 which has come into force w.e.f. 01.04.2017 for a period of five years. (After closure of NEIIPP, 2007 on 31.03.2017). Th e scheme is closed on 31/03/2022, however, industrial units registered under the scheme will be eligible for the benefits under the scheme up to 31/03/2028. 19. Transport/Freight Subsidy Scheme: ..Transport/Freight Subsidy Scheme (FSS), 2013 has been disco ntinued, with effect from 22.11.2016. However, industrial units registered under the scheme prior to the date of issue of DIPPs notification dated 22.11.2016 will be eligible for the benefits under the scheme. 20. Package for Special Catagory States for J ammu and Kashmir, Himachal Pradesh and Uttarakhand: ..The package is for Industrial Development Schemes for Union Territory of Jammu and Kashmir, Union Territory of Ladakh and States of Himachal Pradesh and Uttarakhand with a view to accelerate the industr ial development in these Union Territories/States. 21. Industrial Development Scheme, 2017 for Union Territory of Jammu & Kashmir and Union Territory of Ladakh: ..The Scheme was notified on 23rd April 2018. The benefits under the scheme include Central Cap ital Investment Incentive for access to credit (CCIIAC), Comprehensive Insurance Incentive (CCII), and Central Interest Incentive (CII). Vide Notification dated 01.01.2019 four more components were added i.e. GST Reimbursement, Income Tax Reimbursement, Tr ansport Incentive and Employment Incentive. In-house Portal has been developed by the department for online registration of the units who wish to claim the benefits under the scheme. The scheme was valid from 15.06.2017 to 31.03.2022. Under the Scheme Em powered Committee have granted registration to 225 units (J&K 215, Ladakh -10) in manufacturing and Service Sector under the Scheme. 22. Industrial Development Scheme for Himachal Pradesh & Uttarakhand, 2017: ..The Scheme valid from 01.04.2017 to 31.03.2022 was notified on 23rd April 2018. The benefits under the scheme include Central Capital Investment Incentive for access to credit (CCIIAC), Comprehensive insurance incentive (CCII). 23. Industrial Development of UT of Jammu and Kashmir: ..The New Central S ector scheme for industrial Development of Jammu and Kashmir shall be effective from the date of issue of notification and up to 31.03.2037 with the total outlay of ..`.28400/ - crore during scheme period providing the following Incentives: i. capital Invest ment Incentive, ii. Capital Interest Subvention, iii. Goods & Services Tax Linked Incentive (GSTLI) and iv. Working Capital Interest subvention. .. 24. Industrial Development of Ladakh, 2022: ..The New Central Sector scheme for industrial Development of UT of Ladakh shall be",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 2023.0,
+          "total": -24.0
+        }
+      }
+    ],
+    "public_enterprises": []
+  },
+  "number": 11
+}

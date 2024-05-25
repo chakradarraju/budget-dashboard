@@ -1,0 +1,64 @@
+{
+  "name": "MINISTRY OF FINANCE",
+  "demand": "DEMAND NO. 34",
+  "department": "Department of Investment and Public Asset Management (DIPAM)",
+  "sections": {
+    "allocation": [],
+    "development_heads": [
+      {
+        "index": "1",
+        "name": "Secretariat -Economic Services",
+        "2024_budget": {
+          "revenue": 48.27,
+          "capital": 0,
+          "total": 48.27
+        },
+        "2023": {
+          "budget": {
+            "revenue": 93.46,
+            "capital": 0,
+            "total": 93.46
+          },
+          "revised": {
+            "revenue": 58.57,
+            "capital": 0,
+            "total": 58.57
+          }
+        },
+        "2022_actual": {
+          "revenue": 178.89,
+          "capital": 0,
+          "total": 178.89
+        }
+      },
+      {
+        "index": "2",
+        "name": "Capital Outlay on Other General Economic Services",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 1.47,
+          "total": 1.47
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 1.46,
+            "total": 1.46
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 1.46,
+            "total": 1.46
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      }
+    ],
+    "public_enterprises": []
+  },
+  "number": 34
+}

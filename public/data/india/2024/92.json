@@ -1,0 +1,719 @@
+{
+  "name": "MINISTRY OF SKILL DEVELOPMENT AND  ENTREPRENEURSHIP",
+  "demand": "DEMAND NO. 92",
+  "department": "Ministry of Skill Development and Entrepreneurship",
+  "sections": {
+    "allocation": [
+      {
+        "index": "1",
+        "name": "Secretariat",
+        "2024_budget": {
+          "revenue": 265.72,
+          "capital": 110.37,
+          "total": 376.09
+        },
+        "2023": {
+          "budget": {
+            "revenue": 222.99,
+            "capital": 99.24,
+            "total": 322.23
+          },
+          "revised": {
+            "revenue": 240.23,
+            "capital": 99.24,
+            "total": 339.47
+          }
+        },
+        "2022_actual": {
+          "revenue": 208.9,
+          "capital": 59.56,
+          "total": 268.46
+        }
+      },
+      {
+        "index": "2",
+        "name": "Skill India Programme. 2.01 Transfer to Madhyamik and Uchchtar Shiksha Kosh (MUSK)",
+        "2024_budget": {
+          "revenue": 2685.64,
+          "capital": 0,
+          "total": 2685.64
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 1733.33,
+            "capital": 0,
+            "total": 1733.33
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "2.02",
+        "name": "Skill India Programme",
+        "2024_budget": {
+          "revenue": 2685.64,
+          "capital": 0,
+          "total": 2685.64
+        },
+        "2023": {
+          "budget": {
+            "revenue": 2278.37,
+            "capital": 0,
+            "total": 2278.37
+          },
+          "revised": {
+            "revenue": 1733.33,
+            "capital": 0,
+            "total": 1733.33
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "2.03",
+        "name": "Amount met from Madhyamik and Uchchtar Shiksha Kosh (MUSK)",
+        "2024_budget": {
+          "revenue": -2685.64,
+          "capital": 0,
+          "total": -2685.64
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": -1733.33,
+            "capital": 0,
+            "total": -1733.33
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "3",
+        "name": "Additional Transfer to Madhyamik and Uchchtar Shiksha Kosh (MUSK)",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 600.0,
+            "capital": 0,
+            "total": 600.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "4",
+        "name": "National Council for Vocational Education and Training (NCVET)",
+        "2024_budget": {
+          "revenue": 17.56,
+          "capital": 0,
+          "total": 17.56
+        },
+        "2023": {
+          "budget": {
+            "revenue": 20.24,
+            "capital": 0,
+            "total": 20.24
+          },
+          "revised": {
+            "revenue": 12.48,
+            "capital": 0,
+            "total": 12.48
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "5",
+        "name": "Indian Institute of Entrepreneurship (IIE)",
+        "2024_budget": {
+          "revenue": 4.0,
+          "capital": 0,
+          "total": 4.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1.0,
+            "capital": 0,
+            "total": 1.0
+          },
+          "revised": {
+            "revenue": 1.0,
+            "capital": 0,
+            "total": 1.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "6",
+        "name": "National Institute of Entrepreneurship and Small Business Development (NIESBUD)",
+        "2024_budget": {
+          "revenue": 1.75,
+          "capital": 0,
+          "total": 1.75
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1.0,
+            "capital": 0,
+            "total": 1.0
+          },
+          "revised": {
+            "revenue": 1.25,
+            "capital": 0,
+            "total": 1.25
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "7",
+        "name": "National Instructional Media Institute (NIMI)",
+        "2024_budget": {
+          "revenue": 0.01,
+          "capital": 0,
+          "total": 0.01
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0.01,
+            "capital": 0,
+            "total": 0.01
+          },
+          "revised": {
+            "revenue": 0.01,
+            "capital": 0,
+            "total": 0.01
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "8",
+        "name": "Actual Recoveries -16.85 ... -16.85 ... ... ... ... ... ... ... ... ... Total -Other Central Sector Expenditure",
+        "2024_budget": {
+          "revenue": 23.32,
+          "capital": 0,
+          "total": 23.32
+        },
+        "2023": {
+          "budget": {
+            "revenue": 22.25,
+            "capital": 0,
+            "total": 22.25
+          },
+          "revised": {
+            "revenue": 14.74,
+            "capital": 0,
+            "total": 14.74
+          }
+        },
+        "2022_actual": {
+          "revenue": -16.85,
+          "capital": 0,
+          "total": -16.85
+        }
+      },
+      {
+        "index": "9.",
+        "name": "Pradhan Mantri Kaushal Vikas Yojana 9.01 Development of Skills 388.03 ... 388.03 ... ... ... ... ... ... ... ... ... 9.02 National Apprenticeship Promotion Scheme"
+      },
+      {
+        "index": "9.03",
+        "name": "Development of Entrepreneurship",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 7.21,
+          "capital": 0,
+          "total": 7.21
+        }
+      },
+      {
+        "index": "9.04",
+        "name": "Strengthening of Infrastructure for Institutional Training 73.20 ... 73.20 ... ... ... ... ... ... ... ... ... 9.05 Strengthening of Skill Institutions",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 8.17,
+          "capital": 0.01,
+          "total": 8.18
+        }
+      },
+      {
+        "index": "9.06",
+        "name": "Support to Regulatory Institutions 20.24 ... 20.24 ... ... ... ... ... ... ... ... ... 9.07 Skill Acquisition and Knowledge Awareness for Livelihood Promotion 173.01 ... 173.01 ... ... ... ... ... ... ... ... ... 9.08 Skill Strengthening for Industrial Value Enhancements 113.84 ... 113.84 ... ... ... ... ... ... ... ... ... Total - Pradhan Mantri Kaushal Vikas Yojana",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 1119.38,
+          "capital": 0.01,
+          "total": 1119.39
+        }
+      },
+      {
+        "index": "10",
+        "name": "Skill Acquisition and Knowledge Awareness for Livelihood Promotion (SANKALP) - EAP",
+        "2024_budget": {
+          "revenue": 380.0,
+          "capital": 0,
+          "total": 380.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 488.08,
+            "capital": 0,
+            "total": 488.08
+          },
+          "revised": {
+            "revenue": 244.0,
+            "capital": 0,
+            "total": 244.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "11",
+        "name": "Skill Strengthening for Industrial Value Enhancements (STRIVE) - EAP",
+        "2024_budget": {
+          "revenue": 5.05,
+          "capital": 0,
+          "total": 5.05
+        },
+        "2023": {
+          "budget": {
+            "revenue": 300.0,
+            "capital": 0,
+            "total": 300.0
+          },
+          "revised": {
+            "revenue": 249.97,
+            "capital": 0,
+            "total": 249.97
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "12",
+        "name": "Strengthening of Infrastructure for Institutional Training",
+        "2024_budget": {
+          "revenue": 49.9,
+          "capital": 0,
+          "total": 49.9
+        },
+        "2023": {
+          "budget": {
+            "revenue": 106.38,
+            "capital": 0,
+            "total": 106.38
+          },
+          "revised": {
+            "revenue": 78.67,
+            "capital": 0,
+            "total": 78.67
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      }
+    ],
+    "development_heads": [
+      {
+        "index": "1",
+        "name": "Capital Outlay on Other Administrative Services ... 59.56 59.56 ... ... ... ... ... ... ... ... ... Total -General Services ... 59.56 59.56 ... ... ... ... ... ... ... ... ... Social Services 2. Labour, Employment and Skill Development",
+        "2024_budget": {
+          "revenue": 2733.99,
+          "capital": 0,
+          "total": 2733.99
+        },
+        "2023": {
+          "budget": {
+            "revenue": 2453.15,
+            "capital": 0,
+            "total": 2453.15
+          },
+          "revised": {
+            "revenue": 2479.64,
+            "capital": 0,
+            "total": 2479.64
+          }
+        },
+        "2022_actual": {
+          "revenue": 788.78,
+          "capital": 0,
+          "total": 788.78
+        }
+      },
+      {
+        "index": "3",
+        "name": "Secretariat -Social Services",
+        "2024_budget": {
+          "revenue": 265.72,
+          "capital": 0,
+          "total": 265.72
+        },
+        "2023": {
+          "budget": {
+            "revenue": 222.99,
+            "capital": 0,
+            "total": 222.99
+          },
+          "revised": {
+            "revenue": 240.23,
+            "capital": 0,
+            "total": 240.23
+          }
+        },
+        "2022_actual": {
+          "revenue": 206.63,
+          "capital": 0,
+          "total": 206.63
+        }
+      },
+      {
+        "index": "4",
+        "name": "Capital Outlay on other Social Services",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 104.12,
+          "total": 104.12
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 95.24,
+            "total": 95.24
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 97.54,
+            "total": 97.54
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0.01,
+          "total": 0.01
+        }
+      },
+      {
+        "index": "5",
+        "name": "North Eastern Areas",
+        "2024_budget": {
+          "revenue": 325.06,
+          "capital": 0,
+          "total": 325.06
+        },
+        "2023": {
+          "budget": {
+            "revenue": 328.15,
+            "capital": 0,
+            "total": 328.15
+          },
+          "revised": {
+            "revenue": 223.94,
+            "capital": 0,
+            "total": 223.94
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "6",
+        "name": "Grants -in-aid to State Governments",
+        "2024_budget": {
+          "revenue": 71.14,
+          "capital": 0,
+          "total": 71.14
+        },
+        "2023": {
+          "budget": {
+            "revenue": 390.56,
+            "capital": 0,
+            "total": 390.56
+          },
+          "revised": {
+            "revenue": 207.59,
+            "capital": 0,
+            "total": 207.59
+          }
+        },
+        "2022_actual": {
+          "revenue": 314.32,
+          "capital": 0,
+          "total": 314.32
+        }
+      },
+      {
+        "index": "7",
+        "name": "Grants -in-aid to Union Territory Governments",
+        "2024_budget": {
+          "revenue": 13.72,
+          "capital": 0,
+          "total": 13.72
+        },
+        "2023": {
+          "budget": {
+            "revenue": 23.22,
+            "capital": 0,
+            "total": 23.22
+          },
+          "revised": {
+            "revenue": 9.54,
+            "capital": 0,
+            "total": 9.54
+          }
+        },
+        "2022_actual": {
+          "revenue": 1.7,
+          "capital": 0,
+          "total": 1.7
+        }
+      },
+      {
+        "index": "8",
+        "name": "Capital Outlay on North Eastern Areas",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 6.25,
+          "total": 6.25
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 4.0,
+            "total": 4.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 1.7,
+            "total": 1.7
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "1",
+        "name": "Secretariat: ..Secretariat : It provides expenditure for Secretariat of the Ministry, Directorate General of Training (DGT), Directorate of Jan Shikshan Sansthan (Dte.of JSS), National Skill Training Institutes (NSTIs), Central Staff Training and Research Institute (CSTARI), Principal Account Office (Pr.A.O). 2. Skill India Programme.: ..A composite Central Sector Scheme consisting of three components namely, Pradhan Mantri Kaushal Vikas Yojana 4.0 (PMKVY. 4.0), Pradhan Mantri - National Apprenticeship Promotion Scheme (PM -NAPS) and Jan Shikshan Sansthan (JSS). There would be a transfer to MUSK and programme component would be met from the MUSK 4. National Council for Vocational Educatio n and Training (NCVET): ..National Council for Vocational Education and Training (NCVET) : An overarching regulatory body for regulating the functioning of entities engaged in vocational education and training and to establish minimum standards for the fun ctioning of such entities. 5. Indian Institute of Entrepreneurship (IIE): ..Indian Institute of Entrepreneurship (IIE): A National level Apex body, with its Headquarter at Guwahati, Assam, for Entrepreneurship Development through Training, Research and Con sultancy Services. 6. National Institute of Entrepreneurship and Small Business Development (NIESBUD): ..National Institute of Entrepreneurship and Small Business Development (NIESBUD) : An organization engaged in Training, Consultancy, Research and Public ations in order to promote entrepreneurship. 7. National Instructional Media Institute (NIMI): ..National Instructional Media Institute (NIMI) :An institute with objective to prepare instructional material for the use of the trainees and trainers, developi ng e-Content to facilitate new age learners and enhance its reach to masses. 8. Actual Recoveries: ..Actual Recoveries. 9.01. Development of Skills: ..Development of Skills: This scheme consists of Pradhan Mantri Kaushal Vikas Yojana (PMKVY) and the Scheme of Jan Shikshan Sansthan (JSS). Under PMKVY, skill development training is imparted to youth across the country enabling them to earn their livelihood. Scheme of Jan Shikshan Sansthan is implemented through NGOs to impart vocational skills in non -formal m ode to non - literates, neo -literates with rudimentary level of",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 15.0,
+            "capital": -45.0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "9.03",
+        "name": "Development of Entrepreneurship: ..Development of Entrepreneurship: The objective of the scheme is to create a favorable ecosystem for entrepreneurship development through entrepreneurship education and training, advocacy and easy access to various components of entrepreneurship ecosystem. From FY 2023 -24, these activities will move to autonomous bodies namely IIE (S.No.5) a nd NIESBUD (S.No.6). 9.04. Strengthening of Infrastructure for Institutional Training: ..Strengthening of Infrastructure",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 2023.0,
+            "total": -24.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "9.05",
+        "name": "Strengthening of Skill Institutions: ..Strengthening of Skill Institutions: Budget provisions include grants to (i) National Instructional Media Institute (NIMI) for Development of Instructional Media Packages (IMPs) for courses under Craftsmen Training Scheme (CTS), (ii) Central Staff Training and Research Ins titute (CSTARI) for conducting staff training courses and carry out research for the Qualitative and Quantitative improvement of Vocational Training. From FY.2023 -24, these activities will be move to NIMI at S.No.7 and CSTARI under Secretariat head. 9.06. Support to Regulatory Institutions: ..Support to Regulatory Institutions : Under this scheme grants are given to National Council for Vocational Education and Training (NCVET) which is the only regulatory institutions under the Ministry for regulating th e functioning of entities engaged in vocational education and training, both long & short -term, and establish minimum standards for the functioning of such entities. From FY. 2023 -24, this activity will move to S.No.4. 9.07. Skill Acquisition and Knowled ge Awareness for Livelihood Promotion: ..Skill Acquisition and Knowledge",
+        "2024_budget": {
+          "revenue": -24.0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 2023.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "9.08",
+        "name": "Skill Strengthening for Industrial Value Enhancements: ..Skill Strengthening for Industrial",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 2023.0,
+            "total": -24.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      }
+    ],
+    "public_enterprises": []
+  },
+  "number": 92
+}

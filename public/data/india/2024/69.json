@@ -1,0 +1,560 @@
+{
+  "name": "MINISTRY OF MINES",
+  "demand": "DEMAND NO. 69",
+  "department": "Ministry of Mines",
+  "sections": {
+    "allocation": [
+      {
+        "index": "1",
+        "name": "Secretariat",
+        "2024_budget": {
+          "revenue": 69.93,
+          "capital": 0.55,
+          "total": 70.48
+        },
+        "2023": {
+          "budget": {
+            "revenue": 45.0,
+            "capital": 0,
+            "total": 45.0
+          },
+          "revised": {
+            "revenue": 45.62,
+            "capital": 0.58,
+            "total": 46.2
+          }
+        },
+        "2022_actual": {
+          "revenue": 35.32,
+          "capital": 0,
+          "total": 35.32
+        }
+      },
+      {
+        "index": "2",
+        "name": "Indian Bureau of Mines",
+        "2024_budget": {
+          "revenue": 109.67,
+          "capital": 0,
+          "total": 109.67
+        },
+        "2023": {
+          "budget": {
+            "revenue": 101.51,
+            "capital": 0,
+            "total": 101.51
+          },
+          "revised": {
+            "revenue": 95.51,
+            "capital": 0,
+            "total": 95.51
+          }
+        },
+        "2022_actual": {
+          "revenue": 86.7,
+          "capital": 0,
+          "total": 86.7
+        }
+      },
+      {
+        "index": "3",
+        "name": "Geological Survey of India",
+        "2024_budget": {
+          "revenue": 928.95,
+          "capital": 0,
+          "total": 928.95
+        },
+        "2023": {
+          "budget": {
+            "revenue": 780.5,
+            "capital": 0,
+            "total": 780.5
+          },
+          "revised": {
+            "revenue": 832.42,
+            "capital": 0,
+            "total": 832.42
+          }
+        },
+        "2022_actual": {
+          "revenue": 821.39,
+          "capital": 0,
+          "total": 821.39
+        }
+      },
+      {
+        "index": "4",
+        "name": "Support to Autonomous Bodies",
+        "2024_budget": {
+          "revenue": 27.58,
+          "capital": 0,
+          "total": 27.58
+        },
+        "2023": {
+          "budget": {
+            "revenue": 28.82,
+            "capital": 0,
+            "total": 28.82
+          },
+          "revised": {
+            "revenue": 28.82,
+            "capital": 0,
+            "total": 28.82
+          }
+        },
+        "2022_actual": {
+          "revenue": 31.72,
+          "capital": 0,
+          "total": 31.72
+        }
+      },
+      {
+        "index": "5",
+        "name": "Bharat Gold Mines Ltd.",
+        "2024_budget": {
+          "revenue": 8.0,
+          "capital": 0,
+          "total": 8.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 6.7,
+            "capital": 0,
+            "total": 6.7
+          },
+          "revised": {
+            "revenue": 5.58,
+            "capital": 0,
+            "total": 5.58
+          }
+        },
+        "2022_actual": {
+          "revenue": 9.0,
+          "capital": 0,
+          "total": 9.0
+        }
+      },
+      {
+        "index": "6",
+        "name": "Geological Survey of India Activities",
+        "2024_budget": {
+          "revenue": 336.79,
+          "capital": 34.26,
+          "total": 371.05
+        },
+        "2023": {
+          "budget": {
+            "revenue": 456.0,
+            "capital": 72.1,
+            "total": 528.1
+          },
+          "revised": {
+            "revenue": 441.64,
+            "capital": 71.52,
+            "total": 513.16
+          }
+        },
+        "2022_actual": {
+          "revenue": 376.13,
+          "capital": 55.86,
+          "total": 431.99
+        }
+      },
+      {
+        "index": "7",
+        "name": "Indian Bureau of Mines Activities",
+        "2024_budget": {
+          "revenue": 14.72,
+          "capital": 10.61,
+          "total": 25.33
+        },
+        "2023": {
+          "budget": {
+            "revenue": 15.95,
+            "capital": 5.02,
+            "total": 20.97
+          },
+          "revised": {
+            "revenue": 13.31,
+            "capital": 5.02,
+            "total": 18.33
+          }
+        },
+        "2022_actual": {
+          "revenue": 6.74,
+          "capital": 2.36,
+          "total": 9.1
+        }
+      },
+      {
+        "index": "8",
+        "name": "Transfer to National Mineral Exploration Fund",
+        "2024_budget": {
+          "revenue": 400.0,
+          "capital": 0,
+          "total": 400.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 400.0,
+            "capital": 0,
+            "total": 400.0
+          },
+          "revised": {
+            "revenue": 1296.5,
+            "capital": 0,
+            "total": 1296.5
+          }
+        },
+        "2022_actual": {
+          "revenue": 160.0,
+          "capital": 0,
+          "total": 160.0
+        }
+      },
+      {
+        "index": "9",
+        "name": "Programme Component",
+        "2024_budget": {
+          "revenue": 400.0,
+          "capital": 0,
+          "total": 400.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 400.0,
+            "capital": 0,
+            "total": 400.0
+          },
+          "revised": {
+            "revenue": 296.5,
+            "capital": 0,
+            "total": 296.5
+          }
+        },
+        "2022_actual": {
+          "revenue": 159.87,
+          "capital": 0,
+          "total": 159.87
+        }
+      },
+      {
+        "index": "10",
+        "name": "Amount met from National Mineral Exploration Fund",
+        "2024_budget": {
+          "revenue": -400.0,
+          "capital": 0,
+          "total": -400.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": -400.0,
+            "capital": 0,
+            "total": -400.0
+          },
+          "revised": {
+            "revenue": -296.5,
+            "capital": 0,
+            "total": -296.5
+          }
+        },
+        "2022_actual": {
+          "revenue": -159.87,
+          "capital": 0,
+          "total": -159.87
+        }
+      },
+      {
+        "index": "11",
+        "name": "Actual Recovery",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": -6.06,
+          "capital": 0,
+          "total": -6.06
+        }
+      }
+    ],
+    "development_heads": [
+      {
+        "index": "1",
+        "name": "Non-Ferrous Mining and Metallurgical Industries",
+        "2024_budget": {
+          "revenue": 1758.5,
+          "capital": 0,
+          "total": 1758.5
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1723.39,
+            "capital": 0,
+            "total": 1723.39
+          },
+          "revised": {
+            "revenue": 2647.69,
+            "capital": 0,
+            "total": 2647.69
+          }
+        },
+        "2022_actual": {
+          "revenue": 1485.62,
+          "capital": 0,
+          "total": 1485.62
+        }
+      },
+      {
+        "index": "2",
+        "name": "Secretariat -Economic Services",
+        "2024_budget": {
+          "revenue": 69.93,
+          "capital": 0,
+          "total": 69.93
+        },
+        "2023": {
+          "budget": {
+            "revenue": 45.0,
+            "capital": 0,
+            "total": 45.0
+          },
+          "revised": {
+            "revenue": 45.62,
+            "capital": 0,
+            "total": 45.62
+          }
+        },
+        "2022_actual": {
+          "revenue": 35.32,
+          "capital": 0,
+          "total": 35.32
+        }
+      },
+      {
+        "index": "3",
+        "name": "Capital Outlay on Non -Ferrous Mining and Metallurgical Industries",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 44.72,
+          "total": 44.72
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 75.81,
+            "total": 75.81
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 75.23,
+            "total": 75.23
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 58.22,
+          "total": 58.22
+        }
+      },
+      {
+        "index": "4",
+        "name": "Capital Outlay on Other General Economic Services",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0.55,
+          "total": 0.55
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0.58,
+            "total": 0.58
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "5",
+        "name": "North Eastern Areas",
+        "2024_budget": {
+          "revenue": 67.21,
+          "capital": 0,
+          "total": 67.21
+        },
+        "2023": {
+          "budget": {
+            "revenue": 66.09,
+            "capital": 0,
+            "total": 66.09
+          },
+          "revised": {
+            "revenue": 66.09,
+            "capital": 0,
+            "total": 66.09
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "6",
+        "name": "Capital Outlay on North Eastern Areas",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0.15,
+          "total": 0.15
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 1.31,
+            "total": 1.31
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 1.31,
+            "total": 1.31
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      }
+    ],
+    "public_enterprises": [
+      {
+        "index": "1",
+        "name": "Mineral Exploration Corporation Limited",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 12.0,
+          "total": 12.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 12.0,
+            "total": 12.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 12.0,
+            "total": 12.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 6.38,
+          "total": 6.38
+        }
+      },
+      {
+        "index": "2",
+        "name": "Hindustan Copper Limited",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 350.0,
+          "total": 350.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 350.0,
+            "total": 350.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 350.0,
+            "total": 350.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 381.28,
+          "total": 381.28
+        }
+      },
+      {
+        "index": "3",
+        "name": "National Aluminium Company Limited",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 2000.0,
+          "total": 2000.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 1800.0,
+            "total": 1800.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 1800.0,
+            "total": 1800.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 1816.78,
+          "total": 1816.78
+        }
+      },
+      {
+        "index": "4",
+        "name": "Other bodies",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 21.92,
+            "total": 21.92
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      }
+    ]
+  },
+  "number": 69
+}

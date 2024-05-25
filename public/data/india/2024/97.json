@@ -1,0 +1,508 @@
+{
+  "name": "MINISTRY OF STEEL",
+  "demand": "DEMAND NO. 97",
+  "department": "Ministry of Steel",
+  "sections": {
+    "allocation": [
+      {
+        "index": "1",
+        "name": "Secretariat",
+        "2024_budget": {
+          "revenue": 39.13,
+          "capital": 1.47,
+          "total": 40.6
+        },
+        "2023": {
+          "budget": {
+            "revenue": 41.47,
+            "capital": 2.17,
+            "total": 43.64
+          },
+          "revised": {
+            "revenue": 37.28,
+            "capital": 1.53,
+            "total": 38.81
+          }
+        },
+        "2022_actual": {
+          "revenue": 36.96,
+          "capital": 0,
+          "total": 36.96
+        }
+      },
+      {
+        "index": "2",
+        "name": "Product Linked Incentive (PLI) Scheme for Specialty Steel in India",
+        "2024_budget": {
+          "revenue": 270.0,
+          "capital": 0,
+          "total": 270.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 2.36,
+            "capital": 0,
+            "total": 2.36
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "3",
+        "name": "Scheme for Promotion of Research and Development in Iron and Steel sector",
+        "2024_budget": {
+          "revenue": 7.0,
+          "capital": 0,
+          "total": 7.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 10.0,
+            "capital": 0,
+            "total": 10.0
+          },
+          "revised": {
+            "revenue": 5.0,
+            "capital": 0,
+            "total": 5.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 4.49,
+          "capital": 0,
+          "total": 4.49
+        }
+      },
+      {
+        "index": "4",
+        "name": "Flagging of Merchant Ships in India",
+        "2024_budget": {
+          "revenue": 6.0,
+          "capital": 0,
+          "total": 6.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 14.0,
+            "capital": 0,
+            "total": 14.0
+          },
+          "revised": {
+            "revenue": 6.52,
+            "capital": 0,
+            "total": 6.52
+          }
+        },
+        "2022_actual": {
+          "revenue": 3.25,
+          "capital": 0,
+          "total": 3.25
+        }
+      },
+      {
+        "index": "5",
+        "name": "Other Programmes",
+        "2024_budget": {
+          "revenue": 2.06,
+          "capital": 0,
+          "total": 2.06
+        },
+        "2023": {
+          "budget": {
+            "revenue": 2.51,
+            "capital": 0,
+            "total": 2.51
+          },
+          "revised": {
+            "revenue": 1.86,
+            "capital": 0,
+            "total": 1.86
+          }
+        },
+        "2022_actual": {
+          "revenue": 1.34,
+          "capital": 0,
+          "total": 1.34
+        }
+      }
+    ],
+    "development_heads": [
+      {
+        "index": "1",
+        "name": "Industries",
+        "2024_budget": {
+          "revenue": 285.06,
+          "capital": 0,
+          "total": 285.06
+        },
+        "2023": {
+          "budget": {
+            "revenue": 26.51,
+            "capital": 0,
+            "total": 26.51
+          },
+          "revised": {
+            "revenue": 15.74,
+            "capital": 0,
+            "total": 15.74
+          }
+        },
+        "2022_actual": {
+          "revenue": 9.08,
+          "capital": 0,
+          "total": 9.08
+        }
+      },
+      {
+        "index": "2",
+        "name": "Secretariat -Economic Services",
+        "2024_budget": {
+          "revenue": 39.13,
+          "capital": 0,
+          "total": 39.13
+        },
+        "2023": {
+          "budget": {
+            "revenue": 41.47,
+            "capital": 0,
+            "total": 41.47
+          },
+          "revised": {
+            "revenue": 37.28,
+            "capital": 0,
+            "total": 37.28
+          }
+        },
+        "2022_actual": {
+          "revenue": 36.96,
+          "capital": 0,
+          "total": 36.96
+        }
+      },
+      {
+        "index": "3",
+        "name": "Capital Outlay on Other General Economic Services",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 1.47,
+          "total": 1.47
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 2.17,
+            "total": 2.17
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 1.53,
+            "total": 1.53
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      }
+    ],
+    "public_enterprises": [
+      {
+        "index": "1",
+        "name": "Steel Authority of India Limited",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 6300.0,
+          "total": 6300.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 6800.0,
+            "total": 6800.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 6000.0,
+            "total": 6000.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 5474.0,
+          "total": 5474.0
+        }
+      },
+      {
+        "index": "2",
+        "name": "Rashtriya Ispat Nigam Limited",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 620.0,
+          "total": 620.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 683.0,
+            "total": 683.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 683.0,
+            "total": 683.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 581.31,
+          "total": 581.31
+        }
+      },
+      {
+        "index": "3",
+        "name": "NMDC Limited",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 2200.0,
+          "total": 2200.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 1630.0,
+            "total": 1630.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 1769.0,
+            "total": 1769.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 1464.0,
+          "total": 1464.0
+        }
+      },
+      {
+        "index": "4",
+        "name": "KIOCL Limited",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 237.0,
+          "total": 237.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 286.88,
+            "total": 286.88
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 146.78,
+            "total": 146.78
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 422.83,
+          "total": 422.83
+        }
+      },
+      {
+        "index": "5",
+        "name": "Manganese Ore India Limited",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 309.3,
+          "total": 309.3
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 290.25,
+            "total": 290.25
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 294.88,
+            "total": 294.88
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 245.1,
+          "total": 245.1
+        }
+      },
+      {
+        "index": "6",
+        "name": "MECON Limited",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 16.0,
+          "total": 16.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 15.72,
+            "total": 15.72
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 15.72,
+            "total": 15.72
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 17.33,
+          "total": 17.33
+        }
+      },
+      {
+        "index": "7",
+        "name": "MSTC Limited",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 10.0,
+          "total": 10.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 5.0,
+            "total": 5.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 110.0,
+            "total": 110.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 20.12,
+          "total": 20.12
+        }
+      },
+      {
+        "index": "8",
+        "name": "Ferro Scrap Nigam Limited",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 18.0,
+          "total": 18.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 20.0,
+            "total": 20.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 20.0,
+            "total": 20.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 18.02,
+          "total": 18.02
+        }
+      },
+      {
+        "index": "9",
+        "name": "NMDC Steel Limited",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 615.0,
+          "total": 615.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 570.0,
+            "total": 570.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 1300.0,
+            "total": 1300.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 2283.0,
+          "total": 2283.0
+        }
+      },
+      {
+        "index": "10",
+        "name": "SAIL Refractory Company Limited",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 19.43,
+            "total": 19.43
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0.01,
+          "total": 0.01
+        }
+      },
+      {
+        "index": "11",
+        "name": "The OMDC Limited",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0.12,
+          "total": 0.12
+        }
+      }
+    ]
+  },
+  "number": 97
+}

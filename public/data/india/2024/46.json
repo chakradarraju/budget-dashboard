@@ -1,0 +1,2256 @@
+{
+  "name": "MINISTRY OF HEALTH AND FAMILY WELFARE",
+  "demand": "DEMAND NO. 46",
+  "department": "Department of Health and Family Welfare",
+  "sections": {
+    "allocation": [
+      {
+        "index": "1",
+        "name": "Secretariat",
+        "2024_budget": {
+          "revenue": 239.54,
+          "capital": 10.46,
+          "total": 250.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 262.4,
+            "capital": 5.0,
+            "total": 267.4
+          },
+          "revised": {
+            "revenue": 224.44,
+            "capital": 10.0,
+            "total": 234.44
+          }
+        },
+        "2022_actual": {
+          "revenue": 211.95,
+          "capital": 0,
+          "total": 211.95
+        }
+      },
+      {
+        "index": "2",
+        "name": "Direction and Administration",
+        "2024_budget": {
+          "revenue": 101.0,
+          "capital": 1.0,
+          "total": 102.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 80.21,
+            "capital": 0,
+            "total": 80.21
+          },
+          "revised": {
+            "revenue": 72.3,
+            "capital": 0.15,
+            "total": 72.45
+          }
+        },
+        "2022_actual": {
+          "revenue": 58.79,
+          "capital": 0,
+          "total": 58.79
+        }
+      },
+      {
+        "index": "3",
+        "name": "Central Government Health Scheme",
+        "2024_budget": {
+          "revenue": 1888.33,
+          "capital": 11.67,
+          "total": 1900.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 2137.94,
+            "capital": 82.3,
+            "total": 2220.24
+          },
+          "revised": {
+            "revenue": 1814.78,
+            "capital": 41.22,
+            "total": 1856.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 1777.2,
+          "capital": 12.02,
+          "total": 1789.22
+        }
+      },
+      {
+        "index": "4",
+        "name": "Safdarjung Hospital and Vardhman Mahavir Medical College, New Delhi",
+        "2024_budget": {
+          "revenue": 1708.85,
+          "capital": 125.15,
+          "total": 1834.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1698.34,
+            "capital": 155.0,
+            "total": 1853.34
+          },
+          "revised": {
+            "revenue": 1745.32,
+            "capital": 187.75,
+            "total": 1933.07
+          }
+        },
+        "2022_actual": {
+          "revenue": 1595.37,
+          "capital": 107.65,
+          "total": 1703.02
+        }
+      },
+      {
+        "index": "5",
+        "name": "Dr. Ram Manohar Lohia Hospital and Atal Bihari Vajpayee Institute of Medical Sciences, New Delhi",
+        "2024_budget": {
+          "revenue": 1051.83,
+          "capital": 558.17,
+          "total": 1610.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 901.43,
+            "capital": 370.75,
+            "total": 1272.18
+          },
+          "revised": {
+            "revenue": 923.35,
+            "capital": 380.75,
+            "total": 1304.1
+          }
+        },
+        "2022_actual": {
+          "revenue": 802.71,
+          "capital": 180.3,
+          "total": 983.01
+        }
+      },
+      {
+        "index": "6",
+        "name": "Lady Hardinge Medical College and Smt. S.K. Hospitals",
+        "2024_budget": {
+          "revenue": 649.0,
+          "capital": 101.0,
+          "total": 750.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 654.15,
+            "capital": 114.0,
+            "total": 768.15
+          },
+          "revised": {
+            "revenue": 582.0,
+            "capital": 43.0,
+            "total": 625.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 495.06,
+          "capital": 78.9,
+          "total": 573.96
+        }
+      },
+      {
+        "index": "7",
+        "name": "Kalawati Saran Children's Hospital, New Delhi",
+        "2024_budget": {
+          "revenue": 172.06,
+          "capital": 7.94,
+          "total": 180.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 159.23,
+            "capital": 9.3,
+            "total": 168.53
+          },
+          "revised": {
+            "revenue": 157.84,
+            "capital": 9.3,
+            "total": 167.14
+          }
+        },
+        "2022_actual": {
+          "revenue": 138.75,
+          "capital": 8.65,
+          "total": 147.4
+        }
+      },
+      {
+        "index": "8",
+        "name": "Other Hospitals / Institutions",
+        "2024_budget": {
+          "revenue": 1049.75,
+          "capital": 108.26,
+          "total": 1158.01
+        },
+        "2023": {
+          "budget": {
+            "revenue": 935.0,
+            "capital": 132.59,
+            "total": 1067.59
+          },
+          "revised": {
+            "revenue": 870.53,
+            "capital": 73.39,
+            "total": 943.92
+          }
+        },
+        "2022_actual": {
+          "revenue": 759.14,
+          "capital": 81.43,
+          "total": 840.57
+        }
+      },
+      {
+        "index": "9",
+        "name": "Pardhan Mantri Swasthya Suraksha Yojana 9.01 Support from Gross Budgetary Support (GBS)",
+        "2024_budget": {
+          "revenue": 70.0,
+          "capital": 2330.0,
+          "total": 2400.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 65.0,
+            "capital": 3300.0,
+            "total": 3365.0
+          },
+          "revised": {
+            "revenue": 57.0,
+            "capital": 1843.0,
+            "total": 1900.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 5048.17,
+          "capital": 2469.47,
+          "total": 7517.64
+        }
+      },
+      {
+        "index": "10.",
+        "name": "National AIDS and STD Control Programme"
+      },
+      {
+        "index": "10.01",
+        "name": "NACO",
+        "2024_budget": {
+          "revenue": 2884.48,
+          "capital": 7.52,
+          "total": 2892.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 2911.97,
+            "capital": 5.0,
+            "total": 2916.97
+          },
+          "revised": {
+            "revenue": 2295.0,
+            "capital": 5.0,
+            "total": 2300.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 1997.55,
+          "capital": 0,
+          "total": 1997.55
+        }
+      },
+      {
+        "index": "10.02",
+        "name": "Blood Transfusion Service",
+        "2024_budget": {
+          "revenue": 150.0,
+          "capital": 5.0,
+          "total": 155.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 152.89,
+            "capital": 8.11,
+            "total": 161.0
+          },
+          "revised": {
+            "revenue": 113.06,
+            "capital": 6.0,
+            "total": 119.06
+          }
+        },
+        "2022_actual": {
+          "revenue": 145.45,
+          "capital": 0,
+          "total": 145.45
+        }
+      },
+      {
+        "index": "10.03",
+        "name": "National/State Blood Transfusion Council",
+        "2024_budget": {
+          "revenue": 2.0,
+          "capital": 0,
+          "total": 2.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 2.0,
+            "capital": 0,
+            "total": 2.0
+          },
+          "revised": {
+            "revenue": 1.5,
+            "capital": 0,
+            "total": 1.5
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "11",
+        "name": "Global Fund Grant under Covid 19 Response Mechanism 2021(EAP)",
+        "2024_budget": {
+          "revenue": 10.0,
+          "capital": 452.0,
+          "total": 462.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 25.0,
+            "capital": 470.0,
+            "total": 495.0
+          },
+          "revised": {
+            "revenue": 15.0,
+            "capital": 0,
+            "total": 15.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "12",
+        "name": "Family Welfare Schemes",
+        "2024_budget": {
+          "revenue": 694.72,
+          "capital": 0,
+          "total": 694.72
+        },
+        "2023": {
+          "budget": {
+            "revenue": 516.6,
+            "capital": 0,
+            "total": 516.6
+          },
+          "revised": {
+            "revenue": 639.65,
+            "capital": 0,
+            "total": 639.65
+          }
+        },
+        "2022_actual": {
+          "revenue": 444.99,
+          "capital": 0,
+          "total": 444.99
+        }
+      },
+      {
+        "index": "13",
+        "name": "Establishment and strengthening of NCDC Branches and Health Initiatives Inter Sectoral coordination for preparation and control of Zoonotic Diseases and other neglected tropical diseases surveillance of Viral Hepatitis Anti Microbial Resistance",
+        "2024_budget": {
+          "revenue": 52.0,
+          "capital": 0,
+          "total": 52.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 55.54,
+            "capital": 0,
+            "total": 55.54
+          },
+          "revised": {
+            "revenue": 27.52,
+            "capital": 0,
+            "total": 27.52
+          }
+        },
+        "2022_actual": {
+          "revenue": 27.41,
+          "capital": 10.38,
+          "total": 37.79
+        }
+      },
+      {
+        "index": "14",
+        "name": "National Pharmacovigilance Programme",
+        "2024_budget": {
+          "revenue": 8.53,
+          "capital": 0,
+          "total": 8.53
+        },
+        "2023": {
+          "budget": {
+            "revenue": 8.53,
+            "capital": 0,
+            "total": 8.53
+          },
+          "revised": {
+            "revenue": 8.0,
+            "capital": 0,
+            "total": 8.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 9.84,
+          "capital": 0,
+          "total": 9.84
+        }
+      },
+      {
+        "index": "15",
+        "name": "Development of Nursing Services",
+        "2024_budget": {
+          "revenue": 22.0,
+          "capital": 0,
+          "total": 22.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 33.41,
+            "capital": 0,
+            "total": 33.41
+          },
+          "revised": {
+            "revenue": 23.4,
+            "capital": 0,
+            "total": 23.4
+          }
+        },
+        "2022_actual": {
+          "revenue": 24.5,
+          "capital": 0,
+          "total": 24.5
+        }
+      },
+      {
+        "index": "16",
+        "name": "Health Sector Disaster Preparedness and Response and Human Resources Development for Emergency Medical Services",
+        "2024_budget": {
+          "revenue": 45.17,
+          "capital": 48.83,
+          "total": 94.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 75.32,
+            "capital": 52.82,
+            "total": 128.14
+          },
+          "revised": {
+            "revenue": 51.68,
+            "capital": 20.0,
+            "total": 71.68
+          }
+        },
+        "2022_actual": {
+          "revenue": 54.42,
+          "capital": 20.59,
+          "total": 75.01
+        }
+      },
+      {
+        "index": "17",
+        "name": "National Organ Transplant Programme",
+        "2024_budget": {
+          "revenue": 14.33,
+          "capital": 0.67,
+          "total": 15.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 14.33,
+            "capital": 1.35,
+            "total": 15.68
+          },
+          "revised": {
+            "revenue": 10.66,
+            "capital": 0.34,
+            "total": 11.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 9.02,
+          "capital": 0.09,
+          "total": 9.11
+        }
+      },
+      {
+        "index": "18",
+        "name": "Pradhan Mantri Garib Kalyan Package - Insurance Scheme for Health Care Workers fighting COVID -19",
+        "2024_budget": {
+          "revenue": 0.1,
+          "capital": 0,
+          "total": 0.1
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0.01,
+            "capital": 0,
+            "total": 0.01
+          },
+          "revised": {
+            "revenue": 16.9,
+            "capital": 0,
+            "total": 16.9
+          }
+        },
+        "2022_actual": {
+          "revenue": 223.73,
+          "capital": 0,
+          "total": 223.73
+        }
+      },
+      {
+        "index": "19",
+        "name": "Pradhan Mantri Ayushman Bharat Health Infrastructure Mission (PMABHIM) (Health)",
+        "2024_budget": {
+          "revenue": 350.55,
+          "capital": 117.45,
+          "total": 468.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 531.36,
+            "capital": 114.5,
+            "total": 645.86
+          },
+          "revised": {
+            "revenue": 161.7,
+            "capital": 38.51,
+            "total": 200.21
+          }
+        },
+        "2022_actual": {
+          "revenue": 280.76,
+          "capital": 33.34,
+          "total": 314.1
+        }
+      },
+      {
+        "index": "20",
+        "name": "National Tele Mental Health Programme",
+        "2024_budget": {
+          "revenue": 100.0,
+          "capital": 0,
+          "total": 100.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 133.73,
+            "capital": 0,
+            "total": 133.73
+          },
+          "revised": {
+            "revenue": 65.0,
+            "capital": 0,
+            "total": 65.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 65.49,
+          "capital": 0,
+          "total": 65.49
+        }
+      },
+      {
+        "index": "21.",
+        "name": "COVID -19 Emergency Response and Health System Preparedness Package - EAP"
+      },
+      {
+        "index": "21.01",
+        "name": "National Rural Health Mission (NRHM)",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1.78,
+            "capital": 0,
+            "total": 1.78
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "22",
+        "name": "National Digital Health Mission - NHM",
+        "2024_budget": {
+          "revenue": 250.0,
+          "capital": 0,
+          "total": 250.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 341.02,
+            "capital": 0,
+            "total": 341.02
+          },
+          "revised": {
+            "revenue": 200.0,
+            "capital": 0,
+            "total": 200.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 83.94,
+          "capital": 0,
+          "total": 83.94
+        }
+      },
+      {
+        "index": "23",
+        "name": "Regulatory and Statutory Bodies",
+        "2024_budget": {
+          "revenue": 675.21,
+          "capital": 0,
+          "total": 675.21
+        },
+        "2023": {
+          "budget": {
+            "revenue": 639.1,
+            "capital": 0,
+            "total": 639.1
+          },
+          "revised": {
+            "revenue": 633.98,
+            "capital": 0,
+            "total": 633.98
+          }
+        },
+        "2022_actual": {
+          "revenue": 621.28,
+          "capital": 0,
+          "total": 621.28
+        }
+      },
+      {
+        "index": "24",
+        "name": "All India Institute of Medical Sciences, N Delhi 24.01 Support from Gross Budgetary Support (GBS)",
+        "2024_budget": {
+          "revenue": 4523.0,
+          "capital": 0,
+          "total": 4523.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 4134.67,
+            "capital": 0,
+            "total": 4134.67
+          },
+          "revised": {
+            "revenue": 4278.0,
+            "capital": 0,
+            "total": 4278.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 3430.6,
+          "capital": 0,
+          "total": 3430.6
+        }
+      },
+      {
+        "index": "24.02",
+        "name": "Support from National Investment Fund (NIF) 500.00 ... 500.00 ... ... ... ... ... ... ... ... ... 24.03 Payment of Interest on HEFA Loan 24.00 ... 24.00 ... ... ... ... ... ... ... ... ... 24.04 Repayment of Principal from HEFA Loan 269.54 ... 269.54 ... ... ... ... ... ... ... ... ... Total - All India Institute of Medical Sciences, N Delhi",
+        "2024_budget": {
+          "revenue": 4523.0,
+          "capital": 0,
+          "total": 4523.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 4134.67,
+            "capital": 0,
+            "total": 4134.67
+          },
+          "revised": {
+            "revenue": 4278.0,
+            "capital": 0,
+            "total": 4278.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 4224.14,
+          "capital": 0,
+          "total": 4224.14
+        }
+      },
+      {
+        "index": "25",
+        "name": "Post Graduate Institute of Medical Education and Research, Chandigarh 25.01 Support from Gross Budgetary Support (GBS)",
+        "2024_budget": {
+          "revenue": 2200.0,
+          "capital": 0,
+          "total": 2200.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1923.1,
+            "capital": 0,
+            "total": 1923.1
+          },
+          "revised": {
+            "revenue": 2123.0,
+            "capital": 0,
+            "total": 2123.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 1650.0,
+          "capital": 0,
+          "total": 1650.0
+        }
+      },
+      {
+        "index": "25.02",
+        "name": "Support from National Investment Fund (NIF) 200.00 ... 200.00 ... ... ... ... ... ... ... ... ... Total - Post Graduate Institute of Medical Education and Research, Chandigarh",
+        "2024_budget": {
+          "revenue": 2200.0,
+          "capital": 0,
+          "total": 2200.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1923.1,
+            "capital": 0,
+            "total": 1923.1
+          },
+          "revised": {
+            "revenue": 2123.0,
+            "capital": 0,
+            "total": 2123.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 1850.0,
+          "capital": 0,
+          "total": 1850.0
+        }
+      },
+      {
+        "index": "26",
+        "name": "Jawaharlal Institute of Post Graduate Medical Education and Research, Puducherry 26.01 Support from Gross Budgetary Support (GBS)",
+        "2024_budget": {
+          "revenue": 1440.0,
+          "capital": 0,
+          "total": 1440.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1490.43,
+            "capital": 0,
+            "total": 1490.43
+          },
+          "revised": {
+            "revenue": 1307.0,
+            "capital": 0,
+            "total": 1307.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 1182.0,
+          "capital": 0,
+          "total": 1182.0
+        }
+      },
+      {
+        "index": "27",
+        "name": "National Institute of Mental Health and Neuro - Sciences, Bengaluru",
+        "2024_budget": {
+          "revenue": 850.0,
+          "capital": 0,
+          "total": 850.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 721.15,
+            "capital": 0,
+            "total": 721.15
+          },
+          "revised": {
+            "revenue": 750.54,
+            "capital": 0,
+            "total": 750.54
+          }
+        },
+        "2022_actual": {
+          "revenue": 678.04,
+          "capital": 0,
+          "total": 678.04
+        }
+      },
+      {
+        "index": "28",
+        "name": "North Eastern Indira Gandhi Regional Institute of Health and Medical Sciences, Shillong",
+        "2024_budget": {
+          "revenue": 500.0,
+          "capital": 0,
+          "total": 500.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 528.83,
+            "capital": 0,
+            "total": 528.83
+          },
+          "revised": {
+            "revenue": 455.67,
+            "capital": 0,
+            "total": 455.67
+          }
+        },
+        "2022_actual": {
+          "revenue": 458.25,
+          "capital": 0,
+          "total": 458.25
+        }
+      },
+      {
+        "index": "29",
+        "name": "Regional Institue of Medical Sciences, Imphal",
+        "2024_budget": {
+          "revenue": 619.0,
+          "capital": 0,
+          "total": 619.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 629.16,
+            "capital": 0,
+            "total": 629.16
+          },
+          "revised": {
+            "revenue": 611.0,
+            "capital": 0,
+            "total": 611.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 618.26,
+          "capital": 0,
+          "total": 618.26
+        }
+      },
+      {
+        "index": "30",
+        "name": "Regional Institute of Paramedical and Nursing Sciences, Aizawl",
+        "2024_budget": {
+          "revenue": 130.0,
+          "capital": 0,
+          "total": 130.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 125.04,
+            "capital": 0,
+            "total": 125.04
+          },
+          "revised": {
+            "revenue": 115.04,
+            "capital": 0,
+            "total": 115.04
+          }
+        },
+        "2022_actual": {
+          "revenue": 108.5,
+          "capital": 0,
+          "total": 108.5
+        }
+      },
+      {
+        "index": "31",
+        "name": "Lokpriya Gopinath Bordoloi Regional Institute of Mental Health, Tezpur",
+        "2024_budget": {
+          "revenue": 60.0,
+          "capital": 0,
+          "total": 60.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 63.66,
+            "capital": 0,
+            "total": 63.66
+          },
+          "revised": {
+            "revenue": 72.53,
+            "capital": 0,
+            "total": 72.53
+          }
+        },
+        "2022_actual": {
+          "revenue": 58.3,
+          "capital": 0,
+          "total": 58.3
+        }
+      },
+      {
+        "index": "32",
+        "name": "Establishment Expenditure of New AIIMS",
+        "2024_budget": {
+          "revenue": 6800.0,
+          "capital": 0,
+          "total": 6800.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 6835.0,
+            "capital": 0,
+            "total": 6835.0
+          },
+          "revised": {
+            "revenue": 6735.0,
+            "capital": 0,
+            "total": 6735.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "33",
+        "name": "Other Autonomous Bodies 33.01 Support from Gross Budgetary Support (GBS)",
+        "2024_budget": {
+          "revenue": 883.65,
+          "capital": 0,
+          "total": 883.65
+        },
+        "2023": {
+          "budget": {
+            "revenue": 871.51,
+            "capital": 0,
+            "total": 871.51
+          },
+          "revised": {
+            "revenue": 803.12,
+            "capital": 0,
+            "total": 803.12
+          }
+        },
+        "2022_actual": {
+          "revenue": 815.17,
+          "capital": 0,
+          "total": 815.17
+        }
+      },
+      {
+        "index": "34",
+        "name": "Medical Treatment of CGHS Pensioners (PORB)",
+        "2024_budget": {
+          "revenue": 4200.0,
+          "capital": 0,
+          "total": 4200.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 3846.19,
+            "capital": 0,
+            "total": 3846.19
+          },
+          "revised": {
+            "revenue": 4296.4,
+            "capital": 0,
+            "total": 4296.4
+          }
+        },
+        "2022_actual": {
+          "revenue": 4630.67,
+          "capital": 0,
+          "total": 4630.67
+        }
+      },
+      {
+        "index": "35.",
+        "name": "Purchase of Material in India and Abroad"
+      },
+      {
+        "index": "35.01",
+        "name": "Gross Budgetary Support",
+        "2024_budget": {
+          "revenue": 390.0,
+          "capital": 0,
+          "total": 390.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 375.0,
+            "capital": 0,
+            "total": 375.0
+          },
+          "revised": {
+            "revenue": 375.0,
+            "capital": 0,
+            "total": 375.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 357.86,
+          "capital": 0,
+          "total": 357.86
+        }
+      },
+      {
+        "index": "35.02",
+        "name": "Less Recoveries",
+        "2024_budget": {
+          "revenue": -390.0,
+          "capital": 0,
+          "total": -390.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": -375.0,
+            "capital": 0,
+            "total": -375.0
+          },
+          "revised": {
+            "revenue": -375.0,
+            "capital": 0,
+            "total": -375.0
+          }
+        },
+        "2022_actual": {
+          "revenue": -465.99,
+          "capital": 0,
+          "total": -465.99
+        }
+      },
+      {
+        "index": "36",
+        "name": "International Cooperation",
+        "2024_budget": {
+          "revenue": 94.0,
+          "capital": 50.0,
+          "total": 144.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 192.0,
+            "capital": 62.0,
+            "total": 254.0
+          },
+          "revised": {
+            "revenue": 111.0,
+            "capital": 45.0,
+            "total": 156.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 72.93,
+          "capital": 30.0,
+          "total": 102.93
+        }
+      },
+      {
+        "index": "37.",
+        "name": "Other Miscellaneous Expenditure"
+      },
+      {
+        "index": "37.01",
+        "name": "Gross Budgetary Support",
+        "2024_budget": {
+          "revenue": 195.43,
+          "capital": 0,
+          "total": 195.43
+        },
+        "2023": {
+          "budget": {
+            "revenue": 242.59,
+            "capital": 5.43,
+            "total": 248.02
+          },
+          "revised": {
+            "revenue": 165.38,
+            "capital": 5.43,
+            "total": 170.81
+          }
+        },
+        "2022_actual": {
+          "revenue": 77.01,
+          "capital": 14.87,
+          "total": 91.88
+        }
+      },
+      {
+        "index": "38",
+        "name": "Support from National Investment Fund (NIF) 2918.98 ... 2918.98 ... ... ... ... ... ... ... ... ... 39. Amount met from National Investment Fund (NIF) -2918.98 ... -2918.98 ... ... ... ... ... ... ... ... ... Total -Others",
+        "2024_budget": {
+          "revenue": 4489.43,
+          "capital": 50.0,
+          "total": 4539.43
+        },
+        "2023": {
+          "budget": {
+            "revenue": 4280.78,
+            "capital": 67.43,
+            "total": 4348.21
+          },
+          "revised": {
+            "revenue": 4572.78,
+            "capital": 50.43,
+            "total": 4623.21
+          }
+        },
+        "2022_actual": {
+          "revenue": 4672.48,
+          "capital": 44.87,
+          "total": 4717.35
+        }
+      },
+      {
+        "index": "40.",
+        "name": "Flexible Pool for RCH & Health System Strengthening , National Health Programme and National Urban Health Mission"
+      },
+      {
+        "index": "40.01",
+        "name": "Gross Budgetary Support (GBS)",
+        "2024_budget": {
+          "revenue": 29093.5,
+          "capital": 0,
+          "total": 29093.5
+        },
+        "2023": {
+          "budget": {
+            "revenue": 25638.57,
+            "capital": 0,
+            "total": 25638.57
+          },
+          "revised": {
+            "revenue": 27094.42,
+            "capital": 0,
+            "total": 27094.42
+          }
+        },
+        "2022_actual": {
+          "revenue": 19772.26,
+          "capital": 0,
+          "total": 19772.26
+        }
+      },
+      {
+        "index": "40.03",
+        "name": "Support from PMSSN",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0.5,
+          "total": 0.5
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0.52,
+            "total": 0.52
+          }
+        },
+        "2022_actual": {
+          "revenue": 5838.0,
+          "capital": 0,
+          "total": 5838.0
+        }
+      },
+      {
+        "index": "41.",
+        "name": "Infrastructure Maintenance"
+      },
+      {
+        "index": "41.01",
+        "name": "Gross Budgetary Support (GBS)",
+        "2024_budget": {
+          "revenue": 3831.32,
+          "capital": 0,
+          "total": 3831.32
+        },
+        "2023": {
+          "budget": {
+            "revenue": 5498.37,
+            "capital": 0,
+            "total": 5498.37
+          },
+          "revised": {
+            "revenue": 6079.66,
+            "capital": 0,
+            "total": 6079.66
+          }
+        },
+        "2022_actual": {
+          "revenue": 2569.69,
+          "capital": 0,
+          "total": 2569.69
+        }
+      },
+      {
+        "index": "41.02",
+        "name": "Support from PMSSN",
+        "2024_budget": {
+          "revenue": 3168.68,
+          "capital": 0,
+          "total": 3168.68
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1300.0,
+            "capital": 0,
+            "total": 1300.0
+          },
+          "revised": {
+            "revenue": 1900.0,
+            "capital": 0,
+            "total": 1900.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 4358.12,
+          "capital": 0,
+          "total": 4358.12
+        }
+      },
+      {
+        "index": "42",
+        "name": "Strengthening National Programme Management of the NRHM",
+        "2024_budget": {
+          "revenue": 217.0,
+          "capital": 0,
+          "total": 217.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 192.32,
+            "capital": 0,
+            "total": 192.32
+          },
+          "revised": {
+            "revenue": 239.96,
+            "capital": 0,
+            "total": 239.96
+          }
+        },
+        "2022_actual": {
+          "revenue": 174.92,
+          "capital": 0,
+          "total": 174.92
+        }
+      },
+      {
+        "index": "43",
+        "name": "Strengthening of State Drug Regulatory System",
+        "2024_budget": {
+          "revenue": 75.0,
+          "capital": 0,
+          "total": 75.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 72.14,
+            "capital": 0,
+            "total": 72.14
+          },
+          "revised": {
+            "revenue": 52.0,
+            "capital": 0,
+            "total": 52.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 22.87,
+          "capital": 0,
+          "total": 22.87
+        }
+      },
+      {
+        "index": "44",
+        "name": "Tertiary Care Programme",
+        "2024_budget": {
+          "revenue": 366.55,
+          "capital": 5.0,
+          "total": 371.55
+        },
+        "2023": {
+          "budget": {
+            "revenue": 288.62,
+            "capital": 1.19,
+            "total": 289.81
+          },
+          "revised": {
+            "revenue": 276.39,
+            "capital": 0,
+            "total": 276.39
+          }
+        },
+        "2022_actual": {
+          "revenue": 301.42,
+          "capital": 3.13,
+          "total": 304.55
+        }
+      },
+      {
+        "index": "45",
+        "name": "Human Resources for Health and Medical Education",
+        "2024_budget": {
+          "revenue": 5016.0,
+          "capital": 0,
+          "total": 5016.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 6500.0,
+            "capital": 0,
+            "total": 6500.0
+          },
+          "revised": {
+            "revenue": 1519.87,
+            "capital": 0,
+            "total": 1519.87
+          }
+        },
+        "2022_actual": {
+          "revenue": 1974.87,
+          "capital": 0,
+          "total": 1974.87
+        }
+      },
+      {
+        "index": "46",
+        "name": "Senior Citizen Health Insurance Scheme",
+        "2024_budget": {
+          "revenue": 0.02,
+          "capital": 0,
+          "total": 0.02
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0.01,
+            "capital": 0,
+            "total": 0.01
+          },
+          "revised": {
+            "revenue": 1.32,
+            "capital": 0,
+            "total": 1.32
+          }
+        },
+        "2022_actual": {
+          "revenue": 24.7,
+          "capital": 0,
+          "total": 24.7
+        }
+      },
+      {
+        "index": "47",
+        "name": "Pradhan Mantri Ayushman Bharat Health Infrastructure Mission (PMABHIM)",
+        "2024_budget": {
+          "revenue": 4107.68,
+          "capital": 0,
+          "total": 4107.68
+        },
+        "2023": {
+          "budget": {
+            "revenue": 4200.0,
+            "capital": 0,
+            "total": 4200.0
+          },
+          "revised": {
+            "revenue": 2100.0,
+            "capital": 0,
+            "total": 2100.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 1228.35,
+          "capital": 0,
+          "total": 1228.35
+        }
+      },
+      {
+        "index": "48",
+        "name": "Rashtriya Swasthya Bima Yojna (RSBY) 48.01 Support from Gross Budgetary Support (GBS)",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0.01,
+            "capital": 0,
+            "total": 0.01
+          },
+          "revised": {
+            "revenue": 81.21,
+            "capital": 0,
+            "total": 81.21
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "49.",
+        "name": "Ayushman Bharat - Pradhan Mantri Jan Arogya Yojana (PMJAY)"
+      },
+      {
+        "index": "49.01",
+        "name": "Gross Budgetary Support",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 411.0,
+          "total": 411.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 411.0,
+            "total": 411.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "49.02",
+        "name": "Support from (PMSSN)",
+        "2024_budget": {
+          "revenue": 7089.0,
+          "capital": 0,
+          "total": 7089.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 6789.0,
+            "capital": 0,
+            "total": 6789.0
+          },
+          "revised": {
+            "revenue": 6800.0,
+            "capital": 0,
+            "total": 6800.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 6185.8,
+          "capital": 0,
+          "total": 6185.8
+        }
+      },
+      {
+        "index": "50.",
+        "name": "Pradhan Mantri Swasthya Suraksha Nidhi (PMSSN)"
+      },
+      {
+        "index": "50.01",
+        "name": "Transfer to PMSSN",
+        "2024_budget": {
+          "revenue": 14757.68,
+          "capital": 0,
+          "total": 14757.68
+        },
+        "2023": {
+          "budget": {
+            "revenue": 14589.0,
+            "capital": 0,
+            "total": 14589.0
+          },
+          "revised": {
+            "revenue": 9869.87,
+            "capital": 0,
+            "total": 9869.87
+          }
+        },
+        "2022_actual": {
+          "revenue": 18339.27,
+          "capital": 0,
+          "total": 18339.27
+        }
+      },
+      {
+        "index": "50.02",
+        "name": "Amount met from PMSSN",
+        "2024_budget": {
+          "revenue": -14757.68,
+          "capital": 0,
+          "total": -14757.68
+        },
+        "2023": {
+          "budget": {
+            "revenue": -14589.0,
+            "capital": 0,
+            "total": -14589.0
+          },
+          "revised": {
+            "revenue": -9869.87,
+            "capital": 0,
+            "total": -9869.87
+          }
+        },
+        "2022_actual": {
+          "revenue": -18339.27,
+          "capital": 0,
+          "total": -18339.27
+        }
+      },
+      {
+        "index": "51",
+        "name": "Actual Recoveries",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": -379.75,
+          "capital": -0.28,
+          "total": -380.03
+        }
+      }
+    ],
+    "development_heads": [
+      {
+        "index": "1",
+        "name": "Council of Ministers",
+        "2024_budget": {
+          "revenue": 2.0,
+          "capital": 0,
+          "total": 2.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 2.88,
+            "capital": 0,
+            "total": 2.88
+          },
+          "revised": {
+            "revenue": 1.04,
+            "capital": 0,
+            "total": 1.04
+          }
+        },
+        "2022_actual": {
+          "revenue": 0.31,
+          "capital": 0,
+          "total": 0.31
+        }
+      },
+      {
+        "index": "2",
+        "name": "Pensions and other Retirement Benefits",
+        "2024_budget": {
+          "revenue": 4200.0,
+          "capital": 0,
+          "total": 4200.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 3846.19,
+            "capital": 0,
+            "total": 3846.19
+          },
+          "revised": {
+            "revenue": 4296.4,
+            "capital": 0,
+            "total": 4296.4
+          }
+        },
+        "2022_actual": {
+          "revenue": 4628.73,
+          "capital": 0,
+          "total": 4628.73
+        }
+      },
+      {
+        "index": "3",
+        "name": "Medical and Public Health",
+        "2024_budget": {
+          "revenue": 34368.69,
+          "capital": 0,
+          "total": 34368.69
+        },
+        "2023": {
+          "budget": {
+            "revenue": 33655.67,
+            "capital": 0,
+            "total": 33655.67
+          },
+          "revised": {
+            "revenue": 31988.81,
+            "capital": 0,
+            "total": 31988.81
+          }
+        },
+        "2022_actual": {
+          "revenue": 30354.1,
+          "capital": 0,
+          "total": 30354.1
+        }
+      },
+      {
+        "index": "4",
+        "name": "Family Welfare",
+        "2024_budget": {
+          "revenue": 1602.23,
+          "capital": 0,
+          "total": 1602.23
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1353.05,
+            "capital": 0,
+            "total": 1353.05
+          },
+          "revised": {
+            "revenue": 1440.58,
+            "capital": 0,
+            "total": 1440.58
+          }
+        },
+        "2022_actual": {
+          "revenue": 1057.51,
+          "capital": 0,
+          "total": 1057.51
+        }
+      },
+      {
+        "index": "5",
+        "name": "Social Security and Welfare",
+        "2024_budget": {
+          "revenue": 0.1,
+          "capital": 0,
+          "total": 0.1
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0.1,
+            "capital": 0,
+            "total": 0.1
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "6",
+        "name": "Secretariat -Social Services",
+        "2024_budget": {
+          "revenue": 239.54,
+          "capital": 0,
+          "total": 239.54
+        },
+        "2023": {
+          "budget": {
+            "revenue": 262.4,
+            "capital": 0,
+            "total": 262.4
+          },
+          "revised": {
+            "revenue": 224.44,
+            "capital": 0,
+            "total": 224.44
+          }
+        },
+        "2022_actual": {
+          "revenue": 211.72,
+          "capital": 0,
+          "total": 211.72
+        }
+      },
+      {
+        "index": "7",
+        "name": "Capital Outlay on Medical and Public Health",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 4249.55,
+          "total": 4249.55
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 5205.85,
+            "total": 5205.85
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 2615.67,
+            "total": 2615.67
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 3029.15,
+          "total": 3029.15
+        }
+      },
+      {
+        "index": "8",
+        "name": "Capital Outlay on Family Welfare",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 12.34,
+          "total": 12.34
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 4.21,
+            "total": 4.21
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 3.64,
+            "total": 3.64
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 2.14,
+          "total": 2.14
+        }
+      },
+      {
+        "index": "9",
+        "name": "Capital Outlay on Housing",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 29.0,
+          "total": 29.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 35.25,
+            "total": 35.25
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 30.0,
+            "total": 30.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 19.25,
+          "total": 19.25
+        }
+      },
+      {
+        "index": "10",
+        "name": "Capital Outlay on other Social Services",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 10.46,
+          "total": 10.46
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 5.0,
+            "total": 5.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 10.0,
+            "total": 10.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "11",
+        "name": "North Eastern Areas",
+        "2024_budget": {
+          "revenue": 6602.48,
+          "capital": 0,
+          "total": 6602.48
+        },
+        "2023": {
+          "budget": {
+            "revenue": 6445.87,
+            "capital": 0,
+            "total": 6445.87
+          },
+          "revised": {
+            "revenue": 5834.03,
+            "capital": 0,
+            "total": 5834.03
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "12",
+        "name": "Grants -in-aid to State Governments",
+        "2024_budget": {
+          "revenue": 34825.24,
+          "capital": 0,
+          "total": 34825.24
+        },
+        "2023": {
+          "budget": {
+            "revenue": 34154.92,
+            "capital": 0,
+            "total": 34154.92
+          },
+          "revised": {
+            "revenue": 30123.21,
+            "capital": 0,
+            "total": 30123.21
+          }
+        },
+        "2022_actual": {
+          "revenue": 33266.28,
+          "capital": 0,
+          "total": 33266.28
+        }
+      },
+      {
+        "index": "13",
+        "name": "Grants -in-aid to Union Territory Governments",
+        "2024_budget": {
+          "revenue": 1465.0,
+          "capital": 0,
+          "total": 1465.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1153.58,
+            "capital": 0,
+            "total": 1153.58
+          },
+          "revised": {
+            "revenue": 1006.92,
+            "capital": 0,
+            "total": 1006.92
+          }
+        },
+        "2022_actual": {
+          "revenue": 739.11,
+          "capital": 0,
+          "total": 739.11
+        }
+      },
+      {
+        "index": "14",
+        "name": "Aid Materials and Equipment ... ... ... ... ... ... ... ... ... ... ... ... 15. Capital Outlay on North Eastern Areas",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 50.27,
+          "total": 50.27
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 50.03,
+            "total": 50.03
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 50.05,
+            "total": 50.05
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      }
+    ],
+    "public_enterprises": [
+      {
+        "index": "1",
+        "name": "HLL Lifecare Ltd",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 15.0,
+          "total": 15.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 17.85,
+            "total": 17.85
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 83.0,
+            "total": 83.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 14.75,
+          "total": 14.75
+        }
+      },
+      {
+        "index": "2",
+        "name": "HLL India Tech Services Ltd",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 38.31,
+          "total": 38.31
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 28.7,
+            "total": 28.7
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 36.96,
+            "total": 36.96
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 33.6,
+          "total": 33.6
+        }
+      },
+      {
+        "index": "3",
+        "name": "Goa Antibiotics and Pharmaceuticals Ltd",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 5.67,
+          "total": 5.67
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 5.25,
+            "total": 5.25
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 5.25,
+            "total": 5.25
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 5.41,
+          "total": 5.41
+        }
+      },
+      {
+        "index": "4",
+        "name": "Safdarjung Hospital and Vardhman Mahavir Medical College, New Delhi: ..It is a Central Govt. Hospital providing medical care. It also extends free Ayurvedic OPD, Homoeopathic OPD within its premises. The hospital has a medical college associated with it namely Vardhman Mahavir Medical College. 5. Dr. Ram Manohar Lohia Hospital and Atal Bihari Vajpayee Institute of Medical Sciences, New Delhi: ..It is a Central Govt. Hospital having a Nursing Home for Central Government employees, Members of Parlia ment, etc. The hospital is also a training centre for the under -graduate students of Lady Hardinge Medical College. A School of Nursing is also being run by this hospital. The Hospital has a Medical College associated withit a nemely Atal Bihari Vajpayee I nstitute of Medical Sciences. 6. Lady Hardinge Medical College and Smt. S.K. Hospitals: ..It is run by the Central Government to provide undergraduate and post graduate medical education for women, postgraduate medical education for male students and medic al care for women and children. The college has associated hospitals, viz., Smt. Sucheta Kriplani Hospital and Kalawati Saran Children's Hospital for comprehensive practical training to students. It also runs the School of Nursing offering nursing and midw ifery courses. 7. Kalawati Saran Children's Hospital, New Delhi: ..The hospital specialises children's diseases and is managed by Lady Hardinge Medical College. It provides facilities in Pediatrics, Surgery, Orthopedics and intensive care facilities for ch ildren. 8. Other Hospitals / Institutions: ..It provide for establishment expenditure of various subordinate offices and institutions of medical education, training and research viz. Central Institute of Psychiatry, Ranchi, All India Institute of Physical Medicine and Rehabilitation, Mumbai, RAK College of Nursing, New Delhi, Central/Regional Leprosy training research institutes, Port Health Estt. Including APHO, Central Drugs Standard Control Org., BCG Vaccine Laboratory, Guindy, Chennai, CRI, Kasauli, AII H & PH, Kolkata, CCTC Singur, Regional Health Offices, F.W. Training and Research Centre, Bombay, Rural Health Training Centre, Najafgarh etc. 9. Pardhan Mantri Swasthya Suraksha Yojana: ..It has been launched with the objective of correcting regional imba lances in the availability of affordable/reliable tertiary healthcare services and to also augment facilities for quality medical education in the country. The Pradhan Mantri Swasthya Suraksha Yojana (PMSSY) envisages creation of tertiary healthcare capaci ty in medical education, research and clinical care, in the underserved areas of the country. It aims at correcting regional imbalances in the availability of affordable/reliable tertiary healthcare services and also augmenting facilities for quality medi cal education in the country. The scheme has two broad components: (a) Setting up of All India Institute of Medical Sciences (AIIMS); and (b) Up -gradation of existing Government Medical Colleges/Institutions (GMCIs). So far, establishment of",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 75.0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 22.0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "10",
+        "name": "National AIDS and STD Control Programme: ..National AIDS and STD Control Programme . These include activities for (A) Prevention including (i) Targeted Intervention among High Risk Groups and Bridge population, (ii) Information , Education and Communication activities in States and UTs, (iii) Treatment of Sexual Transmission Infection, (iv) Blood safety and quality assurance, (v) Provision of Integrated Counseling & Testing fac ilities including prevention of Parent to Child Transmission, (vi) Rural outreach through Link Worker Scheme, (B) Activities for providing Care, Support & Treatment to People living with HIV / AIDS, ( C) Capacity Building , and (D) Strategic Information Ma nagement. (BTS) Comprises more than 3700 Blood centres in the Country licensed Blood Centers in Government/NGOs, Private Sectors of which 1131 are NACO supported Blood centers could be hospital based or stand -alone. The BTS comprises of - 26 Regional Tra ining Centers, 34 Model Blood Centers,367 Blood Component Separating Unit (BCSU), 186 Major Blood Centers, 544 District Level Blood Banks (DLBB). NBTC is the policy formulating apex body for all matters pertaining to the organisation, operation, standards and training of a sustainable and safe blood transfusion service for the country. 11. Global Fund Grant under Covid 19 Response Mechanism 2021(EAP): ..Global fund is providing 100% grant for mobile PSA units, Advance Life Support Ambulances. Pressure Swing Adsorption plants, training causal booster pumps, training courses booster pump fo cylinder refilling procurement of D type Oxygen cylender and national level training workshop on Oxygen management and administrative capacity building. 12. Family Welfare Schemes: ..The scheme provides for Swastha Nagrik Abhiyan (SNA), Population Research Centres, Health Surveys & Research Studies, procurement of Contraceptives for Social Marketing and Free Distribution, Training of Doctors in No Scalpal Vasectomy /Recanali sation Technique etc. 13. Establishment and strengthening of NCDC Branches and Health Initiatives Inter Sectoral coordination for preparation and control of Zoonotic Diseases and other neglected tropical diseases surveillance of Viral Hepatitis Anti Micro bial Resistance: ..The scheme is envisaged as a centre - par-excellence to give impetus to the advancement of knowledge in the field of prevention and control of communicable/infectious diseases of public health importance and Strengthening of other Health In itiatives. Up to 2017 -18, the schemes viz Strengthening of existing branches & establishment of 27 branches of NCDC, Strengthening intersectoral coordination of prevention and control of Zoonotic diseases, Viral Hepatitis and Anti-Micro Resistance were sep",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 2018.0,
+          "total": -19.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "17",
+        "name": "National Organ Transplant Programme: ..The objec tive of the scheme is to organize a system of organ procurement and distribution for deserving cases for transplantation. 18. Pradhan Mantri Garib Kalyan Package - Insurance Scheme for Health Care Workers fighting COVID -19:..Pradhan Mantri Garib Kalyan Pa ckage (PMGKP) Insurance Scheme for Health Workers fighting CIOVID -19:- This is a Central Sector Insurance Scheme for Health Workers fighting COVID -19 Pandemic being implemented with effect from 30.3.2020 to provide an insurance cover of ..`.50.00 lakhs to the health workers. The Scheme has been extended from time to time periodically and being extended during the financial year 2022 -23. The Scheme was to provide a safety net to Health Workers fighting COVID -19 Pandemic and working as front -line workers in case of loss of life due to COVID -19 Pandemic or accidental death. A Token is kept to catre past year libalities. .. 19. Pradhan Mantri Ayushman Bharat Health Infrastructure Mission (PMABHIM) (Health): ..Pradhan Mantri Ayushman Bharat Health Infrastructure Mission (PM ABHIM) - This is a Centrally Sponsored Scheme with some Central Sector",
+        "2024_budget": {
+          "revenue": 2025.0,
+          "capital": -26.0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 5.0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 2021.0,
+            "capital": -22.0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "20",
+        "name": "National Tele Mental Health Programme: ..To Provide universal access to equitable, accessible, affordable and quality mental health care thro ugh 24x7 tele -mental health counselling services as a digital component of the National Mental Health Programme (NMHP) across all Indian States and UTs with assured lnkages. 22. National Digital Health Mission - NHM: ..It provides for creating a National D igital Health Eco -System that supports universal health Coverage in an efficient, accessible, inclusive, affordable, timely and safe manner through provision of a wide range of data, information and infrastructure services, duly leveraging, open, interoper able, standards based digital systems, and ensuring the security, confidentiality and privacy of health related personal information. 23. Regulatory and Statutory Bodies: ..FSSAI - It has been established under the Food Safety and Standrads Act, 2006 for l aying down the science based standards for articles of food and to regulate their manufacture, storage, distribution, sale and import, to ensure availability of safe and wholesome food for human consumption. IPC - It provide for performing activities to Publish Indian Pharmacopeia and its Addendum, to develop and validate the Indian Pharmacopeia Reference Substances (IPRS) and Impurity Standards, Skill Development of Drugs Analyst, Drugs Inspectors and Stakeholders etc NMC - It is a statutory body with the responsibility of establishing and maintaining high standards of medical education and recognition of medical qualifications in India. It registers doctors to practice in India, in order to protect and promote the health and safety of the public by ens uring proper standards in the practice of medicine. DCI - It is a Statutory Body incorporated under an Act of Parliament viz. The Dentists Act, 1948 (XVI of 1948) to regulate the Dental Education and the profession of Dentistry throughout India. PCI - It is a statutory body governed to regulate Pharmacy education and profession upto graduate lavel and prescribe minimum standard of education required for qualifying as pharmacist. INC - It is a statutory body constituted by the Central Government under section 3(1) of the Indian Nursing Council Act, 1947 to establish a uniform standard of training for nurses, Midwives and health visitors. NAMS - It is a unique institution which fosters and utilizes academic excellence as its resource to meet medical a nd social goals, established under Societies Registration Act XXI of 1860. NBE - It is an independent autonomous body of its kind in the country in the field of medical sciences with the prime objective of improving the quality of the medical education b y elevating the level and establishing standards of post graduate examinations in modern medicine on an all india basis. 24. All India Institute of Medical Sciences, N Delhi: ..It has been set up by an Act of Parliament in 1956 as a premier institution to conduct experiments and research on various disciplines of medical services. Dr. Rajendra Prasad Centre for Opthalmic Sciences is attached to it. 25. Post Graduate Institute of Medical Education and Research, Chandigarh: ..It was set up by an Act of Parlia ment as an Institute of National importance having the same functions as AIIMS, New Delhi, but in the field of post -graduate medical education. The Institute is wholly financed by Central Govt. and is a centre for medical education research and specialized hospital services. 26. Jawaharlal Institute of Post Graduate Medical Education and Research, Puducherry: ..The institute seeks to be model health system of India through innovations in education, patients oriented research, population health and service e xcellence. Its mission is to develop compassionate, ethically sound health professional and provide service of the highest order across the healthcare continuum, through innovations in education that yield lifelong learners and leaders in healthcare. 27. National Institute of Mental Health and Neuro -Sciences, Bengaluru: ..Providing Services, training and research functions in the field of mental health and neurosciences. The Institute is a deemed university and offers degrees and diploma courses in this fie ld in medical and para -medical disciplines. 28. North Eastern Indira Gandhi Regional Institute of Health and Medical Sciences, Shillong: ..The institute was setup in 1987 with the objective of providing inter -alia specified medical care to the people of en tire North Eastern Region and to produce trained medical manpower. 29. Regional Institue of Medical Sciences, Imphal: ..It is a medical institute established at Imphal having a 1074 beded hospital, equipped with modern equipments and teaching facilities ha ving an intake capacity of 100 MBBS, 50",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 147.0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 50.0,
+          "total": 0
+        }
+      },
+      {
+        "index": "32",
+        "name": "Establishment Expenditure of New AIIMS: ..It provides for establishment expenditure of 22 new AIIMS located at different states. 33. Other Autonomous Bodies: ..It provides for various Autonomous bodies viz. Natinal Institute of Tuberculosis and Respiratory Disease (NITRD) New Delhi, Vallabh Bhai Patel Chest Institute, Delhi University, Kasturba Health Society, Wardha, CNCI, Kolkata, All India Institute of Speech & Hearing, Mysore, National Institute of Biologicals, Noida, Pasteur Institute of India, Conoor, National Institute of Healt h and Family Welfare, New Delhi, International Institute for Population Sciences, Mumbai etc. 34. Medical Treatment of CGHS Pensioners (PORB): ..It provide for expenditure on hospitalization of CGHS Pensioners and Ex MPs, Ex Governers, Ex Vice Presidents, Retired Judges and Suprime Court and High Courts. 35. Purchase of Material in India and Abroad: ..It provides for procurement of drugs, medicines and equipment by Medical Stores Organisation to meet the needs of Govt. Hospitals. 36. International Coopera tion:..It provides for Government of Indias contribution to the International Organisations in the field of Health and Family Planning, viz World Health Organisation, International Committee on Red Cross Society and other expenditure on International Healt h Conferences. 37. Other Miscellaneous Expenditure: ..It provides for miscellaneous non -scheme expenditure viz.Compensation to the victims or to their families on account of accidents, injury or death at public places, National Centre for Disease Control Programme, Health Ministers Discretionary Grant, Procurement of vaccines for inoculation Haj Pilgrims, Rashtriya Arogya Nidhi etc. 40. Flexible Pool for RCH & Health System Strengthening , National Health Programme and National Urban Health Mission: ..It provides for transfer to state to support decentralized planning and flexible programming by the States including development of State and district level Project Implementation Plans (PIPs) with a focus on outcomes particularly relating to vulnerable sectio ns, and community based monitoring & evaluation. The activities under the Mission provides for health needs of rural population including control of Vector Borne Diseases, TB, and Leprosy etc., It also includes transfer to state to address healthcare needs of the urban population with focus on urban poor and vulnerable sections of society. The allocation",
+        "2024_budget": {
+          "revenue": -24.0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 2023.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "41",
+        "name": "Infrastructure Maintenance: ..It provides for support to States to meet salary requirement of Scheme, viz. Direction and Administration (Family Welfare Bureaux at State & District level), Sub-centres, Urban Family Welfare Centres, Urban Revampin g Scheme (Health Posts), Auxiliary & Nursing Midwife (ANM) & Lady Health Visitors (LHVs) Training Schools, Health and Family Welfare Training Centres and Training of Multi -purpose Workers (Male). This dispensation would continue. However, any new Health Sub-Centre (SHCs) or health posts under this component would be supported only with the approval of Govt. of India. The allocation",
+        "2024_budget": {
+          "revenue": -24.0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 2023.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "43",
+        "name": "Strengthening of State Drug Regulatory System: ..It provides for financial assistance to states and UTs for strengthening drug regulatory system in the country. 44. Tertiary Care Programme: ..It provides for transfer to states for implementation of Tertiary Care Programme/Schemes viz Tobacco Control, National Mental Health Programme, Assistance for Capacity Building for Trauma Centres, National Programme for Prevention and Control of Cancer, Diabetes, Cardiovascular Diseases and Str oke, Health Care for the Elderly, National Programme for Blindness and Tele medicine. 45. Human Resources for Health and Medical Education: ..It provides for transfer to States/UTs with legislature for establishing new medical colleges (upgrading District Hospitals), Upgradation/Strengthening of Nursing Services, Pharmacy Schools/College, Paramedical Institutions and provision increase of UG & PG seats in existing medical colleges etc. The Scheme is funded Pradhan Mantri Swasthya Surakha Nidhi (PMSSN) of ..`1169.87",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 2024.0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 2023.0,
+            "capital": -24.0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "46",
+        "name": "Senior Citizen Health Insurance Scheme: ..Senior Citizen Health Insurance Scheme (SCHIS) was a top up of Rashtriya Swasthya Bima Yojana (RSBY) implemented w.e.f. 01.04.2016 t ill the launch of a new -Scheme in the name of Ayushman Bharat - Pradhan Mantri Jan Arogya Yojana (PMJAY) subsuming RSBY and SCHIS into PMJAY Scheme. The scheme covered senior citizens aged 60 years and above that were already covered under RSBY. This enabl ed coverage of senior citizens belonging to BPL and 11 other defined categories of unorganized workers. The Scheme has been discontinued. Provisions are to meet the past liabilities. 47. Pradhan Mantri Ayushman Bharat Health Infrastructure Mission (PMABHI M):..This is a Centrally Sponsored Scheme with",
+        "2024_budget": {
+          "revenue": 2021.0,
+          "capital": -22.0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 5.0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "2025",
+        "name": "-26 for implementation of the Atmanirbhar Bharat Package for Health sector announced by the Honble Prime Minister as part of the series o f Government measures for providing stimulus to the economy. The measures under the PM -ABHIM focus on developing capacities of health systems and institutions across the continuum of care at all levels, primary, secondary and tertiary, to prepare health sy stems in responding effectively to the current and future pandemics/disasters. 49. Ayushman Bharat - Pradhan Mantri Jan Arogya Yojana (PMJAY): ..Provides cashless and paper less benefit cover of ..`5.00 lakh per annum per family on floater basis in the empa nelled hospitals across India. At present AB",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 50.0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 12.0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      }
+    ]
+  },
+  "number": 46
+}

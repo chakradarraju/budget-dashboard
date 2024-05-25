@@ -1,39 +1,47 @@
 import './App.css';
+import { Grid, List, ListItemButton, ListItemText } from '@mui/material';
+import HomePage from './HomePage';
 import Dashboard from './Dashboard';
-import { useEffect, useState } from 'react';
-import { LinearProgress, Alert } from '@mui/material';
-import axios from 'axios';
+import { RouterProvider, createBrowserRouter } from 'react-router-dom';
+import DepartmentDashboard from './DepartmentDashboard';
 
-function App() {
+const router = createBrowserRouter([
+  {
+    path: '/',
+    element: <HomePage />
+  }, {
+    path: '/india/2024/',
+    element: <Dashboard path="india/2024" />
+  }, {
+    path: '/india/2024/:departmentId',
+    element: <DepartmentDashboard path="india/2024" />
+  }
+]);
 
-  const [data, setData] = useState([]);
-  const [loading, setLoading] = useState(true);
-  const [error, setError] = useState(null);
-
-  useEffect(() => {
-    const url = '/data/india2024Data.json';
-    axios.get(url)
-    .then((response) => {
-      setData(response.data);
-      setLoading(false);
-    })
-    .catch((error) => {
-      setError(error);
-      setLoading(false);
-    });
-  }, []);
-
+const App = () => {
   return (
-    <div className="App">
-      <h1>Budget 2024</h1>
-      {loading && <LinearProgress />}
-      {error && <Alert variant="filled" severity="error">
-        Unable to load data.
-        <pre>{error}</pre>
-      </Alert>}
-	    {!loading && !error && <Dashboard data={data} />}
-    </div>
-  );
+    <Grid container>
+      <Grid item sm={2}>
+        <List>
+          <ListItemButton to="/">
+            <ListItemText primary="Home" />
+          </ListItemButton>
+          <ListItemButton to="/india/2024/">
+            <ListItemText primary="India 2024" />
+          </ListItemButton>
+        </List>
+      </Grid>
+      <Grid item sm={10}>
+        <RouterProvider router={router} />
+      </Grid>
+    </Grid>);
 }
+/*
+<SimpleTreeView>
+      {data.data.data.map(d => (<TreeItem itemId={d.id} label={d.label}>
+        {d.data.map(i => <TreeItem itemId={i.id} label={i.label} onLabelClick={() => alert('clicked')}></TreeItem>)}
+      </TreeItem>))}
+    </SimpleTreeView>
+*/
 
 export default App;

@@ -1,0 +1,1370 @@
+{
+  "name": "MINISTRY OF PETROLEUM AND NATURAL GAS",
+  "demand": "DEMAND NO. 76",
+  "department": "Ministry of Petroleum and Natural Gas",
+  "sections": {
+    "allocation": [
+      {
+        "index": "1",
+        "name": "Secretariat",
+        "2024_budget": {
+          "revenue": 62.24,
+          "capital": 0,
+          "total": 62.24
+        },
+        "2023": {
+          "budget": {
+            "revenue": 51.9,
+            "capital": 0.98,
+            "total": 52.88
+          },
+          "revised": {
+            "revenue": 50.0,
+            "capital": 0,
+            "total": 50.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 46.07,
+          "capital": 0,
+          "total": 46.07
+        }
+      },
+      {
+        "index": "2",
+        "name": "Payment of differential royalty to State Governments",
+        "2024_budget": {
+          "revenue": 0.01,
+          "capital": 0,
+          "total": 0.01
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 20.31,
+            "capital": 0,
+            "total": 20.31
+          }
+        },
+        "2022_actual": {
+          "revenue": 1.11,
+          "capital": 0,
+          "total": 1.11
+        }
+      },
+      {
+        "index": "3",
+        "name": "Indian Strategic Petroleum Reserve Limited (ISPRL) Phase II (Construction of Cavems)",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 408.0,
+          "total": 408.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 508.0,
+            "total": 508.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 40.0,
+            "total": 40.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "4",
+        "name": "Payment to Indian Strategic Petroleum Reserve Limited (ISPRL) for Crude Oil Reserve",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 5000.0,
+            "total": 5000.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0.01,
+            "total": 0.01
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "5",
+        "name": "Payment to ISPRL for Strategic Crude Oil Reserve (O and M)",
+        "2024_budget": {
+          "revenue": 220.04,
+          "capital": 0,
+          "total": 220.04
+        },
+        "2023": {
+          "budget": {
+            "revenue": 202.81,
+            "capital": 0,
+            "total": 202.81
+          },
+          "revised": {
+            "revenue": 190.56,
+            "capital": 0,
+            "total": 190.56
+          }
+        },
+        "2022_actual": {
+          "revenue": 123.27,
+          "capital": 0,
+          "total": 123.27
+        }
+      },
+      {
+        "index": "6",
+        "name": "Pradhan Mantri JI -VAN Yojna",
+        "2024_budget": {
+          "revenue": 117.41,
+          "capital": 0,
+          "total": 117.41
+        },
+        "2023": {
+          "budget": {
+            "revenue": 227.26,
+            "capital": 0,
+            "total": 227.26
+          },
+          "revised": {
+            "revenue": 151.99,
+            "capital": 0,
+            "total": 151.99
+          }
+        },
+        "2022_actual": {
+          "revenue": 37.88,
+          "capital": 0,
+          "total": 37.88
+        }
+      },
+      {
+        "index": "7",
+        "name": "National Bio -Fuel Fund ... ... ... ... ... ... ... ... ... ... ... ... Total -Refinery and Conservation",
+        "2024_budget": {
+          "revenue": 117.41,
+          "capital": 0,
+          "total": 117.41
+        },
+        "2023": {
+          "budget": {
+            "revenue": 227.26,
+            "capital": 0,
+            "total": 227.26
+          },
+          "revised": {
+            "revenue": 151.99,
+            "capital": 0,
+            "total": 151.99
+          }
+        },
+        "2022_actual": {
+          "revenue": 37.88,
+          "capital": 0,
+          "total": 37.88
+        }
+      },
+      {
+        "index": "8",
+        "name": "Direct Benefit Transfer - LPG",
+        "2024_budget": {
+          "revenue": 1500.0,
+          "capital": 0,
+          "total": 1500.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 180.0,
+            "capital": 0,
+            "total": 180.0
+          },
+          "revised": {
+            "revenue": 1460.0,
+            "capital": 0,
+            "total": 1460.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 180.0,
+          "capital": 0,
+          "total": 180.0
+        }
+      },
+      {
+        "index": "9",
+        "name": "LPG Connection to Poor Households",
+        "2024_budget": {
+          "revenue": 9094.0,
+          "capital": 0,
+          "total": 9094.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0.01,
+            "capital": 0,
+            "total": 0.01
+          },
+          "revised": {
+            "revenue": 8500.0,
+            "capital": 0,
+            "total": 8500.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 5663.37,
+          "capital": 0,
+          "total": 5663.37
+        }
+      },
+      {
+        "index": "10",
+        "name": "Other subsidy payable including for North Eastern Region",
+        "2024_budget": {
+          "revenue": 1200.0,
+          "capital": 0,
+          "total": 1200.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1633.02,
+            "capital": 0,
+            "total": 1633.02
+          },
+          "revised": {
+            "revenue": 1633.0,
+            "capital": 0,
+            "total": 1633.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 811.0,
+          "capital": 0,
+          "total": 811.0
+        }
+      },
+      {
+        "index": "11",
+        "name": "Feedstock Subsidy to BCPL/Assam Gas Cracker Complex",
+        "2024_budget": {
+          "revenue": 131.0,
+          "capital": 0,
+          "total": 131.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 392.06,
+            "capital": 0,
+            "total": 392.06
+          },
+          "revised": {
+            "revenue": 563.0,
+            "capital": 0,
+            "total": 563.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 131.0,
+          "capital": 0,
+          "total": 131.0
+        }
+      },
+      {
+        "index": "12",
+        "name": "Project Management Expenditure",
+        "2024_budget": {
+          "revenue": 0.01,
+          "capital": 0,
+          "total": 0.01
+        },
+        "2023": {
+          "budget": {
+            "revenue": 52.0,
+            "capital": 0,
+            "total": 52.0
+          },
+          "revised": {
+            "revenue": 84.0,
+            "capital": 0,
+            "total": 84.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 32.0,
+          "capital": 0,
+          "total": 32.0
+        }
+      },
+      {
+        "index": "13",
+        "name": "Direct Benefit Transfer - Kerosene ... ... ... ... ... ... ... ... ... ... ... ... 14. Phulpur Dhamra Haldia Pipeline Project 14.01 Programme Component ... ... ... ... ... ... ... ... ... ... ... ... 15. National Seismic Programme ... ... ... ... ... ... ... ... ... ... ... ... 16. Indradhanush Gas Grid Limited(IGGL) -part of the North East Natural Gas Pipeline Grid 16.01 Programme Component",
+        "2024_budget": {
+          "revenue": 1000.0,
+          "capital": 0,
+          "total": 1000.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1800.0,
+            "capital": 0,
+            "total": 1800.0
+          },
+          "revised": {
+            "revenue": 1300.0,
+            "capital": 0,
+            "total": 1300.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 1528.5,
+          "capital": 0,
+          "total": 1528.5
+        }
+      },
+      {
+        "index": "17",
+        "name": "Numaligarh Refinery Expansion Project",
+        "2024_budget": {
+          "revenue": 275.0,
+          "capital": 0,
+          "total": 275.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 500.0,
+            "capital": 0,
+            "total": 500.0
+          },
+          "revised": {
+            "revenue": 475.5,
+            "capital": 0,
+            "total": 475.5
+          }
+        },
+        "2022_actual": {
+          "revenue": 245.0,
+          "capital": 0,
+          "total": 245.0
+        }
+      },
+      {
+        "index": "18",
+        "name": "One-time Grant to PSU OMCs for under recoveries in Domestic LPG 22000.00 ... 22000.00 ... ... ... ... ... ... ... ... ... 19. Capital Support to Oil Marketing Companies",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 15000.0,
+          "total": 15000.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 30000.0,
+            "total": 30000.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0.01,
+            "total": 0.01
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "20",
+        "name": "Scheme for promotion of flagging of merchant ships in India",
+        "2024_budget": {
+          "revenue": 387.26,
+          "capital": 0,
+          "total": 387.26
+        },
+        "2023": {
+          "budget": {
+            "revenue": 290.44,
+            "capital": 0,
+            "total": 290.44
+          },
+          "revised": {
+            "revenue": 130.0,
+            "capital": 0,
+            "total": 130.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 84.04,
+          "capital": 0,
+          "total": 84.04
+        }
+      },
+      {
+        "index": "21",
+        "name": "Global Biofuels Alliance",
+        "2024_budget": {
+          "revenue": 0.01,
+          "capital": 0,
+          "total": 0.01
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 60.0,
+            "capital": 0,
+            "total": 60.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "22",
+        "name": "Scheme for providing financial support for collection of biomass",
+        "2024_budget": {
+          "revenue": 150.0,
+          "capital": 0,
+          "total": 150.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 8.0,
+            "capital": 0,
+            "total": 8.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "23",
+        "name": "Payment to ISPRL for purchase of land",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0.01,
+          "total": 0.01
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0.01,
+            "total": 0.01
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "24",
+        "name": "Indian Institute of Petroleum Energy",
+        "2024_budget": {
+          "revenue": 168.0,
+          "capital": 0,
+          "total": 168.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 168.0,
+            "capital": 0,
+            "total": 168.0
+          },
+          "revised": {
+            "revenue": 90.0,
+            "capital": 0,
+            "total": 90.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 29.25,
+          "capital": 0,
+          "total": 29.25
+        }
+      },
+      {
+        "index": "25",
+        "name": "Society for Petroleum Laboratories",
+        "2024_budget": {
+          "revenue": 0.01,
+          "capital": 0,
+          "total": 0.01
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1.24,
+            "capital": 0,
+            "total": 1.24
+          },
+          "revised": {
+            "revenue": 0.62,
+            "capital": 0,
+            "total": 0.62
+          }
+        },
+        "2022_actual": {
+          "revenue": 0.22,
+          "capital": 0,
+          "total": 0.22
+        }
+      },
+      {
+        "index": "26",
+        "name": "Establishment of Rajiv Gandhi Institute of Petroleum And Technology (RGIPT), Assam ... ... ... ... ... ... ... ... ... ... ... ... 27. Establishment of Centre of Excellence for Energy, Bangalore ... ... ... ... ... ... ... ... ... ... ... ... Total -Autonomous Bodies",
+        "2024_budget": {
+          "revenue": 168.01,
+          "capital": 0,
+          "total": 168.01
+        },
+        "2023": {
+          "budget": {
+            "revenue": 169.24,
+            "capital": 0,
+            "total": 169.24
+          },
+          "revised": {
+            "revenue": 90.62,
+            "capital": 0,
+            "total": 90.62
+          }
+        },
+        "2022_actual": {
+          "revenue": 29.47,
+          "capital": 0,
+          "total": 29.47
+        }
+      },
+      {
+        "index": "28.",
+        "name": "Issue of Bonus Shares 28.01 Oil India Limited"
+      },
+      {
+        "index": "28.02",
+        "name": "Gas Authority of India Limited",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 2840.49,
+            "total": 2840.49
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "28.03",
+        "name": "Engineers India Limited",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 99.18,
+            "total": 99.18
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "28.04",
+        "name": "Less Receipts",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": -2939.67,
+            "total": -2939.67
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      }
+    ],
+    "development_heads": [
+      {
+        "index": "1",
+        "name": "Petroleum",
+        "2024_budget": {
+          "revenue": 13855.48,
+          "capital": 0,
+          "total": 13855.48
+        },
+        "2023": {
+          "budget": {
+            "revenue": 5156.4,
+            "capital": 0,
+            "total": 5156.4
+          },
+          "revised": {
+            "revenue": 14516.67,
+            "capital": 0,
+            "total": 14516.67
+          }
+        },
+        "2022_actual": {
+          "revenue": 30781.49,
+          "capital": 0,
+          "total": 30781.49
+        }
+      },
+      {
+        "index": "2",
+        "name": "Industries",
+        "2024_budget": {
+          "revenue": 387.26,
+          "capital": 0,
+          "total": 387.26
+        },
+        "2023": {
+          "budget": {
+            "revenue": 290.44,
+            "capital": 0,
+            "total": 290.44
+          },
+          "revised": {
+            "revenue": 130.0,
+            "capital": 0,
+            "total": 130.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 84.04,
+          "capital": 0,
+          "total": 84.04
+        }
+      },
+      {
+        "index": "3",
+        "name": "Secretariat -Economic Services",
+        "2024_budget": {
+          "revenue": 62.24,
+          "capital": 0,
+          "total": 62.24
+        },
+        "2023": {
+          "budget": {
+            "revenue": 51.9,
+            "capital": 0,
+            "total": 51.9
+          },
+          "revised": {
+            "revenue": 50.0,
+            "capital": 0,
+            "total": 50.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 46.07,
+          "capital": 0,
+          "total": 46.07
+        }
+      },
+      {
+        "index": "4",
+        "name": "Capital Outlay on Petroleum",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 15408.01,
+          "total": 15408.01
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 35508.0,
+            "total": 35508.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 40.03,
+            "total": 40.03
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "5",
+        "name": "Capital Outlay on Other General Economic Services",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0.98,
+            "total": 0.98
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "6",
+        "name": "Grants -in-aid to State Governments",
+        "2024_budget": {
+          "revenue": 0.01,
+          "capital": 0,
+          "total": 0.01
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 20.31,
+            "capital": 0,
+            "total": 20.31
+          }
+        },
+        "2022_actual": {
+          "revenue": 1.11,
+          "capital": 0,
+          "total": 1.11
+        }
+      }
+    ],
+    "public_enterprises": [
+      {
+        "index": "1",
+        "name": "Oil and Natural Gas Corporation Limited",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 30800.0,
+          "total": 30800.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 30125.0,
+            "total": 30125.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 30500.0,
+            "total": 30500.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 30208.38,
+          "total": 30208.38
+        }
+      },
+      {
+        "index": "2",
+        "name": "Gas Authority of India Limited",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 4886.0,
+          "total": 4886.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 6002.49,
+            "total": 6002.49
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 6888.0,
+            "total": 6888.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 7404.2,
+          "total": 7404.2
+        }
+      },
+      {
+        "index": "3",
+        "name": "Bharat Petroleum Corporation Limited",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 2000.0,
+          "total": 2000.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 2360.0,
+            "total": 2360.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 2150.0,
+            "total": 2150.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 2200.0,
+          "total": 2200.0
+        }
+      },
+      {
+        "index": "4",
+        "name": "Indian Oil Corporation Limited",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 236.48,
+          "total": 236.48
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 144.74,
+            "total": 144.74
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 161.16,
+            "total": 161.16
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 73.82,
+          "total": 73.82
+        }
+      },
+      {
+        "index": "5",
+        "name": "Oil India Limited",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 6880.0,
+          "total": 6880.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 4896.0,
+            "total": 4896.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 5648.0,
+            "total": 5648.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 5534.42,
+          "total": 5534.42
+        }
+      },
+      {
+        "index": "6",
+        "name": "Oil Natural Gas Corporation Videsh Limited",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 5580.01,
+          "total": 5580.01
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 3229.05,
+            "total": 3229.05
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 3311.23,
+            "total": 3311.23
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 2703.83,
+          "total": 2703.83
+        }
+      },
+      {
+        "index": "7",
+        "name": "Indian Oil Corporation Limited",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 27374.04,
+          "total": 27374.04
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 25741.31,
+            "total": 25741.31
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 27064.45,
+            "total": 27064.45
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 29959.07,
+          "total": 29959.07
+        }
+      },
+      {
+        "index": "8",
+        "name": "Hindustan Petroleum Corporation Limited",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 10770.0,
+          "total": 10770.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 10210.0,
+            "total": 10210.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 10210.0,
+            "total": 10210.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 12546.9,
+          "total": 12546.9
+        }
+      },
+      {
+        "index": "9",
+        "name": "Bharat Petroleum Corporation Limited",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 9000.0,
+          "total": 9000.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 7140.0,
+            "total": 7140.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 7350.0,
+            "total": 7350.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 9903.62,
+          "total": 9903.62
+        }
+      },
+      {
+        "index": "10",
+        "name": "Chennai Petroleum Corporation Limited",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 501.0,
+          "total": 501.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 548.0,
+            "total": 548.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 548.0,
+            "total": 548.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 638.18,
+          "total": 638.18
+        }
+      },
+      {
+        "index": "11",
+        "name": "Numaligarh Refinery Limited",
+        "2024_budget": {
+          "revenue": 275.0,
+          "capital": 8711.0,
+          "total": 8986.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 500.0,
+            "capital": 8290.0,
+            "total": 8790.0
+          },
+          "revised": {
+            "revenue": 475.5,
+            "capital": 8290.0,
+            "total": 8765.5
+          }
+        },
+        "2022_actual": {
+          "revenue": 245.0,
+          "capital": 6596.4,
+          "total": 6841.4
+        }
+      },
+      {
+        "index": "12",
+        "name": "Mangalore Refineries and Petrochemicals Limited",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 820.0,
+          "total": 820.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 820.0,
+            "total": 820.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 820.0,
+            "total": 820.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 625.19,
+          "total": 625.19
+        }
+      },
+      {
+        "index": "13",
+        "name": "Indian Oil Corporation Limited",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 3298.94,
+          "total": 3298.94
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 4508.6,
+            "total": 4508.6
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 4028.59,
+            "total": 4028.59
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 7254.15,
+          "total": 7254.15
+        }
+      },
+      {
+        "index": "14",
+        "name": "Gas Authority of India Limited",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 3158.0,
+          "total": 3158.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 1747.51,
+            "total": 1747.51
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 2862.0,
+            "total": 2862.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 1694.9,
+          "total": 1694.9
+        }
+      },
+      {
+        "index": "15",
+        "name": "Bharat Petroleum Corporation Limited",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 2000.0,
+          "total": 2000.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 500.0,
+            "total": 500.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 500.0,
+            "total": 500.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 16.71,
+          "total": 16.71
+        }
+      },
+      {
+        "index": "19",
+        "name": "Hindustan Petroleum Corporation Limited",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 1730.0,
+          "total": 1730.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 1790.0,
+            "total": 1790.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 1537.13,
+          "total": 1537.13
+        }
+      },
+      {
+        "index": "20",
+        "name": "Numaligarh Refinery Limited",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 664.0,
+          "total": 664.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "16",
+        "name": "Balmer Lawrie and Company Limited",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 40.0,
+          "total": 40.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 40.0,
+            "total": 40.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 40.0,
+            "total": 40.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 51.71,
+          "total": 51.71
+        }
+      },
+      {
+        "index": "17",
+        "name": "Engineers India Limited",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 50.0,
+          "total": 50.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 98.0,
+            "total": 98.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 98.0,
+            "total": 98.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 62.27,
+          "total": 62.27
+        }
+      },
+      {
+        "index": "18",
+        "name": "Capital Support to Oil Marketing Companies",
+        "2024_budget": {
+          "revenue": 15000.0,
+          "capital": 0,
+          "total": 15000.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 30000.0,
+            "capital": 0,
+            "total": 30000.0
+          },
+          "revised": {
+            "revenue": 0.01,
+            "capital": 0,
+            "total": 0.01
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "1",
+        "name": "Secretariat: ..Provision is for Secretariat expenditure of the Ministry. 2. Payment of differential Royalty to State Governments: ..The provision is for the payment of difference between the rates as per the Production Sharing Contracts and notified royalty on crude oil, to state governments concerned, for the blocks. 3. Indian Strategic Petroleum Reserve Limited (ISPRL) Phase II (Construction of Cavems): ..Construction of caverns under Phase II at locations with an aggregate capacity of 12.5 MMT. 4. Payment to Indian Strategic Petroleum Rese rve Limited (ISPRL) for Crude Oil Reserve: ..Taking into account the oil security concerns of India, strategic crude oil storages in underground rock caverns of 5.33 Million Metric Turns (MMT) at Visakhapatnam, Mangalore and Padur, have been set up by India n Strategic Petroleum Reserve Limited (ISPRL). Provision is for filling of caverns with crude oil. 5. Payment to ISPRL for Strategic Crude Oil Reserve (O and M): ..Operation and maintenance cost of caverns at Visakhapatnam, Mangalore and Padur. 6. Pradhan Mantri JI -VAN Yojna: ..Pradhan Mantri JI -VAN Yojana is for providing financial support for setting up of Integrated Bioethanol projects based on lignocellulosic biomass and other renewable feedstock. 7. National Bio -Fuel Fund: ..Creation of National Biofue l Fund is envisaged under National Policy on Biofuels 2018 notified in June, 2018. The fund is proposed to be created in MoPNG for supporting Biofuel initiatives. 8. Direct Benefit Transfer: ..Payment to Oil Marketing Companies (OMCs) for direct transfer of LPG cash subsidy to consumer under PAHAL Direct Benefit Transfer (DBT) Scheme. 9. LPG Connection to Poor Households: ..A scheme to provide support to BPL households to motivate the poor families to shift from fossil fuels such as kerosene, coal, fuel w ood, cow dung, crop residue, etc,. to a cleaner fuel. While providing the new connections to BPL households, preference would be given to uncovered States and pockets, particularly in the Eastern parts of the country. 10. Other subsidy payable including f or North Eastern Region: ..The provision is made for subsidy on account of arrears of previous years/schemes(freight subsidy and subsidy on LPG and Kerosene for PDS), payment to oil companies on account of subsidies for supply of natural gas to North Easter n region, etc. 11. Feedstock Subsidy to BCPL/Assam Gas Cracker Complex: ..This scheme received unpaid bills of past year during the FY 2020 -21",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": -22.0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 2021.0
+        }
+      }
+    ]
+  },
+  "number": 76
+}

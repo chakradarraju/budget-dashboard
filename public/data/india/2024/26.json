@@ -1,0 +1,2556 @@
+{
+  "name": "MINISTRY OF EDUCATION",
+  "demand": "DEMAND NO. 26",
+  "department": "Department of Higher Education",
+  "sections": {
+    "allocation": [
+      {
+        "index": "1",
+        "name": "Secretariat",
+        "2024_budget": {
+          "revenue": 157.85,
+          "capital": 4.65,
+          "total": 162.5
+        },
+        "2023": {
+          "budget": {
+            "revenue": 160.18,
+            "capital": 4.05,
+            "total": 164.23
+          },
+          "revised": {
+            "revenue": 166.85,
+            "capital": 4.05,
+            "total": 170.9
+          }
+        },
+        "2022_actual": {
+          "revenue": 122.07,
+          "capital": 0.04,
+          "total": 122.11
+        }
+      },
+      {
+        "index": "2",
+        "name": "Directorate of Hindi",
+        "2024_budget": {
+          "revenue": 16.54,
+          "capital": 0,
+          "total": 16.54
+        },
+        "2023": {
+          "budget": {
+            "revenue": 39.47,
+            "capital": 0.3,
+            "total": 39.77
+          },
+          "revised": {
+            "revenue": 19.7,
+            "capital": 0.3,
+            "total": 20.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 18.33,
+          "capital": 0,
+          "total": 18.33
+        }
+      },
+      {
+        "index": "3",
+        "name": "Commission for Scientific and Technical Terminology",
+        "2024_budget": {
+          "revenue": 14.59,
+          "capital": 0.46,
+          "total": 15.05
+        },
+        "2023": {
+          "budget": {
+            "revenue": 12.79,
+            "capital": 0.21,
+            "total": 13.0
+          },
+          "revised": {
+            "revenue": 12.79,
+            "capital": 0.21,
+            "total": 13.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 8.89,
+          "capital": 0,
+          "total": 8.89
+        }
+      },
+      {
+        "index": "4",
+        "name": "Central Institute of Indian Languages (CIIL), Mysore and Regional Language Centers",
+        "2024_budget": {
+          "revenue": 40.32,
+          "capital": 1.75,
+          "total": 42.07
+        },
+        "2023": {
+          "budget": {
+            "revenue": 53.61,
+            "capital": 7.76,
+            "total": 61.37
+          },
+          "revised": {
+            "revenue": 45.74,
+            "capital": 7.76,
+            "total": 53.5
+          }
+        },
+        "2022_actual": {
+          "revenue": 32.82,
+          "capital": 2.9,
+          "total": 35.72
+        }
+      },
+      {
+        "index": "5",
+        "name": "Educational Institutions Abroad",
+        "2024_budget": {
+          "revenue": 11.15,
+          "capital": 0.2,
+          "total": 11.35
+        },
+        "2023": {
+          "budget": {
+            "revenue": 12.28,
+            "capital": 0.2,
+            "total": 12.48
+          },
+          "revised": {
+            "revenue": 12.28,
+            "capital": 0.2,
+            "total": 12.48
+          }
+        },
+        "2022_actual": {
+          "revenue": 7.35,
+          "capital": 0,
+          "total": 7.35
+        }
+      },
+      {
+        "index": "6",
+        "name": "National Research Professors",
+        "2024_budget": {
+          "revenue": 0.27,
+          "capital": 0,
+          "total": 0.27
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0.27,
+            "capital": 0,
+            "total": 0.27
+          },
+          "revised": {
+            "revenue": 0.27,
+            "capital": 0,
+            "total": 0.27
+          }
+        },
+        "2022_actual": {
+          "revenue": 0.26,
+          "capital": 0,
+          "total": 0.26
+        }
+      },
+      {
+        "index": "7",
+        "name": "World Class Institutions",
+        "2024_budget": {
+          "revenue": 1800.0,
+          "capital": 0,
+          "total": 1800.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1500.0,
+            "capital": 0,
+            "total": 1500.0
+          },
+          "revised": {
+            "revenue": 1300.0,
+            "capital": 0,
+            "total": 1300.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 976.55,
+          "capital": 0,
+          "total": 976.55
+        }
+      },
+      {
+        "index": "8",
+        "name": "Prime Minister's Girls' Hostel",
+        "2024_budget": {
+          "revenue": 2.0,
+          "capital": 0,
+          "total": 2.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 10.0,
+            "capital": 0,
+            "total": 10.0
+          },
+          "revised": {
+            "revenue": 1.73,
+            "capital": 0,
+            "total": 1.73
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "9",
+        "name": "Indian Knowledge Systems",
+        "2024_budget": {
+          "revenue": 10.0,
+          "capital": 0,
+          "total": 10.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 20.0,
+            "capital": 0,
+            "total": 20.0
+          },
+          "revised": {
+            "revenue": 17.0,
+            "capital": 0,
+            "total": 17.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 19.59,
+          "capital": 0,
+          "total": 19.59
+        }
+      },
+      {
+        "index": "10",
+        "name": "Glue Grant for Higher Education Institutes",
+        "2024_budget": {
+          "revenue": 1.0,
+          "capital": 0,
+          "total": 1.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 10.0,
+            "capital": 0,
+            "total": 10.0
+          },
+          "revised": {
+            "revenue": 1.0,
+            "capital": 0,
+            "total": 1.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "11",
+        "name": "Interest Subsidy and contribution for Guarantee Funds 873.49 ... 873.49 ... ... ... ... ... ... ... ... ... 12. Scholarship for College and University students 229.49 ... 229.49 ... ... ... ... ... ... ... ... ... 13. Special Scholarship Scheme for Jammu and Kashmir 200.00 ... 200.00 ... ... ... ... ... ... ... ... ... 14. PM Uchchatar Shiksha Protsahan (PM -USP) Yojna",
+        "2024_budget": {
+          "revenue": 1558.0,
+          "capital": 0,
+          "total": 1558.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1554.0,
+            "capital": 0,
+            "total": 1554.0
+          },
+          "revised": {
+            "revenue": 1054.0,
+            "capital": 0,
+            "total": 1054.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "15",
+        "name": "PM Research Fellowship",
+        "2024_budget": {
+          "revenue": 350.0,
+          "capital": 0,
+          "total": 350.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 400.0,
+            "capital": 0,
+            "total": 400.0
+          },
+          "revised": {
+            "revenue": 330.0,
+            "capital": 0,
+            "total": 330.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 300.0,
+          "capital": 0,
+          "total": 300.0
+        }
+      },
+      {
+        "index": "16",
+        "name": "National Mission in Education Through ICT",
+        "2024_budget": {
+          "revenue": 480.0,
+          "capital": 0,
+          "total": 480.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 400.0,
+            "capital": 0,
+            "total": 400.0
+          },
+          "revised": {
+            "revenue": 400.0,
+            "capital": 0,
+            "total": 400.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 395.02,
+          "capital": 0,
+          "total": 395.02
+        }
+      },
+      {
+        "index": "17",
+        "name": "Higher Education Statistics and Public Information System (HESPIS)",
+        "2024_budget": {
+          "revenue": 15.0,
+          "capital": 0,
+          "total": 15.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 10.0,
+            "capital": 0,
+            "total": 10.0
+          },
+          "revised": {
+            "revenue": 10.0,
+            "capital": 0,
+            "total": 10.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 2.75,
+          "capital": 0,
+          "total": 2.75
+        }
+      },
+      {
+        "index": "18",
+        "name": "Academic Bank of Credits (ABC)",
+        "2024_budget": {
+          "revenue": 10.0,
+          "capital": 0,
+          "total": 10.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 10.0,
+            "capital": 0,
+            "total": 10.0
+          },
+          "revised": {
+            "revenue": 5.0,
+            "capital": 0,
+            "total": 5.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "19",
+        "name": "National Inititative for Design Innovation",
+        "2024_budget": {
+          "revenue": 10.0,
+          "capital": 0,
+          "total": 10.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 10.0,
+            "capital": 0,
+            "total": 10.0
+          },
+          "revised": {
+            "revenue": 10.0,
+            "capital": 0,
+            "total": 10.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 10.37,
+          "capital": 0,
+          "total": 10.37
+        }
+      },
+      {
+        "index": "20",
+        "name": "Startup India Initiative in Higher Educational Institutions",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 11.21,
+            "capital": 0,
+            "total": 11.21
+          },
+          "revised": {
+            "revenue": 53.0,
+            "capital": 0,
+            "total": 53.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 40.0,
+          "capital": 0,
+          "total": 40.0
+        }
+      },
+      {
+        "index": "21",
+        "name": "Unnat Bharat Abhiyan",
+        "2024_budget": {
+          "revenue": 5.0,
+          "capital": 0,
+          "total": 5.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 9.4,
+            "capital": 0,
+            "total": 9.4
+          },
+          "revised": {
+            "revenue": 5.0,
+            "capital": 0,
+            "total": 5.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 11.58,
+          "capital": 0,
+          "total": 11.58
+        }
+      },
+      {
+        "index": "22",
+        "name": "Implementation of the IMPRINT Research Initiative (Impacting Research Innovation and Technology)",
+        "2024_budget": {
+          "revenue": 10.0,
+          "capital": 0,
+          "total": 10.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 5.0,
+            "capital": 0,
+            "total": 5.0
+          },
+          "revised": {
+            "revenue": 1.0,
+            "capital": 0,
+            "total": 1.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 10.0,
+          "capital": 0,
+          "total": 10.0
+        }
+      },
+      {
+        "index": "23",
+        "name": "Impactful Policy Research in Social Science (IMPRESS)",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0.09,
+          "capital": 0,
+          "total": 0.09
+        }
+      },
+      {
+        "index": "24",
+        "name": "Scheme for Promotion of Academic and Research Collaboration (SPARC)",
+        "2024_budget": {
+          "revenue": 100.0,
+          "capital": 0,
+          "total": 100.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 50.0,
+            "capital": 0,
+            "total": 50.0
+          },
+          "revised": {
+            "revenue": 25.0,
+            "capital": 0,
+            "total": 25.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 68.75,
+          "capital": 0,
+          "total": 68.75
+        }
+      },
+      {
+        "index": "25",
+        "name": "Scheme for Transformational and Advanced Research in Sciences (STARS)",
+        "2024_budget": {
+          "revenue": 30.0,
+          "capital": 0,
+          "total": 30.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 25.0,
+            "capital": 0,
+            "total": 25.0
+          },
+          "revised": {
+            "revenue": 94.39,
+            "capital": 0,
+            "total": 94.39
+          }
+        },
+        "2022_actual": {
+          "revenue": 17.35,
+          "capital": 0,
+          "total": 17.35
+        }
+      },
+      {
+        "index": "26",
+        "name": "Multidisciplinary Education and Research Improvement in Technical Education -EAP (MERITE)",
+        "2024_budget": {
+          "revenue": 200.0,
+          "capital": 0,
+          "total": 200.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 100.0,
+            "capital": 0,
+            "total": 100.0
+          },
+          "revised": {
+            "revenue": 5.0,
+            "capital": 0,
+            "total": 5.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 7.0,
+          "capital": 0,
+          "total": 7.0
+        }
+      },
+      {
+        "index": "27",
+        "name": "Pandit Madan Mohan Malviya National Mission on Teachers and Teaching",
+        "2024_budget": {
+          "revenue": 100.0,
+          "capital": 0,
+          "total": 100.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 45.0,
+            "capital": 0,
+            "total": 45.0
+          },
+          "revised": {
+            "revenue": 45.0,
+            "capital": 0,
+            "total": 45.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "28",
+        "name": "National Institutional Ranking Framework",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 4.5,
+            "capital": 0,
+            "total": 4.5
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 4.0,
+          "capital": 0,
+          "total": 4.0
+        }
+      },
+      {
+        "index": "29",
+        "name": "Global Initiative for Academic Network (GIAN)",
+        "2024_budget": {
+          "revenue": 10.0,
+          "capital": 0,
+          "total": 10.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 10.0,
+            "capital": 0,
+            "total": 10.0
+          },
+          "revised": {
+            "revenue": 5.0,
+            "capital": 0,
+            "total": 5.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "30",
+        "name": "Programme for Apprenticeship Training 399.99 ... 399.99 ... ... ... ... ... ... ... ... ... 31. National Apprenticeship Training Scheme (NATS)",
+        "2024_budget": {
+          "revenue": 600.0,
+          "capital": 0,
+          "total": 600.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 440.0,
+            "capital": 0,
+            "total": 440.0
+          },
+          "revised": {
+            "revenue": 460.0,
+            "capital": 0,
+            "total": 460.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "32",
+        "name": "Study in India",
+        "2024_budget": {
+          "revenue": 20.0,
+          "capital": 0,
+          "total": 20.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 25.0,
+            "capital": 0,
+            "total": 25.0
+          },
+          "revised": {
+            "revenue": 20.0,
+            "capital": 0,
+            "total": 20.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 18.25,
+          "capital": 0,
+          "total": 18.25
+        }
+      },
+      {
+        "index": "33",
+        "name": "Planning Administration and Global Engagement",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 115.65,
+            "capital": 0,
+            "total": 115.65
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 69.78,
+          "capital": 0,
+          "total": 69.78
+        }
+      },
+      {
+        "index": "34",
+        "name": "ASEAN Fellowship",
+        "2024_budget": {
+          "revenue": 2.66,
+          "capital": 0,
+          "total": 2.66
+        },
+        "2023": {
+          "budget": {
+            "revenue": 3.0,
+            "capital": 0,
+            "total": 3.0
+          },
+          "revised": {
+            "revenue": 3.0,
+            "capital": 0,
+            "total": 3.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 2.26,
+          "capital": 0,
+          "total": 2.26
+        }
+      },
+      {
+        "index": "35",
+        "name": "Education Services -Internationalization of Higher Education",
+        "2024_budget": {
+          "revenue": 104.0,
+          "capital": 0,
+          "total": 104.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 200.0,
+            "capital": 0,
+            "total": 200.0
+          },
+          "revised": {
+            "revenue": 100.0,
+            "capital": 0,
+            "total": 100.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 144.36,
+          "capital": 0,
+          "total": 144.36
+        }
+      },
+      {
+        "index": "36",
+        "name": "Centres of Excellence (CoE) in Artificial Intelligence (AI)",
+        "2024_budget": {
+          "revenue": 255.0,
+          "capital": 0,
+          "total": 255.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 35.0,
+            "capital": 0,
+            "total": 35.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "37",
+        "name": "University Grants Commission (UGC)",
+        "2024_budget": {
+          "revenue": 2500.0,
+          "capital": 0,
+          "total": 2500.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 5360.0,
+            "capital": 0,
+            "total": 5360.0
+          },
+          "revised": {
+            "revenue": 6409.0,
+            "capital": 0,
+            "total": 6409.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 5091.62,
+          "capital": 0,
+          "total": 5091.62
+        }
+      },
+      {
+        "index": "38",
+        "name": "All India Council for Technical Education (AICTE)",
+        "2024_budget": {
+          "revenue": 400.0,
+          "capital": 0,
+          "total": 400.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 420.0,
+            "capital": 0,
+            "total": 420.0
+          },
+          "revised": {
+            "revenue": 400.0,
+            "capital": 0,
+            "total": 400.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 420.0,
+          "capital": 0,
+          "total": 420.0
+        }
+      },
+      {
+        "index": "39.",
+        "name": "Grants to Central Universities (CUs)"
+      },
+      {
+        "index": "39.01",
+        "name": "Support to Central Universities (CUs)",
+        "2024_budget": {
+          "revenue": 15472.0,
+          "capital": 0,
+          "total": 15472.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 11252.56,
+            "capital": 0,
+            "total": 11252.56
+          },
+          "revised": {
+            "revenue": 12000.08,
+            "capital": 0,
+            "total": 12000.08
+          }
+        },
+        "2022_actual": {
+          "revenue": 10571.06,
+          "capital": 0,
+          "total": 10571.06
+        }
+      },
+      {
+        "index": "39.02",
+        "name": "Interest under HEFA Loan",
+        "2024_budget": {
+          "revenue": 84.0,
+          "capital": 0,
+          "total": 84.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 64.2,
+            "capital": 0,
+            "total": 64.2
+          },
+          "revised": {
+            "revenue": 82.0,
+            "capital": 0,
+            "total": 82.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 64.2,
+          "capital": 0,
+          "total": 64.2
+        }
+      },
+      {
+        "index": "39.03",
+        "name": "Repayment of Principal of HEFA Loan",
+        "2024_budget": {
+          "revenue": 372.0,
+          "capital": 0,
+          "total": 372.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 212.14,
+            "capital": 0,
+            "total": 212.14
+          },
+          "revised": {
+            "revenue": 312.14,
+            "capital": 0,
+            "total": 312.14
+          }
+        },
+        "2022_actual": {
+          "revenue": 232.14,
+          "capital": 0,
+          "total": 232.14
+        }
+      },
+      {
+        "index": "40",
+        "name": "Central University, Andhra Pradesh",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 47.4,
+            "capital": 0,
+            "total": 47.4
+          },
+          "revised": {
+            "revenue": 112.08,
+            "capital": 0,
+            "total": 112.08
+          }
+        },
+        "2022_actual": {
+          "revenue": 12.82,
+          "capital": 0,
+          "total": 12.82
+        }
+      },
+      {
+        "index": "41",
+        "name": "Andhra Pradesh and Telangana Tribal Universities",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 37.67,
+            "capital": 0,
+            "total": 37.67
+          },
+          "revised": {
+            "revenue": 40.67,
+            "capital": 0,
+            "total": 40.67
+          }
+        },
+        "2022_actual": {
+          "revenue": 7.45,
+          "capital": 0,
+          "total": 7.45
+        }
+      },
+      {
+        "index": "42",
+        "name": "Deemed Universities promoted by Central Government",
+        "2024_budget": {
+          "revenue": 596.0,
+          "capital": 0,
+          "total": 596.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 500.0,
+            "capital": 0,
+            "total": 500.0
+          },
+          "revised": {
+            "revenue": 547.25,
+            "capital": 0,
+            "total": 547.25
+          }
+        },
+        "2022_actual": {
+          "revenue": 390.64,
+          "capital": 0,
+          "total": 390.64
+        }
+      },
+      {
+        "index": "43.",
+        "name": "Support to Indian Institutes of Technology"
+      },
+      {
+        "index": "43.01",
+        "name": "Grants to Indian Institutes of Technology",
+        "2024_budget": {
+          "revenue": 9754.5,
+          "capital": 0,
+          "total": 9754.5
+        },
+        "2023": {
+          "budget": {
+            "revenue": 8791.5,
+            "capital": 0,
+            "total": 8791.5
+          },
+          "revised": {
+            "revenue": 9291.5,
+            "capital": 0,
+            "total": 9291.5
+          }
+        },
+        "2022_actual": {
+          "revenue": 8083.87,
+          "capital": 0,
+          "total": 8083.87
+        }
+      },
+      {
+        "index": "43.02",
+        "name": "Interest under HEFA Loan",
+        "2024_budget": {
+          "revenue": 270.0,
+          "capital": 0,
+          "total": 270.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 270.0,
+            "capital": 0,
+            "total": 270.0
+          },
+          "revised": {
+            "revenue": 270.0,
+            "capital": 0,
+            "total": 270.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 208.84,
+          "capital": 0,
+          "total": 208.84
+        }
+      },
+      {
+        "index": "43.03",
+        "name": "Repayment of Principal of HEFA Loan",
+        "2024_budget": {
+          "revenue": 300.0,
+          "capital": 0,
+          "total": 300.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 300.0,
+            "capital": 0,
+            "total": 300.0
+          },
+          "revised": {
+            "revenue": 300.0,
+            "capital": 0,
+            "total": 300.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 247.61,
+          "capital": 0,
+          "total": 247.61
+        }
+      },
+      {
+        "index": "44",
+        "name": "IIT, Hyderabad (EAP)",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 300.0,
+            "capital": 0,
+            "total": 300.0
+          },
+          "revised": {
+            "revenue": 522.71,
+            "capital": 0,
+            "total": 522.71
+          }
+        },
+        "2022_actual": {
+          "revenue": 450.0,
+          "capital": 0,
+          "total": 450.0
+        }
+      },
+      {
+        "index": "45",
+        "name": "Support to Indian Institutes of Management (IIMs) 45.01 Support from Gross Budgetary Support (GBS)",
+        "2024_budget": {
+          "revenue": 12.0,
+          "capital": 0,
+          "total": 12.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 15.17,
+            "capital": 0,
+            "total": 15.17
+          },
+          "revised": {
+            "revenue": 16.18,
+            "capital": 0,
+            "total": 16.18
+          }
+        },
+        "2022_actual": {
+          "revenue": 274.82,
+          "capital": 0,
+          "total": 274.82
+        }
+      },
+      {
+        "index": "45.02",
+        "name": "Interest under HEFA Loan",
+        "2024_budget": {
+          "revenue": 60.0,
+          "capital": 0,
+          "total": 60.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 29.79,
+            "capital": 0,
+            "total": 29.79
+          },
+          "revised": {
+            "revenue": 59.79,
+            "capital": 0,
+            "total": 59.79
+          }
+        },
+        "2022_actual": {
+          "revenue": 38.37,
+          "capital": 0,
+          "total": 38.37
+        }
+      },
+      {
+        "index": "45.03",
+        "name": "Repayment of Principal of HEFA Loan",
+        "2024_budget": {
+          "revenue": 140.21,
+          "capital": 0,
+          "total": 140.21
+        },
+        "2023": {
+          "budget": {
+            "revenue": 255.04,
+            "capital": 0,
+            "total": 255.04
+          },
+          "revised": {
+            "revenue": 255.04,
+            "capital": 0,
+            "total": 255.04
+          }
+        },
+        "2022_actual": {
+          "revenue": 280.41,
+          "capital": 0,
+          "total": 280.41
+        }
+      },
+      {
+        "index": "46",
+        "name": "Support to National Institutes of Technology (NITs) and IIEST 46.01 Grants to National Institutes of Technology (NITs) and IIEST",
+        "2024_budget": {
+          "revenue": 4839.4,
+          "capital": 0,
+          "total": 4839.4
+        },
+        "2023": {
+          "budget": {
+            "revenue": 4620.0,
+            "capital": 0,
+            "total": 4620.0
+          },
+          "revised": {
+            "revenue": 4678.6,
+            "capital": 0,
+            "total": 4678.6
+          }
+        },
+        "2022_actual": {
+          "revenue": 4053.52,
+          "capital": 0,
+          "total": 4053.52
+        }
+      },
+      {
+        "index": "46.02",
+        "name": "Interest under HEFA Loan",
+        "2024_budget": {
+          "revenue": 80.6,
+          "capital": 0,
+          "total": 80.6
+        },
+        "2023": {
+          "budget": {
+            "revenue": 80.6,
+            "capital": 0,
+            "total": 80.6
+          },
+          "revised": {
+            "revenue": 42.0,
+            "capital": 0,
+            "total": 42.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 34.68,
+          "capital": 0,
+          "total": 34.68
+        }
+      },
+      {
+        "index": "46.03",
+        "name": "Repayment of Principal of HEFA Loan",
+        "2024_budget": {
+          "revenue": 120.0,
+          "capital": 0,
+          "total": 120.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 120.0,
+            "capital": 0,
+            "total": 120.0
+          },
+          "revised": {
+            "revenue": 100.0,
+            "capital": 0,
+            "total": 100.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 88.29,
+          "capital": 0,
+          "total": 88.29
+        }
+      },
+      {
+        "index": "47",
+        "name": "Support to Indian Institute(s) of Science, Education and Research (IISER) 47.01 Support from Gross Budgetary Support (GBS)",
+        "2024_budget": {
+          "revenue": 1529.0,
+          "capital": 0,
+          "total": 1529.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1448.0,
+            "capital": 0,
+            "total": 1448.0
+          },
+          "revised": {
+            "revenue": 1507.0,
+            "capital": 0,
+            "total": 1507.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 1353.01,
+          "capital": 0,
+          "total": 1353.01
+        }
+      },
+      {
+        "index": "47.02",
+        "name": "Interest under HEFA Loan",
+        "2024_budget": {
+          "revenue": 5.0,
+          "capital": 0,
+          "total": 5.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 5.0,
+            "capital": 0,
+            "total": 5.0
+          },
+          "revised": {
+            "revenue": 2.0,
+            "capital": 0,
+            "total": 2.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0.4,
+          "capital": 0,
+          "total": 0.4
+        }
+      },
+      {
+        "index": "47.03",
+        "name": "Repayment of Principal of HEFA Loan",
+        "2024_budget": {
+          "revenue": 6.0,
+          "capital": 0,
+          "total": 6.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 9.0,
+            "capital": 0,
+            "total": 9.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "48",
+        "name": "Support to Indian Institute of Science (IISc) 48.01 Support from Gross Budgetary Support (GBS)",
+        "2024_budget": {
+          "revenue": 913.77,
+          "capital": 0,
+          "total": 913.77
+        },
+        "2023": {
+          "budget": {
+            "revenue": 810.9,
+            "capital": 0,
+            "total": 810.9
+          },
+          "revised": {
+            "revenue": 858.87,
+            "capital": 0,
+            "total": 858.87
+          }
+        },
+        "2022_actual": {
+          "revenue": 807.1,
+          "capital": 0,
+          "total": 807.1
+        }
+      },
+      {
+        "index": "48.02",
+        "name": "Interest under HEFA Loan",
+        "2024_budget": {
+          "revenue": 4.5,
+          "capital": 0,
+          "total": 4.5
+        },
+        "2023": {
+          "budget": {
+            "revenue": 4.5,
+            "capital": 0,
+            "total": 4.5
+          },
+          "revised": {
+            "revenue": 4.5,
+            "capital": 0,
+            "total": 4.5
+          }
+        },
+        "2022_actual": {
+          "revenue": 3.06,
+          "capital": 0,
+          "total": 3.06
+        }
+      },
+      {
+        "index": "49",
+        "name": "Support to Indian Institute(s) of Information Technology (Allahabad, Gwalior, Jabalpur and Kanchipuram) 49.01 Support from Gross Budgetary Support (GBS)",
+        "2024_budget": {
+          "revenue": 314.91,
+          "capital": 0,
+          "total": 314.91
+        },
+        "2023": {
+          "budget": {
+            "revenue": 289.0,
+            "capital": 0,
+            "total": 289.0
+          },
+          "revised": {
+            "revenue": 325.55,
+            "capital": 0,
+            "total": 325.55
+          }
+        },
+        "2022_actual": {
+          "revenue": 262.52,
+          "capital": 0,
+          "total": 262.52
+        }
+      },
+      {
+        "index": "49.02",
+        "name": "Interest under HEFA Loan",
+        "2024_budget": {
+          "revenue": 1.0,
+          "capital": 0,
+          "total": 1.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1.0,
+            "capital": 0,
+            "total": 1.0
+          },
+          "revised": {
+            "revenue": 1.0,
+            "capital": 0,
+            "total": 1.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "50",
+        "name": "Setting up Indian Institutes of Information Technology in PPP mode",
+        "2024_budget": {
+          "revenue": 200.0,
+          "capital": 0,
+          "total": 200.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 270.0,
+            "capital": 0,
+            "total": 270.0
+          },
+          "revised": {
+            "revenue": 160.0,
+            "capital": 0,
+            "total": 160.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 220.18,
+          "capital": 0,
+          "total": 220.18
+        }
+      },
+      {
+        "index": "51",
+        "name": "Grants to Councils/Institutes for Excellence in Humanities and Social Sciences",
+        "2024_budget": {
+          "revenue": 315.0,
+          "capital": 0,
+          "total": 315.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 400.0,
+            "capital": 0,
+            "total": 400.0
+          },
+          "revised": {
+            "revenue": 300.73,
+            "capital": 0,
+            "total": 300.73
+          }
+        },
+        "2022_actual": {
+          "revenue": 218.93,
+          "capital": 0,
+          "total": 218.93
+        }
+      },
+      {
+        "index": "52",
+        "name": "Grants to Institutes for Promotion of Indian Languages",
+        "2024_budget": {
+          "revenue": 314.0,
+          "capital": 0,
+          "total": 314.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 300.7,
+            "capital": 0,
+            "total": 300.7
+          },
+          "revised": {
+            "revenue": 300.7,
+            "capital": 0,
+            "total": 300.7
+          }
+        },
+        "2022_actual": {
+          "revenue": 201.2,
+          "capital": 0,
+          "total": 201.2
+        }
+      },
+      {
+        "index": "53",
+        "name": "Bharatiya Bhasha University & Institute of Translation",
+        "2024_budget": {
+          "revenue": 0.1,
+          "capital": 0,
+          "total": 0.1
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0.1,
+            "capital": 0,
+            "total": 0.1
+          },
+          "revised": {
+            "revenue": 0.1,
+            "capital": 0,
+            "total": 0.1
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "54",
+        "name": "National Institute of Industrial Engineering, Mumbai",
+        "2024_budget": {
+          "revenue": 37.45,
+          "capital": 0,
+          "total": 37.45
+        },
+        "2023": {
+          "budget": {
+            "revenue": 75.0,
+            "capital": 0,
+            "total": 75.0
+          },
+          "revised": {
+            "revenue": 75.0,
+            "capital": 0,
+            "total": 75.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 61.51,
+          "capital": 0,
+          "total": 61.51
+        }
+      },
+      {
+        "index": "55",
+        "name": "Board of Apprenticeship Training, Bombay, Calcutta, Madras and Kanpur",
+        "2024_budget": {
+          "revenue": 38.76,
+          "capital": 0,
+          "total": 38.76
+        },
+        "2023": {
+          "budget": {
+            "revenue": 34.63,
+            "capital": 0,
+            "total": 34.63
+          },
+          "revised": {
+            "revenue": 34.63,
+            "capital": 0,
+            "total": 34.63
+          }
+        },
+        "2022_actual": {
+          "revenue": 24.65,
+          "capital": 0,
+          "total": 24.65
+        }
+      },
+      {
+        "index": "56",
+        "name": "Schools of Planning and Architecture (SPAs)",
+        "2024_budget": {
+          "revenue": 185.87,
+          "capital": 0,
+          "total": 185.87
+        },
+        "2023": {
+          "budget": {
+            "revenue": 175.0,
+            "capital": 0,
+            "total": 175.0
+          },
+          "revised": {
+            "revenue": 178.0,
+            "capital": 0,
+            "total": 178.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 119.27,
+          "capital": 0,
+          "total": 119.27
+        }
+      },
+      {
+        "index": "57",
+        "name": "Indira Gandhi National Open University (IGNOU)",
+        "2024_budget": {
+          "revenue": 140.0,
+          "capital": 0,
+          "total": 140.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 105.0,
+            "capital": 0,
+            "total": 105.0
+          },
+          "revised": {
+            "revenue": 130.8,
+            "capital": 0,
+            "total": 130.8
+          }
+        },
+        "2022_actual": {
+          "revenue": 100.31,
+          "capital": 0,
+          "total": 100.31
+        }
+      },
+      {
+        "index": "58",
+        "name": "National Institutes of Technical Teachers Training and Research (NITTTRs)",
+        "2024_budget": {
+          "revenue": 110.0,
+          "capital": 0,
+          "total": 110.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 150.0,
+            "capital": 0,
+            "total": 150.0
+          },
+          "revised": {
+            "revenue": 95.0,
+            "capital": 0,
+            "total": 95.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 193.19,
+          "capital": 0,
+          "total": 193.19
+        }
+      },
+      {
+        "index": "59",
+        "name": "Assistance to Other Institutions 59.01 Support from Gross Budgetary Support (GBS)",
+        "2024_budget": {
+          "revenue": 562.33,
+          "capital": 0,
+          "total": 562.33
+        },
+        "2023": {
+          "budget": {
+            "revenue": 578.84,
+            "capital": 0,
+            "total": 578.84
+          },
+          "revised": {
+            "revenue": 488.9,
+            "capital": 0,
+            "total": 488.9
+          }
+        },
+        "2022_actual": {
+          "revenue": 524.29,
+          "capital": 0,
+          "total": 524.29
+        }
+      },
+      {
+        "index": "59.02",
+        "name": "Interest under HEFA Loan",
+        "2024_budget": {
+          "revenue": 3.0,
+          "capital": 0,
+          "total": 3.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 3.0,
+            "capital": 0,
+            "total": 3.0
+          },
+          "revised": {
+            "revenue": 3.0,
+            "capital": 0,
+            "total": 3.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "60",
+        "name": "National Digital University",
+        "2024_budget": {
+          "revenue": 100.0,
+          "capital": 0,
+          "total": 100.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 4.0,
+            "capital": 0,
+            "total": 4.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "61",
+        "name": "National Institutional Ranking Framework (NIRF)",
+        "2024_budget": {
+          "revenue": 5.0,
+          "capital": 0,
+          "total": 5.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 4.5,
+            "capital": 0,
+            "total": 4.5
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "62",
+        "name": "Planning, Administration and Global Engagement",
+        "2024_budget": {
+          "revenue": 97.99,
+          "capital": 0,
+          "total": 97.99
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 80.89,
+            "capital": 0,
+            "total": 80.89
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "63",
+        "name": "Transfer to Madhyamik and Uchchatar Shiksha Kosh",
+        "2024_budget": {
+          "revenue": 15700.49,
+          "capital": 0,
+          "total": 15700.49
+        },
+        "2023": {
+          "budget": {
+            "revenue": 6000.0,
+            "capital": 0,
+            "total": 6000.0
+          },
+          "revised": {
+            "revenue": 18500.0,
+            "capital": 0,
+            "total": 18500.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 14250.0,
+          "capital": 0,
+          "total": 14250.0
+        }
+      },
+      {
+        "index": "64",
+        "name": "Amount met from Madhyamik and Uchhatar Shiksha Kosh",
+        "2024_budget": {
+          "revenue": -15700.49,
+          "capital": 0,
+          "total": -15700.49
+        },
+        "2023": {
+          "budget": {
+            "revenue": -6000.0,
+            "capital": 0,
+            "total": -6000.0
+          },
+          "revised": {
+            "revenue": -6000.0,
+            "capital": 0,
+            "total": -6000.0
+          }
+        },
+        "2022_actual": {
+          "revenue": -14223.49,
+          "capital": 0,
+          "total": -14223.49
+        }
+      },
+      {
+        "index": "65",
+        "name": "Rashtriya Uchhatar Shiksha Abhiyan (RUSA)",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1500.0,
+            "capital": 0,
+            "total": 1500.0
+          },
+          "revised": {
+            "revenue": 500.0,
+            "capital": 0,
+            "total": 500.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 360.51,
+          "capital": 0,
+          "total": 360.51
+        }
+      },
+      {
+        "index": "66",
+        "name": "Pradhan Mantri Uchchatar Shiksha Abhiyan (PM - USHA)",
+        "2024_budget": {
+          "revenue": 1814.94,
+          "capital": 0,
+          "total": 1814.94
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "67",
+        "name": "Improvement in Salary Scale of University and College Teachers",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 1.09,
+          "capital": 0,
+          "total": 1.09
+        }
+      },
+      {
+        "index": "68",
+        "name": "Actual Recoveries -464.60 ... -464.60 ... ... ... ... ... ... ... ... ... Total -Other Grants/Loans/Transfers -463.51 ... -463.51 ... ... ... ... ... ... ... ... ... Grand Total",
+        "2024_budget": {
+          "revenue": 47612.71,
+          "capital": 7.06,
+          "total": 47619.77
+        },
+        "2023": {
+          "budget": {
+            "revenue": 44082.1,
+            "capital": 12.52,
+            "total": 44094.62
+          },
+          "revised": {
+            "revenue": 57231.96,
+            "capital": 12.52,
+            "total": 57244.48
+          }
+        },
+        "2022_actual": {
+          "revenue": 38553.86,
+          "capital": 2.94,
+          "total": 38556.8
+        }
+      }
+    ],
+    "development_heads": [
+      {
+        "index": "1",
+        "name": "General Education",
+        "2024_budget": {
+          "revenue": 22435.1,
+          "capital": 0,
+          "total": 22435.1
+        },
+        "2023": {
+          "budget": {
+            "revenue": 20573.27,
+            "capital": 0,
+            "total": 20573.27
+          },
+          "revised": {
+            "revenue": 27948.12,
+            "capital": 0,
+            "total": 27948.12
+          }
+        },
+        "2022_actual": {
+          "revenue": 19792.23,
+          "capital": 0,
+          "total": 19792.23
+        }
+      },
+      {
+        "index": "2",
+        "name": "Technical Education",
+        "2024_budget": {
+          "revenue": 19594.13,
+          "capital": 0,
+          "total": 19594.13
+        },
+        "2023": {
+          "budget": {
+            "revenue": 18330.74,
+            "capital": 0,
+            "total": 18330.74
+          },
+          "revised": {
+            "revenue": 25049.08,
+            "capital": 0,
+            "total": 25049.08
+          }
+        },
+        "2022_actual": {
+          "revenue": 18279.11,
+          "capital": 0,
+          "total": 18279.11
+        }
+      },
+      {
+        "index": "3",
+        "name": "Secretariat -Social Services",
+        "2024_budget": {
+          "revenue": 157.85,
+          "capital": 0,
+          "total": 157.85
+        },
+        "2023": {
+          "budget": {
+            "revenue": 160.18,
+            "capital": 0,
+            "total": 160.18
+          },
+          "revised": {
+            "revenue": 166.85,
+            "capital": 0,
+            "total": 166.85
+          }
+        },
+        "2022_actual": {
+          "revenue": 121.93,
+          "capital": 0,
+          "total": 121.93
+        }
+      },
+      {
+        "index": "4",
+        "name": "Capital Outlay on Education, Sports, Art and Culture",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 2.41,
+          "total": 2.41
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 8.47,
+            "total": 8.47
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 8.47,
+            "total": 8.47
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 2.94,
+          "total": 2.94
+        }
+      },
+      {
+        "index": "5",
+        "name": "Capital Outlay on other Social Services",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 4.65,
+          "total": 4.65
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 4.05,
+            "total": 4.05
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 4.05,
+            "total": 4.05
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "6",
+        "name": "North Eastern Areas",
+        "2024_budget": {
+          "revenue": 3820.69,
+          "capital": 0,
+          "total": 3820.69
+        },
+        "2023": {
+          "budget": {
+            "revenue": 3727.91,
+            "capital": 0,
+            "total": 3727.91
+          },
+          "revised": {
+            "revenue": 3727.91,
+            "capital": 0,
+            "total": 3727.91
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "7",
+        "name": "Grants -in-aid to State Governments",
+        "2024_budget": {
+          "revenue": 1504.94,
+          "capital": 0,
+          "total": 1504.94
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1190.0,
+            "capital": 0,
+            "total": 1190.0
+          },
+          "revised": {
+            "revenue": 335.0,
+            "capital": 0,
+            "total": 335.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 360.59,
+          "capital": 0,
+          "total": 360.59
+        }
+      },
+      {
+        "index": "8",
+        "name": "Grants -in-aid to Union Territory Governments",
+        "2024_budget": {
+          "revenue": 100.0,
+          "capital": 0,
+          "total": 100.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 100.0,
+            "capital": 0,
+            "total": 100.0
+          },
+          "revised": {
+            "revenue": 5.0,
+            "capital": 0,
+            "total": 5.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      }
+    ],
+    "public_enterprises": [
+      {
+        "index": "1",
+        "name": "EdCIL India Ltd",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 67.67,
+            "total": 67.67
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 36.45,
+          "total": 36.45
+        }
+      },
+      {
+        "index": "1",
+        "name": "Secretariat: ..Provides for Secretariat Expenditure. The proposed budget is also required for purchase of Information Technology applications, purchase of hardware and software, for training as well as consultancy charges, etc., all of which is needed for strengthening of e -governance activities within both departments of the Ministry. The provision is also for proposed new building of Ministry of Education. 2. Directorate of Hindi: ..The Central Hindi Directorate w ith its four Regional Centres located at Hyderabad, Calcutta, Guwahati and Chennai was set up in 1960 as a subordinate office with the objective of propagation and development of Hindi as a link language. It operates the schemes of Publication of bilingual /trilingual dictionaries, Correspondence Courses and Awards to Hindi writers, etc. 3. Commission for Scientific and Technical Terminology: ..The Commission for Scientific and Technical Terminology was set up in October, 1961 for evolution of Scientific and Technical Terminology in Hindi and other Indian languages. The Commission runs a scheme of Production of University level Books in Hindi and other Indian Languages to facilitate the change to Indian Languages as the medium of instruction at the University level and it coordinates with the State level academies for development of books in regional languages. 4. Central Institute of Indian Languages (CIIL), Mysore and Regional Language Centers: ..The Central Institute of Indian Languages with its main ca mpus at Mysore and seven Regional Language Centres (RLC) in Bhubaneswar, Guwahati, Lucknow, Mysore, Patiala, Pune and Solan was set up in July, 1969. It helps to evolve/implement the Language Policy of the Government of India and coordinate the development of Indian languages by conducting research in the areas of language analysis, language pedagogy, language technique and language use in society. It also conducts training programmes for school teachers of different languages. 5. Educational Institutions Abroad: ..This includes provision for Permanent Delegation Of India (PDI) in UNESCO, Paris and Consulate General of India (CGI), New York. 6. National Research Professors: ..This scheme is in the nature of recognition of the very exceptional contributions m ade by National Research Professors in their respective fields. Under it the NRPs are provided financial assistance to carry out research work. 7. World Class Institutions: ..The provision is for establishing ten world class institutions each in public and private sector in a reasonable time by providing an enabling regulatory environment that will allow them to achieve the highest levels of global excellence in teaching and research. 8. Prime Minister's Girls' Hostel: ..This scheme is MoE component in the PMs Development package 2015 for J&K. Under this scheme Girls Hostels will be constructed in Jammu and Kashmir. 9. Indian Knowledge Systems: ..It is a Scheme based on the recommendations of the NEP.Elements of knowledge from ancient India and its contribut ions to modern India and its successes and challengeswill be incorporated in an accurate and scientific manner throughout the school curriculum wherever relevant; in particular, Indian Knowledge Systems, including tribal knowledge and indigenous and tradit ional ways of learning. 10. Glue Grant for Higher Education Institutes: ..Glue Grant has been set aside for the purpose of creating formal umbrella structures for institutes supported by the GoI, to have better synergy while also retaining autonomy. 11.",
+        "2024_budget": {
+          "revenue": 2023.0,
+          "capital": -24.0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "12",
+        "name": "Scholarship",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 2023.0,
+            "total": -24.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "13",
+        "name": "",
+        "2024_budget": {
+          "revenue": 2023.0,
+          "capital": -24.0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "14",
+        "name": "PM Uchchatar",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 2023.0,
+            "total": -24.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "15.",
+        "name": "PM Research Fellowship: ..Under this schemes, the best students who have completed or are in the final year of B. Tech or Integrated M.Tech or M.Sc. in Science and Technology streams from IISc/IITs/NITs/IISERs/IIITs will be offered direct admission in PhD programme in the IITs/IISc. Such students, who fulfill the eligibility criteria, and shortlisted through a selec tion process, as laid down in the PMRF Guidelines, will be offered a fellowship of ..`70,000/ - per month for the first two years, ..`75,000/ - per month for the 3rd year, and ..`80,000/ - per month in the 4th and 5th years. Apart from this, a research grant of ..`2.00 lakh will be provided to each of the Fellows for a period of 5 years to cover their foreign travel expenses for presenting research papers in international conferen ces and seminars. A maximum of 3,000 Fellows (1000 per year) would be selected during a three year period. .. 16. National Mission in Education Through ICT: ..The National Mission on Education through Information and Communication Technology (NMEICT) has be en envisaged to leverage the potential of ICT, in teaching and learning process for the benefit of all the learners in Higher Education Institutions It plans to focus on appropriate pedagogy for e -learning, providing facility of performing experiments thro ugh virtual laboratories, on -line testing and certification, on -line availability of teachers to guide and mentor learners and Direct to Home TV channels etc. 17. Higher Education Statistics and Public Information System (HESPIS): ..The scheme aims at Str engthening official Statistical system to produce Education Statistics periodically with timeliness and quality so as to assess and review the performance of education sector and regional divergences across the country. 18. Academic Bank of Credits (ABC): ..This scheme envisages development of a digital depository for storage and delivery of Credits earned by the students pursuing the higher education.An Academic Bank of Credit (ABC) shall be established which would digitally store the academic credits earn ed from various recognized HEIs so that the degrees from an HEI can be awarded taking into account credits earned. 19. National Inititative for Design Innovation: ..Setting up of 20 new Design Innovation Centres, One Open Design School and National Design Innovation Network and linking them together. ODS would ensure maximum reach through collaborative education programmes. NDIN would be network of design schools to further reach and access of design education and raise standards of design education and innovation in the country. 20. Startup India Initiative in Higher Educational Institutions: ..The erstwhile scheme 'National Initiative for Technology Transfer' has been revamped as Startup India Initiative in Higher Education Institutions. Under this initiat ive, special efforts would be made to strengthen international research linkages and involve a larger number of Indian institutions in forging such links with industry through a framework of research parks for collaborative and joint research programmes 21. Unnat Bharat Abhiyan: ..The Mission of Unnat Bharat Abhiyan is to enable higher educational institutions to work with the people in rural India in identifying development challenges and evolving appropriate solutions for accelerating sustainable growth. It also aims to create a virtuous cycle between society and an inclusive academic system by providing knowledge and practices for emerging professions and to upgrade the capabilities of both the public and the private sectors in responding to the developme nt needs of rural India. 22. Implementation of the IMPRINT Research Initiative (Impacting Research Innovation and Technology): ..This scheme intends to channelize the research in premier institutions into areas that can have largest social and economic goo d for the country. Under this initiative, research projects under 10 selected domains are jointly funded by MHRD and other participating Ministries/Departments. Second phase IMPRINT -II has been taken up with a slightly revised strategy. 23. Impactful Po licy Research in Social Science (IMPRESS): ..The main objective of IMPRESS scheme is to encourage policy relevant research in social science in India, contributing thereby to the process of nation -building and advancement of our society. This Scheme has bee n discontinued from F.Y. 2022 -23. 24. Scheme for Promotion of Academic and Research Collaboration (SPARC): ..Scheme for Promotion of Academic and Research Collaboration or SPARC aims at improving the research ecosystem of Indias higher educational institutions by facilitating academic and research collaborations between Indian institutions and the best institutions in the world from 28 selected nations to jointly solve problems of national and international relevance in the first phase. 25. Scheme for Transformational and Advanced Research in Sciences (STARS): ..The scheme aims to integrate science education and research for a sustainable and equitable India. To develop state -of-the-art research facilities in higher education institutions, inculcate research culture in science faculties of HEIs, orient science towards addressing needs and issues of the country in key sectors including health, energy, agriculture etc, attaining international benchmarks in scientific research are the main objectives of the scheme. 26. Multidisciplinary Education and Research Improvement in Technical Education - EAP (MERITE): ..This is a new scheme aiming at integration with the objectives of New National Education Policy (NEP), 2020 and fulfilling the targets of AatmaNirbh ar Bharat Abhiyan. It is proposed to be implemented across the country in about 350 Govt./Govt. Aided engineering institutions and affiliated technical universities. The project will be Externally Aided Project (EAP) with external borrowing from the World Bank under IDA. 27. Pandit Madan Mohan Malviya National Mission on Teachers and Teaching: ..The programme envisions to focus holistically on whole sector of education. This would consolidate and strengthen on-going programmes related to teachers and teachi ng through effective coordination. It will also provide an integrated platform for building synergies among all the existing initiatives and will attempt to create a comprehensive vehicle for Teacher/Faculty related programmes and schemes. The programme en visages to augment capacity at individual level and also enhance institutional infrastructure to give impetus to training of teachers at pre service and in service level. 28. National Institutional Ranking Framework: ..From FY 2024 -25 onwards, this scheme"
+      },
+      {
+        "index": "31.",
+        "name": "National Apprenticeship Training Scheme (NATS): ..The scheme Programme for Apprenticeship at Sr No. 30 has been renamed as National Apprenticeship Training Scheme (NATS). 32. Study in India: ..This initiative aims to make Indi a a preferred education hub for students all across the globe, by elevating its position in the global educational landscape. It will help facilitate the student fraternity from all across the globe to come and experience the best of academic learning from the top institutions in India which would help accommodate the growing quality educational needs of students across the world. 33. Planning Administration and Global Engagement: ..From FY 2024 -25 onwards, this"
+      },
+      {
+        "index": "34",
+        "name": "ASEAN Fellowship: ..In recognition of the deep and historical ties between India and ASEAN, this schemes aims at granting upto 1000 fellowships to students of ASEAN countries to pursue integrated Ph.D programmes in the Indian Inst itutes of Technology (IITs). 35. Education Services -Internationalization of Higher Education: ..This is a component of the Government Action Plan for Champion Services Sector in the field of Education Services. It will help internationalization of educatio n services of India through various identified activities. 36. Centres of Excellence (CoE) in Artificial Intelligence (AI): ..This scheme is conceptualized consequent to Budget Announcement 2023 to establish three centers of excellence for Artificial intelligence in top educational institutions for conducting interdisciplinary research, developing cutting -edge applications and scalable problem solutions in the areas of agriculture, health. and sustainable cities with a view to help realize the vision of 'Ma ke Al in India and Make Al work for India 37. University Grants Commission (UGC): ..University Grants Commission was founded under an Act of Parliament in 1956 for the purpose of co -ordination and determination of standards in universities. While UGC provi des assistance to all eligible universities, provision for assistance to Central Universities is being distinctly made.In RE 2023 -24, allocation of Rs 1000 crore will be funded through MUSK. In BE 2024",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 2000.0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": -25.0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "38",
+        "name": "All India Council for Technical Education(AICTE): ..All India council for Technical Education (AICTE), New Delhi was set up in 1945 as an Advisory Body. It was given a statutory status through an Act of Parliament in 1987, which came into effec t on March 28, 1988. Main functions of All India Council for Technical Education (AICTE) are proper planning and coordinated development of the technical education system throughout the country, promotion of qualitative improvements of such education in re lation to planned quantitative growth and regulation and proper maintenance of norms and standards in the technical education system. 39. Grants to Central Universities (CUs): ..Central Universities are autonomous bodies established with a view to create and disseminate knowledge by providing research and instructional facilities, by providing interdisciplinary studies, and innovation in teaching - learning process. The Central Universities are governed by their respective Act and Statutes and Ordinances f ramed there under. In RE 2023 - 24,allocation of Rs 1000 crore will be funded through",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 2024.0,
+            "capital": -25.0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 5000.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "41",
+        "name": "Andhra Pradesh and Telangana Tribal Universities: ..Provides for allocation towards Andhra Pradesh & Telangana Tribal Universities. From",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 2024.0,
+          "total": -25.0
+        }
+      },
+      {
+        "index": "42",
+        "name": "Deemed Universities promoted by Central Government: ..An Institution of Higher Education other than a University, working with very high standard in a specific area of study, can be declared by the Central Governmen t (on the advice of the UGC) as Institution Deemed to be University. Institutions deemed to be universities enjoy the academic status and privilege of universities. Some of the Deemed Universities are funded by UGC and some are privately managed. 43. Supp ort to Indian Institutes of Technology: ..Indian Institutes of Technology have been established as Institutions of National Importance. Their main objective is to impart world class training in engineering and technology; to conduct research in the relevant fields and for advancement of learning and dissemination of knowledge. Provision is for supporting these premier institutions.In RE 2023 -24, allocation of Rs 1500 crore will be funded through MUSK. In",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 2642.49,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 2024.0,
+          "total": -25.0
+        }
+      },
+      {
+        "index": "44",
+        "name": "IIT, Hyderabad (EAP): ..Provides for allocation to EAP projects of IIT Hyderabad. This project has been completed in F.Y. 2023 -24. 45. Support to Indian Institutes of Management (IIMs): ..Indian Institutes of Management were set up by the Government of India as centers of excellence with the objective of providing educational training, research and consultancy in management. The Institutes are running Post Graduate programme (PGP), Fellowship Programmes, Management Development Programme s and Organisation Based Programmes. 46. Support to National Institutes of Technology (NITs) and IIEST: ..This includes provisions for NITs and IIEST. The National Institutes of Technology are Centrally Funded autonomous Technical Institutions and have bee n declared as Institutions of National Importance. Indian Institute of Engineering Science and Technology (IIEST) has been converted into an institution of national importance from a State University, namely, Bengal Engineering and Science University, Shib pur, by incorporation in NITSER Act.In RE 2023 -24, allocation of",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 2024.0,
+          "total": -25.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 1500.0,
+          "total": 0
+        }
+      },
+      {
+        "index": "51",
+        "name": "Grants to Councils/Institutes for Excellence in Humanities and Social Sciences: ..This initiative is to encourage bright students to choose programmes in humanities and also to improve its quality of teaching and research. The Councils that have been covered under the Scheme are Indian Council of Historical Research (ICHR), Indian Institute of Advance Study (IIAS) Shimla, Indian Council of Philosophical Research (ICPR) New Delhi National Council of Rural Institutes (NCRI), Indian Council of Social Science Research (ICSSR), New Delhi. 52. Grants to Institutes for Promotion of Indian Languages: ..This includes provision for Rashtriya Sanskrit Sansthan, Kendriya Hindi Sansthan, National Council for Prom otion of Urdu Language, National Council for Promotion of Sindhi Language, Central Institute of Classical Tamil and National Initiative for Quality Higher Education in Indian Languages. 53. Bharatiya Bhasha University & Institute of Translation: ..This w ill aim at promoting Indian languages and mother tongues and advising the government on all matters relating to languages of India. There will be an Indian Institution of Translation and Interpretation (IITI) under Bhartiya Bhasha University. As per NEP re commendation, such an Institute would provide truly important service for the country as well as employ numerous multilingual language and subject experts, and experts in translation and interpretation which will help to promote all Indian Languages. 54. National Institute of Industrial Engineering, Mumbai: ..The National Institute of Industrial Engineering (NITIE), Mumbai was established as a National Institute in 1963 by the Government of India with the assistance of UNDP through the International Labour Organisation (ILO). NITIE has also been recognized as a Quality Improvement Programme Centre. 55. Board of Apprenticeship Training, Bombay, Calcutta, Madras and Kanpur: ..Govt. of India, has established four such Boards of Apprenticeship/Practical Training catering to the needs of four regions of India with the sole aim of improving the capability of fresh Engineers through one year 'on the job training' in actual working environment as Graduate / Technician/ Technician (Vocational) apprentices under the",
+        "2024_budget": {
+          "revenue": 1973.0,
+          "capital": 0,
+          "total": 1986.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 1961.0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "56",
+        "name": "Schools of Planning and Architecture (SPAs): ..The Schools of Planning and Architecture are considered as premier institutions of its kind in the country and among the very institutions in the world offering specialized education in design and development of human settlements in all its aspects. This budget line includes provision for new as well as old SPAs. 57. Indira Gandhi National Open University (IGNOU): ..IGNOU was established by an A ct of Parliament in 1985 to provide access to higher education to all sections of the population, especially the disadvantaged groups; to impart continuing education, to upgrade knowledge and skill; and to initiate special programmes of higher education fo r specific target groups like women, people living in backward regions, hilly areas etc. and to promote open and distance learning. IGNOU has contributed to the growth of State Open Universities (SOU) and, there is a distinct provision for assistance to SO Us through the IGNOU, as distinct from assistance for activities of IGNOU. 58. National Institutes of Technical Teachers Training and Research (NITTTRs): ..It is an initiative to establish institutions that are aimed at providing pre & in -service training to the teachers and staff of Degree and Diploma level training institutions and also for conducting various activities related to quality improvement of the technical education system of the country. 59. Assistance to Other Institutions: ..This includes pr ovision for various programmes - Association of Indian Universities, National Book trust, Grants for Promotion Activities and Voluntary Agencies, National Institute of Educational Planning and Administration (NIEPA), auroville Management, National Commissio n for Minority Educational Institutions and Assistance to other Institutions including SLIET, NERIST, NIFFT ,CIT Kokrajhar & GKCIET Malda. 60. National Digital University: ..This budget line was framed consequent to Budget Announcement 2022 -23 to provide access to students across the country for world -class quality universal education with personalized learning experience at their doorsteps. This will be made available in different Indian languages and ICT formats. The University will be built on a network hub-spoke model, with the hub building cutting edge ICT expertise. The best public universities and institutions in the country will collaborate as a network of hub -spokes. 61. National Institutional Ranking Framework (NIRF): ..This framework outlines a methodology to rank institutions across the country. The methodology draws from the overall recommendations and broad understanding arrived at by a Core Committee set up by MoE, to identify the broad parameters for ranking various universities and instituti ons 62. Planning, Administration and Global Engagement: ..This includes provision for Initiatives for Global Engagement, Quality Improvement Programme for Management, Pharmacy Education and Hotel Management, National Monitoring Committee For Minority Educa tion, Expenditure on Seminars, Committees Meetings etc. /TA/DA to Non -Official Members, Shastri Indo Canadian Institute, Refund of Income Tax and Customs Duty to United States Education Foundation in India, Contribution to UNESCO, Deputation and Delegation to UNESCO Conferences Etc, Visit of Foreign Delegation to India, and the Holding of Meetings of Committees/Conference and Organization of exhibitions in furtherance of UNESCO aims and Objectives, Asian Institute of Technology, Bangkok, International Techn ical Corporation. 65. Rashtriya Uchhatar Shiksha Abhiyan (RUSA): ..This is a Centrally Sponsored Scheme aimed at providing strategic funding to state higher and technical institutions. States will develop comprehensive state higher education plans that uti lize an interconnected strategy to address issues of expansion, equity and excellence together. Central funding will be linked to academic, administrative and financial reforms of state higher education. From FY",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 2024.0,
+          "capital": -25.0,
+          "total": 0
+        }
+      },
+      {
+        "index": "66.",
+        "name": ""
+      }
+    ]
+  },
+  "number": 26
+}

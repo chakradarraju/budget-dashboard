@@ -1,0 +1,719 @@
+{
+  "name": "MINISTRY OF JAL SHAKTI",
+  "demand": "DEMAND NO. 63",
+  "department": "Department of Drinking Water and Sanitation",
+  "sections": {
+    "allocation": [
+      {
+        "index": "1",
+        "name": "Secretariat",
+        "2024_budget": {
+          "revenue": 34.28,
+          "capital": 1.5,
+          "total": 35.78
+        },
+        "2023": {
+          "budget": {
+            "revenue": 29.8,
+            "capital": 1.2,
+            "total": 31.0
+          },
+          "revised": {
+            "revenue": 31.05,
+            "capital": 1.6,
+            "total": 32.65
+          }
+        },
+        "2022_actual": {
+          "revenue": 30.6,
+          "capital": 0,
+          "total": 30.6
+        }
+      },
+      {
+        "index": "2",
+        "name": "Jal Jeevan Mission (JJM) / National Rural Drinking Water Mission 2.01 Dr. Syama Prasad Mookerjee National Institute of Water and Sanitation (SPM - NIWAS) erstwhile National Centre for Drinking Water, Sanitation and Quality",
+        "2024_budget": {
+          "revenue": 95.0,
+          "capital": 0,
+          "total": 95.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 89.0,
+            "capital": 0,
+            "total": 89.0
+          },
+          "revised": {
+            "revenue": 3.0,
+            "capital": 0,
+            "total": 3.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 10.0,
+          "capital": 0,
+          "total": 10.0
+        }
+      },
+      {
+        "index": "2.02",
+        "name": "Mission Management",
+        "2024_budget": {
+          "revenue": 17.75,
+          "capital": 0,
+          "total": 17.75
+        },
+        "2023": {
+          "budget": {
+            "revenue": 17.75,
+            "capital": 0,
+            "total": 17.75
+          },
+          "revised": {
+            "revenue": 2.32,
+            "capital": 0,
+            "total": 2.32
+          }
+        },
+        "2022_actual": {
+          "revenue": 1.15,
+          "capital": 0,
+          "total": 1.15
+        }
+      },
+      {
+        "index": "2.03",
+        "name": "Assistance to Institutions etc.",
+        "2024_budget": {
+          "revenue": 5.0,
+          "capital": 0,
+          "total": 5.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 5.0,
+            "capital": 0,
+            "total": 5.0
+          },
+          "revised": {
+            "revenue": 0.5,
+            "capital": 0,
+            "total": 0.5
+          }
+        },
+        "2022_actual": {
+          "revenue": 0.07,
+          "capital": 0,
+          "total": 0.07
+        }
+      },
+      {
+        "index": "2.04",
+        "name": "Conference, Seminars, Exhibitions",
+        "2024_budget": {
+          "revenue": 2.0,
+          "capital": 0,
+          "total": 2.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 2.0,
+            "capital": 0,
+            "total": 2.0
+          },
+          "revised": {
+            "revenue": 0.5,
+            "capital": 0,
+            "total": 0.5
+          }
+        },
+        "2022_actual": {
+          "revenue": 0.73,
+          "capital": 0,
+          "total": 0.73
+        }
+      },
+      {
+        "index": "2.05",
+        "name": "Human Resource Development",
+        "2024_budget": {
+          "revenue": 5.0,
+          "capital": 0,
+          "total": 5.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 90.0,
+            "capital": 0,
+            "total": 90.0
+          },
+          "revised": {
+            "revenue": 25.12,
+            "capital": 0,
+            "total": 25.12
+          }
+        },
+        "2022_actual": {
+          "revenue": 29.24,
+          "capital": 0,
+          "total": 29.24
+        }
+      },
+      {
+        "index": "2.06",
+        "name": "Monitoring and Evaluation",
+        "2024_budget": {
+          "revenue": 10.0,
+          "capital": 0,
+          "total": 10.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 10.0,
+            "capital": 0,
+            "total": 10.0
+          },
+          "revised": {
+            "revenue": 10.0,
+            "capital": 0,
+            "total": 10.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 6.97,
+          "capital": 0,
+          "total": 6.97
+        }
+      },
+      {
+        "index": "2.07",
+        "name": "Information, Education and Communication",
+        "2024_budget": {
+          "revenue": 70.0,
+          "capital": 0,
+          "total": 70.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 70.0,
+            "capital": 0,
+            "total": 70.0
+          },
+          "revised": {
+            "revenue": 70.0,
+            "capital": 0,
+            "total": 70.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 22.47,
+          "capital": 0,
+          "total": 22.47
+        }
+      },
+      {
+        "index": "2.08",
+        "name": "Management Information System",
+        "2024_budget": {
+          "revenue": 11.0,
+          "capital": 0,
+          "total": 11.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 11.0,
+            "capital": 0,
+            "total": 11.0
+          },
+          "revised": {
+            "revenue": 27.0,
+            "capital": 0,
+            "total": 27.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 8.86,
+          "capital": 0,
+          "total": 8.86
+        }
+      },
+      {
+        "index": "2.09",
+        "name": "Research",
+        "2024_budget": {
+          "revenue": 5.0,
+          "capital": 0,
+          "total": 5.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 5.0,
+            "capital": 0,
+            "total": 5.0
+          },
+          "revised": {
+            "revenue": 2.0,
+            "capital": 0,
+            "total": 2.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 1.13,
+          "capital": 0,
+          "total": 1.13
+        }
+      },
+      {
+        "index": "2.10",
+        "name": "National Project Management Unit (NPMU)",
+        "2024_budget": {
+          "revenue": 15.5,
+          "capital": 0,
+          "total": 15.5
+        },
+        "2023": {
+          "budget": {
+            "revenue": 15.5,
+            "capital": 0,
+            "total": 15.5
+          },
+          "revised": {
+            "revenue": 13.25,
+            "capital": 0,
+            "total": 13.25
+          }
+        },
+        "2022_actual": {
+          "revenue": 11.81,
+          "capital": 0,
+          "total": 11.81
+        }
+      },
+      {
+        "index": "2.11",
+        "name": "Jal Jeevan Mission/National Rural Drinking Water Programme - Programme Component",
+        "2024_budget": {
+          "revenue": 69926.65,
+          "capital": 0,
+          "total": 69926.65
+        },
+        "2023": {
+          "budget": {
+            "revenue": 69684.75,
+            "capital": 0,
+            "total": 69684.75
+          },
+          "revised": {
+            "revenue": 69846.31,
+            "capital": 0,
+            "total": 69846.31
+          }
+        },
+        "2022_actual": {
+          "revenue": 54742.32,
+          "capital": 0,
+          "total": 54742.32
+        }
+      },
+      {
+        "index": "3.",
+        "name": "SBM -Rural"
+      },
+      {
+        "index": "3.01",
+        "name": "Monitoring and Evaluation",
+        "2024_budget": {
+          "revenue": 1.0,
+          "capital": 0,
+          "total": 1.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1.0,
+            "capital": 0,
+            "total": 1.0
+          },
+          "revised": {
+            "revenue": 0.5,
+            "capital": 0,
+            "total": 0.5
+          }
+        },
+        "2022_actual": {
+          "revenue": 0.19,
+          "capital": 0,
+          "total": 0.19
+        }
+      },
+      {
+        "index": "3.02",
+        "name": "Human Resource Development",
+        "2024_budget": {
+          "revenue": 1.0,
+          "capital": 0,
+          "total": 1.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1.0,
+            "capital": 0,
+            "total": 1.0
+          },
+          "revised": {
+            "revenue": 1.0,
+            "capital": 0,
+            "total": 1.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0.01,
+          "capital": 0,
+          "total": 0.01
+        }
+      },
+      {
+        "index": "3.03",
+        "name": "Research",
+        "2024_budget": {
+          "revenue": 5.15,
+          "capital": 0,
+          "total": 5.15
+        },
+        "2023": {
+          "budget": {
+            "revenue": 5.15,
+            "capital": 0,
+            "total": 5.15
+          },
+          "revised": {
+            "revenue": 1.1,
+            "capital": 0,
+            "total": 1.1
+          }
+        },
+        "2022_actual": {
+          "revenue": 0.32,
+          "capital": 0,
+          "total": 0.32
+        }
+      },
+      {
+        "index": "3.04",
+        "name": "Information -Education and Communication",
+        "2024_budget": {
+          "revenue": 87.79,
+          "capital": 0,
+          "total": 87.79
+        },
+        "2023": {
+          "budget": {
+            "revenue": 87.79,
+            "capital": 0,
+            "total": 87.79
+          },
+          "revised": {
+            "revenue": 87.79,
+            "capital": 0,
+            "total": 87.79
+          }
+        },
+        "2022_actual": {
+          "revenue": 44.81,
+          "capital": 0,
+          "total": 44.81
+        }
+      },
+      {
+        "index": "3.05",
+        "name": "Management Information System and Computerization",
+        "2024_budget": {
+          "revenue": 4.0,
+          "capital": 0,
+          "total": 4.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 4.0,
+            "capital": 0,
+            "total": 4.0
+          },
+          "revised": {
+            "revenue": 3.0,
+            "capital": 0,
+            "total": 3.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 1.59,
+          "capital": 0,
+          "total": 1.59
+        }
+      },
+      {
+        "index": "3.06",
+        "name": "Professional Services",
+        "2024_budget": {
+          "revenue": 4.0,
+          "capital": 0,
+          "total": 4.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 3.5,
+            "capital": 0,
+            "total": 3.5
+          },
+          "revised": {
+            "revenue": 2.0,
+            "capital": 0,
+            "total": 2.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 2.43,
+          "capital": 0,
+          "total": 2.43
+        }
+      },
+      {
+        "index": "3.07",
+        "name": "Interest on Loan",
+        "2024_budget": {
+          "revenue": 1033.3,
+          "capital": 0,
+          "total": 1033.3
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1033.3,
+            "capital": 0,
+            "total": 1033.3
+          },
+          "revised": {
+            "revenue": 1033.02,
+            "capital": 0,
+            "total": 1033.02
+          }
+        },
+        "2022_actual": {
+          "revenue": 1032.8,
+          "capital": 0,
+          "total": 1032.8
+        }
+      },
+      {
+        "index": "3.08",
+        "name": "Programme Component",
+        "2024_budget": {
+          "revenue": 6055.76,
+          "capital": 0,
+          "total": 6055.76
+        },
+        "2023": {
+          "budget": {
+            "revenue": 6056.26,
+            "capital": 0,
+            "total": 6056.26
+          },
+          "revised": {
+            "revenue": 5871.59,
+            "capital": 0,
+            "total": 5871.59
+          }
+        },
+        "2022_actual": {
+          "revenue": 3842.94,
+          "capital": 0,
+          "total": 3842.94
+        }
+      }
+    ],
+    "development_heads": [
+      {
+        "index": "1",
+        "name": "Water Supply and Sanitation",
+        "2024_budget": {
+          "revenue": 64302.85,
+          "capital": 0,
+          "total": 64302.85
+        },
+        "2023": {
+          "budget": {
+            "revenue": 64155.74,
+            "capital": 0,
+            "total": 64155.74
+          },
+          "revised": {
+            "revenue": 64138.41,
+            "capital": 0,
+            "total": 64138.41
+          }
+        },
+        "2022_actual": {
+          "revenue": 55785.45,
+          "capital": 0,
+          "total": 55785.45
+        }
+      },
+      {
+        "index": "2",
+        "name": "Secretariat -Economic Services",
+        "2024_budget": {
+          "revenue": 34.28,
+          "capital": 0,
+          "total": 34.28
+        },
+        "2023": {
+          "budget": {
+            "revenue": 29.8,
+            "capital": 0,
+            "total": 29.8
+          },
+          "revised": {
+            "revenue": 31.05,
+            "capital": 0,
+            "total": 31.05
+          }
+        },
+        "2022_actual": {
+          "revenue": 30.6,
+          "capital": 0,
+          "total": 30.6
+        }
+      },
+      {
+        "index": "3",
+        "name": "Capital Outlay on Other General Economic Services",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 1.5,
+          "total": 1.5
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 1.2,
+            "total": 1.2
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 1.6,
+            "total": 1.6
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "4",
+        "name": "North Eastern Areas",
+        "2024_budget": {
+          "revenue": 7632.19,
+          "capital": 0,
+          "total": 7632.19
+        },
+        "2023": {
+          "budget": {
+            "revenue": 7615.9,
+            "capital": 0,
+            "total": 7615.9
+          },
+          "revised": {
+            "revenue": 7596.7,
+            "capital": 0,
+            "total": 7596.7
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "5",
+        "name": "Grants -in-aid to State Governments",
+        "2024_budget": {
+          "revenue": 5169.86,
+          "capital": 0,
+          "total": 5169.86
+        },
+        "2023": {
+          "budget": {
+            "revenue": 5169.36,
+            "capital": 0,
+            "total": 5169.36
+          },
+          "revised": {
+            "revenue": 5064.89,
+            "capital": 0,
+            "total": 5064.89
+          }
+        },
+        "2022_actual": {
+          "revenue": 3722.65,
+          "capital": 0,
+          "total": 3722.65
+        }
+      },
+      {
+        "index": "6",
+        "name": "Grants -in-aid to Union Territory Governments",
+        "2024_budget": {
+          "revenue": 250.0,
+          "capital": 0,
+          "total": 250.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 251.0,
+            "capital": 0,
+            "total": 251.0
+          },
+          "revised": {
+            "revenue": 200.0,
+            "capital": 0,
+            "total": 200.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 116.79,
+          "capital": 0,
+          "total": 116.79
+        }
+      },
+      {
+        "index": "1",
+        "name": "Secretariat: ..The provision is for Secretariat expenditure of the Department of Drinking Water and Sanitation. 2. Jal Jeevan Mission (JJM) / National Rural Drinking Water Mission: ..Jal Jeevan Mission is a flagship programme of the Government of India which aims at providing Functional Household Tap Connection (FHTC) to every rural household b y 2024. Under this Centrally Sponsored Scheme, financial and technical assistance is provided to States/ UTs for coverage of all rural households. The programme focuses on service delivery at household level, i.e. water supply on regular basis in adequate quantity and of prescribed quality. Government of India has initiated the scheme Pradhan Mantri Janjati Adivasi Nyaya Maha Abhiyan (PM - JANMAN) with effect",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 2023.0,
+            "capital": -24.0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      }
+    ],
+    "public_enterprises": []
+  },
+  "number": 63
+}

@@ -1,0 +1,1014 @@
+{
+  "name": "MINISTRY OF ROAD TRANSPORT AND HIGHWAYS",
+  "demand": "DEMAND NO. 86",
+  "department": "Ministry of Road Transport and Highways",
+  "sections": {
+    "allocation": [
+      {
+        "index": "1",
+        "name": "Secretariat",
+        "2024_budget": {
+          "revenue": 167.0,
+          "capital": 2.91,
+          "total": 169.91
+        },
+        "2023": {
+          "budget": {
+            "revenue": 180.13,
+            "capital": 4.2,
+            "total": 184.33
+          },
+          "revised": {
+            "revenue": 172.8,
+            "capital": 2.2,
+            "total": 175.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 147.33,
+          "capital": 0,
+          "total": 147.33
+        }
+      },
+      {
+        "index": "2.",
+        "name": "National Highways Authority of India"
+      },
+      {
+        "index": "2.01",
+        "name": "Investment in NHAI",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 168464.0,
+          "total": 168464.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 162207.0,
+            "total": 162207.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 167400.0,
+            "total": 167400.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 141340.08,
+          "total": 141340.08
+        }
+      },
+      {
+        "index": "2.02",
+        "name": "Transfer to Central Road and Infrastructure Fund(CRIF)",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 3464.0,
+          "total": 3464.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 1400.0,
+            "total": 1400.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 2400.0,
+            "total": 2400.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 113600.0,
+          "total": 113600.0
+        }
+      },
+      {
+        "index": "2.03",
+        "name": "NHAI investment met from CRIF",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": -3464.0,
+          "total": -3464.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": -1400.0,
+            "total": -1400.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": -2400.0,
+            "total": -2400.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": -113451.19,
+          "total": -113451.19
+        }
+      },
+      {
+        "index": "2.04",
+        "name": "Transfer to Permanent Bridge Fee Fund (PBFF)",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 30000.0,
+          "total": 30000.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 20807.0,
+            "total": 20807.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 25000.0,
+            "total": 25000.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 18005.62,
+          "total": 18005.62
+        }
+      },
+      {
+        "index": "2.05",
+        "name": "NHAI investment met from PBFF",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": -30000.0,
+          "total": -30000.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": -20807.0,
+            "total": -20807.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": -25000.0,
+            "total": -25000.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": -17981.6,
+          "total": -17981.6
+        }
+      },
+      {
+        "index": "2.06",
+        "name": "Transfer to Monetization of National Highways Fund",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 15000.0,
+          "total": 15000.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 10000.0,
+            "total": 10000.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 10000.0,
+            "total": 10000.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 10000.0,
+          "total": 10000.0
+        }
+      },
+      {
+        "index": "2.07",
+        "name": "NHAI investment met from Monetization of National Highways Fund",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": -15000.0,
+          "total": -15000.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": -10000.0,
+            "total": -10000.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": -10000.0,
+            "total": -10000.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": -9851.95,
+          "total": -9851.95
+        }
+      },
+      {
+        "index": "3.",
+        "name": "Road Works"
+      },
+      {
+        "index": "3.01",
+        "name": "Works under Roads Wing",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 78349.0,
+          "total": 78349.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 73113.08,
+            "total": 73113.08
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 71563.42,
+            "total": 71563.42
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 45436.97,
+          "total": 45436.97
+        }
+      },
+      {
+        "index": "3.02",
+        "name": "Programme Component",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 1549.0,
+          "total": 1549.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 1200.0,
+            "total": 1200.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 1855.0,
+            "total": 1855.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 1137.93,
+          "total": 1137.93
+        }
+      },
+      {
+        "index": "3.03",
+        "name": "EAP Component",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 3898.19,
+          "total": 3898.19
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 2700.0,
+            "total": 2700.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 3901.66,
+            "total": 3901.66
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 2381.78,
+          "total": 2381.78
+        }
+      },
+      {
+        "index": "3.04",
+        "name": "Schemes of States financed from CRIF",
+        "2024_budget": {
+          "revenue": 8493.21,
+          "capital": 0,
+          "total": 8493.21
+        },
+        "2023": {
+          "budget": {
+            "revenue": 8493.21,
+            "capital": 0,
+            "total": 8493.21
+          },
+          "revised": {
+            "revenue": 8493.21,
+            "capital": 0,
+            "total": 8493.21
+          }
+        },
+        "2022_actual": {
+          "revenue": 7100.98,
+          "capital": 0,
+          "total": 7100.98
+        }
+      },
+      {
+        "index": "3.05",
+        "name": "Schemes of UTs financed from CRIF",
+        "2024_budget": {
+          "revenue": 176.74,
+          "capital": 360.05,
+          "total": 536.79
+        },
+        "2023": {
+          "budget": {
+            "revenue": 176.74,
+            "capital": 360.05,
+            "total": 536.79
+          },
+          "revised": {
+            "revenue": 254.74,
+            "capital": 282.05,
+            "total": 536.79
+          }
+        },
+        "2022_actual": {
+          "revenue": 351.44,
+          "capital": 99.56,
+          "total": 451.0
+        }
+      },
+      {
+        "index": "3.06",
+        "name": "Grants to Inter -State and Economically Important Roads - Schemes financed from CRIF",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 250.0,
+          "total": 250.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 400.0,
+            "total": 400.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 300.0,
+            "total": 300.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 349.32,
+          "total": 349.32
+        }
+      },
+      {
+        "index": "3.07",
+        "name": "Development, Planning, Quality Assurance, Research and Training - financed from CRIF",
+        "2024_budget": {
+          "revenue": 79.0,
+          "capital": 0,
+          "total": 79.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 79.1,
+            "capital": 0,
+            "total": 79.1
+          },
+          "revised": {
+            "revenue": 79.1,
+            "capital": 0,
+            "total": 79.1
+          }
+        },
+        "2022_actual": {
+          "revenue": 58.51,
+          "capital": 0,
+          "total": 58.51
+        }
+      },
+      {
+        "index": "3.08",
+        "name": "Maintenance of National Highways - financed from CRIF",
+        "2024_budget": {
+          "revenue": 2600.0,
+          "capital": 0,
+          "total": 2600.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 2600.0,
+            "capital": 0,
+            "total": 2600.0
+          },
+          "revised": {
+            "revenue": 2600.0,
+            "capital": 0,
+            "total": 2600.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 2573.66,
+          "capital": 0,
+          "total": 2573.66
+        }
+      },
+      {
+        "index": "3.09",
+        "name": "Special Accelerated Road Development Program (SARDP) for North Eastern Areas financed from National Investment Fund",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 13508.0,
+          "total": 13508.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 10565.0,
+            "total": 10565.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 10565.0,
+            "total": 10565.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 10653.17,
+          "total": 10653.17
+        }
+      },
+      {
+        "index": "3.10",
+        "name": "SARDP for NER financed from GBS",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 5830.0,
+          "total": 5830.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 8026.2,
+            "total": 8026.2
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 8626.2,
+            "total": 8626.2
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "3.11",
+        "name": "SARDP for NER financed from CRIF ... 2805.00 2805.00 ... ... ... ... ... ... ... ... ... 3.12 Transfer to Central Road and Infrastructure Fund(CRIF)",
+        "2024_budget": {
+          "revenue": 5348.95,
+          "capital": 5414.15,
+          "total": 10763.1
+        },
+        "2023": {
+          "budget": {
+            "revenue": 11349.05,
+            "capital": 19891.25,
+            "total": 31240.3
+          },
+          "revised": {
+            "revenue": 11427.05,
+            "capital": 4216.88,
+            "total": 15643.93
+          }
+        },
+        "2022_actual": {
+          "revenue": 10514.58,
+          "capital": 51377.93,
+          "total": 61892.51
+        }
+      },
+      {
+        "index": "3.13",
+        "name": "Met from Central Road and Infrastructure Fund(CRIF)",
+        "2024_budget": {
+          "revenue": -11348.95,
+          "capital": -5414.15,
+          "total": -16763.1
+        },
+        "2023": {
+          "budget": {
+            "revenue": -11349.05,
+            "capital": -19891.25,
+            "total": -31240.3
+          },
+          "revised": {
+            "revenue": -11427.05,
+            "capital": -4216.88,
+            "total": -15643.93
+          }
+        },
+        "2022_actual": {
+          "revenue": -9856.45,
+          "capital": -49177.36,
+          "total": -59033.81
+        }
+      },
+      {
+        "index": "3.14",
+        "name": "Transfer to National Investment Fund",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 13508.0,
+          "total": 13508.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 10565.0,
+            "total": 10565.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 10565.0,
+            "total": 10565.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 10663.67,
+          "total": 10663.67
+        }
+      },
+      {
+        "index": "3.15",
+        "name": "Met from National Investment Fund",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": -13508.0,
+          "total": -13508.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": -10565.0,
+            "total": -10565.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": -10565.0,
+            "total": -10565.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": -10650.0,
+          "total": -10650.0
+        }
+      },
+      {
+        "index": "4.",
+        "name": "Research, Training, Studies and Other Road Safety Schemes"
+      },
+      {
+        "index": "4.01",
+        "name": "Schemes financed from CRIF",
+        "2024_budget": {
+          "revenue": 242.9,
+          "capital": 30.0,
+          "total": 272.9
+        },
+        "2023": {
+          "budget": {
+            "revenue": 300.0,
+            "capital": 30.0,
+            "total": 330.0
+          },
+          "revised": {
+            "revenue": 226.07,
+            "capital": 30.0,
+            "total": 256.07
+          }
+        },
+        "2022_actual": {
+          "revenue": 175.28,
+          "capital": 0,
+          "total": 175.28
+        }
+      },
+      {
+        "index": "4.02",
+        "name": "Transfer to CRIF",
+        "2024_budget": {
+          "revenue": 242.9,
+          "capital": 30.0,
+          "total": 272.9
+        },
+        "2023": {
+          "budget": {
+            "revenue": 300.0,
+            "capital": 30.0,
+            "total": 330.0
+          },
+          "revised": {
+            "revenue": 226.07,
+            "capital": 30.0,
+            "total": 256.07
+          }
+        },
+        "2022_actual": {
+          "revenue": 199.0,
+          "capital": 0,
+          "total": 199.0
+        }
+      },
+      {
+        "index": "4.03",
+        "name": "Met from CRIF",
+        "2024_budget": {
+          "revenue": -242.9,
+          "capital": -30.0,
+          "total": -272.9
+        },
+        "2023": {
+          "budget": {
+            "revenue": -300.0,
+            "capital": -30.0,
+            "total": -330.0
+          },
+          "revised": {
+            "revenue": -226.07,
+            "capital": -30.0,
+            "total": -256.07
+          }
+        },
+        "2022_actual": {
+          "revenue": -160.71,
+          "capital": 0,
+          "total": -160.71
+        }
+      },
+      {
+        "index": "5",
+        "name": "Scheme on Women Safety 5.01 Scheme on Women Safety on Public Road Transport",
+        "2024_budget": {
+          "revenue": 40.0,
+          "capital": 0,
+          "total": 40.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 50.0,
+            "capital": 0,
+            "total": 50.0
+          },
+          "revised": {
+            "revenue": 18.5,
+            "capital": 0,
+            "total": 18.5
+          }
+        },
+        "2022_actual": {
+          "revenue": 23.28,
+          "capital": 0,
+          "total": 23.28
+        }
+      },
+      {
+        "index": "5.02",
+        "name": "Met from Nirbhaya Fund",
+        "2024_budget": {
+          "revenue": -40.0,
+          "capital": 0,
+          "total": -40.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": -50.0,
+            "capital": 0,
+            "total": -50.0
+          },
+          "revised": {
+            "revenue": -18.5,
+            "capital": 0,
+            "total": -18.5
+          }
+        },
+        "2022_actual": {
+          "revenue": -23.28,
+          "capital": 0,
+          "total": -23.28
+        }
+      },
+      {
+        "index": "6",
+        "name": "Actual Recoveries -0.09 -752.99 -753.08 ... ... ... ... ... ... ... ... ... Total -Central Sector Schemes/Projects",
+        "2024_budget": {
+          "revenue": 5591.85,
+          "capital": 272238.24,
+          "total": 277830.09
+        },
+        "2023": {
+          "budget": {
+            "revenue": 11649.05,
+            "capital": 258601.33,
+            "total": 270250.38
+          },
+          "revised": {
+            "revenue": 11653.12,
+            "capital": 264523.33,
+            "total": 276176.45
+          }
+        },
+        "2022_actual": {
+          "revenue": 10956.2,
+          "capital": 205985.94,
+          "total": 216942.14
+        }
+      }
+    ],
+    "development_heads": [
+      {
+        "index": "1",
+        "name": "Roads and Bridges",
+        "2024_budget": {
+          "revenue": 2679.0,
+          "capital": 0,
+          "total": 2679.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 2679.1,
+            "capital": 0,
+            "total": 2679.1
+          },
+          "revised": {
+            "revenue": 2679.1,
+            "capital": 0,
+            "total": 2679.1
+          }
+        },
+        "2022_actual": {
+          "revenue": 2887.24,
+          "capital": 0,
+          "total": 2887.24
+        }
+      },
+      {
+        "index": "2",
+        "name": "Road Transport",
+        "2024_budget": {
+          "revenue": 242.9,
+          "capital": 0,
+          "total": 242.9
+        },
+        "2023": {
+          "budget": {
+            "revenue": 300.0,
+            "capital": 0,
+            "total": 300.0
+          },
+          "revised": {
+            "revenue": 226.07,
+            "capital": 0,
+            "total": 226.07
+          }
+        },
+        "2022_actual": {
+          "revenue": 213.57,
+          "capital": 0,
+          "total": 213.57
+        }
+      },
+      {
+        "index": "3",
+        "name": "Secretariat -Economic Services",
+        "2024_budget": {
+          "revenue": 167.0,
+          "capital": 0,
+          "total": 167.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 180.13,
+            "capital": 0,
+            "total": 180.13
+          },
+          "revised": {
+            "revenue": 172.8,
+            "capital": 0,
+            "total": 172.8
+          }
+        },
+        "2022_actual": {
+          "revenue": 147.24,
+          "capital": 0,
+          "total": 147.24
+        }
+      },
+      {
+        "index": "4",
+        "name": "Capital Outlay on Roads and Bridges",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 252870.24,
+          "total": 252870.24
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 239980.13,
+            "total": 239980.13
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 245302.13,
+            "total": 245302.13
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 205985.94,
+          "total": 205985.94
+        }
+      },
+      {
+        "index": "5",
+        "name": "Capital Outlay on Road Transport",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 30.0,
+          "total": 30.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 30.0,
+            "total": 30.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 30.0,
+            "total": 30.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "6",
+        "name": "Capital Outlay on Other General Economic Services",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 2.91,
+          "total": 2.91
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 4.2,
+            "total": 4.2
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 2.2,
+            "total": 2.2
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "7",
+        "name": "Grants -in-aid to State Governments",
+        "2024_budget": {
+          "revenue": 2493.21,
+          "capital": 0,
+          "total": 2493.21
+        },
+        "2023": {
+          "budget": {
+            "revenue": 8493.21,
+            "capital": 0,
+            "total": 8493.21
+          },
+          "revised": {
+            "revenue": 8493.21,
+            "capital": 0,
+            "total": 8493.21
+          }
+        },
+        "2022_actual": {
+          "revenue": 7499.41,
+          "capital": 0,
+          "total": 7499.41
+        }
+      },
+      {
+        "index": "8",
+        "name": "Grants -in-aid to Union Territory Governments",
+        "2024_budget": {
+          "revenue": 176.74,
+          "capital": 0,
+          "total": 176.74
+        },
+        "2023": {
+          "budget": {
+            "revenue": 176.74,
+            "capital": 0,
+            "total": 176.74
+          },
+          "revised": {
+            "revenue": 254.74,
+            "capital": 0,
+            "total": 254.74
+          }
+        },
+        "2022_actual": {
+          "revenue": 356.07,
+          "capital": 0,
+          "total": 356.07
+        }
+      },
+      {
+        "index": "9",
+        "name": "Capital Outlay on North Eastern Areas",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 19338.0,
+          "total": 19338.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 18591.2,
+            "total": 18591.2
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 19191.2,
+            "total": 19191.2
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      }
+    ],
+    "public_enterprises": [
+      {
+        "index": "1",
+        "name": "National Highway Authority of India",
+        "2024_budget": {
+          "revenue": 168464.0,
+          "capital": 0,
+          "total": 168464.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 162207.01,
+            "capital": 0,
+            "total": 162207.01
+          },
+          "revised": {
+            "revenue": 167400.0,
+            "capital": 0,
+            "total": 167400.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 141660.96,
+          "capital": 0,
+          "total": 141660.96
+        }
+      }
+    ]
+  },
+  "number": 86
+}

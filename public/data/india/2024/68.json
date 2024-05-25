@@ -1,0 +1,1318 @@
+{
+  "name": "MINISTRY OF MICRO, SMALL AND MEDIUM ENTE RPRISES",
+  "demand": "DEMAND NO. 68",
+  "department": "Ministry of Micro, Small and Medium Enterprises",
+  "sections": {
+    "allocation": [
+      {
+        "index": "1",
+        "name": "Secretariat",
+        "2024_budget": {
+          "revenue": 35.1,
+          "capital": 0,
+          "total": 35.1
+        },
+        "2023": {
+          "budget": {
+            "revenue": 32.85,
+            "capital": 0,
+            "total": 32.85
+          },
+          "revised": {
+            "revenue": 34.28,
+            "capital": 0,
+            "total": 34.28
+          }
+        },
+        "2022_actual": {
+          "revenue": 24.14,
+          "capital": 0,
+          "total": 24.14
+        }
+      },
+      {
+        "index": "2",
+        "name": "Development Commissioner (MSME)",
+        "2024_budget": {
+          "revenue": 209.72,
+          "capital": 12.58,
+          "total": 222.3
+        },
+        "2023": {
+          "budget": {
+            "revenue": 213.03,
+            "capital": 19.52,
+            "total": 232.55
+          },
+          "revised": {
+            "revenue": 201.01,
+            "capital": 19.42,
+            "total": 220.43
+          }
+        },
+        "2022_actual": {
+          "revenue": 29.56,
+          "capital": 0,
+          "total": 29.56
+        }
+      },
+      {
+        "index": "3",
+        "name": "Khadi Grant (KG) 332.80 ... 332.80 ... ... ... ... ... ... ... ... ... 4. Scheme for Fund for Regeneration of Traditional Industries (SFURTI)",
+        "2024_budget": {
+          "revenue": 260.0,
+          "capital": 0,
+          "total": 260.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 280.0,
+            "capital": 0,
+            "total": 280.0
+          },
+          "revised": {
+            "revenue": 2.5,
+            "capital": 0,
+            "total": 2.5
+          }
+        },
+        "2022_actual": {
+          "revenue": 1.95,
+          "capital": 0,
+          "total": 1.95
+        }
+      },
+      {
+        "index": "5",
+        "name": "Coir Vikas Yojana",
+        "2024_budget": {
+          "revenue": 103.1,
+          "capital": 0,
+          "total": 103.1
+        },
+        "2023": {
+          "budget": {
+            "revenue": 92.0,
+            "capital": 0,
+            "total": 92.0
+          },
+          "revised": {
+            "revenue": 92.15,
+            "capital": 0,
+            "total": 92.15
+          }
+        },
+        "2022_actual": {
+          "revenue": 87.14,
+          "capital": 0,
+          "total": 87.14
+        }
+      },
+      {
+        "index": "6",
+        "name": "Khadi Vikas Yojana 296.99 ... 296.99 ... ... ... ... ... ... ... ... ... 7. Gramodyog Vikas Yojana 47.18 ... 47.18 ... ... ... ... ... ... ... ... ... 8. Khadi Gramodyog Vikas Yojana 8.01 Khadi Grant (KG)",
+        "2024_budget": {
+          "revenue": 461.0,
+          "capital": 0.5,
+          "total": 461.5
+        },
+        "2023": {
+          "budget": {
+            "revenue": 375.98,
+            "capital": 0,
+            "total": 375.98
+          },
+          "revised": {
+            "revenue": 333.4,
+            "capital": 0.25,
+            "total": 333.65
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "8.02",
+        "name": "Khadi Vikas Yojana",
+        "2024_budget": {
+          "revenue": 515.19,
+          "capital": 0,
+          "total": 515.19
+        },
+        "2023": {
+          "budget": {
+            "revenue": 498.42,
+            "capital": 0,
+            "total": 498.42
+          },
+          "revised": {
+            "revenue": 422.8,
+            "capital": 0,
+            "total": 422.8
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "8.03",
+        "name": "Gramodyog Vikas Yojana",
+        "2024_budget": {
+          "revenue": 60.5,
+          "capital": 0,
+          "total": 60.5
+        },
+        "2023": {
+          "budget": {
+            "revenue": 42.6,
+            "capital": 0,
+            "total": 42.6
+          },
+          "revised": {
+            "revenue": 53.55,
+            "capital": 0,
+            "total": 53.55
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "9",
+        "name": "ASPIRE (Promotion of Innovation, Rural Industry and Entrepreneurship)",
+        "2024_budget": {
+          "revenue": 20.0,
+          "capital": 0,
+          "total": 20.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 22.23,
+            "capital": 0,
+            "total": 22.23
+          },
+          "revised": {
+            "revenue": 4.0,
+            "capital": 0,
+            "total": 4.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 4.0,
+          "capital": 0,
+          "total": 4.0
+        }
+      },
+      {
+        "index": "10",
+        "name": "Credit Linked Capital Subsidy and Technology Upgradation Scheme",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0.08,
+          "capital": 0,
+          "total": 0.08
+        }
+      },
+      {
+        "index": "11",
+        "name": "MSME Champions Scheme",
+        "2024_budget": {
+          "revenue": 54.72,
+          "capital": 0,
+          "total": 54.72
+        },
+        "2023": {
+          "budget": {
+            "revenue": 52.72,
+            "capital": 0,
+            "total": 52.72
+          },
+          "revised": {
+            "revenue": 52.72,
+            "capital": 0,
+            "total": 52.72
+          }
+        },
+        "2022_actual": {
+          "revenue": 44.05,
+          "capital": 0,
+          "total": 44.05
+        }
+      },
+      {
+        "index": "12",
+        "name": "Prime Minister Employment Generation Programme (PMEGP)",
+        "2024_budget": {
+          "revenue": 2300.0,
+          "capital": 0,
+          "total": 2300.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 2700.0,
+            "capital": 0,
+            "total": 2700.0
+          },
+          "revised": {
+            "revenue": 2958.22,
+            "capital": 0,
+            "total": 2958.22
+          }
+        },
+        "2022_actual": {
+          "revenue": 2733.21,
+          "capital": 0,
+          "total": 2733.21
+        }
+      },
+      {
+        "index": "13",
+        "name": "Credit Support Programme",
+        "2024_budget": {
+          "revenue": 0.04,
+          "capital": 0,
+          "total": 0.04
+        },
+        "2023": {
+          "budget": {
+            "revenue": 500.08,
+            "capital": 0,
+            "total": 500.08
+          },
+          "revised": {
+            "revenue": 500.0,
+            "capital": 0,
+            "total": 500.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 8000.0,
+          "capital": 0,
+          "total": 8000.0
+        }
+      },
+      {
+        "index": "14",
+        "name": "Distressed Assets Fund",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0.04,
+            "capital": 0,
+            "total": 0.04
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "15",
+        "name": "Guarantee Emergency Credit Line (GECL) facility to eligible MSME borrowers",
+        "2024_budget": {
+          "revenue": 10162.92,
+          "capital": 0,
+          "total": 10162.92
+        },
+        "2023": {
+          "budget": {
+            "revenue": 14100.0,
+            "capital": 0,
+            "total": 14100.0
+          },
+          "revised": {
+            "revenue": 14000.0,
+            "capital": 0,
+            "total": 14000.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 10500.0,
+          "capital": 0,
+          "total": 10500.0
+        }
+      },
+      {
+        "index": "16",
+        "name": "Credit Linked Capital Subsidy (CLCS)",
+        "2024_budget": {
+          "revenue": 0.55,
+          "capital": 0,
+          "total": 0.55
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1.06,
+            "capital": 0,
+            "total": 1.06
+          },
+          "revised": {
+            "revenue": 2.32,
+            "capital": 0,
+            "total": 2.32
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "17",
+        "name": "Procurement and Marketing Support Scheme",
+        "2024_budget": {
+          "revenue": 65.0,
+          "capital": 0,
+          "total": 65.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 96.35,
+            "capital": 0,
+            "total": 96.35
+          },
+          "revised": {
+            "revenue": 86.6,
+            "capital": 0,
+            "total": 86.6
+          }
+        },
+        "2022_actual": {
+          "revenue": 27.49,
+          "capital": 0,
+          "total": 27.49
+        }
+      },
+      {
+        "index": "18",
+        "name": "International Cooperation Scheme 11.28 ... 11.28 ... ... ... ... ... ... ... ... ... Total -Market Promotion Scheme",
+        "2024_budget": {
+          "revenue": 65.0,
+          "capital": 0,
+          "total": 65.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 96.35,
+            "capital": 0,
+            "total": 96.35
+          },
+          "revised": {
+            "revenue": 86.6,
+            "capital": 0,
+            "total": 86.6
+          }
+        },
+        "2022_actual": {
+          "revenue": 38.77,
+          "capital": 0,
+          "total": 38.77
+        }
+      },
+      {
+        "index": "19",
+        "name": "Studies, Publicity & International Cooperation (SPIC)",
+        "2024_budget": {
+          "revenue": 27.0,
+          "capital": 0,
+          "total": 27.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 36.07,
+            "capital": 0,
+            "total": 36.07
+          },
+          "revised": {
+            "revenue": 30.0,
+            "capital": 0,
+            "total": 30.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "20",
+        "name": "Mahatma Gandhi Institute for Rural Industrialisation",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 8.5,
+          "capital": 0,
+          "total": 8.5
+        }
+      },
+      {
+        "index": "21",
+        "name": "Promotional Services Institutions and Programme 177.46 ... 177.46 ... ... ... ... ... ... ... ... ... 22. Information, Education and Communication",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 3.89,
+          "capital": 0,
+          "total": 3.89
+        }
+      },
+      {
+        "index": "23",
+        "name": "Assistance to Training Institutions",
+        "2024_budget": {
+          "revenue": 30.0,
+          "capital": 0,
+          "total": 30.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 30.0,
+            "capital": 0,
+            "total": 30.0
+          },
+          "revised": {
+            "revenue": 15.0,
+            "capital": 0,
+            "total": 15.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 21.99,
+          "capital": 0,
+          "total": 21.99
+        }
+      },
+      {
+        "index": "24",
+        "name": "Fund of Funds",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 575.0,
+          "total": 575.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 575.0,
+            "total": 575.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 575.0,
+            "total": 575.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 392.78,
+          "total": 392.78
+        }
+      },
+      {
+        "index": "25",
+        "name": "Entrepreneurship cum Skill Development Programme (ESDP)",
+        "2024_budget": {
+          "revenue": 99.0,
+          "capital": 0,
+          "total": 99.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 80.0,
+            "capital": 0,
+            "total": 80.0
+          },
+          "revised": {
+            "revenue": 65.0,
+            "capital": 0,
+            "total": 65.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "26",
+        "name": "Infrastructure Development and Capacity Building. 26.01 Micro and Small Enterprises Cluster Development Programme (MSE -CDP) 119.55 ... 119.55 ... ... ... ... ... ... ... ... ... 26.02 Tool Rooms & Technical Institutions 101.00 ... 101.00 ... ... ... ... ... ... ... ... ... 26.03 Promotion of MSME in NER & Sikkim 49.40 ... 49.40 ... ... ... ... ... ... ... ... ... 26.04 Infrastructure Support to TCs/TSs/DIs and Capital Outlay on Public Works (Construction of Office Accommodation) 15.08 ... 15.08 ... ... ... ... ... ... ... ... ... Total - Infrastructure Development and Capacity Building. 285.03 ... 285.03 ... ... ... ... ... ... ... ... ... 27. Establishment of New Technology Centres",
+        "2024_budget": {
+          "revenue": 450.0,
+          "capital": 0,
+          "total": 450.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 450.0,
+            "capital": 0,
+            "total": 450.0
+          },
+          "revised": {
+            "revenue": 15.94,
+            "capital": 0,
+            "total": 15.94
+          }
+        },
+        "2022_actual": {
+          "revenue": 10.0,
+          "capital": 0,
+          "total": 10.0
+        }
+      },
+      {
+        "index": "28",
+        "name": "Technology Centre Systems Programme (TCSP) EAP",
+        "2024_budget": {
+          "revenue": 0.01,
+          "capital": 0,
+          "total": 0.01
+        },
+        "2023": {
+          "budget": {
+            "revenue": 350.0,
+            "capital": 0,
+            "total": 350.0
+          },
+          "revised": {
+            "revenue": 200.0,
+            "capital": 0,
+            "total": 200.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 123.6,
+          "capital": 0,
+          "total": 123.6
+        }
+      },
+      {
+        "index": "29",
+        "name": "Construction of Office Accomodation - Capital Outlay on Public Works ... 13.55 13.55 ... ... ... ... ... ... ... ... ... 30. Raising and Accelerating MSME Performance -",
+        "2024_budget": {
+          "revenue": 1170.0,
+          "capital": 0,
+          "total": 1170.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1170.0,
+            "capital": 0,
+            "total": 1170.0
+          },
+          "revised": {
+            "revenue": 1000.0,
+            "capital": 0,
+            "total": 1000.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 269.38,
+          "capital": 0,
+          "total": 269.38
+        }
+      },
+      {
+        "index": "31",
+        "name": "Micro and Small Enterprise -Cluster Development Programme (MSE -CDP)",
+        "2024_budget": {
+          "revenue": 400.0,
+          "capital": 0,
+          "total": 400.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 150.0,
+            "capital": 0,
+            "total": 150.0
+          },
+          "revised": {
+            "revenue": 180.0,
+            "capital": 0,
+            "total": 180.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "32",
+        "name": "Tool Rooms & Technical Institutions (TR/TIs)",
+        "2024_budget": {
+          "revenue": 140.0,
+          "capital": 0,
+          "total": 140.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 100.0,
+            "capital": 0,
+            "total": 100.0
+          },
+          "revised": {
+            "revenue": 140.0,
+            "capital": 0,
+            "total": 140.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "33",
+        "name": "Promotion of MSMEs in NER and Sikkim",
+        "2024_budget": {
+          "revenue": 50.0,
+          "capital": 0,
+          "total": 50.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 50.0,
+            "capital": 0,
+            "total": 50.0
+          },
+          "revised": {
+            "revenue": 50.0,
+            "capital": 0,
+            "total": 50.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "34",
+        "name": "Database Research Evaluation and Other Office Support Programme",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 1.51,
+          "capital": 0,
+          "total": 1.51
+        }
+      },
+      {
+        "index": "35",
+        "name": "Survey, Studies and Policy Research",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 1.33,
+          "capital": 0,
+          "total": 1.33
+        }
+      },
+      {
+        "index": "36",
+        "name": "National Schedule Caste/Schedule Tribe Hub Centre",
+        "2024_budget": {
+          "revenue": 99.92,
+          "capital": 0,
+          "total": 99.92
+        },
+        "2023": {
+          "budget": {
+            "revenue": 100.0,
+            "capital": 0,
+            "total": 100.0
+          },
+          "revised": {
+            "revenue": 100.0,
+            "capital": 0,
+            "total": 100.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 135.0,
+          "capital": 0,
+          "total": 135.0
+        }
+      },
+      {
+        "index": "37",
+        "name": "PM Vishwakarma",
+        "2024_budget": {
+          "revenue": 4824.0,
+          "capital": 0,
+          "total": 4824.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 989.52,
+            "capital": 0,
+            "total": 989.52
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "38",
+        "name": "Mahatma Gandhi Institute for Rural Industrialisation.",
+        "2024_budget": {
+          "revenue": 12.1,
+          "capital": 0,
+          "total": 12.1
+        },
+        "2023": {
+          "budget": {
+            "revenue": 20.0,
+            "capital": 0,
+            "total": 20.0
+          },
+          "revised": {
+            "revenue": 14.27,
+            "capital": 0,
+            "total": 14.27
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "39",
+        "name": "Actual Recovery -42.95 ... -42.95 ... ... ... ... ... ... ... ... ... Total -Other Central Sector Expenditure",
+        "2024_budget": {
+          "revenue": 12.1,
+          "capital": 0,
+          "total": 12.1
+        },
+        "2023": {
+          "budget": {
+            "revenue": 20.0,
+            "capital": 0,
+            "total": 20.0
+          },
+          "revised": {
+            "revenue": 14.27,
+            "capital": 0,
+            "total": 14.27
+          }
+        },
+        "2022_actual": {
+          "revenue": -42.95,
+          "capital": 0,
+          "total": -42.95
+        }
+      }
+    ],
+    "development_heads": [
+      {
+        "index": "1",
+        "name": "Village and Small Industries",
+        "2024_budget": {
+          "revenue": 19381.26,
+          "capital": 0,
+          "total": 19381.26
+        },
+        "2023": {
+          "budget": {
+            "revenue": 19279.21,
+            "capital": 0,
+            "total": 19279.21
+          },
+          "revised": {
+            "revenue": 19194.7,
+            "capital": 0,
+            "total": 19194.7
+          }
+        },
+        "2022_actual": {
+          "revenue": 23110.47,
+          "capital": 0,
+          "total": 23110.47
+        }
+      },
+      {
+        "index": "2",
+        "name": "Secretariat -Economic Services",
+        "2024_budget": {
+          "revenue": 35.1,
+          "capital": 0,
+          "total": 35.1
+        },
+        "2023": {
+          "budget": {
+            "revenue": 32.85,
+            "capital": 0,
+            "total": 32.85
+          },
+          "revised": {
+            "revenue": 34.28,
+            "capital": 0,
+            "total": 34.28
+          }
+        },
+        "2022_actual": {
+          "revenue": 24.14,
+          "capital": 0,
+          "total": 24.14
+        }
+      },
+      {
+        "index": "3",
+        "name": "Capital Outlay on Village and Small Industries",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 530.08,
+          "total": 530.08
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 536.62,
+            "total": 536.62
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 536.52,
+            "total": 536.52
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 406.33,
+          "total": 406.33
+        }
+      },
+      {
+        "index": "4",
+        "name": "Loans for Village and Small Industries",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0.5,
+          "total": 0.5
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0.25,
+            "total": 0.25
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "5",
+        "name": "North Eastern Areas",
+        "2024_budget": {
+          "revenue": 2133.51,
+          "capital": 0,
+          "total": 2133.51
+        },
+        "2023": {
+          "budget": {
+            "revenue": 2231.37,
+            "capital": 0,
+            "total": 2231.37
+          },
+          "revised": {
+            "revenue": 2314.3,
+            "capital": 0,
+            "total": 2314.3
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "6",
+        "name": "Capital Outlay on North Eastern Areas",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 57.5,
+          "total": 57.5
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 57.9,
+            "total": 57.9
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 57.9,
+            "total": 57.9
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      }
+    ],
+    "public_enterprises": [
+      {
+        "index": "1",
+        "name": "National Small Industries Corporation",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 240.0,
+          "total": 240.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 260.0,
+            "capital": 260.0,
+            "total": 520.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 220.0,
+            "total": 220.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 150.29,
+          "total": 150.29
+        }
+      },
+      {
+        "index": "1",
+        "name": "Secretariat: ..Provides for establishment -related expenses, salaries, allowances, contingent, domestic /Foreign Travel, repair, hospitality, etc. for the Ministry of Micro, Small and Medium Enterprises. 2. Development Commissioner (MSME): ..The office of Development Commissioner (MSME) is an attached body of the Ministry of MSME which looks after several aspects relating to formulation, coordination and monitoring of policies and progr ammes for promotion and development of Micro, Small and Medium Enterprises in the country. Provision is for establishment related expenses such as salaries, allowances, contingent, Domestic/Foreign Travel, repair, hospitality, office expenses etc. of Headq uarter DC (MSME), MSME -DFOs and MSME -TCs. This also provide establishment related Capital expenses such as Motor vehicles, machinery and Equipments, Information, Computer, telecommunication Equipments, Building and structures, Furniture and fixtures, land, infrastructural assets, other fixed assets etc. for Secretariat, M/o MSME, Development commissioner (MSME), MSME -DFOs and MSME -TCs. 3. Khadi Grant (KG): ..Khadi Grant Scheme is moved under Khadi Gramodyog Vikas Yojana from 2022 -23. 4. Scheme for Fund for Regeneration of Traditional Industries (SFURTI): ..The Scheme aims to organize traditional industries and artisans into collectives and add value to their products, thereby providing them with increased and sustainable income. Artisans are provided financi al assistance for setting up of common facility centers, procurement of new machineries and raw materials, capacity building, marketing and design related interventions etc under the Scheme. Major sectors covered the Scheme include handicrafts, textiles, a gro processing, honey, bamboo etc. A total of 498 clusters have been approved under SFURTI since 2015 -16, with a total GoI assistance of ..`.1294.92 crores, directly benefitting 2.94 lakh traditional artisans, across the country. Out of these 498 clusters , 261 clusters are already functional. .. A total of 677",
+        "2024_budget": {
+          "revenue": 2021.0,
+          "capital": -22.0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "2025",
+        "name": "",
+        "2024_budget": {
+          "revenue": 406200.0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": -26.0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "5.",
+        "name": "Coir Vikas Yojana: ..The Coir Vikas Yojana is imp lemented by the Coir Board which is a statutory body established under the Coir Industry Act, 1953 for promoting overall development of the coir industry and improving the living condition of the workers engaged in this traditional industry. The activities of the Board for development of coir industries, inter -alia, include undertaking scientific, technological and economic research and development activities developing new products & designs; and marketing of coir and coir products in India and abroad. It also promotes co -operative organizations among producers of husks, coir fibre, coir yarn and manufacturers of coir products; ensuring remunerative returns to producers and manufacturers, etc. Under Coir Vikas Yojana, various programmes like R and D acti vities, Market Development programmes, Entrepreneurship Development Programme, Awareness Programme, Workshop, Seminar, Exposure Tour, etc. are organised under various components of the scheme for attracting more entrepreneurs to coir sector. In order to cr eate skilled man power required for the coir industry the Board is organizing various training programmes on manufacture of value added products. Skill Development and employment generation (through Skill Upgradation and Mahila Coir Yojana), providing assi stance for setting up new units through PMEGP Schemes, and Welfare measures for coir workers. Assistance is provided for export and domestic market promotion in coir sector. 6. Khadi Vikas Yojana: ..Khadi Vikas Yojana is moved under Khadi Gramodyog Vikas Yojana from 2022 -23. 7. Gramodyog Vikas Yojana: ..Gramodyog Vikas Yojana is shifted under Khadi Gramodyog Vikas Yojana from 2022 -23. 8.01. Khadi Grant (KG): ..By subsuming all the existing schemes/sub schemes/components under Khadi Grant and Village Industr ies Grant umbrellas, a new scheme namely Khadi and Gramodyog Vikas Yojana (KGVY) with sub schemes of Khadi Grant, Khadi Vikas Yojana (KVY) and Gramodyog Vikas Yojana (GVY) was approved by the Government of India in February 2019 and the same has been conti nued for the period of five year i.e from FY 2021 -22 to 2025 -26."
+      },
+      {
+        "index": "10",
+        "name": "Credit Linked Capital Subsidy and Tec hnology Upgradation Scheme: ..The scheme was approved by the Cabinet with sunset clause and it was in force till 31.03.2020. The objective of CLCS component was to facilitate technology to MSEs through institutional finance for induction well established a nd proven technologies in the specific sub -sector / products. Under this scheme subsidy of 15% on institutional credit up to ..`.1.0 crore (i.e. a subsidy cap of ..`.15.00 lakh) was extended to MSEs for identified sectors/sub - sectors/technologies. The schem e was implemented through 11 Nodal Banks/agency, however, almost all Commercial Banks, Pvt. Banks & RRBs are acting as PLI through these 11 Nodal Banks/Agency . For SC/ST category, women entrepreneurs and entrepreneurs from Special Areas subsidy has also been made admissible for investment in acquisition/replacement of plant & machinery/equipment & technology up - gradation of any kind. All the eligible subsidy claims received have been settled. The Technology Up -gradation Scheme (TEQUP) & Technology Acquisi tion & Development Fund Scheme (TADF) have been merged with in this scheme. The budget provision for the contingent liabilities may be retained . .. 11. MSME Champions Scheme: ..The programme covers MSME Champions Scheme viz. MSME Sustainable (ZED) , MSME C ompetitive (Lean), MSME Innovative (Incubation, Design, IPR, Digital MSME) components for enhancing competitiveness of MSMEs. 12. Prime Minister Employment Generation Programme (PMEGP): ..A credit linked subsidy scheme titled Prime Minister s Employment Ge neration Programme (PMEGP) was launched in 2008 - 09 through merger of the erstwhile schemes of Prime Minister s Rozgar Yojana (PMRY) and Rural Employment Generation Programme (REGP). PMEGP is aimed at generating self -employment opportunities through establi shment of micro -enterprises in the non -farm sector by helping traditional artisans and unemployed youth. General category beneficiaries can avail of margin money subsidy of 25 percent of the project cost in rural areas and 15 percent in urban areas. For be neficiaries belonging to special categories such as scheduled caste, scheduled tribe, women, Ex -Servicemen, Transgenders, Differently -abled, NER, Inspirational Districts, Hill and Border areas, etc.",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 25.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 35.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "2nd",
+        "name": "Financial Assistance of up to ..`.1 cr. with subsidy of 15 percent (20 percent for NER/Hill areas) for upgradati on is admissible for good performing existing PMEGP/MUDRA units .. Since its inception",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 8.14,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 2008.0,
+          "total": 0
+        }
+      },
+      {
+        "index": "20",
+        "name": "Mahatma Gandhi Institu te for Rural Industrialisation: ..Mahatma Gandhi Institute for Rural Industrialization, which is an autonomous body under the administrative control of the Ministry of MSME, has been established in 2001 by revamping the Jamnalal Bajaj Central Research Insti tute, Wardha. The objective of MGIRI is to accelerate the process of Rural Industrialization in the Country along the lines of Gandhian vision of sustainable and self -reliant village economy and to provide S&T support to upgrade products of rural industry so that they gain wide acceptability in local and global markets. 21. Promotional Services Institutions and Programme: ..The objectives of Promotional Services Institutions and Programme Scheme is to motivate youth representing different sections of the s ociety including SC/ST/Women, differently abled, Ex -servicemen and BPL persons to consider self employment or entrepreneurship as one of the career options. The ultimate objective is to promote new enterprises, capacity building of existing MSMEs and incul cating entrepreneurial culture in the country. 22. Information, Education and Communication: ..The objectives of the scheme Information, Education and Communication is to give wide publicity to the various schemes of the Ministry and office of Development Commissioner (MSME) being run with the aim of providing financial assistance, technological assistance and upgradation, infrastructure development, skill development and training and market assistance to MSMEs etc. 23. Assistance to Training Institutions: ..The revised guidelines (effective from 01.12.2021) provide financial assistance in the form of (i) Infrastructure support and capacity building of training institution of Ministry of MSME and the existing State Level EDIs and (ii)Training (Skill Developm ent programmes/Training of Trainers) by training institution of Ministry of MSME. 24. Fund of Funds: ..Fund of Funds (Self Reliant India Fund (SRI) - The Government of India has announced Fund of Funds with the nomenclature Self Reliant India (SRI) Fund to infuse ..`.50,000 crore as equity funding in those MSMEs which have the potential and viability to grow and become large units. Under this scheme total size of fund of ..`.50,000 Crore has a provision of ..`10,000 Crore from Government of India and..`40,000 C rore leverage through Private Equity / Venture Capital funds. This initiative is aimed at providing growth capital to the deserving and eligible units of MSME sector. For further operationalization of SRI Fund, Ministry of MSME has sanctioned and released ..`.180.35 crore to NVCFL during FY 2021 -22... 25. Entrepreneurship cum Skill Development Programme (ESDP): ..The objective of the Entrepreneurship and Skill Development Programme (ESDP) scheme of the Ministry of Micro, Small and Medium Enterprises is to mo tivate youth representing different sections of the society including SC/ST/Women, Differently abled, Ex -servicemen and BPL persons to consider self -employment or entrepreneurship as one of the career options. The main objective is to promote new enterpris es, capacity building of existing MSMEs and inculcating entrepreneurial culture in the country. 26. Infrastructure Development and Capacity Building.: ..Ministry of MSME implements Micro and Small Enterprises Cluster Development Programme (MSE -CDP). Under the scheme, financial support is extended to projects of the State Government to set up Common Facility Centers (CDCs) and create/upgrade Infrastructrual facilities in new/existing industrial estates/industrial areas. 27. Establishment of New Technology C entres: ..To enhance the outreach of Technology Centres of Ministry throughout",
+        "2024_budget": {
+          "revenue": 100.0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 20.0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "01.11.2018",
+        "name": "and announced by Honble Prime Minister on 02.11.2018. The total outlay of the scheme was initially Rs 6000 Cr with a validity upto",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 2022.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 2022.0
+        }
+      },
+      {
+        "index": "500mn)",
+        "name": "RAMP scheme supports the following existing schemes of MoMSME, apart from provi ding assistance to States MSME Champions Scheme, Procurement and Marketing Support, International Co -operation, Capacity Building for Technology Centres, and Research and Evaluation Studies. RAMP scheme envisages to benefit more than 5.5 lakh",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 2026.0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 2022.0,
+            "total": -23.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "31",
+        "name": "Micro and Small Enterprise -Cluster Development Programme (MSE -CDP): ..Micro & Small Enterprises Cluster Development Programme (MSE -CDP): Development Commissioner (MSME), Ministry of MSME, Govt. of India operates a scheme viz. MSE -Cluster Development Programme. Under this scheme, Common Facility Centers (CFCs) are set up and also support is given for setting up of new Industrial Infrastructure Development Projects (e.g. Industrial Estates) and up -gradatio n of existing industrial estates. MSE -CDP is a demand driven scheme with objectives of Support sustainability, competitiveness and growth of MSMEs by addressing common issues, Capacity Building of MSMEs for common supportive action, Create / upgrade Infr astructural Facilities in Industrial Estates / Clusters, Setting up of Common Facility Centres (CFCs), Promotion of green & sustainable manufacturing technology. 32. Tool Rooms & Technical Institutions (TR/TIs): ..Tool Rooms and Technical Institutions have been providing technology support services to MSMEs and also conductng technical training programmes for providing skilled manpower to industries. The budget provides funds for release of grant -in- aid to the Institutions for procurement of Machinery and Equipment of latest technology and also for meeting cash deficit, if any. The training fee is reimbursed by Government out of the provisions made for SCSP / TASP Head. 33. Promotion of MSMEs in NER and Sikkim: ..The Promotion of MSMEs in NER and Sikkim sc heme is a fully dedicated for development of MSMEs of North Eastern and Sikkim Region. The Scheme envisages financial assistance to State Governments for setting up new and modernization of existing Mini Technology Centres mainly for augmenting Infrastruct ure for enhancing the productivity and competitiveness as well as capacity building of Micro, Small and Medium Enterprises (MSMEs). Financial assistance will also be provided for development of new and existing Industrial Estates, Flatted Factory Complexes . The various activities for creation of common services such as kitchen, bakery, laundry & dry cleaning, refrigeration and cold storage, IT infra, potable water, display centre for local products, centre for cultural activities etc. in a cluster of home s tays may be considered under the Tourism Development component. 34. Database Research Evaluation and Other Office Support Programme: ..The main objective of the scheme are to regular/periodically collect reverent and reliable data on various aspects and features of MSMEs, to study and analyze the constraints and challenges faced by the MSME as well as the opportunities available to the, in the context of liberalization and globalization of the economy and to use the results of these surveys, evaluation stud ies of scheme for this Ministry and analytical studies for policy research, designing appropriate strategies and measures of intervention by the Government. Under the scheme, data on enterprises owned and/or managed bty women, SC/ST and OBC are also collec ted. 35. Survey, Studies and Policy Research: ..The main objective of the scheme are to regular/periodically collect reverent and reliable data on various aspects and features of MSMEs, to study and analyze the constraints and challenges faced by the MSME as well as the opportunities available to them, in the context of liberalization and globalization of the economy and to use the results of these surveys, evaluation studies of scheme for this Ministry and analytical studies for policy research, designing appropriate strategies and measures of intervention by the Government. Under the scheme, data on enterprises owned and/or managed by women, SC/ST an OBC are also collected. 36. National Schedule Caste/Schedule Tribe Hub Centre: ..National Schedule Caste an d Schedule Tribe Hub was formally launched by Hon ble Prime Minister in October 2016. The Hub provides professional support to SCST entrepreneurs to fulfill the obligations under the Central Government Public Procurement Policy for Micro and Small Enterpri ses Order 2012, adopt applicable business practices and leverage the Stand up India initiatives. The Scheme is being implemented through National Small Industries Corporation Ltd. (NSIC). The functions of Hub include collection, collation and dissemination of information regarding SC,ST enterprises and entrepreneurs, capacity building among existing and prospective SC,ST entrepreneurs through skill training and EDPs, vendor development. 37. PM Vishwakarma: ..PM Vishwakarma is a new Central Sector Scheme lau nched on 17.09.2023 with a financial outlay of ..`13,000 crore for a",
+        "2024_budget": {
+          "revenue": 2027.0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 2023.0
+          },
+          "revised": {
+            "revenue": -24.0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      }
+    ]
+  },
+  "number": 68
+}

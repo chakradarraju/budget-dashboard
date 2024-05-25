@@ -1,0 +1,1344 @@
+{
+  "name": "MINISTRY OF COMMUNICATIONS",
+  "demand": "DEMAND NO. 13",
+  "department": "Department of Telecommunications",
+  "sections": {
+    "allocation": [
+      {
+        "index": "1",
+        "name": "Secretariat -Economic Services",
+        "2024_budget": {
+          "revenue": 958.83,
+          "capital": 27.31,
+          "total": 986.14
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1081.86,
+            "capital": 9.52,
+            "total": 1091.38
+          },
+          "revised": {
+            "revenue": 1054.15,
+            "capital": 30.95,
+            "total": 1085.1
+          }
+        },
+        "2022_actual": {
+          "revenue": 794.44,
+          "capital": 0,
+          "total": 794.44
+        }
+      },
+      {
+        "index": "2",
+        "name": "Pensions",
+        "2024_budget": {
+          "revenue": 17510.0,
+          "capital": 0,
+          "total": 17510.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 20650.0,
+            "capital": 0,
+            "total": 20650.0
+          },
+          "revised": {
+            "revenue": 17000.0,
+            "capital": 0,
+            "total": 17000.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 15530.94,
+          "capital": 0,
+          "total": 15530.94
+        }
+      },
+      {
+        "index": "3",
+        "name": "Labour Employment and Skill Development",
+        "2024_budget": {
+          "revenue": 0.4,
+          "capital": 0,
+          "total": 0.4
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0.4,
+            "capital": 0,
+            "total": 0.4
+          },
+          "revised": {
+            "revenue": 0.4,
+            "capital": 0,
+            "total": 0.4
+          }
+        },
+        "2022_actual": {
+          "revenue": 0.1,
+          "capital": 0,
+          "total": 0.1
+        }
+      },
+      {
+        "index": "4",
+        "name": "Regulatory Bodies 4.01 Telecom Regulatory Authority of India General Fund",
+        "2024_budget": {
+          "revenue": 100.0,
+          "capital": 10.0,
+          "total": 110.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 112.0,
+            "capital": 102.35,
+            "total": 214.35
+          },
+          "revised": {
+            "revenue": 112.0,
+            "capital": 199.9,
+            "total": 311.9
+          }
+        },
+        "2022_actual": {
+          "revenue": 97.18,
+          "capital": 135.6,
+          "total": 232.78
+        }
+      },
+      {
+        "index": "4.02",
+        "name": "Telecom Disputes Settlement and Appellate Tribunal (TDSAT)",
+        "2024_budget": {
+          "revenue": 23.2,
+          "capital": 0.5,
+          "total": 23.7
+        },
+        "2023": {
+          "budget": {
+            "revenue": 23.7,
+            "capital": 0.48,
+            "total": 24.18
+          },
+          "revised": {
+            "revenue": 25.7,
+            "capital": 0.48,
+            "total": 26.18
+          }
+        },
+        "2022_actual": {
+          "revenue": 17.02,
+          "capital": 0,
+          "total": 17.02
+        }
+      },
+      {
+        "index": "5",
+        "name": "Human Resource Management",
+        "2024_budget": {
+          "revenue": 12.0,
+          "capital": 10.58,
+          "total": 22.58
+        },
+        "2023": {
+          "budget": {
+            "revenue": 28.7,
+            "capital": 30.0,
+            "total": 58.7
+          },
+          "revised": {
+            "revenue": 10.84,
+            "capital": 25.0,
+            "total": 35.84
+          }
+        },
+        "2022_actual": {
+          "revenue": 10.08,
+          "capital": 14.59,
+          "total": 24.67
+        }
+      },
+      {
+        "index": "6",
+        "name": "Special Assistance for Swachhta Action Plan",
+        "2024_budget": {
+          "revenue": 2.0,
+          "capital": 0,
+          "total": 2.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 2.0,
+            "capital": 0,
+            "total": 2.0
+          },
+          "revised": {
+            "revenue": 1.53,
+            "capital": 0,
+            "total": 1.53
+          }
+        },
+        "2022_actual": {
+          "revenue": 1.1,
+          "capital": 0,
+          "total": 1.1
+        }
+      },
+      {
+        "index": "7",
+        "name": "Artificial Intelligence and Face Recognition Powered Solution for Telecom SIM Subscriber Verification (ASTR)",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0.5,
+            "total": 0.5
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "8",
+        "name": "Mandatory Testing and Certification of Telecom Equipment (MTCTE)",
+        "2024_budget": {
+          "revenue": 1.2,
+          "capital": 0.2,
+          "total": 1.4
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1.2,
+            "capital": 0.2,
+            "total": 1.4
+          },
+          "revised": {
+            "revenue": 1.2,
+            "capital": 0.2,
+            "total": 1.4
+          }
+        },
+        "2022_actual": {
+          "revenue": 0.51,
+          "capital": 0.26,
+          "total": 0.77
+        }
+      },
+      {
+        "index": "9",
+        "name": "Compensation to Service Providers for creation and augmentation of telecom infrastructure 9.01 Transfer to Universal Service Obligation (USO) Fund",
+        "2024_budget": {
+          "revenue": 1000.0,
+          "capital": 1000.0,
+          "total": 2000.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 5400.0,
+            "capital": 5000.0,
+            "total": 10400.0
+          },
+          "revised": {
+            "revenue": 1000.0,
+            "capital": 1000.0,
+            "total": 2000.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 27000.0,
+          "capital": 26500.0,
+          "total": 53500.0
+        }
+      },
+      {
+        "index": "9.02",
+        "name": "Compensation to Telecom Service Providers",
+        "2024_budget": {
+          "revenue": 10100.0,
+          "capital": 0,
+          "total": 10100.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 5000.0,
+            "capital": 0,
+            "total": 5000.0
+          },
+          "revised": {
+            "revenue": 10600.0,
+            "capital": 0,
+            "total": 10600.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 2000.0,
+          "capital": 0,
+          "total": 2000.0
+        }
+      },
+      {
+        "index": "9.03",
+        "name": "Bharatnet",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 8500.0,
+          "total": 8500.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 5000.0,
+            "total": 5000.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 5000.0,
+            "total": 5000.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 1500.0,
+          "total": 1500.0
+        }
+      },
+      {
+        "index": "9.04",
+        "name": "R&D (Revenue)",
+        "2024_budget": {
+          "revenue": 400.0,
+          "capital": 0,
+          "total": 400.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 400.0,
+            "capital": 0,
+            "total": 400.0
+          },
+          "revised": {
+            "revenue": 100.0,
+            "capital": 0,
+            "total": 100.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "9.05",
+        "name": "Amount met from Universal Service Obligation (USO) Fund",
+        "2024_budget": {
+          "revenue": -10500.0,
+          "capital": -8500.0,
+          "total": -19000.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": -5400.0,
+            "capital": -5000.0,
+            "total": -10400.0
+          },
+          "revised": {
+            "revenue": -10700.0,
+            "capital": -5000.0,
+            "total": -15700.0
+          }
+        },
+        "2022_actual": {
+          "revenue": -2000.0,
+          "capital": -1500.0,
+          "total": -3500.0
+        }
+      },
+      {
+        "index": "10",
+        "name": "Optical Fibre Cable based network for Defence Services 10.01 Optical Fibre Cable based network for Defence Services",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 2158.0,
+            "total": 2158.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 3751.74,
+            "total": 3751.74
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 1367.66,
+          "total": 1367.66
+        }
+      },
+      {
+        "index": "11",
+        "name": "Domestic Industry Incentivisation Scheme",
+        "2024_budget": {
+          "revenue": 1910.8,
+          "capital": 0,
+          "total": 1910.8
+        },
+        "2023": {
+          "budget": {
+            "revenue": 915.0,
+            "capital": 0,
+            "total": 915.0
+          },
+          "revised": {
+            "revenue": 514.52,
+            "capital": 0,
+            "total": 514.52
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "12.",
+        "name": "Wireless Planning and Coordination"
+      },
+      {
+        "index": "12.01",
+        "name": "Wireless Planning and Coordination",
+        "2024_budget": {
+          "revenue": 20.86,
+          "capital": 163.24,
+          "total": 184.1
+        },
+        "2023": {
+          "budget": {
+            "revenue": 20.0,
+            "capital": 200.0,
+            "total": 220.0
+          },
+          "revised": {
+            "revenue": 32.65,
+            "capital": 0.02,
+            "total": 32.67
+          }
+        },
+        "2022_actual": {
+          "revenue": 19.33,
+          "capital": 0,
+          "total": 19.33
+        }
+      },
+      {
+        "index": "12.02",
+        "name": "Wireless Monitoring Services",
+        "2024_budget": {
+          "revenue": 54.14,
+          "capital": 61.76,
+          "total": 115.9
+        },
+        "2023": {
+          "budget": {
+            "revenue": 50.0,
+            "capital": 486.42,
+            "total": 536.42
+          },
+          "revised": {
+            "revenue": 67.91,
+            "capital": 28.63,
+            "total": 96.54
+          }
+        },
+        "2022_actual": {
+          "revenue": 42.82,
+          "capital": 3.82,
+          "total": 46.64
+        }
+      },
+      {
+        "index": "13",
+        "name": "Telecom Engineering Centre",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0.17,
+          "total": 0.17
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 12.0,
+            "total": 12.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0.8,
+            "total": 0.8
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 1.24,
+          "total": 1.24
+        }
+      },
+      {
+        "index": "14",
+        "name": "Technology Development and Investment Promotion 16.55 ... 16.55 ... ... ... ... ... ... ... ... ... 15. Telecom Testing and Security Certification Centre",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 6.0,
+          "total": 6.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 24.0,
+            "total": 24.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 5.0,
+            "total": 5.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 6.58,
+          "total": 6.58
+        }
+      },
+      {
+        "index": "16",
+        "name": "Telecom Computer Emergency Response Team(T - Cert)",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 8.54,
+          "total": 8.54
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 351.34,
+            "total": 351.34
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 218.49,
+            "total": 218.49
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 110.0,
+          "total": 110.0
+        }
+      },
+      {
+        "index": "17",
+        "name": "Central Equipments Identity Register (CEIR) ... 13.00 13.00 ... ... ... ... ... ... ... ... ... 18. Funding to BSNL for providing Telecom Connectivity for Amarnath Yatra",
+        "2024_budget": {
+          "revenue": 1.0,
+          "capital": 0,
+          "total": 1.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1.0,
+            "capital": 0,
+            "total": 1.0
+          },
+          "revised": {
+            "revenue": 1.51,
+            "capital": 0,
+            "total": 1.51
+          }
+        },
+        "2022_actual": {
+          "revenue": 0.81,
+          "capital": 0,
+          "total": 0.81
+        }
+      },
+      {
+        "index": "19",
+        "name": "5G Connectivity Test Bed",
+        "2024_budget": {
+          "revenue": 2.92,
+          "capital": 0,
+          "total": 2.92
+        },
+        "2023": {
+          "budget": {
+            "revenue": 5.55,
+            "capital": 0.01,
+            "total": 5.56
+          },
+          "revised": {
+            "revenue": 5.95,
+            "capital": 0,
+            "total": 5.95
+          }
+        },
+        "2022_actual": {
+          "revenue": 4.75,
+          "capital": 2.43,
+          "total": 7.18
+        }
+      },
+      {
+        "index": "20",
+        "name": "Champion Services Sector Scheme 20.01 Promotion of Innovation and Incubation of Future Technologies for Telecom Sector 55.00 ... 55.00 ... ... ... ... ... ... ... ... ... 21. Production Linked Incentive (PLI) Scheme to Promote Telecom and Networking Products Manufacturing in India 39.22 ... 39.22 ... ... ... ... ... ... ... ... ... 22. Digital Intelligence Unit Project",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 85.0,
+          "total": 85.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 220.0,
+            "total": 220.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 50.0,
+            "total": 50.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "23",
+        "name": "Establishment of Satellite Gateway (Assistance to BSNL)",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 1.05,
+            "total": 1.05
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "24",
+        "name": "Centre for Development of Telematics (C -DoT)",
+        "2024_budget": {
+          "revenue": 500.0,
+          "capital": 0,
+          "total": 500.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 550.0,
+            "capital": 0,
+            "total": 550.0
+          },
+          "revised": {
+            "revenue": 590.0,
+            "capital": 0,
+            "total": 590.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 500.0,
+          "capital": 0,
+          "total": 500.0
+        }
+      },
+      {
+        "index": "25",
+        "name": "Support to Public Sector Undertakings 25.01 Financial Support to Mahanagar Telephone Nigam Limited on account of MAT/Refund of",
+        "2024_budget": {
+          "revenue": 311.74,
+          "capital": 0,
+          "total": 311.74
+        },
+        "2023": {
+          "budget": {
+            "revenue": 383.57,
+            "capital": 0,
+            "total": 383.57
+          },
+          "revised": {
+            "revenue": 383.57,
+            "capital": 0,
+            "total": 383.57
+          }
+        },
+        "2022_actual": {
+          "revenue": 383.57,
+          "capital": 0,
+          "total": 383.57
+        }
+      },
+      {
+        "index": "25.02",
+        "name": "Payments of Principal amount of MTNL bonds",
+        "2024_budget": {
+          "revenue": 3668.97,
+          "capital": 0,
+          "total": 3668.97
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 865.0,
+            "capital": 0,
+            "total": 865.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "25.03",
+        "name": "Financial Relief / Infusion to Indian Telephone Industries Limited",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 168.0,
+          "total": 168.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 160.0,
+            "total": 160.0
+          },
+          "revised": {
+            "revenue": 154.3,
+            "capital": 0,
+            "total": 154.3
+          }
+        },
+        "2022_actual": {
+          "revenue": 25.0,
+          "capital": 187.0,
+          "total": 212.0
+        }
+      },
+      {
+        "index": "25.04",
+        "name": "Capital infusion in BSNL",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 82916.2,
+          "total": 82916.2
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 52937.0,
+            "total": 52937.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 64787.17,
+            "total": 64787.17
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 26386.44,
+          "total": 26386.44
+        }
+      },
+      {
+        "index": "25.05",
+        "name": "Implementation of Voluntary Retirement Scheme (BSNL/MTNL)",
+        "2024_budget": {
+          "revenue": 0.01,
+          "capital": 0,
+          "total": 0.01
+        },
+        "2023": {
+          "budget": {
+            "revenue": 2671.25,
+            "capital": 0,
+            "total": 2671.25
+          },
+          "revised": {
+            "revenue": 2977.9,
+            "capital": 0,
+            "total": 2977.9
+          }
+        },
+        "2022_actual": {
+          "revenue": 3464.76,
+          "capital": 0,
+          "total": 3464.76
+        }
+      },
+      {
+        "index": "25.06",
+        "name": "Grants -in-aid to BSNL for payment of GST",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 2218.0,
+            "capital": 0,
+            "total": 2218.0
+          },
+          "revised": {
+            "revenue": 2218.0,
+            "capital": 0,
+            "total": 2218.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "25.07",
+        "name": "Viability Gap Funding",
+        "2024_budget": {
+          "revenue": 1200.0,
+          "capital": 0,
+          "total": 1200.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1740.0,
+            "capital": 0,
+            "total": 1740.0
+          },
+          "revised": {
+            "revenue": 1200.0,
+            "capital": 0,
+            "total": 1200.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 16189.0,
+          "capital": 0,
+          "total": 16189.0
+        }
+      },
+      {
+        "index": "25.08",
+        "name": "Waiver of Guarantee fee to BSNL/MTNL",
+        "2024_budget": {
+          "revenue": 556.37,
+          "capital": 0,
+          "total": 556.37
+        },
+        "2023": {
+          "budget": {
+            "revenue": 174.2,
+            "capital": 0,
+            "total": 174.2
+          },
+          "revised": {
+            "revenue": 325.72,
+            "capital": 0,
+            "total": 325.72
+          }
+        },
+        "2022_actual": {
+          "revenue": 41.5,
+          "capital": 0,
+          "total": 41.5
+        }
+      },
+      {
+        "index": "25.09",
+        "name": "Less Receipts",
+        "2024_budget": {
+          "revenue": -556.37,
+          "capital": 0,
+          "total": -556.37
+        },
+        "2023": {
+          "budget": {
+            "revenue": -174.2,
+            "capital": 0,
+            "total": -174.2
+          },
+          "revised": {
+            "revenue": -325.72,
+            "capital": 0,
+            "total": -325.72
+          }
+        },
+        "2022_actual": {
+          "revenue": -41.5,
+          "capital": 0,
+          "total": -41.5
+        }
+      },
+      {
+        "index": "26",
+        "name": "International Cooperation",
+        "2024_budget": {
+          "revenue": 141.1,
+          "capital": 0,
+          "total": 141.1
+        },
+        "2023": {
+          "budget": {
+            "revenue": 33.0,
+            "capital": 0,
+            "total": 33.0
+          },
+          "revised": {
+            "revenue": 42.85,
+            "capital": 0,
+            "total": 42.85
+          }
+        },
+        "2022_actual": {
+          "revenue": 39.74,
+          "capital": 0,
+          "total": 39.74
+        }
+      }
+    ],
+    "development_heads": [
+      {
+        "index": "1",
+        "name": "Pensions and other Retirement Benefits",
+        "2024_budget": {
+          "revenue": 17510.0,
+          "capital": 0,
+          "total": 17510.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 20650.0,
+            "capital": 0,
+            "total": 20650.0
+          },
+          "revised": {
+            "revenue": 17000.0,
+            "capital": 0,
+            "total": 17000.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 15530.94,
+          "capital": 0,
+          "total": 15530.94
+        }
+      },
+      {
+        "index": "2",
+        "name": "Labour, Employment and Skill Development",
+        "2024_budget": {
+          "revenue": 0.4,
+          "capital": 0,
+          "total": 0.4
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0.4,
+            "capital": 0,
+            "total": 0.4
+          },
+          "revised": {
+            "revenue": 0.4,
+            "capital": 0,
+            "total": 0.4
+          }
+        },
+        "2022_actual": {
+          "revenue": 0.1,
+          "capital": 0,
+          "total": 0.1
+        }
+      },
+      {
+        "index": "3",
+        "name": "Other Communication Services",
+        "2024_budget": {
+          "revenue": 7889.94,
+          "capital": 0,
+          "total": 7889.94
+        },
+        "2023": {
+          "budget": {
+            "revenue": 13599.97,
+            "capital": 0,
+            "total": 13599.97
+          },
+          "revised": {
+            "revenue": 9086.43,
+            "capital": 0,
+            "total": 9086.43
+          }
+        },
+        "2022_actual": {
+          "revenue": 47906.44,
+          "capital": 0,
+          "total": 47906.44
+        }
+      },
+      {
+        "index": "4",
+        "name": "Secretariat -Economic Services",
+        "2024_budget": {
+          "revenue": 958.83,
+          "capital": 0,
+          "total": 958.83
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1081.86,
+            "capital": 0,
+            "total": 1081.86
+          },
+          "revised": {
+            "revenue": 1054.15,
+            "capital": 0,
+            "total": 1054.15
+          }
+        },
+        "2022_actual": {
+          "revenue": 794.44,
+          "capital": 0,
+          "total": 794.44
+        }
+      },
+      {
+        "index": "5",
+        "name": "Capital Outlay on Telecommunication and Electronic Industries",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 168.0,
+          "total": 168.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 160.0,
+            "total": 160.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 187.0,
+          "total": 187.0
+        }
+      },
+      {
+        "index": "6",
+        "name": "Capital Outlay on Other Communication Services",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 83439.5,
+          "total": 83439.5
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 60816.02,
+            "total": 60816.02
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 69224.26,
+            "total": 69224.26
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 54541.62,
+          "total": 54541.62
+        }
+      },
+      {
+        "index": "7",
+        "name": "North Eastern Areas",
+        "2024_budget": {
+          "revenue": 1060.0,
+          "capital": 0,
+          "total": 1060.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 555.0,
+            "capital": 0,
+            "total": 555.0
+          },
+          "revised": {
+            "revenue": 1119.0,
+            "capital": 0,
+            "total": 1119.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "8",
+        "name": "Capital Outlay on North Eastern Areas",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 850.0,
+          "total": 850.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 715.8,
+            "total": 715.8
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 875.17,
+            "total": 875.17
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      }
+    ],
+    "public_enterprises": [
+      {
+        "index": "1",
+        "name": "Indian Telephone Industries Limited",
+        "2024_budget": {
+          "revenue": 168.0,
+          "capital": 100.0,
+          "total": 268.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 160.0,
+            "capital": 65.0,
+            "total": 225.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 120.0,
+            "total": 120.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 187.0,
+          "capital": 324.0,
+          "total": 511.0
+        }
+      },
+      {
+        "index": "2",
+        "name": "Mahanagar Telephone Nigam Limited",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 8571.08,
+          "total": 8571.08
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 200.0,
+            "total": 200.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 14205.11,
+            "total": 14205.11
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 14560.0,
+          "total": 14560.0
+        }
+      },
+      {
+        "index": "3",
+        "name": "C DOT",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 110.0,
+          "total": 110.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 110.0,
+            "total": 110.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 110.0,
+            "total": 110.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 257.87,
+          "total": 257.87
+        }
+      },
+      {
+        "index": "4",
+        "name": "Telecommunications Consultant India Limited",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 313.0,
+          "total": 313.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 262.94,
+            "total": 262.94
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 406.0,
+            "total": 406.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 92.92,
+          "total": 92.92
+        }
+      },
+      {
+        "index": "5",
+        "name": "Bharat Sanchar Nigam Limited",
+        "2024_budget": {
+          "revenue": 82916.2,
+          "capital": 500.0,
+          "total": 83416.2
+        },
+        "2023": {
+          "budget": {
+            "revenue": 52937.0,
+            "capital": 0,
+            "total": 52937.0
+          },
+          "revised": {
+            "revenue": 64787.17,
+            "capital": 500.0,
+            "total": 65287.17
+          }
+        },
+        "2022_actual": {
+          "revenue": 26386.44,
+          "capital": 201.62,
+          "total": 26588.06
+        }
+      },
+      {
+        "index": "6",
+        "name": "Bharat Broadband Network Limited",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 6000.0,
+            "total": 6000.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "1",
+        "name": "Secretariat -Economic Services: ..The provision is for expenditure on the Secretariat of the Ministry of Communications for the portion relating to Department of Telecommunications and Directorate - General Administration which includes CCAs/TERMs Units, Telecom Enginee ring Centre, Administrator USO Fund and Centralized Monitoring System. 2. Pensions: ..The provision is for pensionary benefits of the employees of the Department of Telecommunications including employees absorbed in Bharat Sanchar Nigam Ltd. and employees of Mahanagar Telephone Nigam Limited with effect from 1.4.2014. 3. Labour Employment and Skill Development: ..The provision is for pilot scheme to open Pandit Deen Dayal Upadhayay Sanchar Kaushal Vikas Prathishthan. 4. Regulatory Bodies: ..The provision i s for transfer to Telecom Regulatory Authority of India General Fund and construction of Office Building of the Authority. The provision is for expenditure relating to Telecom Disputes Settlement and Appellate Tribunal. 5. Human Resource Management: ..The provision is for operational expenses of National Institute of Communication Finance (NICF) and for imparting training. 6. Special Assistance for Swachhta Action Plan: ..This provision is for special assistance for Swachhta Action Plan. 7. Artificial Int elligence and Face Recognition Powered Solution for Telecom SIM Subscriber Verification (ASTR): ..The provision is for Artificial Intelligence and Face Recognition Powered solution for Telecom SIM Subscriber Verification. 8. Mandatory Testing and Certifica tion of Telecom Equipment (MTCTE): ..The provision is for Mandatory Testing and Certification of Telecom Equipment. 9. Compensation to Service Providers for creation and augmentation of telecom infrastructure: ..The provision is for providing compensation to telecom service providers for creation and augmentation of telecom infrastructure and access to various telecom services to people in the rural and remote areas including operation and maintenance of Village Public Telephones. This also includes provis ion for development of North Eastern Region. Provision towards transfer to Universal Service Obligation Fund is also included. The allocation under the",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 2023.0,
+            "capital": -24.0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      }
+    ]
+  },
+  "number": 13
+}

@@ -1,0 +1,846 @@
+{
+  "name": "MINISTRY OF CHEMICALS  AND FERTILISERS",
+  "demand": "DEMAND NO. 7",
+  "department": "Department of Pharmaceuticals",
+  "sections": {
+    "allocation": [
+      {
+        "index": "1",
+        "name": "Secretariat",
+        "2024_budget": {
+          "revenue": 20.58,
+          "capital": 0.8,
+          "total": 21.38
+        },
+        "2023": {
+          "budget": {
+            "revenue": 20.37,
+            "capital": 0.73,
+            "total": 21.1
+          },
+          "revised": {
+            "revenue": 19.14,
+            "capital": 0.6,
+            "total": 19.74
+          }
+        },
+        "2022_actual": {
+          "revenue": 17.0,
+          "capital": 0,
+          "total": 17.0
+        }
+      },
+      {
+        "index": "2",
+        "name": "National Pharmaceutical Pricing Authority (NPPA)",
+        "2024_budget": {
+          "revenue": 19.6,
+          "capital": 0.4,
+          "total": 20.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 18.5,
+            "capital": 0.4,
+            "total": 18.9
+          },
+          "revised": {
+            "revenue": 17.63,
+            "capital": 0.37,
+            "total": 18.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 15.99,
+          "capital": 0,
+          "total": 15.99
+        }
+      },
+      {
+        "index": "3",
+        "name": "National Institutes of Pharmaceutical Education and Research (NIPERs)",
+        "2024_budget": {
+          "revenue": 242.0,
+          "capital": 0,
+          "total": 242.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 550.0,
+            "capital": 0,
+            "total": 550.0
+          },
+          "revised": {
+            "revenue": 228.8,
+            "capital": 0,
+            "total": 228.8
+          }
+        },
+        "2022_actual": {
+          "revenue": 396.43,
+          "capital": 0,
+          "total": 396.43
+        }
+      },
+      {
+        "index": "4",
+        "name": "Jan Aushadhi Scheme",
+        "2024_budget": {
+          "revenue": 284.5,
+          "capital": 0,
+          "total": 284.5
+        },
+        "2023": {
+          "budget": {
+            "revenue": 115.0,
+            "capital": 0,
+            "total": 115.0
+          },
+          "revised": {
+            "revenue": 110.0,
+            "capital": 0,
+            "total": 110.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 100.0,
+          "capital": 0,
+          "total": 100.0
+        }
+      },
+      {
+        "index": "5",
+        "name": "Development of Pharmaceutical Industry 31.02 ... 31.02 ... ... ... ... ... ... ... ... ... 6. Consumer Awareness Publicity and Price Monitoring",
+        "2024_budget": {
+          "revenue": 4.0,
+          "capital": 0,
+          "total": 4.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 5.0,
+            "capital": 0,
+            "total": 5.0
+          },
+          "revised": {
+            "revenue": 3.0,
+            "capital": 0,
+            "total": 3.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 2.2,
+          "capital": 0,
+          "total": 2.2
+        }
+      },
+      {
+        "index": "7",
+        "name": "Development of Pharmaceutical Indsutry 7.01 Pharmaceutical Promotion & Development Scheme(PPDS)",
+        "2024_budget": {
+          "revenue": 5.0,
+          "capital": 0,
+          "total": 5.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 4.0,
+            "capital": 0,
+            "total": 4.0
+          },
+          "revised": {
+            "revenue": 7.0,
+            "capital": 0,
+            "total": 7.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0.68,
+          "capital": 0,
+          "total": 0.68
+        }
+      },
+      {
+        "index": "7.02",
+        "name": "Assistance to Pharmaceutical Industry for Common Facilities(API -CF)/Cluster Development",
+        "2024_budget": {
+          "revenue": 50.0,
+          "capital": 0,
+          "total": 50.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 51.0,
+            "capital": 0,
+            "total": 51.0
+          },
+          "revised": {
+            "revenue": 44.5,
+            "capital": 0,
+            "total": 44.5
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "7.03",
+        "name": "Pharmaceuticals Technology Upgradation Assistance Scheme(PTUAS)",
+        "2024_budget": {
+          "revenue": 5.0,
+          "capital": 0,
+          "total": 5.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 95.0,
+            "capital": 0,
+            "total": 95.0
+          },
+          "revised": {
+            "revenue": 0.02,
+            "capital": 0,
+            "total": 0.02
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "7.04",
+        "name": "Promotion of Bulk Drug Parks",
+        "2024_budget": {
+          "revenue": 1000.0,
+          "capital": 0,
+          "total": 1000.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 900.0,
+            "capital": 0,
+            "total": 900.0
+          },
+          "revised": {
+            "revenue": 85.15,
+            "capital": 0,
+            "total": 85.15
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "7.05",
+        "name": "Promotion of Medical Device Parks",
+        "2024_budget": {
+          "revenue": 150.0,
+          "capital": 0,
+          "total": 150.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 200.0,
+            "capital": 0,
+            "total": 200.0
+          },
+          "revised": {
+            "revenue": 64.0,
+            "capital": 0,
+            "total": 64.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "7.06",
+        "name": "Human Resource Development in Medical Devices Sector",
+        "2024_budget": {
+          "revenue": 50.0,
+          "capital": 0,
+          "total": 50.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 31.0,
+            "capital": 0,
+            "total": 31.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "7.07",
+        "name": "Assistance to Medical Device Clusters for Common Facilities (AMD -CF)",
+        "2024_budget": {
+          "revenue": 40.0,
+          "capital": 0,
+          "total": 40.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 33.0,
+            "capital": 0,
+            "total": 33.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "8",
+        "name": "Production Linked Incentive Schemes 8.01 Promotion of Bulk Drug Parks 751.49 ... 751.49 ... ... ... ... ... ... ... ... ... 8.02 Production Linked Incentive(PLI) Scheme for Promotion of Domestic Manufacturing of Critical Key Starting Materials(KSMs)/Drug Intermediates(DIs) and Active Pharmaceutical Ingredients(APIs) in India",
+        "2024_budget": {
+          "revenue": 58.0,
+          "capital": 0,
+          "total": 58.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 100.0,
+            "capital": 0,
+            "total": 100.0
+          },
+          "revised": {
+            "revenue": 16.13,
+            "capital": 0,
+            "total": 16.13
+          }
+        },
+        "2022_actual": {
+          "revenue": 5.95,
+          "capital": 0,
+          "total": 5.95
+        }
+      },
+      {
+        "index": "8.03",
+        "name": "Promotion of Medical Device Parks",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0.9,
+          "capital": 0,
+          "total": 0.9
+        }
+      },
+      {
+        "index": "8.04",
+        "name": "Production Linked Incentive (PLI) Scheme for Domestic Manufacturing of Medical Devices",
+        "2024_budget": {
+          "revenue": 85.0,
+          "capital": 0,
+          "total": 85.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 100.0,
+            "capital": 0,
+            "total": 100.0
+          },
+          "revised": {
+            "revenue": 48.16,
+            "capital": 0,
+            "total": 48.16
+          }
+        },
+        "2022_actual": {
+          "revenue": 11.5,
+          "capital": 0,
+          "total": 11.5
+        }
+      },
+      {
+        "index": "8.05",
+        "name": "Production Linked Incentive Scheme for Pharmaceuticals",
+        "2024_budget": {
+          "revenue": 2000.0,
+          "capital": 0,
+          "total": 2000.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1000.0,
+            "capital": 0,
+            "total": 1000.0
+          },
+          "revised": {
+            "revenue": 1632.0,
+            "capital": 0,
+            "total": 1632.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 655.15,
+          "capital": 0,
+          "total": 655.15
+        }
+      },
+      {
+        "index": "9",
+        "name": "Promotion of Research and Innovation in Pharma Med-Tech (PRIP)",
+        "2024_budget": {
+          "revenue": 75.0,
+          "capital": 0,
+          "total": 75.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 1.0,
+            "capital": 0,
+            "total": 1.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "10",
+        "name": "National Institute of Pharmaceutical Education and Reaserch(NIPERs) 54.70 ... 54.70 ... ... ... ... ... ... ... ... ... Public Sector Undertakings 11. Assistance to PSUs",
+        "2024_budget": {
+          "revenue": 0.01,
+          "capital": 0.06,
+          "total": 0.07
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0.06,
+            "total": 0.06
+          },
+          "revised": {
+            "revenue": 356.44,
+            "capital": 0.01,
+            "total": 356.45
+          }
+        },
+        "2022_actual": {
+          "revenue": 1.8,
+          "capital": 5.26,
+          "total": 7.06
+        }
+      },
+      {
+        "index": "12",
+        "name": "Write Off/Waiver of loans in respect of Pharmaceuticals PSUs 12.01 Rajasthan Drugs and Pharmaceuticals Ltd. (RDPL)",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 64.25,
+            "capital": 0,
+            "total": 64.25
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      }
+    ],
+    "development_heads": [
+      {
+        "index": "1",
+        "name": "Industries",
+        "2024_budget": {
+          "revenue": 4015.46,
+          "capital": 0,
+          "total": 4015.46
+        },
+        "2023": {
+          "budget": {
+            "revenue": 3077.0,
+            "capital": 0,
+            "total": 3077.0
+          },
+          "revised": {
+            "revenue": 2643.95,
+            "capital": 0,
+            "total": 2643.95
+          }
+        },
+        "2022_actual": {
+          "revenue": 2027.81,
+          "capital": 0,
+          "total": 2027.81
+        }
+      },
+      {
+        "index": "2",
+        "name": "Secretariat -Economic Services",
+        "2024_budget": {
+          "revenue": 20.58,
+          "capital": 0,
+          "total": 20.58
+        },
+        "2023": {
+          "budget": {
+            "revenue": 20.37,
+            "capital": 0,
+            "total": 20.37
+          },
+          "revised": {
+            "revenue": 19.14,
+            "capital": 0,
+            "total": 19.14
+          }
+        },
+        "2022_actual": {
+          "revenue": 17.0,
+          "capital": 0,
+          "total": 17.0
+        }
+      },
+      {
+        "index": "3",
+        "name": "Capital Outlay on Chemical and Pharmaceutical Industries",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0.01,
+            "total": 0.01
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "4",
+        "name": "Capital Outlay on Other General Economic Services",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 1.2,
+          "total": 1.2
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 1.13,
+            "total": 1.13
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0.97,
+            "total": 0.97
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "5",
+        "name": "Loans for Chemical and Pharmaceutical Industries",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0.06,
+          "total": 0.06
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0.06,
+            "total": 0.06
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 5.26,
+          "total": 5.26
+        }
+      },
+      {
+        "index": "6",
+        "name": "North Eastern Areas",
+        "2024_budget": {
+          "revenue": 52.65,
+          "capital": 0,
+          "total": 52.65
+        },
+        "2023": {
+          "budget": {
+            "revenue": 61.5,
+            "capital": 0,
+            "total": 61.5
+          },
+          "revised": {
+            "revenue": 33.88,
+            "capital": 0,
+            "total": 33.88
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      }
+    ],
+    "public_enterprises": [
+      {
+        "index": "1",
+        "name": "Karnataka Antibiotics and Pharmaceuticals Ltd",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 12.0,
+          "total": 12.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 32.0,
+            "total": 32.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 32.0,
+            "total": 32.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 24.88,
+          "total": 24.88
+        }
+      },
+      {
+        "index": "2",
+        "name": "Indian Drugs and Pharmaceuticals Ltd",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0.01,
+            "capital": 0,
+            "total": 0.01
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 4.0,
+          "capital": 0,
+          "total": 4.0
+        }
+      },
+      {
+        "index": "3",
+        "name": "Hindustan Antibiotics Ltd",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0.01,
+            "capital": 111.5,
+            "total": 111.51
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 1.26,
+          "capital": 0,
+          "total": 1.26
+        }
+      },
+      {
+        "index": "4",
+        "name": "Bengal Chemicals and Pharmaceuticals Ltd",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0.01,
+            "capital": 0,
+            "total": 0.01
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "5",
+        "name": "Bengal Immunity Ltd",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0.01,
+            "capital": 0,
+            "total": 0.01
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "6",
+        "name": "Rajasthan Drugs and Pharmaceuticals Ltd",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0.01,
+            "capital": 0,
+            "total": 0.01
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "7",
+        "name": "Smith Stanistreet Pharmaceuticals Ltd",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0.01,
+            "capital": 0,
+            "total": 0.01
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      }
+    ]
+  },
+  "number": 7
+}

@@ -1,0 +1,832 @@
+{
+  "name": "MINISTRY OF DEVELOPMENT  OF NORTH EASTERN REGION",
+  "demand": "DEMAND NO. 23",
+  "department": "Ministry of Development of North Eastern Region",
+  "sections": {
+    "allocation": [
+      {
+        "index": "1",
+        "name": "Secretariat",
+        "2024_budget": {
+          "revenue": 31.74,
+          "capital": 0.6,
+          "total": 32.34
+        },
+        "2023": {
+          "budget": {
+            "revenue": 30.38,
+            "capital": 0.95,
+            "total": 31.33
+          },
+          "revised": {
+            "revenue": 31.22,
+            "capital": 0.95,
+            "total": 32.17
+          }
+        },
+        "2022_actual": {
+          "revenue": 30.0,
+          "capital": 0,
+          "total": 30.0
+        }
+      },
+      {
+        "index": "2",
+        "name": "Schemes of North East Council",
+        "2024_budget": {
+          "revenue": 990.63,
+          "capital": 9.37,
+          "total": 1000.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 757.8,
+            "capital": 42.2,
+            "total": 800.0
+          },
+          "revised": {
+            "revenue": 757.8,
+            "capital": 42.2,
+            "total": 800.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 369.73,
+          "capital": 0.5,
+          "total": 370.23
+        }
+      },
+      {
+        "index": "3.",
+        "name": "North East Special Infrastructure Development Scheme (NESIDS)"
+      },
+      {
+        "index": "3.01",
+        "name": "NESIDS Programme",
+        "2024_budget": {
+          "revenue": 38.81,
+          "capital": 2341.85,
+          "total": 2380.66
+        },
+        "2023": {
+          "budget": {
+            "revenue": 44.9,
+            "capital": 2446.1,
+            "total": 2491.0
+          },
+          "revised": {
+            "revenue": 44.06,
+            "capital": 2446.1,
+            "total": 2490.16
+          }
+        },
+        "2022_actual": {
+          "revenue": 219.43,
+          "capital": 0,
+          "total": 219.43
+        }
+      },
+      {
+        "index": "3.02",
+        "name": "Hill Area Development Programme",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0.45,
+          "capital": 0,
+          "total": 0.45
+        }
+      },
+      {
+        "index": "3.03",
+        "name": "Central Pool of Resources for North East and Sikkim 109.76 128.73 238.49 ... ... ... ... ... ... ... ... ... Total - North East Special Infrastructure Development Scheme (NESIDS)",
+        "2024_budget": {
+          "revenue": 38.81,
+          "capital": 2341.85,
+          "total": 2380.66
+        },
+        "2023": {
+          "budget": {
+            "revenue": 44.9,
+            "capital": 2446.1,
+            "total": 2491.0
+          },
+          "revised": {
+            "revenue": 44.06,
+            "capital": 2446.1,
+            "total": 2490.16
+          }
+        },
+        "2022_actual": {
+          "revenue": 329.64,
+          "capital": 128.73,
+          "total": 458.37
+        }
+      },
+      {
+        "index": "4.",
+        "name": "North East States Road PMU (ADB Assisted)"
+      },
+      {
+        "index": "4.01",
+        "name": "Project Management Unit",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0.09,
+          "capital": 0,
+          "total": 0.09
+        }
+      },
+      {
+        "index": "5.",
+        "name": "North East Road Sector Development Scheme"
+      },
+      {
+        "index": "5.01",
+        "name": "Programme Component",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0.19,
+          "total": 0.19
+        }
+      },
+      {
+        "index": "6",
+        "name": "Bodoland Territorial Council",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 6.42,
+          "capital": 0,
+          "total": 6.42
+        }
+      },
+      {
+        "index": "7",
+        "name": "Karbi Anglong Autonomous Territorial Council",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 1.55,
+          "capital": 0,
+          "total": 1.55
+        }
+      },
+      {
+        "index": "8",
+        "name": "Dima Hasao Territorial Council",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 2.0,
+          "capital": 0,
+          "total": 2.0
+        }
+      },
+      {
+        "index": "9",
+        "name": "North East Enterprise Development Scheme (NEEDS) erstwhile Loan to North East Development Finance Corporation",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 70.0,
+          "total": 70.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 60.0,
+            "total": 60.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 60.0,
+            "total": 60.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 50.0,
+          "total": 50.0
+        }
+      },
+      {
+        "index": "10",
+        "name": "Social and Infrastructure Development Fund",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 5.0,
+          "total": 5.0
+        }
+      },
+      {
+        "index": "11",
+        "name": "Special Development Packages 11.01 Special package for Bodoland Territorial Council (BTC)",
+        "2024_budget": {
+          "revenue": 250.0,
+          "capital": 0,
+          "total": 250.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 100.0,
+            "capital": 0,
+            "total": 100.0
+          },
+          "revised": {
+            "revenue": 100.0,
+            "capital": 0,
+            "total": 100.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "11.02",
+        "name": "Special package for Karbi Anglong (KAATC)",
+        "2024_budget": {
+          "revenue": 50.0,
+          "capital": 0,
+          "total": 50.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 100.0,
+            "capital": 0,
+            "total": 100.0
+          },
+          "revised": {
+            "revenue": 100.0,
+            "capital": 0,
+            "total": 100.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "11.03",
+        "name": "Special package for Dima Hasao (DHATC)",
+        "2024_budget": {
+          "revenue": 60.0,
+          "capital": 0,
+          "total": 60.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 100.0,
+            "capital": 0,
+            "total": 100.0
+          },
+          "revised": {
+            "revenue": 100.0,
+            "capital": 0,
+            "total": 100.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 3.96,
+          "capital": 0,
+          "total": 3.96
+        }
+      },
+      {
+        "index": "12",
+        "name": "Prime Minister's Development Initiative for North East Region (PM -DevINE)",
+        "2024_budget": {
+          "revenue": 619.5,
+          "capital": 1435.5,
+          "total": 2055.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 660.0,
+            "capital": 1540.0,
+            "total": 2200.0
+          },
+          "revised": {
+            "revenue": 660.0,
+            "capital": 1540.0,
+            "total": 2200.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0.09,
+          "capital": 121.1,
+          "total": 121.19
+        }
+      },
+      {
+        "index": "13",
+        "name": "North East Regional Agricultural Marketing Corporation",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 5.67,
+            "capital": 2.0,
+            "total": 7.67
+          },
+          "revised": {
+            "revenue": 5.67,
+            "capital": 2.0,
+            "total": 7.67
+          }
+        },
+        "2022_actual": {
+          "revenue": 5.67,
+          "capital": 0,
+          "total": 5.67
+        }
+      },
+      {
+        "index": "14",
+        "name": "North Eastern Handicrafts and Handlooms Development Corporation Ltd",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 2.0,
+          "total": 2.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 2.0,
+            "total": 2.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 2.0,
+            "total": 2.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 2.0,
+          "total": 2.0
+        }
+      },
+      {
+        "index": "15",
+        "name": "Power Grid Corporation of India Limited (PGCIL) ... 33.76 33.76 ... ... ... ... ... ... ... ... ... Total -Public Sector Undertakings",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 2.0,
+          "total": 2.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 5.67,
+            "capital": 4.0,
+            "total": 9.67
+          },
+          "revised": {
+            "revenue": 5.67,
+            "capital": 4.0,
+            "total": 9.67
+          }
+        },
+        "2022_actual": {
+          "revenue": -11.92,
+          "capital": 35.76,
+          "total": 23.84
+        }
+      }
+    ],
+    "development_heads": [
+      {
+        "index": "1",
+        "name": "Secretariat -General Services",
+        "2024_budget": {
+          "revenue": 31.74,
+          "capital": 0,
+          "total": 31.74
+        },
+        "2023": {
+          "budget": {
+            "revenue": 30.38,
+            "capital": 0,
+            "total": 30.38
+          },
+          "revised": {
+            "revenue": 31.22,
+            "capital": 0,
+            "total": 31.22
+          }
+        },
+        "2022_actual": {
+          "revenue": 29.93,
+          "capital": 0,
+          "total": 29.93
+        }
+      },
+      {
+        "index": "2",
+        "name": "Other Administrative Services",
+        "2024_budget": {
+          "revenue": 29.33,
+          "capital": 0,
+          "total": 29.33
+        },
+        "2023": {
+          "budget": {
+            "revenue": 28.26,
+            "capital": 0,
+            "total": 28.26
+          },
+          "revised": {
+            "revenue": 28.26,
+            "capital": 0,
+            "total": 28.26
+          }
+        },
+        "2022_actual": {
+          "revenue": 19.52,
+          "capital": 0,
+          "total": 19.52
+        }
+      },
+      {
+        "index": "3",
+        "name": "Capital Outlay on Other Administrative Services",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 4.37,
+          "total": 4.37
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 2.2,
+            "total": 2.2
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 2.2,
+            "total": 2.2
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "4",
+        "name": "Capital Outlay on Miscellaneous General Services",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0.6,
+          "total": 0.6
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0.95,
+            "total": 0.95
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0.95,
+            "total": 0.95
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "5",
+        "name": "Loans for Village and Small Industries",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 2.0,
+          "total": 2.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 4.0,
+            "total": 4.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 4.0,
+            "total": 4.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 2.0,
+          "total": 2.0
+        }
+      },
+      {
+        "index": "6",
+        "name": "Other Loans to Industries and Minerals",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 70.0,
+          "total": 70.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 60.0,
+            "total": 60.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 60.0,
+            "total": 60.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 50.0,
+          "total": 50.0
+        }
+      },
+      {
+        "index": "7",
+        "name": "North Eastern Areas",
+        "2024_budget": {
+          "revenue": 1979.61,
+          "capital": 0,
+          "total": 1979.61
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1740.11,
+            "capital": 0,
+            "total": 1740.11
+          },
+          "revised": {
+            "revenue": 1739.27,
+            "capital": 0,
+            "total": 1739.27
+          }
+        },
+        "2022_actual": {
+          "revenue": 671.56,
+          "capital": 0,
+          "total": 671.56
+        }
+      },
+      {
+        "index": "8",
+        "name": "Grants -in-aid to State Governments -67.34 ... -67.34 ... ... ... ... ... ... ... ... ... 9. Capital Outlay on North Eastern Areas",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 3782.35,
+          "total": 3782.35
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 4026.1,
+            "total": 4026.1
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 4026.1,
+            "total": 4026.1
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 284.28,
+          "total": 284.28
+        }
+      }
+    ],
+    "public_enterprises": [
+      {
+        "index": "1",
+        "name": "North East Regional Agricultural Marketing Corporation Limited",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 2.0,
+          "total": 2.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 7.67,
+            "capital": 1.5,
+            "total": 9.17
+          },
+          "revised": {
+            "revenue": 7.67,
+            "capital": 1.5,
+            "total": 9.17
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 1.89,
+          "total": 1.89
+        }
+      },
+      {
+        "index": "2",
+        "name": "North Eastern Handicrafts and Handlooms Corporation Development Limited",
+        "2024_budget": {
+          "revenue": 2.0,
+          "capital": 5.19,
+          "total": 7.19
+        },
+        "2023": {
+          "budget": {
+            "revenue": 2.0,
+            "capital": 0,
+            "total": 2.0
+          },
+          "revised": {
+            "revenue": 2.0,
+            "capital": 3.0,
+            "total": 5.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 2.0,
+          "capital": 0,
+          "total": 2.0
+        }
+      },
+      {
+        "index": "3.02",
+        "name": "Hill Area Development Programme: ..As per EFC recommendation, the sub -scheme has been closed. The liability",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 2022.0,
+          "total": -23.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "3.03",
+        "name": "Central Pool of Resources for North East and Sikkim: ..The broad objective of the Non-Lapsable Central Pool of Resources (NLCPR) is to ensure speedy development of infrastructure in the North Eastern Region and Sikkim by increasing the flow of budgetary financing for specific viable infrastructure projects/schemes in the region. It also enables the Central Ministries/Departments to fund projects/schemes in the North Eastern Region (NER) and implement schemes/projects of regional and / or nati onal priorities in NER in addition to projects taken up by them through the 10% mandatory earmarking. The provision is only for funding of ongoing projects. The NLCPR is merged with the North East Special Infrastructure Development Scheme (NESIDS) as per r ecommendations of EFC. 4. North East States Road PMU (ADB Assisted): ..The North Eastern Road Sector Development Scheme (NERSDS) -EAP is for rehabilitation/construction/up -gradation of Inter -State neglected roads in NER. The NERSDS -EAP will be concluded by March, 2023. Therefore, no provisions has been kept in 2023 -24. 5.01. Programme Component: ..The North Eastern Road Sector Development Scheme (NERSDS) -Programme is for rehabilitation/ construction/ up -gradation of Inter -State neglected roads in NER. This Scheme is merged with NESID Scheme as a NESIDS (Roads) component of the Scheme as per EFC recommendation. 5.02. EAP Component: ..The provision is for North Eastern State Roads Investment Program (NESRIP), an ADB assisted project for construction/up - gradat ion of roads in NE Region. This scheme will be concluded in 2022 -23. 6. Bodoland Territorial Council: ..This is a Special Development Package to give grant for funding the infrastructure and development projects of the area. 7. Karbi Anglong Autonomous Territorial Council: ..This is a Special Development Package to give grant for funding the infrastructure and development projects of the area. 8. Dima Hasao Territorial Council: ..This is a Special Development Package to give grant for funding the infrastr ucture and development projects of the area. 9. North East Enterprise Development Scheme (NEEDS) erstwhile Loan to North East Development Finance Corporation: ..North Eastern Development Finance Corporation Ltd.(NEDFi) was incorporated as a public financia",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 1995.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 1956.0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      }
+    ]
+  },
+  "number": 23
+}

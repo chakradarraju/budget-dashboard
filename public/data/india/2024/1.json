@@ -1,0 +1,1421 @@
+{
+  "name": "MINISTRY OF AGRICULTURE AND FARMERS WELFARE",
+  "demand": "DEMAND NO. 1",
+  "department": "Department of Agriculture and Farmers Welfare",
+  "sections": {
+    "allocation": [
+      {
+        "index": "1.",
+        "name": "Secretariat"
+      },
+      {
+        "index": "1.01",
+        "name": "Secretariat",
+        "2024_budget": {
+          "revenue": 248.41,
+          "capital": 14.3,
+          "total": 262.71
+        },
+        "2023": {
+          "budget": {
+            "revenue": 235.89,
+            "capital": 3.9,
+            "total": 239.79
+          },
+          "revised": {
+            "revenue": 180.78,
+            "capital": 11.87,
+            "total": 192.65
+          }
+        },
+        "2022_actual": {
+          "revenue": 152.93,
+          "capital": 0,
+          "total": 152.93
+        }
+      },
+      {
+        "index": "1.02",
+        "name": "International Cooperation",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 45.92,
+            "capital": 0,
+            "total": 45.92
+          },
+          "revised": {
+            "revenue": 58.0,
+            "capital": 0,
+            "total": 58.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 44.72,
+          "capital": 0,
+          "total": 44.72
+        }
+      },
+      {
+        "index": "1.03",
+        "name": "Other Attached and Subordinate Offices",
+        "2024_budget": {
+          "revenue": 455.92,
+          "capital": 81.34,
+          "total": 537.26
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1081.14,
+            "capital": 38.52,
+            "total": 1119.66
+          },
+          "revised": {
+            "revenue": 943.74,
+            "capital": 75.85,
+            "total": 1019.59
+          }
+        },
+        "2022_actual": {
+          "revenue": 368.2,
+          "capital": 8.1,
+          "total": 376.3
+        }
+      },
+      {
+        "index": "2",
+        "name": "Crop Insurance Scheme 2.01 Transfer to Agriculture Intrastructure and Development Fund",
+        "2024_budget": {
+          "revenue": 14600.0,
+          "capital": 0,
+          "total": 14600.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 15000.0,
+            "capital": 0,
+            "total": 15000.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "2.02",
+        "name": "Pradhan Mantri Fasal Bima Yojana",
+        "2024_budget": {
+          "revenue": 14600.0,
+          "capital": 0,
+          "total": 14600.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 13625.0,
+            "capital": 0,
+            "total": 13625.0
+          },
+          "revised": {
+            "revenue": 15000.0,
+            "capital": 0,
+            "total": 15000.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 10296.03,
+          "capital": 0,
+          "total": 10296.03
+        }
+      },
+      {
+        "index": "2.03",
+        "name": "Less -Amount met from Agriculture Infrastructure and Development Fund",
+        "2024_budget": {
+          "revenue": -14600.0,
+          "capital": 0,
+          "total": -14600.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": -15000.0,
+            "capital": 0,
+            "total": -15000.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "3",
+        "name": "Modified Interest Subvention Scheme (MISS) 3.01 Transfer to Agriculture Infrastructure and Development Fund",
+        "2024_budget": {
+          "revenue": 22600.0,
+          "capital": 0,
+          "total": 22600.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 18500.0,
+            "capital": 0,
+            "total": 18500.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "3.02",
+        "name": "Modified Interest Subvention Scheme (MISS)",
+        "2024_budget": {
+          "revenue": 22600.0,
+          "capital": 0,
+          "total": 22600.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 23000.0,
+            "capital": 0,
+            "total": 23000.0
+          },
+          "revised": {
+            "revenue": 18500.0,
+            "capital": 0,
+            "total": 18500.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 17997.88,
+          "capital": 0,
+          "total": 17997.88
+        }
+      },
+      {
+        "index": "3.03",
+        "name": "Less - Amount met from Agriculture Infrastructure and Development Fund",
+        "2024_budget": {
+          "revenue": -22600.0,
+          "capital": 0,
+          "total": -22600.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": -18500.0,
+            "capital": 0,
+            "total": -18500.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "4",
+        "name": "Market Intervention Scheme and Price Support Scheme (MIS -PSS)",
+        "2024_budget": {
+          "revenue": 0.01,
+          "capital": 0,
+          "total": 0.01
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0.01,
+            "capital": 0,
+            "total": 0.01
+          },
+          "revised": {
+            "revenue": 40.0,
+            "capital": 0,
+            "total": 40.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 4007.0,
+          "capital": 0,
+          "total": 4007.0
+        }
+      },
+      {
+        "index": "5",
+        "name": "Pradhan Mantri Annadata Aay Sanrakshan Yojna (PM-AASHA)",
+        "2024_budget": {
+          "revenue": 1737.5,
+          "capital": 0,
+          "total": 1737.5
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0.01,
+            "capital": 0,
+            "total": 0.01
+          },
+          "revised": {
+            "revenue": 2200.0,
+            "capital": 0,
+            "total": 2200.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "6",
+        "name": "Distribution of Pulses to State / Union Territories for Welfare Schemes",
+        "2024_budget": {
+          "revenue": 0.01,
+          "capital": 0,
+          "total": 0.01
+        },
+        "2023": {
+          "budget": {
+            "revenue": 800.0,
+            "capital": 0,
+            "total": 800.0
+          },
+          "revised": {
+            "revenue": 446.3,
+            "capital": 0,
+            "total": 446.3
+          }
+        },
+        "2022_actual": {
+          "revenue": 166.21,
+          "capital": 0,
+          "total": 166.21
+        }
+      },
+      {
+        "index": "7",
+        "name": "Pradhan Mantri Kisan Samman Nidhi (PM -Kisan) 7.01 Transfer to Agriculture Infrastructure and Development Fund",
+        "2024_budget": {
+          "revenue": 60000.0,
+          "capital": 0,
+          "total": 60000.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 60000.0,
+            "capital": 0,
+            "total": 60000.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "7.02",
+        "name": "Pradhan Mantri Kisan Samman Nidhi (PM - Kisan)",
+        "2024_budget": {
+          "revenue": 60000.0,
+          "capital": 0,
+          "total": 60000.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 60000.0,
+            "capital": 0,
+            "total": 60000.0
+          },
+          "revised": {
+            "revenue": 60000.0,
+            "capital": 0,
+            "total": 60000.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 58253.82,
+          "capital": 0,
+          "total": 58253.82
+        }
+      },
+      {
+        "index": "7.03",
+        "name": "Less - Amount met from Agriculture Infrastructure and Development Fund",
+        "2024_budget": {
+          "revenue": -60000.0,
+          "capital": 0,
+          "total": -60000.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": -60000.0,
+            "capital": 0,
+            "total": -60000.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "8",
+        "name": "Pradhan Mantri Kisan Man Dhan Yojana",
+        "2024_budget": {
+          "revenue": 100.0,
+          "capital": 0,
+          "total": 100.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 100.0,
+            "capital": 0,
+            "total": 100.0
+          },
+          "revised": {
+            "revenue": 138.0,
+            "capital": 0,
+            "total": 138.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 12.5,
+          "capital": 0,
+          "total": 12.5
+        }
+      },
+      {
+        "index": "9",
+        "name": "Formation and Promotion of 10,000 Farmer Producer Organizations (FPOs)",
+        "2024_budget": {
+          "revenue": 581.67,
+          "capital": 0,
+          "total": 581.67
+        },
+        "2023": {
+          "budget": {
+            "revenue": 955.0,
+            "capital": 0,
+            "total": 955.0
+          },
+          "revised": {
+            "revenue": 450.0,
+            "capital": 0,
+            "total": 450.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 124.19,
+          "capital": 0,
+          "total": 124.19
+        }
+      },
+      {
+        "index": "10",
+        "name": "Agriculture Infrastructure Fund (AIF)",
+        "2024_budget": {
+          "revenue": 600.0,
+          "capital": 0,
+          "total": 600.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 500.0,
+            "capital": 0,
+            "total": 500.0
+          },
+          "revised": {
+            "revenue": 600.0,
+            "capital": 0,
+            "total": 600.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 147.12,
+          "capital": 0,
+          "total": 147.12
+        }
+      },
+      {
+        "index": "11",
+        "name": "National Beekeeping Honey Mission (NBHM)",
+        "2024_budget": {
+          "revenue": 75.0,
+          "capital": 0,
+          "total": 75.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0.01,
+            "capital": 0,
+            "total": 0.01
+          },
+          "revised": {
+            "revenue": 50.0,
+            "capital": 0,
+            "total": 50.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "12",
+        "name": "Blended Capital Support to Finance Startups for Agriculture and Rural Enterprise Relevant for Farm Produce Value Chain",
+        "2024_budget": {
+          "revenue": 62.5,
+          "capital": 0,
+          "total": 62.5
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "13",
+        "name": "NAMO DRONE DIDI",
+        "2024_budget": {
+          "revenue": 500.0,
+          "capital": 0,
+          "total": 500.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "14",
+        "name": "Additional transfer to Agriculture Infrastructure and Development Fund",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 4500.0,
+            "capital": 0,
+            "total": 4500.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "15",
+        "name": "Protection of Plant Varieties and Farmers Rights Authority",
+        "2024_budget": {
+          "revenue": 50.0,
+          "capital": 0,
+          "total": 50.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 56.44,
+            "capital": 0,
+            "total": 56.44
+          },
+          "revised": {
+            "revenue": 37.6,
+            "capital": 0,
+            "total": 37.6
+          }
+        },
+        "2022_actual": {
+          "revenue": 5.34,
+          "capital": 0,
+          "total": 5.34
+        }
+      },
+      {
+        "index": "16",
+        "name": "National Institute of Plant Health Management",
+        "2024_budget": {
+          "revenue": 22.0,
+          "capital": 0,
+          "total": 22.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 16.5,
+            "capital": 0,
+            "total": 16.5
+          },
+          "revised": {
+            "revenue": 22.0,
+            "capital": 0,
+            "total": 22.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 17.57,
+          "capital": 0,
+          "total": 17.57
+        }
+      },
+      {
+        "index": "17",
+        "name": "National Institute of Agricultural Extension Management (MANAGE)",
+        "2024_budget": {
+          "revenue": 6.5,
+          "capital": 0,
+          "total": 6.5
+        },
+        "2023": {
+          "budget": {
+            "revenue": 5.0,
+            "capital": 0,
+            "total": 5.0
+          },
+          "revised": {
+            "revenue": 7.0,
+            "capital": 0,
+            "total": 7.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 4.8,
+          "capital": 0,
+          "total": 4.8
+        }
+      },
+      {
+        "index": "18",
+        "name": "Chaudhary Charan Singh National Institute of Agricultural Marketing",
+        "2024_budget": {
+          "revenue": 5.0,
+          "capital": 0,
+          "total": 5.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 4.5,
+            "capital": 0,
+            "total": 4.5
+          },
+          "revised": {
+            "revenue": 5.0,
+            "capital": 0,
+            "total": 5.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 2.75,
+          "capital": 0,
+          "total": 2.75
+        }
+      },
+      {
+        "index": "19",
+        "name": "Coconut Development Board",
+        "2024_budget": {
+          "revenue": 35.0,
+          "capital": 0,
+          "total": 35.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 39.13,
+            "capital": 0,
+            "total": 39.13
+          },
+          "revised": {
+            "revenue": 35.0,
+            "capital": 0,
+            "total": 35.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "20",
+        "name": "National Horticulture Board",
+        "2024_budget": {
+          "revenue": 20.99,
+          "capital": 0,
+          "total": 20.99
+        },
+        "2023": {
+          "budget": {
+            "revenue": 24.0,
+            "capital": 0,
+            "total": 24.0
+          },
+          "revised": {
+            "revenue": 24.0,
+            "capital": 0,
+            "total": 24.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "21",
+        "name": "Agriculture Census",
+        "2024_budget": {
+          "revenue": 50.0,
+          "capital": 0,
+          "total": 50.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 80.0,
+            "capital": 0,
+            "total": 80.0
+          },
+          "revised": {
+            "revenue": 85.0,
+            "capital": 0,
+            "total": 85.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "22",
+        "name": "Agriculture Economics and Statistics",
+        "2024_budget": {
+          "revenue": 230.0,
+          "capital": 0,
+          "total": 230.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 220.0,
+            "capital": 0,
+            "total": 220.0
+          },
+          "revised": {
+            "revenue": 220.0,
+            "capital": 0,
+            "total": 220.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "23",
+        "name": "IRRI South Asia Regional Centre",
+        "2024_budget": {
+          "revenue": 25.0,
+          "capital": 0,
+          "total": 25.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 25.0,
+            "capital": 0,
+            "total": 25.0
+          },
+          "revised": {
+            "revenue": 30.0,
+            "capital": 0,
+            "total": 30.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "24",
+        "name": "International Cooperation",
+        "2024_budget": {
+          "revenue": 62.0,
+          "capital": 0,
+          "total": 62.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "25",
+        "name": "Rashtriya Krishi Vikas Yojna 25.01 Transfer to Agriculture Infrastructure and Development Fund",
+        "2024_budget": {
+          "revenue": 7553.0,
+          "capital": 0,
+          "total": 7553.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 6150.35,
+            "capital": 0,
+            "total": 6150.35
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "25.02",
+        "name": "Rashtriya Krishi Vikas Yojna",
+        "2024_budget": {
+          "revenue": 7553.0,
+          "capital": 0,
+          "total": 7553.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 7150.35,
+            "capital": 0,
+            "total": 7150.35
+          },
+          "revised": {
+            "revenue": 6150.35,
+            "capital": 0,
+            "total": 6150.35
+          }
+        },
+        "2022_actual": {
+          "revenue": 5247.43,
+          "capital": 0,
+          "total": 5247.43
+        }
+      },
+      {
+        "index": "25.03",
+        "name": "Less - Amount met from Agriculture Infrastructure and Development Fund",
+        "2024_budget": {
+          "revenue": -7553.0,
+          "capital": 0,
+          "total": -7553.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": -6150.35,
+            "capital": 0,
+            "total": -6150.35
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "26",
+        "name": "National Mission on Natural Farming",
+        "2024_budget": {
+          "revenue": 365.64,
+          "capital": 0,
+          "total": 365.64
+        },
+        "2023": {
+          "budget": {
+            "revenue": 459.0,
+            "capital": 0,
+            "total": 459.0
+          },
+          "revised": {
+            "revenue": 100.0,
+            "capital": 0,
+            "total": 100.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "27",
+        "name": "Krishionnati Yojana 27.01 Food and Nutrition Security 841.69 ... 841.69 ... ... ... ... ... ... ... ... ... 27.02 Edible Oil -Oil Palm 152.58 ... 152.58 ... ... ... ... ... ... ... ... ... 27.03 Edible Oil -Oilseeds 278.45 ... 278.45 ... ... ... ... ... ... ... ... ... 27.04 Organic Value Chain Development for North East Region 144.43 ... 144.43 ... ... ... ... ... ... ... ... ... 27.05 Integrated Development of Horticulture 1189.69 ... 1189.69 ... ... ... ... ... ... ... ... ... 27.06 Seed and Planting Material 191.94 ... 191.94 ... ... ... ... ... ... ... ... ... 27.07 Agriculture Extension 741.06 ... 741.06 ... ... ... ... ... ... ... ... ... 27.08 Digital Agriculture 21.24 ... 21.24 ... ... ... ... ... ... ... ... ... 27.09 Agriculture Census and Statistics 288.10 ... 288.10 ... ... ... ... ... ... ... ... ... 27.10 Agriculture Marketing 866.77 ... 866.77 ... ... ... ... ... ... ... ... ... Total - Krishionnati Yojana 4715.95 ... 4715.95 ... ... ... ... ... ... ... ... ... 28. Krishionnati Yojana.",
+        "2024_budget": {
+          "revenue": 7447.0,
+          "capital": 0,
+          "total": 7447.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 7066.47,
+            "capital": 0,
+            "total": 7066.47
+          },
+          "revised": {
+            "revenue": 6378.47,
+            "capital": 0,
+            "total": 6378.47
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "29",
+        "name": "Additional transfer to Agriculture Infrastructure and Development Fund",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 500.0,
+            "capital": 0,
+            "total": 500.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "30",
+        "name": "Actual Recoveries -1695.53 ... -1695.53 ... ... ... ... ... ... ... ... ... Total -Centrally Sponsored Schemes",
+        "2024_budget": {
+          "revenue": 15365.64,
+          "capital": 0,
+          "total": 15365.64
+        },
+        "2023": {
+          "budget": {
+            "revenue": 14675.82,
+            "capital": 0,
+            "total": 14675.82
+          },
+          "revised": {
+            "revenue": 13128.82,
+            "capital": 0,
+            "total": 13128.82
+          }
+        },
+        "2022_actual": {
+          "revenue": 8267.85,
+          "capital": 0,
+          "total": 8267.85
+        }
+      }
+    ],
+    "development_heads": [
+      {
+        "index": "1",
+        "name": "Crop Husbandry",
+        "2024_budget": {
+          "revenue": 72775.28,
+          "capital": 0,
+          "total": 72775.28
+        },
+        "2023": {
+          "budget": {
+            "revenue": 71378.94,
+            "capital": 0,
+            "total": 71378.94
+          },
+          "revised": {
+            "revenue": 77114.55,
+            "capital": 0,
+            "total": 77114.55
+          }
+        },
+        "2022_actual": {
+          "revenue": 74176.82,
+          "capital": 0,
+          "total": 74176.82
+        }
+      },
+      {
+        "index": "2",
+        "name": "Soil and Water Conservation",
+        "2024_budget": {
+          "revenue": 35.75,
+          "capital": 0,
+          "total": 35.75
+        },
+        "2023": {
+          "budget": {
+            "revenue": 36.6,
+            "capital": 0,
+            "total": 36.6
+          },
+          "revised": {
+            "revenue": 38.72,
+            "capital": 0,
+            "total": 38.72
+          }
+        },
+        "2022_actual": {
+          "revenue": 33.56,
+          "capital": 0,
+          "total": 33.56
+        }
+      },
+      {
+        "index": "3",
+        "name": "Agricultural Financial Institutions",
+        "2024_budget": {
+          "revenue": 20700.0,
+          "capital": 0,
+          "total": 20700.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 21050.0,
+            "capital": 0,
+            "total": 21050.0
+          },
+          "revised": {
+            "revenue": 17650.0,
+            "capital": 0,
+            "total": 17650.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 17894.64,
+          "capital": 0,
+          "total": 17894.64
+        }
+      },
+      {
+        "index": "4",
+        "name": "Other Agricultural Programmes",
+        "2024_budget": {
+          "revenue": 1768.86,
+          "capital": 0,
+          "total": 1768.86
+        },
+        "2023": {
+          "budget": {
+            "revenue": 2498.66,
+            "capital": 0,
+            "total": 2498.66
+          },
+          "revised": {
+            "revenue": 2317.73,
+            "capital": 0,
+            "total": 2317.73
+          }
+        },
+        "2022_actual": {
+          "revenue": 1902.59,
+          "capital": 0,
+          "total": 1902.59
+        }
+      },
+      {
+        "index": "5",
+        "name": "Secretariat -Economic Services",
+        "2024_budget": {
+          "revenue": 248.41,
+          "capital": 0,
+          "total": 248.41
+        },
+        "2023": {
+          "budget": {
+            "revenue": 235.89,
+            "capital": 0,
+            "total": 235.89
+          },
+          "revised": {
+            "revenue": 180.78,
+            "capital": 0,
+            "total": 180.78
+          }
+        },
+        "2022_actual": {
+          "revenue": 152.87,
+          "capital": 0,
+          "total": 152.87
+        }
+      },
+      {
+        "index": "6",
+        "name": "Capital Outlay on Crop Husbandry",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 71.84,
+          "total": 71.84
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 37.02,
+            "total": 37.02
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 64.6,
+            "total": 64.6
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 8.1,
+          "total": 8.1
+        }
+      },
+      {
+        "index": "7",
+        "name": "Capital Outlay on Soil and Water Conservation",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 4.25,
+          "total": 4.25
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 6.28,
+            "total": 6.28
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "8",
+        "name": "Capital Outlay on Other Agricultural Programmes",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 5.25,
+          "total": 5.25
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 1.5,
+            "total": 1.5
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 4.97,
+            "total": 4.97
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "9",
+        "name": "Capital Outlay on Other General Economic Services",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 14.3,
+          "total": 14.3
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 3.9,
+            "total": 3.9
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 11.87,
+            "total": 11.87
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "10",
+        "name": "North Eastern Areas",
+        "2024_budget": {
+          "revenue": 11939.46,
+          "capital": 0,
+          "total": 11939.46
+        },
+        "2023": {
+          "budget": {
+            "revenue": 11552.35,
+            "capital": 0,
+            "total": 11552.35
+          },
+          "revised": {
+            "revenue": 11789.12,
+            "capital": 0,
+            "total": 11789.12
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "11",
+        "name": "Grants -in-aid to State Governments",
+        "2024_budget": {
+          "revenue": 9809.96,
+          "capital": 0,
+          "total": 9809.96
+        },
+        "2023": {
+          "budget": {
+            "revenue": 8326.57,
+            "capital": 0,
+            "total": 8326.57
+          },
+          "revised": {
+            "revenue": 7522.28,
+            "capital": 0,
+            "total": 7522.28
+          }
+        },
+        "2022_actual": {
+          "revenue": 5709.7,
+          "capital": 0,
+          "total": 5709.7
+        }
+      },
+      {
+        "index": "12",
+        "name": "Grants -in-aid to Union Territory Governments",
+        "2024_budget": {
+          "revenue": 155.43,
+          "capital": 0,
+          "total": 155.43
+        },
+        "2023": {
+          "budget": {
+            "revenue": 410.36,
+            "capital": 0,
+            "total": 410.36
+          },
+          "revised": {
+            "revenue": 88.06,
+            "capital": 0,
+            "total": 88.06
+          }
+        },
+        "2022_actual": {
+          "revenue": -1.27,
+          "capital": 0,
+          "total": -1.27
+        }
+      },
+      {
+        "index": "1",
+        "name": "Secretariat: ..The provision is for expenditure on Secretariat, Departmental Canteen and Minister (Agriculture), Embassy of India, Rome; contribution to various international organizations and includes various attached and sub -ordinate offices under the Department located in various States. 2. Crop Insurance Scheme: ..Launched from 1.04.2016 after rolling back earlier schemes National Agriculture Insurance Scheme (NAIS), Weather -based Crop Insurance scheme, Modified National Agricultural Insurance Scheme (MNAIS). The Department has migrated from administered premium and claim - support insurance schemes to an upfront subsidy for actuarial premium - based system. 3. Modified Interest Subvention Scheme (MISS): ..Under Modified Interest Subvention Scheme, short term crop loan upto 3 lakh is available to farmers engaged in Agri culture and other allied activities at benchmark rate of 9%. Government of India provides 2% Interest Subvention on the benchmark rate. Additional 3% subvention is also given to the farmers for prompt and timely repayment of loans; thus the effective rate of interest comes down to 4% per annum. Funds are released to the implementing agencies namely NABARD for RRBs/Cooperative Banks and RBI for Scheduled Commercial Banks. 4. Market Intervention Scheme and Price Support Scheme (MIS -PSS): ..Under this scheme, NAFED, Central Warehousing Corporation, National Consumer Cooperative Federation of India and Small Farmers Agro Business Consortium have been designated as Central agencies to undertake procurement of Oilseed and Pulses under price support scheme and als o work to provide remunerative prices to farmers for their produce. NAFED, Central Warehousing Corporation, National Consumer Cooperative Federation of India, Small Farmers Agro Business Consortium have been designated as Central agencies to undertake proc urement of Oilseed and Pulses under price support scheme and also work to provide remunerative prices to farmers for their produce. 5. Pradhan Mantri Annadata Aay Sanrakshan Yojna (PM -AASHA): ..Pradhan Mantri Annadata Aay Sanrakshan Abhiyaan (PM -AASHA) is a scheme to ensure minimum support price to farmers comprising of Price Support Scheme (PSS), oilseeds and copra, Price Deficiency Payment Scheme (PDPS) and pilot of Private Procurement & Stockist Scheme (PPSS). 6. Distribution of Pulses to State / Union Territories for Welfare Schemes: ..The scheme is to dispose the huge stock of pulses procured under Price Support Scheme (PSS) by offering a subsidy of ..`.15/- per kg over the issue price to States/UTs for utilization under various welfare schemes like Mid-Day Meal, Public Distribution System, ICDS etc. .. 7. Pradhan Mantri Kisan Samman Nidhi (PM -Kisan): ..With a view to provide income support to all farmer families across the country, to enable them to take care of expenses related to agriculture and allied activities as well as domestic needs, the Central Government has implemented PM -Kisan Scheme . The Scheme aims to provide a payment of ..`.6000 per year in three quarterly installments of ..`.2000 to the farmer families, subject to certain exclusion relating to higher income groups. About 12.50 crore farmer families are expected to be covered under the Scheme. .. 8. Pradhan Mantri Kisan Man Dhan Yojana: ..With a view to provide social security net for Small and Marginal Farmers (SMF) as they have minimal or no savings to provide for old age and to support them in the event of consequent loss of livelihood, the Government has implemented another new Central Sector Scheme for providing old age pension to these farmers. Under this Scheme, a minimum fixed pension of..`.3000/ - p.m. will be provided to the eligible small and marginal farmers, subject to certain exclusion clauses, on attaining the age of 60 years. The Scheme aims to cover around 3 crore beneficiaries in the first three years. It is a voluntary and con",
+        "2024_budget": {
+          "revenue": 40.0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 18.0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "11",
+        "name": "National Beekeeping Honey Mission (NBHM): ..The NBHM has been launched for 3 years from 2020 -21 to 2022 -23. The aim will be of production of 160000 MTs of honey, increase in numb er of bee colonies to 42 lakh, generating employment of about 4.60 lakh and increase income from honey and increase in yield of the crops by the end",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 3.0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 2023.0
+        }
+      },
+      {
+        "index": "12",
+        "name": "Blended Capital Sup port to Finance Startups for Agriculture and Rural Enterprise Relevant for Farm Produce Value Chain: ..The Scheme aims at to finance startups for agriculture & rural enterprise, relevant for farm produce value chain. The activities for these startups will i nclude, inter alia, machinery for farmers on rental basis at farm level, and technology including IT -based support for FPOs 13. NAMO DRONE DIDI: ..The scheme aims to provide drones to 15,000 selected Women SHGs during the period 2023 -24",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 2025.0,
+          "total": -2026.0
+        }
+      }
+    ],
+    "public_enterprises": []
+  },
+  "number": 1
+}

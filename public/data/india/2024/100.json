@@ -1,0 +1,876 @@
+{
+  "name": "MINISTRY OF TRIBAL AFFAIRS",
+  "demand": "DEMAND NO. 100",
+  "department": "Ministry of Tribal Affairs",
+  "sections": {
+    "allocation": [
+      {
+        "index": "1",
+        "name": "Secretariat",
+        "2024_budget": {
+          "revenue": 40.21,
+          "capital": 1.7,
+          "total": 41.91
+        },
+        "2023": {
+          "budget": {
+            "revenue": 37.45,
+            "capital": 1.8,
+            "total": 39.25
+          },
+          "revised": {
+            "revenue": 40.19,
+            "capital": 1.39,
+            "total": 41.58
+          }
+        },
+        "2022_actual": {
+          "revenue": 35.64,
+          "capital": 0,
+          "total": 35.64
+        }
+      },
+      {
+        "index": "2",
+        "name": "National Commission for Scheduled Tribes",
+        "2024_budget": {
+          "revenue": 19.64,
+          "capital": 0.13,
+          "total": 19.77
+        },
+        "2023": {
+          "budget": {
+            "revenue": 21.5,
+            "capital": 0.13,
+            "total": 21.63
+          },
+          "revised": {
+            "revenue": 18.52,
+            "capital": 0.13,
+            "total": 18.65
+          }
+        },
+        "2022_actual": {
+          "revenue": 17.84,
+          "capital": 0,
+          "total": 17.84
+        }
+      },
+      {
+        "index": "3",
+        "name": "Marketing and Logistics Development for Promoting Tribal Products from North Eastern Region.",
+        "2024_budget": {
+          "revenue": 107.52,
+          "capital": 0,
+          "total": 107.52
+        },
+        "2023": {
+          "budget": {
+            "revenue": 20.0,
+            "capital": 0,
+            "total": 20.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "4",
+        "name": "Eklavya Model Residential Schools (EMRS)",
+        "2024_budget": {
+          "revenue": 6399.0,
+          "capital": 0,
+          "total": 6399.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 5943.0,
+            "capital": 0,
+            "total": 5943.0
+          },
+          "revised": {
+            "revenue": 2471.81,
+            "capital": 0,
+            "total": 2471.81
+          }
+        },
+        "2022_actual": {
+          "revenue": 1999.32,
+          "capital": 0,
+          "total": 1999.32
+        }
+      },
+      {
+        "index": "5",
+        "name": "National Tribal Welfare Program 5.01 Aid to Voluntary Organizations working for the welfare of scheduled Tribes",
+        "2024_budget": {
+          "revenue": 160.0,
+          "capital": 0,
+          "total": 160.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 140.0,
+            "capital": 0,
+            "total": 140.0
+          },
+          "revised": {
+            "revenue": 150.0,
+            "capital": 0,
+            "total": 150.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 109.25,
+          "capital": 0,
+          "total": 109.25
+        }
+      },
+      {
+        "index": "5.02",
+        "name": "Venture Capital Fund for Scheduled Tribes",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 30.0,
+          "total": 30.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 30.0,
+            "total": 30.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 20.0,
+          "total": 20.0
+        }
+      },
+      {
+        "index": "5.03",
+        "name": "Pradhan Mantri Jan Jatiya Vikas Mission (PMJVM)",
+        "2024_budget": {
+          "revenue": 164.32,
+          "capital": 0,
+          "total": 164.32
+        },
+        "2023": {
+          "budget": {
+            "revenue": 288.49,
+            "capital": 0,
+            "total": 288.49
+          },
+          "revised": {
+            "revenue": 143.0,
+            "capital": 0,
+            "total": 143.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 117.12,
+          "capital": 0,
+          "total": 117.12
+        }
+      },
+      {
+        "index": "5.04",
+        "name": "Tribal Research Information, Education, Communication and Events (TRI-ECE)",
+        "2024_budget": {
+          "revenue": 20.0,
+          "capital": 0,
+          "total": 20.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 25.0,
+            "capital": 0,
+            "total": 25.0
+          },
+          "revised": {
+            "revenue": 45.0,
+            "capital": 0,
+            "total": 45.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 15.01,
+          "capital": 0,
+          "total": 15.01
+        }
+      },
+      {
+        "index": "5.05",
+        "name": "Monitoring, Evaluation, Survey, Social Audit (MESSA)",
+        "2024_budget": {
+          "revenue": 20.0,
+          "capital": 0,
+          "total": 20.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 23.0,
+            "capital": 0,
+            "total": 23.0
+          },
+          "revised": {
+            "revenue": 15.0,
+            "capital": 0,
+            "total": 15.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 8.84,
+          "capital": 0,
+          "total": 8.84
+        }
+      },
+      {
+        "index": "5.06",
+        "name": "National Fellowship and Scholarship for Higher Education of ST students",
+        "2024_budget": {
+          "revenue": 165.0,
+          "capital": 0,
+          "total": 165.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 145.0,
+            "capital": 0,
+            "total": 145.0
+          },
+          "revised": {
+            "revenue": 230.0,
+            "capital": 0,
+            "total": 230.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 145.0,
+          "capital": 0,
+          "total": 145.0
+        }
+      },
+      {
+        "index": "5.07",
+        "name": "National Overseas Scholarship Scheme",
+        "2024_budget": {
+          "revenue": 6.0,
+          "capital": 0,
+          "total": 6.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 4.0,
+            "capital": 0,
+            "total": 4.0
+          },
+          "revised": {
+            "revenue": 7.0,
+            "capital": 0,
+            "total": 7.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 4.0,
+          "capital": 0,
+          "total": 4.0
+        }
+      },
+      {
+        "index": "5.08",
+        "name": "Pradhan Mantri Janjati Adivasi Nyaya Maha Abhiyan (PM JANMAN)",
+        "2024_budget": {
+          "revenue": 25.0,
+          "capital": 0,
+          "total": 25.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 10.0,
+            "capital": 0,
+            "total": 10.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "6",
+        "name": "Support to National/state Scheduled Tribes Finance and Development Corporation",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 15.0,
+            "total": 15.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 15.0,
+            "total": 15.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "7",
+        "name": "Actual Recovery",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": -5.24,
+          "capital": 0,
+          "total": -5.24
+        }
+      },
+      {
+        "index": "8.",
+        "name": "Programme for Development of Scheduled Tribes(PM Vanbandhu Kalyan Yojna)"
+      },
+      {
+        "index": "8.01",
+        "name": "Pre- Matric Scholarship for STs",
+        "2024_budget": {
+          "revenue": 440.36,
+          "capital": 0,
+          "total": 440.36
+        },
+        "2023": {
+          "budget": {
+            "revenue": 411.63,
+            "capital": 0,
+            "total": 411.63
+          },
+          "revised": {
+            "revenue": 411.63,
+            "capital": 0,
+            "total": 411.63
+          }
+        },
+        "2022_actual": {
+          "revenue": 357.3,
+          "capital": 0,
+          "total": 357.3
+        }
+      },
+      {
+        "index": "8.02",
+        "name": "Post- Matric Scholarship for STs",
+        "2024_budget": {
+          "revenue": 2374.15,
+          "capital": 0,
+          "total": 2374.15
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1970.77,
+            "capital": 0,
+            "total": 1970.77
+          },
+          "revised": {
+            "revenue": 2371.01,
+            "capital": 0,
+            "total": 2371.01
+          }
+        },
+        "2022_actual": {
+          "revenue": 1965.0,
+          "capital": 0,
+          "total": 1965.0
+        }
+      },
+      {
+        "index": "8.03",
+        "name": "Support to Tribal Research Institute",
+        "2024_budget": {
+          "revenue": 111.0,
+          "capital": 0,
+          "total": 111.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 118.64,
+            "capital": 0,
+            "total": 118.64
+          },
+          "revised": {
+            "revenue": 50.0,
+            "capital": 0,
+            "total": 50.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 12.4,
+          "capital": 0,
+          "total": 12.4
+        }
+      },
+      {
+        "index": "8.04",
+        "name": "Development of Particularly Vulnerable Tribal Groups(PVTGs)",
+        "2024_budget": {
+          "revenue": 20.0,
+          "capital": 0,
+          "total": 20.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 256.14,
+            "capital": 0,
+            "total": 256.14
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 137.18,
+          "capital": 0,
+          "total": 137.18
+        }
+      },
+      {
+        "index": "8.05",
+        "name": "Special Central Assistance to Tribal Sub - Scheme (SCA to TSS) 1354.37 ... 1354.37 ... ... ... ... ... ... ... ... ... 8.06 Pradhan Mantri Adi Adarsh Gram Yojna (PMAAGY)",
+        "2024_budget": {
+          "revenue": 1000.0,
+          "capital": 0,
+          "total": 1000.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1485.0,
+            "capital": 0,
+            "total": 1485.0
+          },
+          "revised": {
+            "revenue": 300.0,
+            "capital": 0,
+            "total": 300.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "8.07",
+        "name": "Administrative Cost to States/UTs",
+        "2024_budget": {
+          "revenue": 55.96,
+          "capital": 0,
+          "total": 55.96
+        },
+        "2023": {
+          "budget": {
+            "revenue": 53.22,
+            "capital": 0,
+            "total": 53.22
+          },
+          "revised": {
+            "revenue": 53.22,
+            "capital": 0,
+            "total": 53.22
+          }
+        },
+        "2022_actual": {
+          "revenue": 4.0,
+          "capital": 0,
+          "total": 4.0
+        }
+      },
+      {
+        "index": "8.08",
+        "name": "Pradhan Mantri Janjati Adivasi Nyaya Maha Abhiyan (PM JANMAN)",
+        "2024_budget": {
+          "revenue": 240.0,
+          "capital": 0,
+          "total": 240.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 100.0,
+            "capital": 0,
+            "total": 100.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "9",
+        "name": "Grants under proviso to Article 275(1) of the Constitution",
+        "2024_budget": {
+          "revenue": 1600.0,
+          "capital": 0,
+          "total": 1600.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1472.1,
+            "capital": 0,
+            "total": 1472.1
+          },
+          "revised": {
+            "revenue": 1172.1,
+            "capital": 0,
+            "total": 1172.1
+          }
+        },
+        "2022_actual": {
+          "revenue": 976.5,
+          "capital": 0,
+          "total": 976.5
+        }
+      },
+      {
+        "index": "10",
+        "name": "Grant to Assam Government under Clause A of the Second Provision to Article 275(1) of the Constitution",
+        "2024_budget": {
+          "revenue": 0.01,
+          "capital": 0,
+          "total": 0.01
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0.01,
+            "capital": 0,
+            "total": 0.01
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      }
+    ],
+    "development_heads": [
+      {
+        "index": "1",
+        "name": "Welfare of Scheduled Castes, Scheduled Tribes, Other Backward Classes and Minorities",
+        "2024_budget": {
+          "revenue": 6611.69,
+          "capital": 0,
+          "total": 6611.69
+        },
+        "2023": {
+          "budget": {
+            "revenue": 6215.14,
+            "capital": 0,
+            "total": 6215.14
+          },
+          "revised": {
+            "revenue": 2959.43,
+            "capital": 0,
+            "total": 2959.43
+          }
+        },
+        "2022_actual": {
+          "revenue": 2437.38,
+          "capital": 0,
+          "total": 2437.38
+        }
+      },
+      {
+        "index": "2",
+        "name": "Secretariat -Social Services",
+        "2024_budget": {
+          "revenue": 40.21,
+          "capital": 0,
+          "total": 40.21
+        },
+        "2023": {
+          "budget": {
+            "revenue": 37.45,
+            "capital": 0,
+            "total": 37.45
+          },
+          "revised": {
+            "revenue": 40.19,
+            "capital": 0,
+            "total": 40.19
+          }
+        },
+        "2022_actual": {
+          "revenue": 35.64,
+          "capital": 0,
+          "total": 35.64
+        }
+      },
+      {
+        "index": "3",
+        "name": "Capital Outlay on Welfare of Scheduled Castes, Scheduled Tribes , Other Backward Classes and Minorities",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 30.0,
+          "total": 30.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 45.0,
+            "total": 45.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 15.0,
+            "total": 15.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 20.0,
+          "total": 20.0
+        }
+      },
+      {
+        "index": "4",
+        "name": "Capital Outlay on other Social Services",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 1.83,
+          "total": 1.83
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 1.93,
+            "total": 1.93
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 1.52,
+            "total": 1.52
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "5",
+        "name": "North Eastern Areas",
+        "2024_budget": {
+          "revenue": 1303.85,
+          "capital": 0,
+          "total": 1303.85
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1256.45,
+            "capital": 0,
+            "total": 1256.45
+          },
+          "revised": {
+            "revenue": 761.45,
+            "capital": 0,
+            "total": 761.45
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "6",
+        "name": "Grants -in-aid to State Governments",
+        "2024_budget": {
+          "revenue": 4993.4,
+          "capital": 0,
+          "total": 4993.4
+        },
+        "2023": {
+          "budget": {
+            "revenue": 4891.89,
+            "capital": 0,
+            "total": 4891.89
+          },
+          "revised": {
+            "revenue": 3807.39,
+            "capital": 0,
+            "total": 3807.39
+          }
+        },
+        "2022_actual": {
+          "revenue": 4771.96,
+          "capital": 0,
+          "total": 4771.96
+        }
+      },
+      {
+        "index": "7",
+        "name": "Grants -in-aid to Union Territory Governments",
+        "2024_budget": {
+          "revenue": 19.02,
+          "capital": 0,
+          "total": 19.02
+        },
+        "2023": {
+          "budget": {
+            "revenue": 14.02,
+            "capital": 0,
+            "total": 14.02
+          },
+          "revised": {
+            "revenue": 20.02,
+            "capital": 0,
+            "total": 20.02
+          }
+        },
+        "2022_actual": {
+          "revenue": 8.55,
+          "capital": 0,
+          "total": 8.55
+        }
+      }
+    ],
+    "public_enterprises": [
+      {
+        "index": "1",
+        "name": "Support to National and State Scheduled Tribes Finance and Development Corporation",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 15.0,
+            "capital": 0,
+            "total": 15.0
+          },
+          "revised": {
+            "revenue": 15.0,
+            "capital": 0,
+            "total": 15.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "5.02",
+        "name": "Venture Capital Fund for Scheduled Tribes: ..As a Social Sector Initiative, the objectives of the scheme of Venture Capital Fund for Scheduled Tribes are to promote entrepreneurship among the scheduled tribes population i n India, who are oriented towards innovation and growth technologies. The scheme aims to provide hand holding support to new incubation ideas and start up ideas by ST Entrepreneurs. The scheme provides for concessional finance to the scheduled tribes entre preneurs, who will create wealth and value for society and at the same time will promote profitable businesses. From 2023 -2024, this Sub -Scheme has been brought under the Scheme National Tribal Welfare Programme. 5.03. Pradhan Mantri Jan Jatiya Vikas Miss ion (PMJVM): ..The objectives of the scheme Pradhan Mantri Jan Janjatiye Vikas Mission (PMJVM) are to bring about transformational changes in tribal livelihood and to utilize the potential of tribal enterprises in the growth of Indian economy. The prime obj ective of the mission will be ensuring round -the-year income generating opportunities for tribals by undertaking non - MFP activities also, based on Agriculture/ Floriculture/ Horticulture/ Medicinal & aromatic plants / others. From 2023 -2024, this Sub -Schem e has been brought under the Scheme 'National Tribal Welfare Programme'.. 5.04. Tribal Research Information, Education, Communication and Events (TRI - ECE): ..The scheme is implemented in States having Schedule V areas. Grants are also given for organizing tribal festivals and for Research/Evaluation projects, Seminar/Workshops and Publication of books, relating to issues concerning tribals. Centers of Excellence have been recognized to involve them for working out long term and policy oriented research stud ies for the development of tribals in the country. From 2023 -2024, this Sub-Scheme has been brought under the Scheme 'National Tribal Welfare Programme'.. 5.05. Monitoring, Evaluation, Survey, Social Audit (MESSA): ..Provision has also been made for expend iture on Monitoring and Evaluation of schemes and projects of this Ministry. From 2023 -2024, this Sub -Scheme has been brought under the Scheme 'National Tribal Welfare Programme'. 5.06. National Fellowship and Scholarship for Higher Education of ST students: ..Financial Assistance is provided in the form of Fellowships and Scholarships to ST Students to pursue higher studies in India i.e. for M.Phil and PhD as well as professional courses in identified Top Class Institutions through National Fellowshi p and Scholarship for Higher Education of ST Students. From 2023 - 2024, this Sub -Scheme has been brought under the Scheme 'National Tribal Welfare Programme'. 5.07. National Overseas Scholarship Scheme: ..Scholarships are also provided to selected ST studen ts to pursue Post Graduation, PhD & Post - Doctoral studies abroad. From 2023 -2024, this Sub - Scheme has been brought under the Scheme 'National Tribal Welfare Programme' 5.08. Pradhan Mantri Janjati Adivasi Nyaya Maha Abhiyan (PM JANMAN): ..The allocation under the scheme includes ..`10.00 crore in RE 2023",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 2024.0,
+            "capital": -25.0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": -24.0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "8.01",
+        "name": "Pre- Matric Scholarship for STs: ..The objective of the Pre Matric Scholarship for STs is to fill the critical gaps in the education of ST Children . Financial Assistance is provided to State Governments through a cafeteria mode of options to reduce their financial burden and provide better access to education to the Scheduled Tribe Children. From 2022 -2023, this Sub -Scheme has been brought under the Umbrella Scheme Programme for Development of Scheduled Tribes. 8.02. Post - Matric Scholarship for STs: ..The objective of the Post Matric Scholarship for STs is to fill the critical gaps in the education of ST Children. Financial Assistance is provided to State Governments through a cafeteria mode of options to reduce their financial burden and provide better access to education to the Scheduled Tribe Children.From 2022 -2023, this Sub -Scheme has been brought under the Umbrella Scheme Programme for Developme nt of Scheduled Tribes. 8.03. Support to Tribal Research Institute: ..Under the scheme Support to Tribal Research Institute financial assistance is provided to Tribal Research Institutes of the States for Research and Evaluation, Preservation and Document ation of cultural heritage of Tribals, Indigenous practices, Art and culture, Training and Capacity Building of Panchayati Raj Institution (PRI) representatives, Officers, teachers on FRA, PESA, constitutional provisions and schemes of State and Central G overnment for welfare of tribal through Seminars / Workshops etc. From 2022 -2023, this Sub -Scheme has been brought under the Umbrella Scheme Programme for Development of Scheduled Tribes 8.04. Development of Particularly Vulnerable Tribal Groups(PVTGs): ..Provision under the scheme has been kept for various measures for the overall development of the backward population of STs. GIA is given to concerned States for the development of identified Particularly Vulnerable Tribal Groups (PVTGs) in a comprehensive manner, while retaining their culture and heritage. From 2022 -2023, this Sub - Scheme has been brought under the Umbrella Scheme Programme for Development of Scheduled Tribes. 8.05. Special Central Assistance to Tribal Sub -Scheme (SCA to TSS): ..The Ministr y of Tribal Affairs supplements the efforts of the State Governments by extending Grants -in-aid through Special Central Assistance to (SCA) to Tribal Sub Scheme (TSS). Under the Scheme Ministry provides grant in aid to States for employment -cum- income gen eration activities and infrastructure work relating to basic services and facilities are taken up for implementation. The core objective of extending SCA to TSS is to boost the demand - based income -generation programmes in tribal areas and thus raise the ec onomic and social status of STs. From 2022 -2023, this Sub -Scheme has been brought under the Umbrella Scheme Programme for Development of Scheduled Tribes. 8.06. Pradhan Mantri Adi Adarsh Gram Yojna (PMAAGY): ..Erstwhile the scheme of Special Central Assist ance to Tribal Sub -Scheme (SCA to TSS), provides funds to the States/ UTs. Government having notified ST population, including North Eastern States (NE States) for development and welfare of tribal people to bridge the gaps in sectors like education, healt h, agriculture, skill development, employment -cum- income generation, etc 8.08. Pradhan Mantri Janjati Adivasi Nyaya Maha Abhiyan (PM JANMAN): ..The allocation under the scheme includes ..`100.00 crore in RE",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 2024.0,
+            "total": -25.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 2023.0,
+          "capital": -24.0,
+          "total": 0
+        }
+      }
+    ]
+  },
+  "number": 100
+}

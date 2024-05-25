@@ -1,0 +1,355 @@
+{
+  "name": "MINISTRY OF SCIENCE AND TECHNOLOGY",
+  "demand": "DEMAND NO. 91",
+  "department": "Department of Scientific and Industrial Research",
+  "sections": {
+    "allocation": [
+      {
+        "index": "1",
+        "name": "Secretariat",
+        "2024_budget": {
+          "revenue": 17.16,
+          "capital": 0.6,
+          "total": 17.76
+        },
+        "2023": {
+          "budget": {
+            "revenue": 17.91,
+            "capital": 0.56,
+            "total": 18.47
+          },
+          "revised": {
+            "revenue": 16.15,
+            "capital": 0.35,
+            "total": 16.5
+          }
+        },
+        "2022_actual": {
+          "revenue": 15.28,
+          "capital": 0,
+          "total": 15.28
+        }
+      },
+      {
+        "index": "2",
+        "name": "Industrial Research and Development",
+        "2024_budget": {
+          "revenue": 15.9,
+          "capital": 0.6,
+          "total": 16.5
+        },
+        "2023": {
+          "budget": {
+            "revenue": 21.1,
+            "capital": 2.2,
+            "total": 23.3
+          },
+          "revised": {
+            "revenue": 12.6,
+            "capital": 2.0,
+            "total": 14.6
+          }
+        },
+        "2022_actual": {
+          "revenue": 16.98,
+          "capital": 0,
+          "total": 16.98
+        }
+      },
+      {
+        "index": "3",
+        "name": "Assistance to PSEs for Other Scientific Research Schemes",
+        "2024_budget": {
+          "revenue": 15.5,
+          "capital": 0,
+          "total": 15.5
+        },
+        "2023": {
+          "budget": {
+            "revenue": 15.53,
+            "capital": 6.2,
+            "total": 21.73
+          },
+          "revised": {
+            "revenue": 12.0,
+            "capital": 10.2,
+            "total": 22.2
+          }
+        },
+        "2022_actual": {
+          "revenue": 8.75,
+          "capital": 1.5,
+          "total": 10.25
+        }
+      },
+      {
+        "index": "4.",
+        "name": "Council of Scientific and Industrial Research (CSIR)"
+      },
+      {
+        "index": "4.01",
+        "name": "National Laboratories",
+        "2024_budget": {
+          "revenue": 5835.8,
+          "capital": 0,
+          "total": 5835.8
+        },
+        "2023": {
+          "budget": {
+            "revenue": 5175.51,
+            "capital": 0,
+            "total": 5175.51
+          },
+          "revised": {
+            "revenue": 5711.51,
+            "capital": 0,
+            "total": 5711.51
+          }
+        },
+        "2022_actual": {
+          "revenue": 5290.71,
+          "capital": 0,
+          "total": 5290.71
+        }
+      },
+      {
+        "index": "4.02",
+        "name": "Capacity Building and Human Resource Development",
+        "2024_budget": {
+          "revenue": 430.0,
+          "capital": 0,
+          "total": 430.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 500.0,
+            "capital": 0,
+            "total": 500.0
+          },
+          "revised": {
+            "revenue": 430.0,
+            "capital": 0,
+            "total": 430.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 513.37,
+          "capital": 0,
+          "total": 513.37
+        }
+      },
+      {
+        "index": "5",
+        "name": "Contribution to Asian & Pacific Centre for Transfer of Technology (UN Body)",
+        "2024_budget": {
+          "revenue": 7.35,
+          "capital": 0.5,
+          "total": 7.85
+        },
+        "2023": {
+          "budget": {
+            "revenue": 7.0,
+            "capital": 0.5,
+            "total": 7.5
+          },
+          "revised": {
+            "revenue": 7.25,
+            "capital": 0.47,
+            "total": 7.72
+          }
+        },
+        "2022_actual": {
+          "revenue": 6.78,
+          "capital": 0,
+          "total": 6.78
+        }
+      },
+      {
+        "index": "6",
+        "name": "Actual Recoveries",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": -1.23,
+          "capital": 0,
+          "total": -1.23
+        }
+      }
+    ],
+    "development_heads": [
+      {
+        "index": "1",
+        "name": "Capital Outlay on Public Works ... ... ... ... ... ... ... ... ... ... ... ... Total -General Services ... ... ... ... ... ... ... ... ... ... ... ... Economic Services 2. Other Scientific Research",
+        "2024_budget": {
+          "revenue": 6304.55,
+          "capital": 0,
+          "total": 6304.55
+        },
+        "2023": {
+          "budget": {
+            "revenue": 5719.14,
+            "capital": 0,
+            "total": 5719.14
+          },
+          "revised": {
+            "revenue": 6173.36,
+            "capital": 0,
+            "total": 6173.36
+          }
+        },
+        "2022_actual": {
+          "revenue": 5835.41,
+          "capital": 0,
+          "total": 5835.41
+        }
+      },
+      {
+        "index": "3",
+        "name": "Secretariat -Economic Services",
+        "2024_budget": {
+          "revenue": 17.16,
+          "capital": 0,
+          "total": 17.16
+        },
+        "2023": {
+          "budget": {
+            "revenue": 17.91,
+            "capital": 0,
+            "total": 17.91
+          },
+          "revised": {
+            "revenue": 16.15,
+            "capital": 0,
+            "total": 16.15
+          }
+        },
+        "2022_actual": {
+          "revenue": 15.23,
+          "capital": 0,
+          "total": 15.23
+        }
+      },
+      {
+        "index": "4",
+        "name": "Capital Outlay on Telecommunication and Electronic Industries",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 6.2,
+            "total": 6.2
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 10.2,
+            "total": 10.2
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 1.5,
+          "total": 1.5
+        }
+      },
+      {
+        "index": "5",
+        "name": "Capital Outlay on Other Scientific and Environmental Research",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0.5,
+          "total": 0.5
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0.5,
+            "total": 0.5
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0.47,
+            "total": 0.47
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "6",
+        "name": "Capital Outlay on Other General Economic Services",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0.6,
+          "total": 0.6
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0.56,
+            "total": 0.56
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0.35,
+            "total": 0.35
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "7",
+        "name": "Loans for Other Scientific Research",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0.6,
+          "total": 0.6
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 2.2,
+            "total": 2.2
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 2.0,
+            "total": 2.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      }
+    ],
+    "public_enterprises": []
+  },
+  "number": 91
+}

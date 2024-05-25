@@ -1,0 +1,64 @@
+{
+  "name": "MINISTRY OF LAW AND JUSTICE",
+  "demand": "No. 67 (APPROPRIATION)",
+  "department": "Supreme Court of India",
+  "sections": {
+    "allocation": [],
+    "development_heads": [
+      {
+        "index": "1",
+        "name": "Administration of Justice",
+        "2024_budget": {
+          "revenue": 456.54,
+          "capital": 0,
+          "total": 456.54
+        },
+        "2023": {
+          "budget": {
+            "revenue": 407.15,
+            "capital": 0,
+            "total": 407.15
+          },
+          "revised": {
+            "revenue": 459.28,
+            "capital": 0,
+            "total": 459.28
+          }
+        },
+        "2022_actual": {
+          "revenue": 392.78,
+          "capital": 0,
+          "total": 392.78
+        }
+      },
+      {
+        "index": "2",
+        "name": "Capital Outlay on Miscellaneous General Services",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 28.95,
+          "total": 28.95
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 30.0,
+            "total": 30.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 58.0,
+            "total": 58.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      }
+    ],
+    "public_enterprises": []
+  },
+  "number": 67
+}

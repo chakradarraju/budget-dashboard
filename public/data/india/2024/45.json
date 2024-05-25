@@ -1,0 +1,455 @@
+{
+  "name": "MINISTRY OF FOOD PROCESSING  INDUSTRIES",
+  "demand": "DEMAND NO. 45",
+  "department": "Ministry of Food Processing Industries",
+  "sections": {
+    "allocation": [
+      {
+        "index": "1",
+        "name": "Secretariat",
+        "2024_budget": {
+          "revenue": 120.28,
+          "capital": 2.0,
+          "total": 122.28
+        },
+        "2023": {
+          "budget": {
+            "revenue": 125.1,
+            "capital": 1.76,
+            "total": 126.86
+          },
+          "revised": {
+            "revenue": 121.38,
+            "capital": 2.06,
+            "total": 123.44
+          }
+        },
+        "2022_actual": {
+          "revenue": 35.56,
+          "capital": 0,
+          "total": 35.56
+        }
+      },
+      {
+        "index": "2",
+        "name": "International Cooperation",
+        "2024_budget": {
+          "revenue": 0.2,
+          "capital": 0,
+          "total": 0.2
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0.18,
+            "capital": 0,
+            "total": 0.18
+          },
+          "revised": {
+            "revenue": 0.2,
+            "capital": 0,
+            "total": 0.2
+          }
+        },
+        "2022_actual": {
+          "revenue": 0.18,
+          "capital": 0,
+          "total": 0.18
+        }
+      },
+      {
+        "index": "3",
+        "name": "Pradhan Mantri Kisan Sampada Yojana 3.01 Transfer to Agriculture Infrastructure & Development Fund",
+        "2024_budget": {
+          "revenue": 729.0,
+          "capital": 0,
+          "total": 729.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 745.0,
+            "capital": 0,
+            "total": 745.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "3.02",
+        "name": "Pradhan Mantri Kisan Sampada Yojana",
+        "2024_budget": {
+          "revenue": 729.0,
+          "capital": 0,
+          "total": 729.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 923.24,
+            "capital": 0,
+            "total": 923.24
+          },
+          "revised": {
+            "revenue": 745.0,
+            "capital": 0,
+            "total": 745.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 561.92,
+          "capital": 0,
+          "total": 561.92
+        }
+      },
+      {
+        "index": "3.03",
+        "name": "Less - Amount met from Agriculture Infrastructure and Development Fund",
+        "2024_budget": {
+          "revenue": -729.0,
+          "capital": 0,
+          "total": -729.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": -745.0,
+            "capital": 0,
+            "total": -745.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "4",
+        "name": "Production -Linked Incentive Scheme for Food Processing Industry",
+        "2024_budget": {
+          "revenue": 1443.98,
+          "capital": 0.04,
+          "total": 1444.02
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1529.8,
+            "capital": 0.2,
+            "total": 1530.0
+          },
+          "revised": {
+            "revenue": 1149.8,
+            "capital": 0.2,
+            "total": 1150.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 489.83,
+          "capital": 0,
+          "total": 489.83
+        }
+      },
+      {
+        "index": "5",
+        "name": "National Institute of Food Technology Entrepreneurship and Management (NIFTEM) - KUNDLI",
+        "2024_budget": {
+          "revenue": 65.0,
+          "capital": 0,
+          "total": 65.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 38.26,
+            "capital": 0,
+            "total": 38.26
+          },
+          "revised": {
+            "revenue": 60.0,
+            "capital": 0,
+            "total": 60.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 59.56,
+          "capital": 0,
+          "total": 59.56
+        }
+      },
+      {
+        "index": "6",
+        "name": "National Institute of Food Technology Entrepreneurship and Management (NIFTEM) - THANJAVUR",
+        "2024_budget": {
+          "revenue": 50.0,
+          "capital": 0,
+          "total": 50.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 30.06,
+            "capital": 0,
+            "total": 30.06
+          },
+          "revised": {
+            "revenue": 33.31,
+            "capital": 0,
+            "total": 33.31
+          }
+        },
+        "2022_actual": {
+          "revenue": 33.31,
+          "capital": 0,
+          "total": 33.31
+        }
+      },
+      {
+        "index": "7",
+        "name": "Prime Minister Formalisation of Micro Food Processing Enterprises Scheme (PM FME)",
+        "2024_budget": {
+          "revenue": 879.0,
+          "capital": 0.5,
+          "total": 879.5
+        },
+        "2023": {
+          "budget": {
+            "revenue": 638.55,
+            "capital": 0.5,
+            "total": 639.05
+          },
+          "revised": {
+            "revenue": 799.95,
+            "capital": 0.05,
+            "total": 800.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 274.77,
+          "capital": 0,
+          "total": 274.77
+        }
+      },
+      {
+        "index": "8",
+        "name": "Actual Recoveries -45.19 ... -45.19 ... ... ... ... ... ... ... ... ... Total -Centrally Sponsored Schemes",
+        "2024_budget": {
+          "revenue": 879.0,
+          "capital": 0.5,
+          "total": 879.5
+        },
+        "2023": {
+          "budget": {
+            "revenue": 638.55,
+            "capital": 0.5,
+            "total": 639.05
+          },
+          "revised": {
+            "revenue": 799.95,
+            "capital": 0.05,
+            "total": 800.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 229.58,
+          "capital": 0,
+          "total": 229.58
+        }
+      }
+    ],
+    "development_heads": [
+      {
+        "index": "1",
+        "name": "Food Storage and Warehousing",
+        "2024_budget": {
+          "revenue": 2249.18,
+          "capital": 0,
+          "total": 2249.18
+        },
+        "2023": {
+          "budget": {
+            "revenue": 2826.92,
+            "capital": 0,
+            "total": 2826.92
+          },
+          "revised": {
+            "revenue": 1929.1,
+            "capital": 0,
+            "total": 1929.1
+          }
+        },
+        "2022_actual": {
+          "revenue": 1354.82,
+          "capital": 0,
+          "total": 1354.82
+        }
+      },
+      {
+        "index": "2",
+        "name": "Secretariat -Economic Services",
+        "2024_budget": {
+          "revenue": 120.28,
+          "capital": 0,
+          "total": 120.28
+        },
+        "2023": {
+          "budget": {
+            "revenue": 125.1,
+            "capital": 0,
+            "total": 125.1
+          },
+          "revised": {
+            "revenue": 121.38,
+            "capital": 0,
+            "total": 121.38
+          }
+        },
+        "2022_actual": {
+          "revenue": 35.55,
+          "capital": 0,
+          "total": 35.55
+        }
+      },
+      {
+        "index": "3",
+        "name": "Capital Outlay on Food Storage and Warehousing",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0.54,
+          "total": 0.54
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0.7,
+            "total": 0.7
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0.25,
+            "total": 0.25
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "4",
+        "name": "Capital Outlay on Other General Economic Services",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 2.0,
+          "total": 2.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 1.76,
+            "total": 1.76
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 2.06,
+            "total": 2.06
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "5",
+        "name": "North Eastern Areas",
+        "2024_budget": {
+          "revenue": 165.0,
+          "capital": 0,
+          "total": 165.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 156.42,
+            "capital": 0,
+            "total": 156.42
+          },
+          "revised": {
+            "revenue": 154.5,
+            "capital": 0,
+            "total": 154.5
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "6",
+        "name": "Grants -in-aid to State Governments",
+        "2024_budget": {
+          "revenue": 741.0,
+          "capital": 0,
+          "total": 741.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 171.75,
+            "capital": 0,
+            "total": 171.75
+          },
+          "revised": {
+            "revenue": 697.16,
+            "capital": 0,
+            "total": 697.16
+          }
+        },
+        "2022_actual": {
+          "revenue": 18.07,
+          "capital": 0,
+          "total": 18.07
+        }
+      },
+      {
+        "index": "7",
+        "name": "Grants -in-aid to Union Territory Governments",
+        "2024_budget": {
+          "revenue": 12.0,
+          "capital": 0,
+          "total": 12.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 5.0,
+            "capital": 0,
+            "total": 5.0
+          },
+          "revised": {
+            "revenue": 7.5,
+            "capital": 0,
+            "total": 7.5
+          }
+        },
+        "2022_actual": {
+          "revenue": 1.5,
+          "capital": 0,
+          "total": 1.5
+        }
+      }
+    ],
+    "public_enterprises": []
+  },
+  "number": 45
+}

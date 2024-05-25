@@ -1,0 +1,560 @@
+{
+  "name": "MINIS TRY OF SOCIAL JUSTICE AND EMPOWERMENT",
+  "demand": "DEMAND NO. 94",
+  "department": "Department of Empowerment of Persons with Disabilities",
+  "sections": {
+    "allocation": [
+      {
+        "index": "1",
+        "name": "Secretariat",
+        "2024_budget": {
+          "revenue": 41.55,
+          "capital": 1.0,
+          "total": 42.55
+        },
+        "2023": {
+          "budget": {
+            "revenue": 41.67,
+            "capital": 0.85,
+            "total": 42.52
+          },
+          "revised": {
+            "revenue": 40.81,
+            "capital": 0.85,
+            "total": 41.66
+          }
+        },
+        "2022_actual": {
+          "revenue": 31.63,
+          "capital": 0,
+          "total": 31.63
+        }
+      },
+      {
+        "index": "2",
+        "name": "Attached Office CCPD",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0.2,
+          "total": 0.2
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0.2,
+            "total": 0.2
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0.2,
+            "total": 0.2
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "3",
+        "name": "Assistance to Disabled Persons for Purchase/Fitting of Aids and Applicances",
+        "2024_budget": {
+          "revenue": 315.0,
+          "capital": 0,
+          "total": 315.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 245.0,
+            "capital": 0,
+            "total": 245.0
+          },
+          "revised": {
+            "revenue": 305.0,
+            "capital": 0,
+            "total": 305.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 242.29,
+          "capital": 0,
+          "total": 242.29
+        }
+      },
+      {
+        "index": "4",
+        "name": "Deendayal Disabled Rehabilitation Scheme",
+        "2024_budget": {
+          "revenue": 165.0,
+          "capital": 0,
+          "total": 165.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 130.0,
+            "capital": 0,
+            "total": 130.0
+          },
+          "revised": {
+            "revenue": 130.0,
+            "capital": 0,
+            "total": 130.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 114.69,
+          "capital": 0,
+          "total": 114.69
+        }
+      },
+      {
+        "index": "5",
+        "name": "Support of National Trust 35.00 ... 35.00 ... ... ... ... ... ... ... ... ... 7. Scheme for implementation of Persons with Disability Act",
+        "2024_budget": {
+          "revenue": 135.33,
+          "capital": 0,
+          "total": 135.33
+        },
+        "2023": {
+          "budget": {
+            "revenue": 150.0,
+            "capital": 0,
+            "total": 150.0
+          },
+          "revised": {
+            "revenue": 67.0,
+            "capital": 0,
+            "total": 67.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 65.59,
+          "capital": 0,
+          "total": 65.59
+        }
+      },
+      {
+        "index": "8",
+        "name": "Scholarship for Students with Disabilidties",
+        "2024_budget": {
+          "revenue": 142.68,
+          "capital": 0,
+          "total": 142.68
+        },
+        "2023": {
+          "budget": {
+            "revenue": 155.0,
+            "capital": 0,
+            "total": 155.0
+          },
+          "revised": {
+            "revenue": 155.0,
+            "capital": 0,
+            "total": 155.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 142.0,
+          "capital": 0,
+          "total": 142.0
+        }
+      },
+      {
+        "index": "9",
+        "name": "National University of Rehabilitation Science and Disabiltiy Studies",
+        "2024_budget": {
+          "revenue": 0.01,
+          "capital": 0,
+          "total": 0.01
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0.01,
+            "capital": 0,
+            "total": 0.01
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "10",
+        "name": "Rehabilitation Council of India",
+        "2024_budget": {
+          "revenue": 4.5,
+          "capital": 0,
+          "total": 4.5
+        },
+        "2023": {
+          "budget": {
+            "revenue": 6.4,
+            "capital": 0,
+            "total": 6.4
+          },
+          "revised": {
+            "revenue": 6.4,
+            "capital": 0,
+            "total": 6.4
+          }
+        },
+        "2022_actual": {
+          "revenue": 6.4,
+          "capital": 0,
+          "total": 6.4
+        }
+      },
+      {
+        "index": "11",
+        "name": "Centre for Disability Sports",
+        "2024_budget": {
+          "revenue": 25.0,
+          "capital": 0,
+          "total": 25.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 76.0,
+            "capital": 0,
+            "total": 76.0
+          },
+          "revised": {
+            "revenue": 76.0,
+            "capital": 0,
+            "total": 76.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 25.91,
+          "capital": 0,
+          "total": 25.91
+        }
+      },
+      {
+        "index": "12",
+        "name": "Support to National Institutes",
+        "2024_budget": {
+          "revenue": 370.0,
+          "capital": 0,
+          "total": 370.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 385.0,
+            "capital": 0,
+            "total": 385.0
+          },
+          "revised": {
+            "revenue": 408.75,
+            "capital": 0,
+            "total": 408.75
+          }
+        },
+        "2022_actual": {
+          "revenue": 325.84,
+          "capital": 0,
+          "total": 325.84
+        }
+      },
+      {
+        "index": "13",
+        "name": "Budgetary Support to National Trust",
+        "2024_budget": {
+          "revenue": 25.0,
+          "capital": 0,
+          "total": 25.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 35.0,
+            "capital": 0,
+            "total": 35.0
+          },
+          "revised": {
+            "revenue": 35.0,
+            "capital": 0,
+            "total": 35.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "14",
+        "name": "National Handicapped Finance and Development Corporation",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0.01,
+            "total": 0.01
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "15",
+        "name": "Artificial Limbs Manufacturing Corporation of India",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0.01,
+            "capital": 0,
+            "total": 0.01
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "16",
+        "name": "Actual Recoveries",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": -3.77,
+          "capital": 0,
+          "total": -3.77
+        }
+      }
+    ],
+    "development_heads": [
+      {
+        "index": "1",
+        "name": "Social Security and Welfare",
+        "2024_budget": {
+          "revenue": 1112.02,
+          "capital": 0,
+          "total": 1112.02
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1119.72,
+            "capital": 0,
+            "total": 1119.72
+          },
+          "revised": {
+            "revenue": 1122.75,
+            "capital": 0,
+            "total": 1122.75
+          }
+        },
+        "2022_actual": {
+          "revenue": 959.32,
+          "capital": 0,
+          "total": 959.32
+        }
+      },
+      {
+        "index": "2",
+        "name": "Secretariat -Social Services",
+        "2024_budget": {
+          "revenue": 36.25,
+          "capital": 0,
+          "total": 36.25
+        },
+        "2023": {
+          "budget": {
+            "revenue": 36.37,
+            "capital": 0,
+            "total": 36.37
+          },
+          "revised": {
+            "revenue": 35.51,
+            "capital": 0,
+            "total": 35.51
+          }
+        },
+        "2022_actual": {
+          "revenue": 26.26,
+          "capital": 0,
+          "total": 26.26
+        }
+      },
+      {
+        "index": "3",
+        "name": "Capital Outlay on Social Security and Welfare",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0.01,
+            "total": 0.01
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "4",
+        "name": "Capital Outlay on other Social Services",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 1.2,
+          "total": 1.2
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 1.05,
+            "total": 1.05
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 1.05,
+            "total": 1.05
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "5",
+        "name": "North Eastern Areas",
+        "2024_budget": {
+          "revenue": 75.8,
+          "capital": 0,
+          "total": 75.8
+        },
+        "2023": {
+          "budget": {
+            "revenue": 68.0,
+            "capital": 0,
+            "total": 68.0
+          },
+          "revised": {
+            "revenue": 65.7,
+            "capital": 0,
+            "total": 65.7
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      }
+    ],
+    "public_enterprises": [
+      {
+        "index": "1",
+        "name": "National Handicapped Finance and Development",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 114.0,
+          "total": 114.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0.01,
+            "capital": 108.73,
+            "total": 108.74
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 108.0,
+            "total": 108.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 102.0,
+          "total": 102.0
+        }
+      },
+      {
+        "index": "2",
+        "name": "Artificial Limbs Manufacturing Corporation of India",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 80.0,
+          "total": 80.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0.01,
+            "capital": 85.85,
+            "total": 85.86
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 80.0,
+            "total": 80.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 72.73,
+          "total": 72.73
+        }
+      }
+    ]
+  },
+  "number": 94
+}

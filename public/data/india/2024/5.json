@@ -1,0 +1,382 @@
+{
+  "name": "MINISTRY OF CHEMICALS  AND FERTILISERS",
+  "demand": "DEMAND NO. 5",
+  "department": "Department of Chemicals and Petrochemicals",
+  "sections": {
+    "allocation": [
+      {
+        "index": "1",
+        "name": "Secretariat",
+        "2024_budget": {
+          "revenue": 29.47,
+          "capital": 2.21,
+          "total": 31.68
+        },
+        "2023": {
+          "budget": {
+            "revenue": 21.69,
+            "capital": 0.86,
+            "total": 22.55
+          },
+          "revised": {
+            "revenue": 26.55,
+            "capital": 1.63,
+            "total": 28.18
+          }
+        },
+        "2022_actual": {
+          "revenue": 20.85,
+          "capital": 0,
+          "total": 20.85
+        }
+      },
+      {
+        "index": "2",
+        "name": "Chemical Promotion and Development Scheme",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 2.99,
+          "capital": 0,
+          "total": 2.99
+        }
+      },
+      {
+        "index": "3",
+        "name": "Promotion of Petrochemicals 24.22 ... 24.22 ... ... ... ... ... ... ... ... ... 4. New Schemes of Petrochemicals",
+        "2024_budget": {
+          "revenue": 25.0,
+          "capital": 0,
+          "total": 25.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 22.0,
+            "capital": 0,
+            "total": 22.0
+          },
+          "revised": {
+            "revenue": 18.0,
+            "capital": 0,
+            "total": 18.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "5",
+        "name": "Assistance related to Bhopal Gas Leak Disaster",
+        "2024_budget": {
+          "revenue": 25.33,
+          "capital": 0.02,
+          "total": 25.35
+        },
+        "2023": {
+          "budget": {
+            "revenue": 23.36,
+            "capital": 0.04,
+            "total": 23.4
+          },
+          "revised": {
+            "revenue": 18.31,
+            "capital": 0,
+            "total": 18.31
+          }
+        },
+        "2022_actual": {
+          "revenue": 21.05,
+          "capital": 0,
+          "total": 21.05
+        }
+      },
+      {
+        "index": "6",
+        "name": "Central Institute of Petrochemicals Engineering and Technology (CIPET)",
+        "2024_budget": {
+          "revenue": 36.37,
+          "capital": 0,
+          "total": 36.37
+        },
+        "2023": {
+          "budget": {
+            "revenue": 92.88,
+            "capital": 0,
+            "total": 92.88
+          },
+          "revised": {
+            "revenue": 7.28,
+            "capital": 0,
+            "total": 7.28
+          }
+        },
+        "2022_actual": {
+          "revenue": 63.81,
+          "capital": 0,
+          "total": 63.81
+        }
+      },
+      {
+        "index": "7",
+        "name": "Institute of Pesticides Formulation Technology (IPFT)",
+        "2024_budget": {
+          "revenue": 20.65,
+          "capital": 0,
+          "total": 20.65
+        },
+        "2023": {
+          "budget": {
+            "revenue": 12.62,
+            "capital": 0,
+            "total": 12.62
+          },
+          "revised": {
+            "revenue": 14.12,
+            "capital": 0,
+            "total": 14.12
+          }
+        },
+        "2022_actual": {
+          "revenue": 11.02,
+          "capital": 0,
+          "total": 11.02
+        }
+      },
+      {
+        "index": "8.",
+        "name": "Write Off/Waiver of loans in respect of PSUs"
+      },
+      {
+        "index": "8.01",
+        "name": "HIL (India) Limited",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 104.25,
+            "capital": 0,
+            "total": 104.25
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "9",
+        "name": "HIL (India) Limited",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 486.74,
+            "total": 486.74
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      }
+    ],
+    "development_heads": [
+      {
+        "index": "1",
+        "name": "Industries",
+        "2024_budget": {
+          "revenue": 104.85,
+          "capital": 0,
+          "total": 104.85
+        },
+        "2023": {
+          "budget": {
+            "revenue": 148.66,
+            "capital": 0,
+            "total": 148.66
+          },
+          "revised": {
+            "revenue": 55.91,
+            "capital": 0,
+            "total": 55.91
+          }
+        },
+        "2022_actual": {
+          "revenue": 123.09,
+          "capital": 0,
+          "total": 123.09
+        }
+      },
+      {
+        "index": "2",
+        "name": "Secretariat -Economic Services",
+        "2024_budget": {
+          "revenue": 29.47,
+          "capital": 0,
+          "total": 29.47
+        },
+        "2023": {
+          "budget": {
+            "revenue": 21.69,
+            "capital": 0,
+            "total": 21.69
+          },
+          "revised": {
+            "revenue": 26.55,
+            "capital": 0,
+            "total": 26.55
+          }
+        },
+        "2022_actual": {
+          "revenue": 20.85,
+          "capital": 0,
+          "total": 20.85
+        }
+      },
+      {
+        "index": "3",
+        "name": "Capital Outlay on Other General Economic Services",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 2.23,
+          "total": 2.23
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0.9,
+            "total": 0.9
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 1.63,
+            "total": 1.63
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "4",
+        "name": "Loans for Petro -Chemical Industries",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 486.74,
+            "total": 486.74
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "5",
+        "name": "North Eastern Areas",
+        "2024_budget": {
+          "revenue": 2.5,
+          "capital": 0,
+          "total": 2.5
+        },
+        "2023": {
+          "budget": {
+            "revenue": 2.2,
+            "capital": 0,
+            "total": 2.2
+          },
+          "revised": {
+            "revenue": 1.8,
+            "capital": 0,
+            "total": 1.8
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      }
+    ],
+    "public_enterprises": [
+      {
+        "index": "1",
+        "name": "HIL India Limited",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 1.0,
+          "total": 1.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 3.0,
+            "total": 3.0
+          },
+          "revised": {
+            "revenue": 486.74,
+            "capital": 0,
+            "total": 486.74
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      }
+    ]
+  },
+  "number": 5
+}

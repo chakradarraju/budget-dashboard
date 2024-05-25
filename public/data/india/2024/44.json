@@ -1,0 +1,857 @@
+{
+  "name": "MINISTRY OF FISHERIES, ANIMAL HUSBANDRY AND DAIRYING",
+  "demand": "DEMAND NO. 44",
+  "department": "Department of Animal Husbandry and Dairying",
+  "sections": {
+    "allocation": [
+      {
+        "index": "1.",
+        "name": "Secretariat"
+      },
+      {
+        "index": "1.01",
+        "name": "Establishment Expenditure",
+        "2024_budget": {
+          "revenue": 49.69,
+          "capital": 1.34,
+          "total": 51.03
+        },
+        "2023": {
+          "budget": {
+            "revenue": 52.12,
+            "capital": 1.28,
+            "total": 53.4
+          },
+          "revised": {
+            "revenue": 57.67,
+            "capital": 2.23,
+            "total": 59.9
+          }
+        },
+        "2022_actual": {
+          "revenue": 47.45,
+          "capital": 0,
+          "total": 47.45
+        }
+      },
+      {
+        "index": "1.02",
+        "name": "International Cooperation",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 3.0,
+            "capital": 0,
+            "total": 3.0
+          },
+          "revised": {
+            "revenue": 3.0,
+            "capital": 0,
+            "total": 3.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 2.3,
+          "capital": 0,
+          "total": 2.3
+        }
+      },
+      {
+        "index": "2",
+        "name": "Animal Health Institute",
+        "2024_budget": {
+          "revenue": 19.44,
+          "capital": 35.97,
+          "total": 55.41
+        },
+        "2023": {
+          "budget": {
+            "revenue": 23.75,
+            "capital": 3.25,
+            "total": 27.0
+          },
+          "revised": {
+            "revenue": 23.31,
+            "capital": 3.44,
+            "total": 26.75
+          }
+        },
+        "2022_actual": {
+          "revenue": 23.48,
+          "capital": 1.04,
+          "total": 24.52
+        }
+      },
+      {
+        "index": "3",
+        "name": "Small Livestock Institute",
+        "2024_budget": {
+          "revenue": 36.89,
+          "capital": 3.21,
+          "total": 40.1
+        },
+        "2023": {
+          "budget": {
+            "revenue": 42.42,
+            "capital": 2.58,
+            "total": 45.0
+          },
+          "revised": {
+            "revenue": 38.79,
+            "capital": 5.21,
+            "total": 44.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 39.52,
+          "capital": 0.71,
+          "total": 40.23
+        }
+      },
+      {
+        "index": "4",
+        "name": "Breed Improvement Institute",
+        "2024_budget": {
+          "revenue": 33.69,
+          "capital": 4.03,
+          "total": 37.72
+        },
+        "2023": {
+          "budget": {
+            "revenue": 49.25,
+            "capital": 10.75,
+            "total": 60.0
+          },
+          "revised": {
+            "revenue": 28.56,
+            "capital": 10.98,
+            "total": 39.54
+          }
+        },
+        "2022_actual": {
+          "revenue": 38.26,
+          "capital": 11.7,
+          "total": 49.96
+        }
+      },
+      {
+        "index": "5",
+        "name": "Centre of Excellence for Animal Husbandry",
+        "2024_budget": {
+          "revenue": 23.01,
+          "capital": 11.12,
+          "total": 34.13
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 24.19,
+            "capital": 1.54,
+            "total": 25.73
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "6",
+        "name": "Livestock Health and Disease Control Programme",
+        "2024_budget": {
+          "revenue": 2465.0,
+          "capital": 0,
+          "total": 2465.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 2349.71,
+            "capital": 0,
+            "total": 2349.71
+          },
+          "revised": {
+            "revenue": 1500.0,
+            "capital": 0,
+            "total": 1500.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 804.91,
+          "capital": 0,
+          "total": 804.91
+        }
+      },
+      {
+        "index": "7",
+        "name": "Infrastructure Development Fund",
+        "2024_budget": {
+          "revenue": 370.0,
+          "capital": 0,
+          "total": 370.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 340.0,
+            "capital": 0,
+            "total": 340.0
+          },
+          "revised": {
+            "revenue": 340.0,
+            "capital": 0,
+            "total": 340.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 232.14,
+          "capital": 0,
+          "total": 232.14
+        }
+      },
+      {
+        "index": "8",
+        "name": "Dairy Development",
+        "2024_budget": {
+          "revenue": 220.0,
+          "capital": 151.0,
+          "total": 371.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "9",
+        "name": "Rashtriya Gokul Mission",
+        "2024_budget": {
+          "revenue": 700.0,
+          "capital": 0,
+          "total": 700.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "10",
+        "name": "Animal Welfare Board",
+        "2024_budget": {
+          "revenue": 10.0,
+          "capital": 0,
+          "total": 10.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 12.0,
+            "capital": 0,
+            "total": 12.0
+          },
+          "revised": {
+            "revenue": 12.0,
+            "capital": 0,
+            "total": 12.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 9.25,
+          "capital": 0,
+          "total": 9.25
+        }
+      },
+      {
+        "index": "11",
+        "name": "Committee for the purpose of Control and Supervision of experiments on Animal (CPCSEA)",
+        "2024_budget": {
+          "revenue": 1.61,
+          "capital": 0,
+          "total": 1.61
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1.51,
+            "capital": 0,
+            "total": 1.51
+          },
+          "revised": {
+            "revenue": 1.51,
+            "capital": 0,
+            "total": 1.51
+          }
+        },
+        "2022_actual": {
+          "revenue": 1.42,
+          "capital": 0,
+          "total": 1.42
+        }
+      },
+      {
+        "index": "12",
+        "name": "Veterinary Council of India",
+        "2024_budget": {
+          "revenue": 13.74,
+          "capital": 0,
+          "total": 13.74
+        },
+        "2023": {
+          "budget": {
+            "revenue": 30.3,
+            "capital": 0,
+            "total": 30.3
+          },
+          "revised": {
+            "revenue": 10.0,
+            "capital": 0,
+            "total": 10.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 5.66,
+          "capital": 0,
+          "total": 5.66
+        }
+      },
+      {
+        "index": "13.",
+        "name": "Delhi Milk Scheme(DMS)"
+      },
+      {
+        "index": "13.01",
+        "name": "Expenditure of DMS",
+        "2024_budget": {
+          "revenue": 379.0,
+          "capital": 31.0,
+          "total": 410.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 349.1,
+            "capital": 10.9,
+            "total": 360.0
+          },
+          "revised": {
+            "revenue": 264.0,
+            "capital": 6.0,
+            "total": 270.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 357.82,
+          "capital": 0,
+          "total": 357.82
+        }
+      },
+      {
+        "index": "13.02",
+        "name": "Less Receipts",
+        "2024_budget": {
+          "revenue": -410.0,
+          "capital": 0,
+          "total": -410.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": -360.0,
+            "capital": 0,
+            "total": -360.0
+          },
+          "revised": {
+            "revenue": -270.0,
+            "capital": 0,
+            "total": -270.0
+          }
+        },
+        "2022_actual": {
+          "revenue": -274.21,
+          "capital": 0,
+          "total": -274.21
+        }
+      },
+      {
+        "index": "14",
+        "name": "International Cooperation",
+        "2024_budget": {
+          "revenue": 2.5,
+          "capital": 0,
+          "total": 2.5
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "15.",
+        "name": "Development Programmes"
+      },
+      {
+        "index": "15.01",
+        "name": "Dairy Development",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 326.93,
+            "capital": 0,
+            "total": 326.93
+          },
+          "revised": {
+            "revenue": 371.0,
+            "capital": 0,
+            "total": 371.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 219.4,
+          "capital": 0,
+          "total": 219.4
+        }
+      },
+      {
+        "index": "15.02",
+        "name": "Rashtriya Gokul Mission",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 600.0,
+            "capital": 0,
+            "total": 600.0
+          },
+          "revised": {
+            "revenue": 869.54,
+            "capital": 0,
+            "total": 869.54
+          }
+        },
+        "2022_actual": {
+          "revenue": 599.84,
+          "capital": 0,
+          "total": 599.84
+        }
+      },
+      {
+        "index": "15.03",
+        "name": "Livestock Census and Integrated Sample Survey",
+        "2024_budget": {
+          "revenue": 45.0,
+          "capital": 0,
+          "total": 45.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 50.0,
+            "capital": 0,
+            "total": 50.0
+          },
+          "revised": {
+            "revenue": 34.65,
+            "capital": 0,
+            "total": 34.65
+          }
+        },
+        "2022_actual": {
+          "revenue": 16.51,
+          "capital": 0,
+          "total": 16.51
+        }
+      },
+      {
+        "index": "15.04",
+        "name": "National Livestock Mission",
+        "2024_budget": {
+          "revenue": 324.0,
+          "capital": 0,
+          "total": 324.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 410.0,
+            "capital": 0,
+            "total": 410.0
+          },
+          "revised": {
+            "revenue": 410.0,
+            "capital": 0,
+            "total": 410.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 249.41,
+          "capital": 0,
+          "total": 249.41
+        }
+      },
+      {
+        "index": "15.05",
+        "name": "Dairying Through Cooperatives (EAP)",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 9.0,
+            "capital": 10.0,
+            "total": 19.0
+          },
+          "revised": {
+            "revenue": 9.0,
+            "capital": 157.31,
+            "total": 166.31
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "16",
+        "name": "Actual Recoveries -71.00 ... -71.00 ... ... ... ... ... ... ... ... ... Total -Centrally Sponsored Schemes",
+        "2024_budget": {
+          "revenue": 369.0,
+          "capital": 0,
+          "total": 369.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1395.93,
+            "capital": 10.0,
+            "total": 1405.93
+          },
+          "revised": {
+            "revenue": 1694.19,
+            "capital": 157.31,
+            "total": 1851.5
+          }
+        },
+        "2022_actual": {
+          "revenue": 1014.16,
+          "capital": 0,
+          "total": 1014.16
+        }
+      }
+    ],
+    "development_heads": [
+      {
+        "index": "1",
+        "name": "Animal Husbandry",
+        "2024_budget": {
+          "revenue": 2693.98,
+          "capital": 0,
+          "total": 2693.98
+        },
+        "2023": {
+          "budget": {
+            "revenue": 2650.19,
+            "capital": 0,
+            "total": 2650.19
+          },
+          "revised": {
+            "revenue": 2469.61,
+            "capital": 0,
+            "total": 2469.61
+          }
+        },
+        "2022_actual": {
+          "revenue": 1692.81,
+          "capital": 0,
+          "total": 1692.81
+        }
+      },
+      {
+        "index": "2",
+        "name": "Dairy Development",
+        "2024_budget": {
+          "revenue": 377.0,
+          "capital": 0,
+          "total": 377.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 489.02,
+            "capital": 0,
+            "total": 489.02
+          },
+          "revised": {
+            "revenue": 506.99,
+            "capital": 0,
+            "total": 506.99
+          }
+        },
+        "2022_actual": {
+          "revenue": 420.94,
+          "capital": 0,
+          "total": 420.94
+        }
+      },
+      {
+        "index": "3",
+        "name": "Secretariat -Economic Services",
+        "2024_budget": {
+          "revenue": 49.69,
+          "capital": 0,
+          "total": 49.69
+        },
+        "2023": {
+          "budget": {
+            "revenue": 55.12,
+            "capital": 0,
+            "total": 55.12
+          },
+          "revised": {
+            "revenue": 60.67,
+            "capital": 0,
+            "total": 60.67
+          }
+        },
+        "2022_actual": {
+          "revenue": 49.67,
+          "capital": 0,
+          "total": 49.67
+        }
+      },
+      {
+        "index": "4",
+        "name": "Capital Outlay on Animal Husbandry",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 54.33,
+          "total": 54.33
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 16.58,
+            "total": 16.58
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 21.17,
+            "total": 21.17
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 13.45,
+          "total": 13.45
+        }
+      },
+      {
+        "index": "5",
+        "name": "Capital Outlay on Dairy Development",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 31.0,
+          "total": 31.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 10.9,
+            "total": 10.9
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 6.0,
+            "total": 6.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "6",
+        "name": "Capital Outlay on Other General Economic Services",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 1.34,
+          "total": 1.34
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 1.28,
+            "total": 1.28
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 2.23,
+            "total": 2.23
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "7",
+        "name": "Loans for Dairy Development",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 151.0,
+          "total": 151.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 10.0,
+            "total": 10.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 157.31,
+            "total": 157.31
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "8",
+        "name": "North Eastern Areas",
+        "2024_budget": {
+          "revenue": 431.5,
+          "capital": 0,
+          "total": 431.5
+        },
+        "2023": {
+          "budget": {
+            "revenue": 372.51,
+            "capital": 0,
+            "total": 372.51
+          },
+          "revised": {
+            "revenue": 184.63,
+            "capital": 0,
+            "total": 184.63
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "9",
+        "name": "Grants -in-aid to State Governments",
+        "2024_budget": {
+          "revenue": 696.3,
+          "capital": 0,
+          "total": 696.3
+        },
+        "2023": {
+          "budget": {
+            "revenue": 694.75,
+            "capital": 0,
+            "total": 694.75
+          },
+          "revised": {
+            "revenue": 479.85,
+            "capital": 0,
+            "total": 479.85
+          }
+        },
+        "2022_actual": {
+          "revenue": 133.03,
+          "capital": 0,
+          "total": 133.03
+        }
+      },
+      {
+        "index": "10",
+        "name": "Grants -in-aid to Union Territory Governments",
+        "2024_budget": {
+          "revenue": 35.1,
+          "capital": 0,
+          "total": 35.1
+        },
+        "2023": {
+          "budget": {
+            "revenue": 27.5,
+            "capital": 0,
+            "total": 27.5
+          },
+          "revised": {
+            "revenue": 25.47,
+            "capital": 0,
+            "total": 25.47
+          }
+        },
+        "2022_actual": {
+          "revenue": 5.71,
+          "capital": 0,
+          "total": 5.71
+        }
+      }
+    ],
+    "public_enterprises": []
+  },
+  "number": 44
+}

@@ -1,0 +1,117 @@
+{
+  "name": "THE PRESIDENT, PARLIAMENT, UNION PUBLIC SERVICE COMMISSION AND THE SECRETARIAT  OF THE VICE PRESIDENT",
+  "demand": "DEMAND NO. 83",
+  "department": "Secretariat of the Vice -President",
+  "sections": {
+    "allocation": [
+      {
+        "index": "1",
+        "name": "Secretariat",
+        "2024_budget": {
+          "revenue": 11.22,
+          "capital": 0.31,
+          "total": 11.53
+        },
+        "2023": {
+          "budget": {
+            "revenue": 9.02,
+            "capital": 0.21,
+            "total": 9.23
+          },
+          "revised": {
+            "revenue": 9.52,
+            "capital": 0.36,
+            "total": 9.88
+          }
+        },
+        "2022_actual": {
+          "revenue": 8.23,
+          "capital": 0,
+          "total": 8.23
+        }
+      },
+      {
+        "index": "2",
+        "name": "Others",
+        "2024_budget": {
+          "revenue": 0.08,
+          "capital": 0,
+          "total": 0.08
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0.08,
+            "capital": 0,
+            "total": 0.08
+          },
+          "revised": {
+            "revenue": 0.08,
+            "capital": 0,
+            "total": 0.08
+          }
+        },
+        "2022_actual": {
+          "revenue": 0.08,
+          "capital": 0,
+          "total": 0.08
+        }
+      }
+    ],
+    "development_heads": [
+      {
+        "index": "1",
+        "name": "President, Vice President/Governor, Administrator of Union Territories",
+        "2024_budget": {
+          "revenue": 11.3,
+          "capital": 0,
+          "total": 11.3
+        },
+        "2023": {
+          "budget": {
+            "revenue": 9.1,
+            "capital": 0,
+            "total": 9.1
+          },
+          "revised": {
+            "revenue": 9.6,
+            "capital": 0,
+            "total": 9.6
+          }
+        },
+        "2022_actual": {
+          "revenue": 8.31,
+          "capital": 0,
+          "total": 8.31
+        }
+      },
+      {
+        "index": "2",
+        "name": "Capital Outlay on Miscellaneous General Services",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0.31,
+          "total": 0.31
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0.21,
+            "total": 0.21
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0.36,
+            "total": 0.36
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      }
+    ],
+    "public_enterprises": []
+  },
+  "number": 83
+}

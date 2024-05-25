@@ -1,0 +1,1922 @@
+{
+  "name": "MINISTRY OF HOUSING AND URBAN AFFAIRS",
+  "demand": "DEMAND NO. 60",
+  "department": "Ministry of Housing and Urban Affairs",
+  "sections": {
+    "allocation": [
+      {
+        "index": "1.",
+        "name": "Secretariat"
+      },
+      {
+        "index": "1.01",
+        "name": "Secretariat",
+        "2024_budget": {
+          "revenue": 161.18,
+          "capital": 5.6,
+          "total": 166.78
+        },
+        "2023": {
+          "budget": {
+            "revenue": 136.75,
+            "capital": 5.15,
+            "total": 141.9
+          },
+          "revised": {
+            "revenue": 136.33,
+            "capital": 6.34,
+            "total": 142.67
+          }
+        },
+        "2022_actual": {
+          "revenue": 114.76,
+          "capital": 0,
+          "total": 114.76
+        }
+      },
+      {
+        "index": "1.02",
+        "name": "Central Public Works Department 1170.24 ... 1170.24 ... ... ... ... ... ... ... ... ... 1.03 Directorate of Estates",
+        "2024_budget": {
+          "revenue": 53.25,
+          "capital": 0,
+          "total": 53.25
+        },
+        "2023": {
+          "budget": {
+            "revenue": 49.16,
+            "capital": 0,
+            "total": 49.16
+          },
+          "revised": {
+            "revenue": 49.31,
+            "capital": 0,
+            "total": 49.31
+          }
+        },
+        "2022_actual": {
+          "revenue": 61.94,
+          "capital": 0,
+          "total": 61.94
+        }
+      },
+      {
+        "index": "1.04",
+        "name": "Establishment of Land and Development Office",
+        "2024_budget": {
+          "revenue": 28.54,
+          "capital": 0,
+          "total": 28.54
+        },
+        "2023": {
+          "budget": {
+            "revenue": 21.97,
+            "capital": 0,
+            "total": 21.97
+          },
+          "revised": {
+            "revenue": 33.13,
+            "capital": 0,
+            "total": 33.13
+          }
+        },
+        "2022_actual": {
+          "revenue": 16.59,
+          "capital": 0,
+          "total": 16.59
+        }
+      },
+      {
+        "index": "1.05",
+        "name": "International Contibutions",
+        "2024_budget": {
+          "revenue": 1.6,
+          "capital": 0,
+          "total": 1.6
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1.6,
+            "capital": 0,
+            "total": 1.6
+          },
+          "revised": {
+            "revenue": 1.6,
+            "capital": 0,
+            "total": 1.6
+          }
+        },
+        "2022_actual": {
+          "revenue": 1.33,
+          "capital": 0,
+          "total": 1.33
+        }
+      },
+      {
+        "index": "2.",
+        "name": "Attached Offices/ Autonomous Organizations"
+      },
+      {
+        "index": "2.01",
+        "name": "Town & Country Planning Organization",
+        "2024_budget": {
+          "revenue": 15.24,
+          "capital": 0,
+          "total": 15.24
+        },
+        "2023": {
+          "budget": {
+            "revenue": 15.24,
+            "capital": 0,
+            "total": 15.24
+          },
+          "revised": {
+            "revenue": 14.09,
+            "capital": 0,
+            "total": 14.09
+          }
+        },
+        "2022_actual": {
+          "revenue": 12.91,
+          "capital": 0,
+          "total": 12.91
+        }
+      },
+      {
+        "index": "2.02",
+        "name": "National Institute of Urban Affairs",
+        "2024_budget": {
+          "revenue": 5.93,
+          "capital": 0,
+          "total": 5.93
+        },
+        "2023": {
+          "budget": {
+            "revenue": 8.0,
+            "capital": 0,
+            "total": 8.0
+          },
+          "revised": {
+            "revenue": 7.5,
+            "capital": 0,
+            "total": 7.5
+          }
+        },
+        "2022_actual": {
+          "revenue": 5.56,
+          "capital": 0,
+          "total": 5.56
+        }
+      },
+      {
+        "index": "2.03",
+        "name": "Delhi Urban Art Commission",
+        "2024_budget": {
+          "revenue": 5.25,
+          "capital": 0,
+          "total": 5.25
+        },
+        "2023": {
+          "budget": {
+            "revenue": 6.44,
+            "capital": 0,
+            "total": 6.44
+          },
+          "revised": {
+            "revenue": 5.25,
+            "capital": 0,
+            "total": 5.25
+          }
+        },
+        "2022_actual": {
+          "revenue": 5.44,
+          "capital": 0,
+          "total": 5.44
+        }
+      },
+      {
+        "index": "2.04",
+        "name": "Grants -in-Aid for training of Municipal Employees",
+        "2024_budget": {
+          "revenue": 10.48,
+          "capital": 0,
+          "total": 10.48
+        },
+        "2023": {
+          "budget": {
+            "revenue": 13.5,
+            "capital": 0,
+            "total": 13.5
+          },
+          "revised": {
+            "revenue": 11.93,
+            "capital": 0,
+            "total": 11.93
+          }
+        },
+        "2022_actual": {
+          "revenue": 12.16,
+          "capital": 0,
+          "total": 12.16
+        }
+      },
+      {
+        "index": "2.05",
+        "name": "NCR Planning Board",
+        "2024_budget": {
+          "revenue": 55.0,
+          "capital": 0,
+          "total": 55.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 65.1,
+            "capital": 0,
+            "total": 65.1
+          },
+          "revised": {
+            "revenue": 55.0,
+            "capital": 0,
+            "total": 55.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 55.1,
+          "capital": 0,
+          "total": 55.1
+        }
+      },
+      {
+        "index": "2.06",
+        "name": "Rajghat Samadhi Committee including Departmental Canteens",
+        "2024_budget": {
+          "revenue": 7.0,
+          "capital": 0,
+          "total": 7.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 9.02,
+            "capital": 0,
+            "total": 9.02
+          },
+          "revised": {
+            "revenue": 8.52,
+            "capital": 0,
+            "total": 8.52
+          }
+        },
+        "2022_actual": {
+          "revenue": 8.3,
+          "capital": 0,
+          "total": 8.3
+        }
+      },
+      {
+        "index": "2.07",
+        "name": "Building Material and Technology Promotion Council (BMTPC)",
+        "2024_budget": {
+          "revenue": 7.5,
+          "capital": 0,
+          "total": 7.5
+        },
+        "2023": {
+          "budget": {
+            "revenue": 7.5,
+            "capital": 0,
+            "total": 7.5
+          },
+          "revised": {
+            "revenue": 7.0,
+            "capital": 0,
+            "total": 7.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 6.5,
+          "capital": 0,
+          "total": 6.5
+        }
+      },
+      {
+        "index": "2.08",
+        "name": "Central Government Employees Welfare Housing Organisation",
+        "2024_budget": {
+          "revenue": 0.1,
+          "capital": 0,
+          "total": 0.1
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0.1,
+            "capital": 0,
+            "total": 0.1
+          },
+          "revised": {
+            "revenue": 0.1,
+            "capital": 0,
+            "total": 0.1
+          }
+        },
+        "2022_actual": {
+          "revenue": 0.08,
+          "capital": 0,
+          "total": 0.08
+        }
+      },
+      {
+        "index": "2.09",
+        "name": "National Building Organisation",
+        "2024_budget": {
+          "revenue": 4.35,
+          "capital": 0,
+          "total": 4.35
+        },
+        "2023": {
+          "budget": {
+            "revenue": 4.32,
+            "capital": 0,
+            "total": 4.32
+          },
+          "revised": {
+            "revenue": 4.2,
+            "capital": 0,
+            "total": 4.2
+          }
+        },
+        "2022_actual": {
+          "revenue": 3.81,
+          "capital": 0,
+          "total": 3.81
+        }
+      },
+      {
+        "index": "2.10",
+        "name": "Real Estate Regulatory Authority",
+        "2024_budget": {
+          "revenue": 2.3,
+          "capital": 0,
+          "total": 2.3
+        },
+        "2023": {
+          "budget": {
+            "revenue": 4.0,
+            "capital": 0,
+            "total": 4.0
+          },
+          "revised": {
+            "revenue": 1.8,
+            "capital": 0,
+            "total": 1.8
+          }
+        },
+        "2022_actual": {
+          "revenue": 4.0,
+          "capital": 0,
+          "total": 4.0
+        }
+      },
+      {
+        "index": "2.11",
+        "name": "Central Public Works Department",
+        "2024_budget": {
+          "revenue": 3399.95,
+          "capital": 3.1,
+          "total": 3403.05
+        },
+        "2023": {
+          "budget": {
+            "revenue": 3287.74,
+            "capital": 4.5,
+            "total": 3292.24
+          },
+          "revised": {
+            "revenue": 3298.15,
+            "capital": 1.81,
+            "total": 3299.96
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "3.",
+        "name": "Metro Projects"
+      },
+      {
+        "index": "3.01",
+        "name": "Equity Investment",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 3364.51,
+          "total": 3364.51
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 4471.0,
+            "total": 4471.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 4467.83,
+            "total": 4467.83
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 3596.75,
+          "total": 3596.75
+        }
+      },
+      {
+        "index": "3.02",
+        "name": "Transfer to Sovereign Green Fund",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 3364.51,
+          "total": 3364.51
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 3609.0,
+            "total": 3609.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 3609.0,
+            "total": 3609.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 3202.56,
+          "total": 3202.56
+        }
+      },
+      {
+        "index": "3.03",
+        "name": "Amount met from Sovereign Green Fund",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": -3364.51,
+          "total": -3364.51
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": -3609.0,
+            "total": -3609.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": -3609.0,
+            "total": -3609.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "3.04",
+        "name": "Subordinate Debt",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 1092.02,
+          "total": 1092.02
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 1324.0,
+            "total": 1324.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 1324.0,
+            "total": 1324.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 1063.3,
+          "total": 1063.3
+        }
+      },
+      {
+        "index": "3.05",
+        "name": "Pass Through Assistance",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 16791.41,
+          "total": 16791.41
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 13723.0,
+            "total": 13723.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 13658.0,
+            "total": 13658.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 10968.83,
+          "total": 10968.83
+        }
+      },
+      {
+        "index": "3.06",
+        "name": "Transport Planning and Capacity Building in Urban Transport for Metro and Non Metro Projects",
+        "2024_budget": {
+          "revenue": 88.04,
+          "capital": 0,
+          "total": 88.04
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 58.17,
+            "capital": 0,
+            "total": 58.17
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "4",
+        "name": "Kochi Metro Rail Project Phase 1 A 46.74 ... 46.74 ... ... ... ... ... ... ... ... ... 5. Transport Planning and Capacity Building in Urban Transport",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 61.01,
+            "capital": 0,
+            "total": 61.01
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 15.24,
+          "capital": 0,
+          "total": 15.24
+        }
+      },
+      {
+        "index": "6",
+        "name": "National Capital Region Transport Corporation",
+        "2024_budget": {
+          "revenue": 58.0,
+          "capital": 3538.0,
+          "total": 3596.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 58.0,
+            "capital": 3538.0,
+            "total": 3596.0
+          },
+          "revised": {
+            "revenue": 58.0,
+            "capital": 3538.0,
+            "total": 3596.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 88.0,
+          "capital": 4622.0,
+          "total": 4710.0
+        }
+      },
+      {
+        "index": "7.",
+        "name": "Residential"
+      },
+      {
+        "index": "7.01",
+        "name": "Residential",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 1100.0,
+          "total": 1100.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 667.33,
+            "total": 667.33
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 1004.92,
+            "total": 1004.92
+          }
+        },
+        "2022_actual": {
+          "revenue": 1229.11,
+          "capital": 1069.3,
+          "total": 2298.41
+        }
+      },
+      {
+        "index": "8.",
+        "name": "Non-residential"
+      },
+      {
+        "index": "8.01",
+        "name": "Non-Residential",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 2600.0,
+          "total": 2600.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 2132.63,
+            "total": 2132.63
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 2495.08,
+            "total": 2495.08
+          }
+        },
+        "2022_actual": {
+          "revenue": 930.27,
+          "capital": 2353.84,
+          "total": 3284.11
+        }
+      },
+      {
+        "index": "9",
+        "name": "Prime Minister's Street Vendors' Atmanirbhar Nidhi (PM SVANIDHI)",
+        "2024_budget": {
+          "revenue": 326.32,
+          "capital": 0,
+          "total": 326.32
+        },
+        "2023": {
+          "budget": {
+            "revenue": 468.0,
+            "capital": 0,
+            "total": 468.0
+          },
+          "revised": {
+            "revenue": 468.0,
+            "capital": 0,
+            "total": 468.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 405.83,
+          "capital": 0,
+          "total": 405.83
+        }
+      },
+      {
+        "index": "10",
+        "name": "Public Health Engineering (PHE) Sector Development Scheme",
+        "2024_budget": {
+          "revenue": 3.0,
+          "capital": 0,
+          "total": 3.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 2.0,
+            "capital": 0,
+            "total": 2.0
+          },
+          "revised": {
+            "revenue": 2.0,
+            "capital": 0,
+            "total": 2.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "11",
+        "name": "Scheme for Interest Subvention on Home Loan",
+        "2024_budget": {
+          "revenue": 0.01,
+          "capital": 0,
+          "total": 0.01
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0.01,
+            "capital": 0,
+            "total": 0.01
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "12",
+        "name": "Controller of Stationery",
+        "2024_budget": {
+          "revenue": 67.79,
+          "capital": 0.85,
+          "total": 68.64
+        },
+        "2023": {
+          "budget": {
+            "revenue": 65.5,
+            "capital": 1.05,
+            "total": 66.55
+          },
+          "revised": {
+            "revenue": 64.5,
+            "capital": 0.55,
+            "total": 65.05
+          }
+        },
+        "2022_actual": {
+          "revenue": 38.1,
+          "capital": 0,
+          "total": 38.1
+        }
+      },
+      {
+        "index": "13",
+        "name": "Printing Presses",
+        "2024_budget": {
+          "revenue": 187.39,
+          "capital": 80.5,
+          "total": 267.89
+        },
+        "2023": {
+          "budget": {
+            "revenue": 183.65,
+            "capital": 70.3,
+            "total": 253.95
+          },
+          "revised": {
+            "revenue": 183.47,
+            "capital": 26.5,
+            "total": 209.97
+          }
+        },
+        "2022_actual": {
+          "revenue": 147.51,
+          "capital": 1.2,
+          "total": 148.71
+        }
+      },
+      {
+        "index": "14",
+        "name": "Other Organizations",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1.43,
+            "capital": 0,
+            "total": 1.43
+          },
+          "revised": {
+            "revenue": 0.62,
+            "capital": 0,
+            "total": 0.62
+          }
+        },
+        "2022_actual": {
+          "revenue": 1.11,
+          "capital": 0,
+          "total": 1.11
+        }
+      },
+      {
+        "index": "15",
+        "name": "Controller of Publication",
+        "2024_budget": {
+          "revenue": 22.24,
+          "capital": 0.5,
+          "total": 22.74
+        },
+        "2023": {
+          "budget": {
+            "revenue": 19.25,
+            "capital": 0.32,
+            "total": 19.57
+          },
+          "revised": {
+            "revenue": 21.21,
+            "capital": 0.42,
+            "total": 21.63
+          }
+        },
+        "2022_actual": {
+          "revenue": 17.18,
+          "capital": 0,
+          "total": 17.18
+        }
+      },
+      {
+        "index": "16",
+        "name": "Hemisphere Properties India Limited(HPIL)",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 50.0,
+          "total": 50.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 60.0,
+            "total": 60.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 10.0,
+            "total": 10.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "17",
+        "name": "PMAY -Urban (Schemes financed from Central Road and Infrastructure Fund) 17.01 Credit Linked Subsidy Scheme (CLSS) - I for Economically Weaker Section(EWS)/Lower Income Group(LIG)",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0.01,
+            "capital": 0,
+            "total": 0.01
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 10820.94,
+          "capital": 0,
+          "total": 10820.94
+        }
+      },
+      {
+        "index": "17.02",
+        "name": "Credit Risk Guarantee Fund Trust (CRGFT)",
+        "2024_budget": {
+          "revenue": 500.0,
+          "capital": 0,
+          "total": 500.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0.01,
+            "capital": 0,
+            "total": 0.01
+          },
+          "revised": {
+            "revenue": 0.01,
+            "capital": 0,
+            "total": 0.01
+          }
+        },
+        "2022_actual": {
+          "revenue": 0.01,
+          "capital": 0,
+          "total": 0.01
+        }
+      },
+      {
+        "index": "17.03",
+        "name": "Institutional Development for Inclusive Urban Governance",
+        "2024_budget": {
+          "revenue": 5.0,
+          "capital": 0,
+          "total": 5.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 5.0,
+            "capital": 0,
+            "total": 5.0
+          },
+          "revised": {
+            "revenue": 5.0,
+            "capital": 0,
+            "total": 5.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0.24,
+          "capital": 0,
+          "total": 0.24
+        }
+      },
+      {
+        "index": "17.04",
+        "name": "Other items of Central Component",
+        "2024_budget": {
+          "revenue": 182.57,
+          "capital": 0,
+          "total": 182.57
+        },
+        "2023": {
+          "budget": {
+            "revenue": 253.37,
+            "capital": 0,
+            "total": 253.37
+          },
+          "revised": {
+            "revenue": 254.38,
+            "capital": 0,
+            "total": 254.38
+          }
+        },
+        "2022_actual": {
+          "revenue": 113.33,
+          "capital": 0,
+          "total": 113.33
+        }
+      },
+      {
+        "index": "17.05",
+        "name": "Other items of States/UTs Component",
+        "2024_budget": {
+          "revenue": 23712.04,
+          "capital": 0,
+          "total": 23712.04
+        },
+        "2023": {
+          "budget": {
+            "revenue": 23071.64,
+            "capital": 0,
+            "total": 23071.64
+          },
+          "revised": {
+            "revenue": 20070.64,
+            "capital": 0,
+            "total": 20070.64
+          }
+        },
+        "2022_actual": {
+          "revenue": 15559.17,
+          "capital": 0,
+          "total": 15559.17
+        }
+      },
+      {
+        "index": "17.06",
+        "name": "Interest Payment against loan raised through EBR",
+        "2024_budget": {
+          "revenue": 1771.0,
+          "capital": 0,
+          "total": 1771.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1773.0,
+            "capital": 0,
+            "total": 1773.0
+          },
+          "revised": {
+            "revenue": 1773.0,
+            "capital": 0,
+            "total": 1773.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 2159.05,
+          "capital": 0,
+          "total": 2159.05
+        }
+      },
+      {
+        "index": "18.",
+        "name": "Deendayal Antyodaya Yojana -National Urban Livelihood Mission (DAY -NULM)"
+      },
+      {
+        "index": "18.01",
+        "name": "Central Component",
+        "2024_budget": {
+          "revenue": 0.01,
+          "capital": 0,
+          "total": 0.01
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0.01,
+            "capital": 0,
+            "total": 0.01
+          },
+          "revised": {
+            "revenue": 16.89,
+            "capital": 0,
+            "total": 16.89
+          }
+        },
+        "2022_actual": {
+          "revenue": 9.51,
+          "capital": 0,
+          "total": 9.51
+        }
+      },
+      {
+        "index": "18.02",
+        "name": "States/UTs Component",
+        "2024_budget": {
+          "revenue": 0.01,
+          "capital": 0,
+          "total": 0.01
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 506.11,
+            "capital": 0,
+            "total": 506.11
+          }
+        },
+        "2022_actual": {
+          "revenue": 537.51,
+          "capital": 0,
+          "total": 537.51
+        }
+      },
+      {
+        "index": "19.",
+        "name": "AMRUT (Atal Mission for Rejuvenation and Urban Transformation)"
+      },
+      {
+        "index": "19.01",
+        "name": "Urban Rejuvenation Mission - 500 Cities",
+        "2024_budget": {
+          "revenue": 8000.0,
+          "capital": 0,
+          "total": 8000.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 8000.0,
+            "capital": 0,
+            "total": 8000.0
+          },
+          "revised": {
+            "revenue": 5200.0,
+            "capital": 0,
+            "total": 5200.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 6499.87,
+          "capital": 0,
+          "total": 6499.87
+        }
+      },
+      {
+        "index": "20.",
+        "name": "Smart Cities Mission"
+      },
+      {
+        "index": "20.01",
+        "name": "Mission for Development of 100 Smart Cities",
+        "2024_budget": {
+          "revenue": 2237.0,
+          "capital": 0,
+          "total": 2237.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 7665.97,
+            "capital": 0,
+            "total": 7665.97
+          },
+          "revised": {
+            "revenue": 7718.34,
+            "capital": 0,
+            "total": 7718.34
+          }
+        },
+        "2022_actual": {
+          "revenue": 8479.7,
+          "capital": 0,
+          "total": 8479.7
+        }
+      },
+      {
+        "index": "20.02",
+        "name": "City Investment to Innovate, Integrate and Sustain (CITIIS)",
+        "2024_budget": {
+          "revenue": 163.0,
+          "capital": 0,
+          "total": 163.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 334.03,
+            "capital": 0,
+            "total": 334.03
+          },
+          "revised": {
+            "revenue": 281.66,
+            "capital": 0,
+            "total": 281.66
+          }
+        },
+        "2022_actual": {
+          "revenue": 233.96,
+          "capital": 0,
+          "total": 233.96
+        }
+      },
+      {
+        "index": "21",
+        "name": "City Investment to Innovate, Integrate and Sustain 2.0 (CITIIS 2.0)",
+        "2024_budget": {
+          "revenue": 225.0,
+          "capital": 0,
+          "total": 225.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "22",
+        "name": "National Urban Digital Mission (NUDM)",
+        "2024_budget": {
+          "revenue": 1450.0,
+          "capital": 0,
+          "total": 1450.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "23.",
+        "name": "Swachh Bharat Mission (SBM) - Urban 23.01 Schemes financed from Rashtriya Swachhata Kosh - Central component 42.83 ... 42.83 ... ... ... ... ... ... ... ... ... 23.02 Scheme financed from Rashtriya Swachhata Kosh - State/ UT component"
+      },
+      {
+        "index": "23.03",
+        "name": "Gross Budgetary Support",
+        "2024_budget": {
+          "revenue": 5000.0,
+          "capital": 0,
+          "total": 5000.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 5000.0,
+            "capital": 0,
+            "total": 5000.0
+          },
+          "revised": {
+            "revenue": 2550.0,
+            "capital": 0,
+            "total": 2550.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 77.67,
+          "capital": 0,
+          "total": 77.67
+        }
+      },
+      {
+        "index": "24",
+        "name": "PM-eBus Sewa Scheme",
+        "2024_budget": {
+          "revenue": 1300.0,
+          "capital": 0,
+          "total": 1300.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 20.0,
+            "capital": 0,
+            "total": 20.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "25",
+        "name": "Actual Recoveries -105.65 ... -105.65 ... ... ... ... ... ... ... ... ... Total -Centrally Sponsored Schemes",
+        "2024_budget": {
+          "revenue": 44545.63,
+          "capital": 0,
+          "total": 44545.63
+        },
+        "2023": {
+          "budget": {
+            "revenue": 46103.04,
+            "capital": 0,
+            "total": 46103.04
+          },
+          "revised": {
+            "revenue": 38396.03,
+            "capital": 0,
+            "total": 38396.03
+          }
+        },
+        "2022_actual": {
+          "revenue": 46173.25,
+          "capital": 0,
+          "total": 46173.25
+        }
+      }
+    ],
+    "development_heads": [
+      {
+        "index": "1",
+        "name": "Secretariat -General Services",
+        "2024_budget": {
+          "revenue": 161.18,
+          "capital": 0,
+          "total": 161.18
+        },
+        "2023": {
+          "budget": {
+            "revenue": 136.75,
+            "capital": 0,
+            "total": 136.75
+          },
+          "revised": {
+            "revenue": 136.33,
+            "capital": 0,
+            "total": 136.33
+          }
+        },
+        "2022_actual": {
+          "revenue": 114.71,
+          "capital": 0,
+          "total": 114.71
+        }
+      },
+      {
+        "index": "2",
+        "name": "Stationery and Printing",
+        "2024_budget": {
+          "revenue": 123.42,
+          "capital": 0,
+          "total": 123.42
+        },
+        "2023": {
+          "budget": {
+            "revenue": 115.4,
+            "capital": 0,
+            "total": 115.4
+          },
+          "revised": {
+            "revenue": 125.53,
+            "capital": 0,
+            "total": 125.53
+          }
+        },
+        "2022_actual": {
+          "revenue": 70.08,
+          "capital": 0,
+          "total": 70.08
+        }
+      },
+      {
+        "index": "3",
+        "name": "Public Works",
+        "2024_budget": {
+          "revenue": 2213.46,
+          "capital": 0,
+          "total": 2213.46
+        },
+        "2023": {
+          "budget": {
+            "revenue": 2161.11,
+            "capital": 0,
+            "total": 2161.11
+          },
+          "revised": {
+            "revenue": 2120.91,
+            "capital": 0,
+            "total": 2120.91
+          }
+        },
+        "2022_actual": {
+          "revenue": 2119.54,
+          "capital": 0,
+          "total": 2119.54
+        }
+      },
+      {
+        "index": "4",
+        "name": "Capital Outlay on Stationery and Printing",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 81.85,
+          "total": 81.85
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 71.67,
+            "total": 71.67
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 27.47,
+            "total": 27.47
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 1.2,
+          "total": 1.2
+        }
+      },
+      {
+        "index": "5",
+        "name": "Capital Outlay on Public Works",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 2600.09,
+          "total": 2600.09
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 2133.62,
+            "total": 2133.62
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 2494.28,
+            "total": 2494.28
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 2351.96,
+          "total": 2351.96
+        }
+      },
+      {
+        "index": "6",
+        "name": "General Education",
+        "2024_budget": {
+          "revenue": -1.0,
+          "capital": 0,
+          "total": -1.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0.43,
+            "capital": 0,
+            "total": 0.43
+          },
+          "revised": {
+            "revenue": -0.38,
+            "capital": 0,
+            "total": -0.38
+          }
+        },
+        "2022_actual": {
+          "revenue": 1.11,
+          "capital": 0,
+          "total": 1.11
+        }
+      },
+      {
+        "index": "7",
+        "name": "Housing",
+        "2024_budget": {
+          "revenue": 3745.72,
+          "capital": 0,
+          "total": 3745.72
+        },
+        "2023": {
+          "budget": {
+            "revenue": 3251.7,
+            "capital": 0,
+            "total": 3251.7
+          },
+          "revised": {
+            "revenue": 3311.31,
+            "capital": 0,
+            "total": 3311.31
+          }
+        },
+        "2022_actual": {
+          "revenue": 14294.71,
+          "capital": 0,
+          "total": 14294.71
+        }
+      },
+      {
+        "index": "8",
+        "name": "Urban Development",
+        "2024_budget": {
+          "revenue": 1327.64,
+          "capital": 0,
+          "total": 1327.64
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1126.47,
+            "capital": 0,
+            "total": 1126.47
+          },
+          "revised": {
+            "revenue": 1077.38,
+            "capital": 0,
+            "total": 1077.38
+          }
+        },
+        "2022_actual": {
+          "revenue": 798.99,
+          "capital": 0,
+          "total": 798.99
+        }
+      },
+      {
+        "index": "9",
+        "name": "Capital Outlay on Housing",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 1100.0,
+          "total": 1100.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 667.33,
+            "total": 667.33
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 1004.92,
+            "total": 1004.92
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 1069.3,
+          "total": 1069.3
+        }
+      },
+      {
+        "index": "10",
+        "name": "Capital Outlay on Urban Development",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 3420.11,
+          "total": 3420.11
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 4536.15,
+            "total": 4536.15
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 4484.17,
+            "total": 4484.17
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 6799.31,
+          "total": 6799.31
+        }
+      },
+      {
+        "index": "11",
+        "name": "Capital Outlay on other Social Services",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 1.5,
+          "total": 1.5
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 2.5,
+            "total": 2.5
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 1.8,
+            "total": 1.8
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0.87,
+          "total": 0.87
+        }
+      },
+      {
+        "index": "12",
+        "name": "Loans for Urban Development",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 21421.43,
+          "total": 21421.43
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 18585.0,
+            "total": 18585.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 18520.0,
+            "total": 18520.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 16654.13,
+          "total": 16654.13
+        }
+      },
+      {
+        "index": "13",
+        "name": "Other General Economic Services",
+        "2024_budget": {
+          "revenue": 326.33,
+          "capital": 0,
+          "total": 326.33
+        },
+        "2023": {
+          "budget": {
+            "revenue": 468.01,
+            "capital": 0,
+            "total": 468.01
+          },
+          "revised": {
+            "revenue": 484.89,
+            "capital": 0,
+            "total": 484.89
+          }
+        },
+        "2022_actual": {
+          "revenue": 415.34,
+          "capital": 0,
+          "total": 415.34
+        }
+      },
+      {
+        "index": "14",
+        "name": "Capital Outlay on Shipping",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 1.5,
+          "total": 1.5
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 1.0,
+            "total": 1.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0.8,
+            "total": 0.8
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 1.0,
+          "total": 1.0
+        }
+      },
+      {
+        "index": "15",
+        "name": "North Eastern Areas",
+        "2024_budget": {
+          "revenue": 1660.01,
+          "capital": 0,
+          "total": 1660.01
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1165.0,
+            "capital": 0,
+            "total": 1165.0
+          },
+          "revised": {
+            "revenue": 972.33,
+            "capital": 0,
+            "total": 972.33
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "16",
+        "name": "Grants -in-aid to State Governments",
+        "2024_budget": {
+          "revenue": 38033.34,
+          "capital": 0,
+          "total": 38033.34
+        },
+        "2023": {
+          "budget": {
+            "revenue": 40671.45,
+            "capital": 0,
+            "total": 40671.45
+          },
+          "revised": {
+            "revenue": 33440.27,
+            "capital": 0,
+            "total": 33440.27
+          }
+        },
+        "2022_actual": {
+          "revenue": 31956.4,
+          "capital": 0,
+          "total": 31956.4
+        }
+      },
+      {
+        "index": "17",
+        "name": "Grants -in-aid to Union Territory Governments",
+        "2024_budget": {
+          "revenue": 1307.0,
+          "capital": 0,
+          "total": 1307.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1338.01,
+            "capital": 0,
+            "total": 1338.01
+          },
+          "revised": {
+            "revenue": 1068.71,
+            "capital": 0,
+            "total": 1068.71
+          }
+        },
+        "2022_actual": {
+          "revenue": 661.58,
+          "capital": 0,
+          "total": 661.58
+        }
+      }
+    ],
+    "public_enterprises": [
+      {
+        "index": "1",
+        "name": "Housing and Urban Development Corporation",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 15719.8,
+          "total": 15719.8
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 15290.88,
+            "total": 15290.88
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 15355.34,
+            "total": 15355.34
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 15260.01,
+          "total": 15260.01
+        }
+      },
+      {
+        "index": "2",
+        "name": "National Capital Regional Planning Board",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 300.0,
+          "total": 300.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 240.0,
+            "total": 240.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 300.0,
+            "total": 300.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 274.0,
+          "total": 274.0
+        }
+      },
+      {
+        "index": "3",
+        "name": "Metro and MRTS Projects",
+        "2024_budget": {
+          "revenue": 21247.94,
+          "capital": 0,
+          "total": 21247.94
+        },
+        "2023": {
+          "budget": {
+            "revenue": 19518.0,
+            "capital": 1432.0,
+            "total": 20950.0
+          },
+          "revised": {
+            "revenue": 19449.83,
+            "capital": 1133.31,
+            "total": 20583.14
+          }
+        },
+        "2022_actual": {
+          "revenue": 18831.44,
+          "capital": 977.5,
+          "total": 19808.94
+        }
+      },
+      {
+        "index": "4",
+        "name": "National Capital Region Transport Corporation",
+        "2024_budget": {
+          "revenue": 3538.0,
+          "capital": 0,
+          "total": 3538.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 3538.0,
+            "capital": 0,
+            "total": 3538.0
+          },
+          "revised": {
+            "revenue": 3538.0,
+            "capital": 0,
+            "total": 3538.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 4622.0,
+          "capital": 0,
+          "total": 4622.0
+        }
+      },
+      {
+        "index": "5",
+        "name": "Hemisphere Properties India Limited",
+        "2024_budget": {
+          "revenue": 50.0,
+          "capital": 0,
+          "total": 50.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 60.0,
+            "capital": 0,
+            "total": 60.0
+          },
+          "revised": {
+            "revenue": 10.0,
+            "capital": 0,
+            "total": 10.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "1.03",
+        "name": "Directorate of Esta tes:..The provision is for secretariat expenditure of Directorate of Estates. 1.04. Establishment of Land and Development Office: ..The provision is for establishment expenditure of Land & Development Office. 1.05. International Contibutions: ..The provision includes contribution to United Nations Centre for Human Settlements and annual membership fee to the Commonwealth Local Government Forum and",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 2020.0,
+          "total": -21.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      }
+    ]
+  },
+  "number": 60
+}

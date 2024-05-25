@@ -1,0 +1,745 @@
+{
+  "name": "MINISTRY OF FINANCE",
+  "demand": "DEMAND NO. 37",
+  "department": "Indirect Taxes",
+  "sections": {
+    "allocation": [
+      {
+        "index": "1.",
+        "name": "Customs"
+      },
+      {
+        "index": "1.01",
+        "name": "Collection of Customs",
+        "2024_budget": {
+          "revenue": 2803.54,
+          "capital": 0,
+          "total": 2803.54
+        },
+        "2023": {
+          "budget": {
+            "revenue": 2713.11,
+            "capital": 0,
+            "total": 2713.11
+          },
+          "revised": {
+            "revenue": 2665.65,
+            "capital": 0,
+            "total": 2665.65
+          }
+        },
+        "2022_actual": {
+          "revenue": 2440.94,
+          "capital": 0,
+          "total": 2440.94
+        }
+      },
+      {
+        "index": "1.02",
+        "name": "Establishment Expenditure of Customs",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 285.3,
+          "total": 285.3
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 230.0,
+            "total": 230.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 196.47,
+            "total": 196.47
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 5.63,
+          "total": 5.63
+        }
+      },
+      {
+        "index": "2",
+        "name": "Union Excise Duties /Central Goods & Service Tax 2.01 Collection of Union Excise Duties / Central Goods & Service Tax",
+        "2024_budget": {
+          "revenue": 5273.81,
+          "capital": 0,
+          "total": 5273.81
+        },
+        "2023": {
+          "budget": {
+            "revenue": 5318.33,
+            "capital": 0,
+            "total": 5318.33
+          },
+          "revised": {
+            "revenue": 5120.94,
+            "capital": 0,
+            "total": 5120.94
+          }
+        },
+        "2022_actual": {
+          "revenue": 4936.27,
+          "capital": 0,
+          "total": 4936.27
+        }
+      },
+      {
+        "index": "2.02",
+        "name": "Establishment Expenditure of Excise /Central Goods & Service Tax",
+        "2024_budget": {
+          "revenue": 824.77,
+          "capital": 0,
+          "total": 824.77
+        },
+        "2023": {
+          "budget": {
+            "revenue": 700.55,
+            "capital": 0,
+            "total": 700.55
+          },
+          "revised": {
+            "revenue": 769.0,
+            "capital": 0,
+            "total": 769.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 1038.48,
+          "capital": 0,
+          "total": 1038.48
+        }
+      },
+      {
+        "index": "2.03",
+        "name": "Housing - Maintenance and Repairs",
+        "2024_budget": {
+          "revenue": 17.0,
+          "capital": 0,
+          "total": 17.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 19.0,
+            "capital": 0,
+            "total": 19.0
+          },
+          "revised": {
+            "revenue": 17.5,
+            "capital": 0,
+            "total": 17.5
+          }
+        },
+        "2022_actual": {
+          "revenue": 14.8,
+          "capital": 0,
+          "total": 14.8
+        }
+      },
+      {
+        "index": "2.04",
+        "name": "Purchase of ready built Accomodation - Office Building",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 501.98,
+          "total": 501.98
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 950.0,
+            "total": 950.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 796.41,
+            "total": 796.41
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 504.68,
+          "total": 504.68
+        }
+      },
+      {
+        "index": "2.05",
+        "name": "Purchase of Ready Built Accomodation - Residential Buildings",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 393.99,
+          "total": 393.99
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 400.0,
+            "total": 400.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 326.02,
+            "total": 326.02
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 172.22,
+          "total": 172.22
+        }
+      },
+      {
+        "index": "2.06",
+        "name": "Establishment Expenditure of CGST",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 1057.35,
+          "total": 1057.35
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 625.0,
+            "total": 625.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 888.76,
+            "total": 888.76
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "3",
+        "name": "Actual Recoveries",
+        "2024_budget": {
+          "revenue": -0.5,
+          "capital": 0,
+          "total": -0.5
+        },
+        "2023": {
+          "budget": {
+            "revenue": -0.5,
+            "capital": 0,
+            "total": -0.5
+          },
+          "revised": {
+            "revenue": -0.5,
+            "capital": 0,
+            "total": -0.5
+          }
+        },
+        "2022_actual": {
+          "revenue": -8.5,
+          "capital": -0.98,
+          "total": -9.48
+        }
+      },
+      {
+        "index": "4",
+        "name": "Onetime payment of Arrears. 4.01 Merchandise Export from India Scheme (MEIS).",
+        "2024_budget": {
+          "revenue": 799.32,
+          "capital": 0,
+          "total": 799.32
+        },
+        "2023": {
+          "budget": {
+            "revenue": 999.15,
+            "capital": 0,
+            "total": 999.15
+          },
+          "revised": {
+            "revenue": 199.83,
+            "capital": 0,
+            "total": 199.83
+          }
+        },
+        "2022_actual": {
+          "revenue": 1248.13,
+          "capital": 0,
+          "total": 1248.13
+        }
+      },
+      {
+        "index": "4.02",
+        "name": "Service Exports from India Scheme (SEIS).",
+        "2024_budget": {
+          "revenue": 1901.0,
+          "capital": 0,
+          "total": 1901.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1390.45,
+            "capital": 0,
+            "total": 1390.45
+          },
+          "revised": {
+            "revenue": 1390.45,
+            "capital": 0,
+            "total": 1390.45
+          }
+        },
+        "2022_actual": {
+          "revenue": 2610.35,
+          "capital": 0,
+          "total": 2610.35
+        }
+      },
+      {
+        "index": "4.03",
+        "name": "Rebate on State and Central Taxes and Levies (RoSCTL).",
+        "2024_budget": {
+          "revenue": 63.76,
+          "capital": 0,
+          "total": 63.76
+        },
+        "2023": {
+          "budget": {
+            "revenue": 91.08,
+            "capital": 0,
+            "total": 91.08
+          },
+          "revised": {
+            "revenue": 27.32,
+            "capital": 0,
+            "total": 27.32
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "4.04",
+        "name": "Target Plus Scheme.",
+        "2024_budget": {
+          "revenue": 660.91,
+          "capital": 0,
+          "total": 660.91
+        },
+        "2023": {
+          "budget": {
+            "revenue": 826.14,
+            "capital": 0,
+            "total": 826.14
+          },
+          "revised": {
+            "revenue": 165.23,
+            "capital": 0,
+            "total": 165.23
+          }
+        },
+        "2022_actual": {
+          "revenue": 129.32,
+          "capital": 0,
+          "total": 129.32
+        }
+      },
+      {
+        "index": "4.05",
+        "name": "Focus Product Scheme and Market Linked Product Scheme.",
+        "2024_budget": {
+          "revenue": 271.53,
+          "capital": 0,
+          "total": 271.53
+        },
+        "2023": {
+          "budget": {
+            "revenue": 301.7,
+            "capital": 0,
+            "total": 301.7
+          },
+          "revised": {
+            "revenue": 30.17,
+            "capital": 0,
+            "total": 30.17
+          }
+        },
+        "2022_actual": {
+          "revenue": 39.76,
+          "capital": 0,
+          "total": 39.76
+        }
+      },
+      {
+        "index": "4.06",
+        "name": "Status Holders Incentive Scheme (SHIS).",
+        "2024_budget": {
+          "revenue": 119.41,
+          "capital": 0,
+          "total": 119.41
+        },
+        "2023": {
+          "budget": {
+            "revenue": 132.68,
+            "capital": 0,
+            "total": 132.68
+          },
+          "revised": {
+            "revenue": 13.27,
+            "capital": 0,
+            "total": 13.27
+          }
+        },
+        "2022_actual": {
+          "revenue": 3.4,
+          "capital": 0,
+          "total": 3.4
+        }
+      },
+      {
+        "index": "4.07",
+        "name": "Rebate on State Levies Scheme (RoSL).",
+        "2024_budget": {
+          "revenue": 47.59,
+          "capital": 0,
+          "total": 47.59
+        },
+        "2023": {
+          "budget": {
+            "revenue": 52.8,
+            "capital": 0,
+            "total": 52.8
+          },
+          "revised": {
+            "revenue": 5.21,
+            "capital": 0,
+            "total": 5.21
+          }
+        },
+        "2022_actual": {
+          "revenue": 0.01,
+          "capital": 0,
+          "total": 0.01
+        }
+      },
+      {
+        "index": "4.08",
+        "name": "Focus Market Scheme.",
+        "2024_budget": {
+          "revenue": 80.9,
+          "capital": 0,
+          "total": 80.9
+        },
+        "2023": {
+          "budget": {
+            "revenue": 89.89,
+            "capital": 0,
+            "total": 89.89
+          },
+          "revised": {
+            "revenue": 8.99,
+            "capital": 0,
+            "total": 8.99
+          }
+        },
+        "2022_actual": {
+          "revenue": 2.13,
+          "capital": 0,
+          "total": 2.13
+        }
+      },
+      {
+        "index": "4.09",
+        "name": "Vishesh Krishi and Gram Udyog Yojna.",
+        "2024_budget": {
+          "revenue": 65.26,
+          "capital": 0,
+          "total": 65.26
+        },
+        "2023": {
+          "budget": {
+            "revenue": 72.51,
+            "capital": 0,
+            "total": 72.51
+          },
+          "revised": {
+            "revenue": 7.25,
+            "capital": 0,
+            "total": 7.25
+          }
+        },
+        "2022_actual": {
+          "revenue": 0.43,
+          "capital": 0,
+          "total": 0.43
+        }
+      },
+      {
+        "index": "4.10",
+        "name": "2 percent Additional Adhoc Bonus Incentive for Mobile Phones.",
+        "2024_budget": {
+          "revenue": 2.13,
+          "capital": 0,
+          "total": 2.13
+        },
+        "2023": {
+          "budget": {
+            "revenue": 4.27,
+            "capital": 0,
+            "total": 4.27
+          },
+          "revised": {
+            "revenue": 2.14,
+            "capital": 0,
+            "total": 2.14
+          }
+        },
+        "2022_actual": {
+          "revenue": 5.36,
+          "capital": 0,
+          "total": 5.36
+        }
+      },
+      {
+        "index": "4.11",
+        "name": "Incremental Export Incentivisation Scheme (Annual and Quarterly).",
+        "2024_budget": {
+          "revenue": 107.93,
+          "capital": 0,
+          "total": 107.93
+        },
+        "2023": {
+          "budget": {
+            "revenue": 119.92,
+            "capital": 0,
+            "total": 119.92
+          },
+          "revised": {
+            "revenue": 11.99,
+            "capital": 0,
+            "total": 11.99
+          }
+        },
+        "2022_actual": {
+          "revenue": 9.95,
+          "capital": 0,
+          "total": 9.95
+        }
+      },
+      {
+        "index": "5",
+        "name": "Remission of Duties and Taxes on Exported Products (RoDTEP)",
+        "2024_budget": {
+          "revenue": 16575.0,
+          "capital": 0,
+          "total": 16575.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 15069.34,
+            "capital": 0,
+            "total": 15069.34
+          },
+          "revised": {
+            "revenue": 15669.34,
+            "capital": 0,
+            "total": 15669.34
+          }
+        },
+        "2022_actual": {
+          "revenue": 13174.67,
+          "capital": 0,
+          "total": 13174.67
+        }
+      },
+      {
+        "index": "6",
+        "name": "Rebate on State and Central Taxes and Levies (RoSCTL)",
+        "2024_budget": {
+          "revenue": 9246.0,
+          "capital": 0,
+          "total": 9246.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 8404.66,
+            "capital": 0,
+            "total": 8404.66
+          },
+          "revised": {
+            "revenue": 8404.66,
+            "capital": 0,
+            "total": 8404.66
+          }
+        },
+        "2022_actual": {
+          "revenue": 7658.72,
+          "capital": 0,
+          "total": 7658.72
+        }
+      }
+    ],
+    "development_heads": [
+      {
+        "index": "1",
+        "name": "Customs",
+        "2024_budget": {
+          "revenue": 32743.78,
+          "capital": 0,
+          "total": 32743.78
+        },
+        "2023": {
+          "budget": {
+            "revenue": 30267.2,
+            "capital": 0,
+            "total": 30267.2
+          },
+          "revised": {
+            "revenue": 28601.0,
+            "capital": 0,
+            "total": 28601.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 27318.67,
+          "capital": 0,
+          "total": 27318.67
+        }
+      },
+      {
+        "index": "2",
+        "name": "Collection Charges under Central Goods and Services Tax and Integrated Goods and Services Tax",
+        "2024_budget": {
+          "revenue": 6098.58,
+          "capital": 0,
+          "total": 6098.58
+        },
+        "2023": {
+          "budget": {
+            "revenue": 6018.88,
+            "capital": 0,
+            "total": 6018.88
+          },
+          "revised": {
+            "revenue": 5889.94,
+            "capital": 0,
+            "total": 5889.94
+          }
+        },
+        "2022_actual": {
+          "revenue": 5970.75,
+          "capital": 0,
+          "total": 5970.75
+        }
+      },
+      {
+        "index": "3",
+        "name": "Capital Outlay on Other Fiscal Services",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 1342.65,
+          "total": 1342.65
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 855.0,
+            "total": 855.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 1085.23,
+            "total": 1085.23
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 5.33,
+          "total": 5.33
+        }
+      },
+      {
+        "index": "4",
+        "name": "Capital Outlay on Public Works",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 501.98,
+          "total": 501.98
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 950.0,
+            "total": 950.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 796.41,
+            "total": 796.41
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 504.0,
+          "total": 504.0
+        }
+      },
+      {
+        "index": "5",
+        "name": "Housing",
+        "2024_budget": {
+          "revenue": 17.0,
+          "capital": 0,
+          "total": 17.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 19.0,
+            "capital": 0,
+            "total": 19.0
+          },
+          "revised": {
+            "revenue": 17.5,
+            "capital": 0,
+            "total": 17.5
+          }
+        },
+        "2022_actual": {
+          "revenue": 14.8,
+          "capital": 0,
+          "total": 14.8
+        }
+      },
+      {
+        "index": "6",
+        "name": "Capital Outlay on Housing",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 393.99,
+          "total": 393.99
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 400.0,
+            "total": 400.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 326.02,
+            "total": 326.02
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 172.22,
+          "total": 172.22
+        }
+      }
+    ],
+    "public_enterprises": []
+  },
+  "number": 37
+}

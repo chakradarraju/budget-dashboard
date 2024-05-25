@@ -1,0 +1,611 @@
+{
+  "name": "MINISTRY OF EARTH SCIENCES",
+  "demand": "DEMAND NO. 24",
+  "department": "Ministry of Earth Sciences",
+  "sections": {
+    "allocation": [
+      {
+        "index": "1",
+        "name": "Secretariat",
+        "2024_budget": {
+          "revenue": 90.97,
+          "capital": 2.14,
+          "total": 93.11
+        },
+        "2023": {
+          "budget": {
+            "revenue": 527.08,
+            "capital": 2.43,
+            "total": 529.51
+          },
+          "revised": {
+            "revenue": 540.7,
+            "capital": 2.16,
+            "total": 542.86
+          }
+        },
+        "2022_actual": {
+          "revenue": 41.77,
+          "capital": 0,
+          "total": 41.77
+        }
+      },
+      {
+        "index": "2",
+        "name": "Meteorology",
+        "2024_budget": {
+          "revenue": 532.08,
+          "capital": 5.0,
+          "total": 537.08
+        },
+        "2023": {
+          "budget": {
+            "revenue": 500.05,
+            "capital": 5.15,
+            "total": 505.2
+          },
+          "revised": {
+            "revenue": 534.98,
+            "capital": 5.15,
+            "total": 540.13
+          }
+        },
+        "2022_actual": {
+          "revenue": 463.32,
+          "capital": 0,
+          "total": 463.32
+        }
+      },
+      {
+        "index": "3",
+        "name": "Oceanographic Survey (ORV and FORV) and Marine Living Resources (MLR)",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 1.0,
+          "capital": 0,
+          "total": 1.0
+        }
+      },
+      {
+        "index": "4",
+        "name": "National Centre for Medium Range Weather Forecasting (NCMRWF)",
+        "2024_budget": {
+          "revenue": 14.0,
+          "capital": 0,
+          "total": 14.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 13.77,
+            "capital": 0,
+            "total": 13.77
+          },
+          "revised": {
+            "revenue": 13.77,
+            "capital": 0,
+            "total": 13.77
+          }
+        },
+        "2022_actual": {
+          "revenue": 11.14,
+          "capital": 0,
+          "total": 11.14
+        }
+      },
+      {
+        "index": "5",
+        "name": "Ocean services, Modelling, Application, Resources and Technology (O -SMART)",
+        "2024_budget": {
+          "revenue": 280.0,
+          "capital": 30.0,
+          "total": 310.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 433.05,
+            "capital": 26.95,
+            "total": 460.0
+          },
+          "revised": {
+            "revenue": 284.0,
+            "capital": 26.0,
+            "total": 310.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 234.39,
+          "capital": 15.81,
+          "total": 250.2
+        }
+      },
+      {
+        "index": "6",
+        "name": "Atmosphere and Climate Research - Modelling Observing Systems and Services (ACROSS)",
+        "2024_budget": {
+          "revenue": 243.8,
+          "capital": 256.2,
+          "total": 500.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 290.72,
+            "capital": 389.28,
+            "total": 680.0
+          },
+          "revised": {
+            "revenue": 301.47,
+            "capital": 248.53,
+            "total": 550.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 241.49,
+          "capital": 64.45,
+          "total": 305.94
+        }
+      },
+      {
+        "index": "7",
+        "name": "Polar Science and Cryosphere (PACER)",
+        "2024_budget": {
+          "revenue": 146.0,
+          "capital": 0,
+          "total": 146.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 146.0,
+            "capital": 0,
+            "total": 146.0
+          },
+          "revised": {
+            "revenue": 160.0,
+            "capital": 0,
+            "total": 160.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 156.97,
+          "capital": 0,
+          "total": 156.97
+        }
+      },
+      {
+        "index": "8",
+        "name": "Seismological and Geoscience (SAGE)",
+        "2024_budget": {
+          "revenue": 45.0,
+          "capital": 15.0,
+          "total": 60.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 70.0,
+            "capital": 50.0,
+            "total": 120.0
+          },
+          "revised": {
+            "revenue": 40.0,
+            "capital": 10.0,
+            "total": 50.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 37.45,
+          "capital": 8.03,
+          "total": 45.48
+        }
+      },
+      {
+        "index": "9",
+        "name": "Research, Education and Training Outreach (REACHOUT)",
+        "2024_budget": {
+          "revenue": 55.0,
+          "capital": 0,
+          "total": 55.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 65.0,
+            "capital": 0,
+            "total": 65.0
+          },
+          "revised": {
+            "revenue": 55.0,
+            "capital": 0,
+            "total": 55.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 60.56,
+          "capital": 0,
+          "total": 60.56
+        }
+      },
+      {
+        "index": "10",
+        "name": "Deep Ocean Mission (DOM)",
+        "2024_budget": {
+          "revenue": 350.0,
+          "capital": 250.0,
+          "total": 600.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 400.0,
+            "capital": 200.0,
+            "total": 600.0
+          },
+          "revised": {
+            "revenue": 329.0,
+            "capital": 121.0,
+            "total": 450.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 56.03,
+          "capital": 0,
+          "total": 56.03
+        }
+      },
+      {
+        "index": "11",
+        "name": "Indian National Centre for Ocean Information Services (INCOIS)",
+        "2024_budget": {
+          "revenue": 28.0,
+          "capital": 0,
+          "total": 28.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 27.0,
+            "capital": 0,
+            "total": 27.0
+          },
+          "revised": {
+            "revenue": 27.0,
+            "capital": 0,
+            "total": 27.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 23.36,
+          "capital": 0,
+          "total": 23.36
+        }
+      },
+      {
+        "index": "12",
+        "name": "National Institute of Ocean Technology (NIOT)",
+        "2024_budget": {
+          "revenue": 55.0,
+          "capital": 0,
+          "total": 55.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 49.4,
+            "capital": 0,
+            "total": 49.4
+          },
+          "revised": {
+            "revenue": 52.44,
+            "capital": 0,
+            "total": 52.44
+          }
+        },
+        "2022_actual": {
+          "revenue": 47.3,
+          "capital": 0,
+          "total": 47.3
+        }
+      },
+      {
+        "index": "13",
+        "name": "National Centre for Polar and Ocean Research, Goa (NCPOR)",
+        "2024_budget": {
+          "revenue": 28.75,
+          "capital": 0,
+          "total": 28.75
+        },
+        "2023": {
+          "budget": {
+            "revenue": 26.0,
+            "capital": 0,
+            "total": 26.0
+          },
+          "revised": {
+            "revenue": 29.0,
+            "capital": 0,
+            "total": 29.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 26.0,
+          "capital": 0,
+          "total": 26.0
+        }
+      },
+      {
+        "index": "14",
+        "name": "Indian Institute of Tropical Meteorology (IITM)",
+        "2024_budget": {
+          "revenue": 85.5,
+          "capital": 0,
+          "total": 85.5
+        },
+        "2023": {
+          "budget": {
+            "revenue": 86.5,
+            "capital": 0,
+            "total": 86.5
+          },
+          "revised": {
+            "revenue": 86.32,
+            "capital": 0,
+            "total": 86.32
+          }
+        },
+        "2022_actual": {
+          "revenue": 84.1,
+          "capital": 0,
+          "total": 84.1
+        }
+      },
+      {
+        "index": "15",
+        "name": "National Centre for Earth Science Studies (NCESS)",
+        "2024_budget": {
+          "revenue": 17.39,
+          "capital": 0,
+          "total": 17.39
+        },
+        "2023": {
+          "budget": {
+            "revenue": 16.0,
+            "capital": 0,
+            "total": 16.0
+          },
+          "revised": {
+            "revenue": 17.0,
+            "capital": 0,
+            "total": 17.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 12.91,
+          "capital": 0,
+          "total": 12.91
+        }
+      },
+      {
+        "index": "16",
+        "name": "Actual Recoveries -17.22 ... -17.22 ... ... ... ... ... ... ... ... ... Total -Other Central Sector Expenditure",
+        "2024_budget": {
+          "revenue": 214.64,
+          "capital": 0,
+          "total": 214.64
+        },
+        "2023": {
+          "budget": {
+            "revenue": 204.9,
+            "capital": 0,
+            "total": 204.9
+          },
+          "revised": {
+            "revenue": 211.76,
+            "capital": 0,
+            "total": 211.76
+          }
+        },
+        "2022_actual": {
+          "revenue": 176.45,
+          "capital": 0,
+          "total": 176.45
+        }
+      }
+    ],
+    "development_heads": [
+      {
+        "index": "1",
+        "name": "Oceanographic Research",
+        "2024_budget": {
+          "revenue": 887.75,
+          "capital": 0,
+          "total": 887.75
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1081.45,
+            "capital": 0,
+            "total": 1081.45
+          },
+          "revised": {
+            "revenue": 881.44,
+            "capital": 0,
+            "total": 881.44
+          }
+        },
+        "2022_actual": {
+          "revenue": 535.95,
+          "capital": 0,
+          "total": 535.95
+        }
+      },
+      {
+        "index": "2",
+        "name": "Other Scientific Research",
+        "2024_budget": {
+          "revenue": 69.0,
+          "capital": 0,
+          "total": 69.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 78.77,
+            "capital": 0,
+            "total": 78.77
+          },
+          "revised": {
+            "revenue": 68.77,
+            "capital": 0,
+            "total": 68.77
+          }
+        },
+        "2022_actual": {
+          "revenue": 71.12,
+          "capital": 0,
+          "total": 71.12
+        }
+      },
+      {
+        "index": "3",
+        "name": "Secretariat -Economic Services",
+        "2024_budget": {
+          "revenue": 90.97,
+          "capital": 0,
+          "total": 90.97
+        },
+        "2023": {
+          "budget": {
+            "revenue": 527.08,
+            "capital": 0,
+            "total": 527.08
+          },
+          "revised": {
+            "revenue": 540.7,
+            "capital": 0,
+            "total": 540.7
+          }
+        },
+        "2022_actual": {
+          "revenue": 41.47,
+          "capital": 0,
+          "total": 41.47
+        }
+      },
+      {
+        "index": "4",
+        "name": "Meteorology",
+        "2024_budget": {
+          "revenue": 915.77,
+          "capital": 0,
+          "total": 915.77
+        },
+        "2023": {
+          "budget": {
+            "revenue": 958.77,
+            "capital": 0,
+            "total": 958.77
+          },
+          "revised": {
+            "revenue": 975.27,
+            "capital": 0,
+            "total": 975.27
+          }
+        },
+        "2022_actual": {
+          "revenue": 832.03,
+          "capital": 0,
+          "total": 832.03
+        }
+      },
+      {
+        "index": "5",
+        "name": "Capital Outlay on Oceanographic Research",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 280.0,
+          "total": 280.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 226.95,
+            "total": 226.95
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 147.0,
+            "total": 147.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 15.81,
+          "total": 15.81
+        }
+      },
+      {
+        "index": "6",
+        "name": "Capital Outlay on Meteorology",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 276.2,
+          "total": 276.2
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 444.43,
+            "total": 444.43
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 263.68,
+            "total": 263.68
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 72.48,
+          "total": 72.48
+        }
+      },
+      {
+        "index": "7",
+        "name": "Capital Outlay on Other General Economic Services",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 2.14,
+          "total": 2.14
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 2.43,
+            "total": 2.43
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 2.16,
+            "total": 2.16
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      }
+    ],
+    "public_enterprises": []
+  },
+  "number": 24
+}

@@ -1,0 +1,385 @@
+{
+  "name": "MINISTRY OF CORPORATE AFFAIRS",
+  "demand": "DEMAND NO. 17",
+  "department": "Ministry of Corporate Affairs",
+  "sections": {
+    "allocation": [
+      {
+        "index": "1",
+        "name": "Secretariat",
+        "2024_budget": {
+          "revenue": 163.98,
+          "capital": 0,
+          "total": 163.98
+        },
+        "2023": {
+          "budget": {
+            "revenue": 213.36,
+            "capital": 0,
+            "total": 213.36
+          },
+          "revised": {
+            "revenue": 138.79,
+            "capital": 0,
+            "total": 138.79
+          }
+        },
+        "2022_actual": {
+          "revenue": 141.17,
+          "capital": 0,
+          "total": 141.17
+        }
+      },
+      {
+        "index": "2.",
+        "name": "Corporate Law Regulation"
+      },
+      {
+        "index": "2.01",
+        "name": "Registrar of Joint Stock Companies",
+        "2024_budget": {
+          "revenue": 77.0,
+          "capital": 0,
+          "total": 77.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 77.96,
+            "capital": 0,
+            "total": 77.96
+          },
+          "revised": {
+            "revenue": 76.66,
+            "capital": 0,
+            "total": 76.66
+          }
+        },
+        "2022_actual": {
+          "revenue": 68.84,
+          "capital": 0,
+          "total": 68.84
+        }
+      },
+      {
+        "index": "2.02",
+        "name": "Regional Directors, Official Liquidators and Other Expenditure with reference to various bodies under Companies Act",
+        "2024_budget": {
+          "revenue": 296.98,
+          "capital": 0,
+          "total": 296.98
+        },
+        "2023": {
+          "budget": {
+            "revenue": 330.0,
+            "capital": 0,
+            "total": 330.0
+          },
+          "revised": {
+            "revenue": 286.6,
+            "capital": 0,
+            "total": 286.6
+          }
+        },
+        "2022_actual": {
+          "revenue": 272.58,
+          "capital": 0,
+          "total": 272.58
+        }
+      },
+      {
+        "index": "3",
+        "name": "Actual Recoveries",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": -0.08,
+          "capital": 0,
+          "total": -0.08
+        }
+      },
+      {
+        "index": "4",
+        "name": "Corporate Data Management (CDM)",
+        "2024_budget": {
+          "revenue": 4.0,
+          "capital": 1.0,
+          "total": 5.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0.02,
+            "capital": 0,
+            "total": 0.02
+          },
+          "revised": {
+            "revenue": 4.4,
+            "capital": 0.5,
+            "total": 4.9
+          }
+        },
+        "2022_actual": {
+          "revenue": 4.7,
+          "capital": 0,
+          "total": 4.7
+        }
+      },
+      {
+        "index": "5",
+        "name": "Data Mining System (DMS)",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0.42,
+          "total": 0.42
+        }
+      },
+      {
+        "index": "6",
+        "name": "Insolvency and Bankruptcy Board of India",
+        "2024_budget": {
+          "revenue": 19.0,
+          "capital": 0,
+          "total": 19.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 41.85,
+            "capital": 0,
+            "total": 41.85
+          },
+          "revised": {
+            "revenue": 19.0,
+            "capital": 0,
+            "total": 19.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 28.78,
+          "capital": 0,
+          "total": 28.78
+        }
+      },
+      {
+        "index": "7",
+        "name": "Competition Commission of India",
+        "2024_budget": {
+          "revenue": 51.0,
+          "capital": 0,
+          "total": 51.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 51.0,
+            "capital": 0,
+            "total": 51.0
+          },
+          "revised": {
+            "revenue": 49.98,
+            "capital": 0,
+            "total": 49.98
+          }
+        },
+        "2022_actual": {
+          "revenue": 47.02,
+          "capital": 0,
+          "total": 47.02
+        }
+      },
+      {
+        "index": "8.",
+        "name": "Investors Education and Protection Fund"
+      },
+      {
+        "index": "8.01",
+        "name": "Refund of unclaimed Dividend to Investors",
+        "2024_budget": {
+          "revenue": 25.0,
+          "capital": 0,
+          "total": 25.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 21.0,
+            "capital": 0,
+            "total": 21.0
+          },
+          "revised": {
+            "revenue": 20.0,
+            "capital": 0,
+            "total": 20.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 20.0,
+          "capital": 0,
+          "total": 20.0
+        }
+      },
+      {
+        "index": "8.02",
+        "name": "Deduct Recoveries made from IEPF",
+        "2024_budget": {
+          "revenue": -25.0,
+          "capital": 0,
+          "total": -25.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": -21.0,
+            "capital": 0,
+            "total": -21.0
+          },
+          "revised": {
+            "revenue": -20.0,
+            "capital": 0,
+            "total": -20.0
+          }
+        },
+        "2022_actual": {
+          "revenue": -20.0,
+          "capital": 0,
+          "total": -20.0
+        }
+      },
+      {
+        "index": "9",
+        "name": "Major Works - Land and Buildings",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 54.1,
+          "total": 54.1
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 42.0,
+            "total": 42.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 41.5,
+            "total": 41.5
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 5.18,
+          "total": 5.18
+        }
+      }
+    ],
+    "development_heads": [
+      {
+        "index": "1",
+        "name": "Secretariat -Economic Services",
+        "2024_budget": {
+          "revenue": 214.98,
+          "capital": 0,
+          "total": 214.98
+        },
+        "2023": {
+          "budget": {
+            "revenue": 264.38,
+            "capital": 0,
+            "total": 264.38
+          },
+          "revised": {
+            "revenue": 193.17,
+            "capital": 0,
+            "total": 193.17
+          }
+        },
+        "2022_actual": {
+          "revenue": 192.89,
+          "capital": 0,
+          "total": 192.89
+        }
+      },
+      {
+        "index": "2",
+        "name": "Other General Economic Services",
+        "2024_budget": {
+          "revenue": 396.98,
+          "capital": 0,
+          "total": 396.98
+        },
+        "2023": {
+          "budget": {
+            "revenue": 449.81,
+            "capital": 0,
+            "total": 449.81
+          },
+          "revised": {
+            "revenue": 382.26,
+            "capital": 0,
+            "total": 382.26
+          }
+        },
+        "2022_actual": {
+          "revenue": 370.12,
+          "capital": 0,
+          "total": 370.12
+        }
+      },
+      {
+        "index": "3",
+        "name": "Capital Outlay on Other General Economic Services",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 55.1,
+          "total": 55.1
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 42.0,
+            "total": 42.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 42.0,
+            "total": 42.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 5.6,
+          "total": 5.6
+        }
+      }
+    ],
+    "public_enterprises": []
+  },
+  "number": 17
+}

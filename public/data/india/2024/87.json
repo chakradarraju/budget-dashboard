@@ -1,0 +1,1239 @@
+{
+  "name": "MINISTRY OF RURAL DEVELOPMENT",
+  "demand": "DEMAND NO. 87",
+  "department": "Department of Rural Development",
+  "sections": {
+    "allocation": [
+      {
+        "index": "1",
+        "name": "Secretariat",
+        "2024_budget": {
+          "revenue": 101.54,
+          "capital": 4.14,
+          "total": 105.68
+        },
+        "2023": {
+          "budget": {
+            "revenue": 60.5,
+            "capital": 3.52,
+            "total": 64.02
+          },
+          "revised": {
+            "revenue": 93.26,
+            "capital": 3.64,
+            "total": 96.9
+          }
+        },
+        "2022_actual": {
+          "revenue": 85.6,
+          "capital": 0,
+          "total": 85.6
+        }
+      },
+      {
+        "index": "2",
+        "name": "Management Support to Rural Development Programs and Strengthening of District Planning Process",
+        "2024_budget": {
+          "revenue": 153.0,
+          "capital": 0,
+          "total": 153.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 113.49,
+            "capital": 0,
+            "total": 113.49
+          },
+          "revised": {
+            "revenue": 100.0,
+            "capital": 0,
+            "total": 100.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 125.56,
+          "capital": 0,
+          "total": 125.56
+        }
+      },
+      {
+        "index": "3",
+        "name": "Grants to National Institute of Rural Development 75.80 ... 75.80 ... ... ... ... ... ... ... ... ... Total -Central Sector Schemes/Projects",
+        "2024_budget": {
+          "revenue": 153.0,
+          "capital": 0,
+          "total": 153.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 113.49,
+            "capital": 0,
+            "total": 113.49
+          },
+          "revised": {
+            "revenue": 100.0,
+            "capital": 0,
+            "total": 100.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 201.36,
+          "capital": 0,
+          "total": 201.36
+        }
+      },
+      {
+        "index": "4",
+        "name": "National Institute of Rural Development and Panchayati Raj, Hyderabad",
+        "2024_budget": {
+          "revenue": 108.37,
+          "capital": 0,
+          "total": 108.37
+        },
+        "2023": {
+          "budget": {
+            "revenue": 115.0,
+            "capital": 0,
+            "total": 115.0
+          },
+          "revised": {
+            "revenue": 91.38,
+            "capital": 0,
+            "total": 91.38
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "5",
+        "name": "Recoveries adjusted in reduction of Expenditure",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": -8.21,
+          "capital": 0,
+          "total": -8.21
+        }
+      },
+      {
+        "index": "8",
+        "name": "Indira Gandhi National Widow Pension Scheme(IGNWPS) 2086.98 ... 2086.98 ... ... ... ... ... ... ... ... ... 9. Indira Gandhi National Disability Pension Scheme(IGNDPS) 278.55 ... 278.55 ... ... ... ... ... ... ... ... ... Total -National Social Assistance Progam 9651.27 ... 9651.27 ... ... ... ... ... ... ... ... ... 10. National Social Assistance Progamme 10.01 Indira Gandhi National Old Age Pension Scheme (IGNOAPS)",
+        "2024_budget": {
+          "revenue": 6645.9,
+          "capital": 0,
+          "total": 6645.9
+        },
+        "2023": {
+          "budget": {
+            "revenue": 6634.32,
+            "capital": 0,
+            "total": 6634.32
+          },
+          "revised": {
+            "revenue": 6634.32,
+            "capital": 0,
+            "total": 6634.32
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "10.02",
+        "name": "National Family Benefit Scheme",
+        "2024_budget": {
+          "revenue": 659.0,
+          "capital": 0,
+          "total": 659.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 659.0,
+            "capital": 0,
+            "total": 659.0
+          },
+          "revised": {
+            "revenue": 644.69,
+            "capital": 0,
+            "total": 644.69
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "10.03",
+        "name": "Indira Gandhi National Widow Pension Scheme(IGNWPS)",
+        "2024_budget": {
+          "revenue": 2026.99,
+          "capital": 0,
+          "total": 2026.99
+        },
+        "2023": {
+          "budget": {
+            "revenue": 2026.99,
+            "capital": 0,
+            "total": 2026.99
+          },
+          "revised": {
+            "revenue": 2026.99,
+            "capital": 0,
+            "total": 2026.99
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "10.04",
+        "name": "Indira Gandhi National Disability Pension Scheme(IGNDPS)",
+        "2024_budget": {
+          "revenue": 290.0,
+          "capital": 0,
+          "total": 290.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 290.0,
+            "capital": 0,
+            "total": 290.0
+          },
+          "revised": {
+            "revenue": 290.0,
+            "capital": 0,
+            "total": 290.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "10.05",
+        "name": "Annapurna Scheme",
+        "2024_budget": {
+          "revenue": 10.0,
+          "capital": 0,
+          "total": 10.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 10.01,
+            "capital": 0,
+            "total": 10.01
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "10.06",
+        "name": "Administrative Expenditure",
+        "2024_budget": {
+          "revenue": 20.11,
+          "capital": 0,
+          "total": 20.11
+        },
+        "2023": {
+          "budget": {
+            "revenue": 16.0,
+            "capital": 0,
+            "total": 16.0
+          },
+          "revised": {
+            "revenue": 56.0,
+            "capital": 0,
+            "total": 56.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "11",
+        "name": "Transfer to National Employment Guarantee Fund",
+        "2024_budget": {
+          "revenue": 86000.0,
+          "capital": 0,
+          "total": 86000.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 60000.0,
+            "capital": 0,
+            "total": 60000.0
+          },
+          "revised": {
+            "revenue": 86000.0,
+            "capital": 0,
+            "total": 86000.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 90810.99,
+          "capital": 0,
+          "total": 90810.99
+        }
+      },
+      {
+        "index": "12",
+        "name": "MGNREGA -Programme Component",
+        "2024_budget": {
+          "revenue": 86000.0,
+          "capital": 0,
+          "total": 86000.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 60000.0,
+            "capital": 0,
+            "total": 60000.0
+          },
+          "revised": {
+            "revenue": 86000.0,
+            "capital": 0,
+            "total": 86000.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 90805.92,
+          "capital": 0,
+          "total": 90805.92
+        }
+      },
+      {
+        "index": "13",
+        "name": "Amount met from National Employment Gaurantee Fund",
+        "2024_budget": {
+          "revenue": -86000.0,
+          "capital": 0,
+          "total": -86000.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": -60000.0,
+            "capital": 0,
+            "total": -60000.0
+          },
+          "revised": {
+            "revenue": -86000.0,
+            "capital": 0,
+            "total": -86000.0
+          }
+        },
+        "2022_actual": {
+          "revenue": -90810.98,
+          "capital": 0,
+          "total": -90810.98
+        }
+      },
+      {
+        "index": "14",
+        "name": "Pradhan Mantri Gram Sadak Yojna 14.01 Transfer to Central Road and Infrastructure Fund",
+        "2024_budget": {
+          "revenue": 12000.0,
+          "capital": 0,
+          "total": 12000.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 19000.0,
+            "capital": 0,
+            "total": 19000.0
+          },
+          "revised": {
+            "revenue": 15000.0,
+            "capital": 0,
+            "total": 15000.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 18992.51,
+          "capital": 0,
+          "total": 18992.51
+        }
+      },
+      {
+        "index": "14.02",
+        "name": "PMGSY -Programme Component",
+        "2024_budget": {
+          "revenue": 16600.0,
+          "capital": 0,
+          "total": 16600.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 16100.0,
+            "capital": 0,
+            "total": 16100.0
+          },
+          "revised": {
+            "revenue": 14800.0,
+            "capital": 0,
+            "total": 14800.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 18354.95,
+          "capital": 0,
+          "total": 18354.95
+        }
+      },
+      {
+        "index": "14.03",
+        "name": "PMGSY -EAP Component",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 9.41,
+          "capital": 0,
+          "total": 9.41
+        }
+      },
+      {
+        "index": "14.04",
+        "name": "North -east Region",
+        "2024_budget": {
+          "revenue": 1900.0,
+          "capital": 0,
+          "total": 1900.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1900.0,
+            "capital": 0,
+            "total": 1900.0
+          },
+          "revised": {
+            "revenue": 1700.0,
+            "capital": 0,
+            "total": 1700.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "14.05",
+        "name": "Left Wing Extremism Affected Area Project",
+        "2024_budget": {
+          "revenue": 500.0,
+          "capital": 0,
+          "total": 500.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1000.0,
+            "capital": 0,
+            "total": 1000.0
+          },
+          "revised": {
+            "revenue": 500.0,
+            "capital": 0,
+            "total": 500.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 628.15,
+          "capital": 0,
+          "total": 628.15
+        }
+      },
+      {
+        "index": "14.06",
+        "name": "Less - Amount met from Central Road and Infrastructure Fund",
+        "2024_budget": {
+          "revenue": -12000.0,
+          "capital": 0,
+          "total": -12000.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": -19000.0,
+            "capital": 0,
+            "total": -19000.0
+          },
+          "revised": {
+            "revenue": -15000.0,
+            "capital": 0,
+            "total": -15000.0
+          }
+        },
+        "2022_actual": {
+          "revenue": -19201.64,
+          "capital": 0,
+          "total": -19201.64
+        }
+      },
+      {
+        "index": "14.07",
+        "name": "Transfer to Agriculture Infrastructure and Development Reserve Fund",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 2000.0,
+            "capital": 0,
+            "total": 2000.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "14.08",
+        "name": "Less - amount met from Agriculture Infrastructure and Development Reserve Fund",
+        "2024_budget": {
+          "revenue": -7000.0,
+          "capital": 0,
+          "total": -7000.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": -2000.0,
+            "capital": 0,
+            "total": -2000.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "15.",
+        "name": "National Rural Livelihood Mission"
+      },
+      {
+        "index": "15.01",
+        "name": "NRLM -Programme Component",
+        "2024_budget": {
+          "revenue": 13244.3,
+          "capital": 0,
+          "total": 13244.3
+        },
+        "2023": {
+          "budget": {
+            "revenue": 9494.65,
+            "capital": 0,
+            "total": 9494.65
+          },
+          "revised": {
+            "revenue": 12266.65,
+            "capital": 0,
+            "total": 12266.65
+          }
+        },
+        "2022_actual": {
+          "revenue": 11083.26,
+          "capital": 0,
+          "total": 11083.26
+        }
+      },
+      {
+        "index": "15.02",
+        "name": "NRLM -EAP Component",
+        "2024_budget": {
+          "revenue": 220.0,
+          "capital": 0,
+          "total": 220.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 3272.0,
+            "capital": 0,
+            "total": 3272.0
+          },
+          "revised": {
+            "revenue": 500.0,
+            "capital": 0,
+            "total": 500.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 452.28,
+          "capital": 0,
+          "total": 452.28
+        }
+      },
+      {
+        "index": "15.03",
+        "name": "North -east Region",
+        "2024_budget": {
+          "revenue": 1582.7,
+          "capital": 0,
+          "total": 1582.7
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1362.52,
+            "capital": 0,
+            "total": 1362.52
+          },
+          "revised": {
+            "revenue": 1362.52,
+            "capital": 0,
+            "total": 1362.52
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "16",
+        "name": "Shyama Prasad Mukherjee Rurban Mission 820.66 ... 820.66 ... ... ... ... ... ... ... ... ... Pradhan Mantri Awas Yojna (PMAY) 17. Pradhan Mantri Awas Yojna (PMAY) - Rural 17.01 Transfer to Central Road and Infrastructure Fund 44962.23 ... 44962.23 ... ... ... ... ... ... ... ... ... 17.02 PMAY -Programme Component",
+        "2024_budget": {
+          "revenue": 50650.13,
+          "capital": 0,
+          "total": 50650.13
+        },
+        "2023": {
+          "budget": {
+            "revenue": 50486.99,
+            "capital": 0,
+            "total": 50486.99
+          },
+          "revised": {
+            "revenue": 28174.48,
+            "capital": 0,
+            "total": 28174.48
+          }
+        },
+        "2022_actual": {
+          "revenue": 44962.21,
+          "capital": 0,
+          "total": 44962.21
+        }
+      },
+      {
+        "index": "17.03",
+        "name": "Interest Payment to NABARD for EBR Loans",
+        "2024_budget": {
+          "revenue": 3850.0,
+          "capital": 0,
+          "total": 3850.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 4000.0,
+            "capital": 0,
+            "total": 4000.0
+          },
+          "revised": {
+            "revenue": 3825.52,
+            "capital": 0,
+            "total": 3825.52
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "17.04",
+        "name": "Interest Subsidy",
+        "2024_budget": {
+          "revenue": 0.01,
+          "capital": 0,
+          "total": 0.01
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0.01,
+            "capital": 0,
+            "total": 0.01
+          },
+          "revised": {
+            "revenue": 0.01,
+            "capital": 0,
+            "total": 0.01
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "17.05",
+        "name": "Less -Amount Met from Central Road and Infrastructure Fund (CRIF) -44962.23 ... -44962.23 ... ... ... ... ... ... ... ... ... Net",
+        "2024_budget": {
+          "revenue": 54500.14,
+          "capital": 0,
+          "total": 54500.14
+        },
+        "2023": {
+          "budget": {
+            "revenue": 54487.0,
+            "capital": 0,
+            "total": 54487.0
+          },
+          "revised": {
+            "revenue": 32000.01,
+            "capital": 0,
+            "total": 32000.01
+          }
+        },
+        "2022_actual": {
+          "revenue": 44962.21,
+          "capital": 0,
+          "total": 44962.21
+        }
+      },
+      {
+        "index": "18",
+        "name": "Additional transfer to Agriculture Infrastructure and Development Fund",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 12000.0,
+            "capital": 0,
+            "total": 12000.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      }
+    ],
+    "development_heads": [
+      {
+        "index": "1",
+        "name": "Housing",
+        "2024_budget": {
+          "revenue": 3919.48,
+          "capital": 0,
+          "total": 3919.48
+        },
+        "2023": {
+          "budget": {
+            "revenue": 4069.49,
+            "capital": 0,
+            "total": 4069.49
+          },
+          "revised": {
+            "revenue": 3890.0,
+            "capital": 0,
+            "total": 3890.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 3834.93,
+          "capital": 0,
+          "total": 3834.93
+        }
+      },
+      {
+        "index": "2",
+        "name": "Social Security and Welfare",
+        "2024_budget": {
+          "revenue": 25.33,
+          "capital": 0,
+          "total": 25.33
+        },
+        "2023": {
+          "budget": {
+            "revenue": 21.23,
+            "capital": 0,
+            "total": 21.23
+          },
+          "revised": {
+            "revenue": 61.22,
+            "capital": 0,
+            "total": 61.22
+          }
+        },
+        "2022_actual": {
+          "revenue": 2.96,
+          "capital": 0,
+          "total": 2.96
+        }
+      },
+      {
+        "index": "3",
+        "name": "Special Programmes for Rural Development",
+        "2024_budget": {
+          "revenue": 3124.13,
+          "capital": 0,
+          "total": 3124.13
+        },
+        "2023": {
+          "budget": {
+            "revenue": 3910.64,
+            "capital": 0,
+            "total": 3910.64
+          },
+          "revised": {
+            "revenue": 3910.64,
+            "capital": 0,
+            "total": 3910.64
+          }
+        },
+        "2022_actual": {
+          "revenue": 2943.58,
+          "capital": 0,
+          "total": 2943.58
+        }
+      },
+      {
+        "index": "4",
+        "name": "Rural Employment",
+        "2024_budget": {
+          "revenue": 86000.0,
+          "capital": 0,
+          "total": 86000.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 60000.0,
+            "capital": 0,
+            "total": 60000.0
+          },
+          "revised": {
+            "revenue": 86000.0,
+            "capital": 0,
+            "total": 86000.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 90805.93,
+          "capital": 0,
+          "total": 90805.93
+        }
+      },
+      {
+        "index": "5",
+        "name": "Other Rural Development Programmes",
+        "2024_budget": {
+          "revenue": 246.53,
+          "capital": 0,
+          "total": 246.53
+        },
+        "2023": {
+          "budget": {
+            "revenue": 140.47,
+            "capital": 0,
+            "total": 140.47
+          },
+          "revised": {
+            "revenue": 179.64,
+            "capital": 0,
+            "total": 179.64
+          }
+        },
+        "2022_actual": {
+          "revenue": 209.63,
+          "capital": 0,
+          "total": 209.63
+        }
+      },
+      {
+        "index": "6",
+        "name": "Roads and Bridges",
+        "2024_budget": {
+          "revenue": 201.08,
+          "capital": 0,
+          "total": 201.08
+        },
+        "2023": {
+          "budget": {
+            "revenue": 258.02,
+            "capital": 0,
+            "total": 258.02
+          },
+          "revised": {
+            "revenue": 12115.52,
+            "capital": 0,
+            "total": 12115.52
+          }
+        },
+        "2022_actual": {
+          "revenue": 166.08,
+          "capital": 0,
+          "total": 166.08
+        }
+      },
+      {
+        "index": "7",
+        "name": "Secretariat -Economic Services",
+        "2024_budget": {
+          "revenue": 101.54,
+          "capital": 0,
+          "total": 101.54
+        },
+        "2023": {
+          "budget": {
+            "revenue": 60.5,
+            "capital": 0,
+            "total": 60.5
+          },
+          "revised": {
+            "revenue": 93.26,
+            "capital": 0,
+            "total": 93.26
+          }
+        },
+        "2022_actual": {
+          "revenue": 85.52,
+          "capital": 0,
+          "total": 85.52
+        }
+      },
+      {
+        "index": "8",
+        "name": "Capital Outlay on Other General Economic Services",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 4.14,
+          "total": 4.14
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 3.52,
+            "total": 3.52
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 3.64,
+            "total": 3.64
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "9",
+        "name": "North Eastern Areas",
+        "2024_budget": {
+          "revenue": 9405.4,
+          "capital": 0,
+          "total": 9405.4
+        },
+        "2023": {
+          "budget": {
+            "revenue": 9257.08,
+            "capital": 0,
+            "total": 9257.08
+          },
+          "revised": {
+            "revenue": 9280.77,
+            "capital": 0,
+            "total": 9280.77
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "10",
+        "name": "Grants -in-aid to State Governments",
+        "2024_budget": {
+          "revenue": 72357.5,
+          "capital": 0,
+          "total": 72357.5
+        },
+        "2023": {
+          "budget": {
+            "revenue": 77029.71,
+            "capital": 0,
+            "total": 77029.71
+          },
+          "revised": {
+            "revenue": 52171.97,
+            "capital": 0,
+            "total": 52171.97
+          }
+        },
+        "2022_actual": {
+          "revenue": 76835.99,
+          "capital": 0,
+          "total": 76835.99
+        }
+      },
+      {
+        "index": "11",
+        "name": "Grants -in-aid to Union Territory Governments",
+        "2024_budget": {
+          "revenue": 2181.06,
+          "capital": 0,
+          "total": 2181.06
+        },
+        "2023": {
+          "budget": {
+            "revenue": 2794.34,
+            "capital": 0,
+            "total": 2794.34
+          },
+          "revised": {
+            "revenue": 3362.8,
+            "capital": 0,
+            "total": 3362.8
+          }
+        },
+        "2022_actual": {
+          "revenue": 1952.77,
+          "capital": 0,
+          "total": 1952.77
+        }
+      },
+      {
+        "index": "1",
+        "name": "Secretariat: ..Provision is for expenditure on Secretariat of Department of Rural Development. 2. Management Support to Rural Development Programs and Strengthening of District Planning Process: ..Includes provision for management support to rural development programmes and various aspects of training activities, aw areness generation (IEC), strengthening monitoring mechanism, Information technology and International cooperation. 3. Grants to National Institute of Rural Development: ..The National Institute of Rural Development is an apex institute for training and re search in rural development in India. Besides organizing courses on developmental issues, monitoring and internal audit capacity building of rural development and Panchayati Raj functionaries is the key concern of NIRD. From the F/Y 2020 -21, it has been mo ved under Other Central Expenditure. 4. National Institute of Rural Development and Panchayati Raj, Hyderabad: ..The National Institute of Rural Development is an apex institute for training and research in rural development in India. Besides organizing co urses on developmental issues, monitoring and internal audit capacity building of rural development and Panchayati Raj functionaries is the key concern of NIRD. 5. Recoveries adjusted in reduction of Expenditure: ..Recoveries adjusted in reduction of Expen diture 10.01. Indira Gandhi National Old Age Pension Scheme (IGNOAPS): ..Under the scheme, assistance is provided to persons of 60 years and above and belonging to family living below poverty line as per the criteria prescribed by Government of India. Cent ral assistance of ..`.200/- per month is provided to person in the age group of 60 -79 years and ..`.500/- per month to persons of 80 years and above. .. 10.02. National Family Benefit Scheme: ..Under this scheme a BPL household is entitled to one time lump su m assistance on",
+        "2024_budget": {
+          "revenue": 59.0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 18.0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "10.03",
+        "name": "Indira Gandhi National Widow Pension Scheme(IGNWPS): ..Under the scheme Central assistance of ..`.300/- per month is provided",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 40.0,
+            "total": -79.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "10.04",
+        "name": "Indira Gandhi National Disability Pension Scheme(IGNDPS): ..Under the scheme Central assistance of ..`.300/- per month is provided to persons aged 18 -79 years with severe or multiple disabilities and belonging to family living below poverty line as per the criteria prescribed by Government of India. After attaining the age of 80 years, the amount of pension is enhanced to ..`.500/- per month. .. 10.05. Annapurna Scheme: ..Under the scheme, 10 kg of food grains per month are provided free of cost to those senio r citizens who, though eligible, are not receiving old age pension. 10.06. Administrative Expenditure: ..For the financial year 2024 -25, an amount of ..`.20.11 crore is provided for the schemes under National Social Assistance Programme (NSAP). .. 12. MGNRE GA-Programme Component: ..There is a budget allocation of ..`.86,000 crore for implementation of Mahatma",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 2024.0,
+            "capital": -25.0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "100%",
+        "name": "wage payment within 15 days of work done is the liability of Central Government. .. 14. Pradhan Mantri Gram Sadak Yojna: ..Launched in 2000, Pradhan Mantri Gram Sadak Yojana (PMGSY) for providing all weather road connectivity to all eligible habitations of designated population size (500 plus in plain areas, 250 plus in NE,",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 100.0,
+            "capital": -239.0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "6016",
+        "name": "habitations have been",
+        "2024_budget": {
+          "revenue": 226.0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 6245.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "15",
+        "name": "National Rural Livelihood Mission: ..The Deendayal Antyodaya Yojana- National Rural Livelihoods Mission (DAY-NRLM) was launched in June 2011. The objective of DAY-NRLM is to organize the rural poor women into Self Help Groups (SHGs) , and continuously nurture and support them till they attain appreciable increase in incomes over a period of time and improve their quality of life and come out of abject poverty. DAY-NRLM seeks to reach out to all rural poor women, estimated at 10.0 crores in a phased manner. The core financial support under the programme is the Revolving Fund (RF) and Community Investment Fund (CIF) provided to Self Help Group (SHGs) and their Federations to facilitate their livelihood activities. DAY- NRLM also has a provision for Interest Subvention to women SHGs to avail loans upto ..`.3.00 lakh from banks at an interest rate of 7 percent per annum. Further, women SHGs can avail loans above ..`.3 lakhs and upto..`.5 lakhs at interest rate equivalent 1-year MCLR (Marginal Cost of Funds based Lending Rate) of respective lending banks. .. Mahila Kisan Sashkitikaran Pariyojna (MKSP) is one of the sub schemes of DAY-NRLM. It is meant to strengthen the existing agriculture based livelihoods of the poor and participation of women in agriculture and improve productivity. Start-up Village Entrepreneurship Programme (SVEP) supports Self Help Group (SHG) and their family members to set-up small enterprises in the non-farm sector. This is done by setting up an eco- system for supporting small enterprises in rural areas. Rural Self Employment Training Institutes (RSETIs) are being established in each district of the country to provide training to the rural youth from the poor households for setting up micro enterprises. Deen Dayal Upadhyaya Grameen Kaushalya Yojana (DDU-GKY) is a part of the National Rural Livelihood Mission (NRLM), tasked with the dual objectives of adding diversity to the incomes of rural poor families and cater to the career aspirations of rural youth. DDU-GKY is a placement linked skill development scheme",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 35.0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 15.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      }
+    ],
+    "public_enterprises": []
+  },
+  "number": 87
+}

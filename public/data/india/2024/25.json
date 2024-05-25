@@ -1,0 +1,849 @@
+{
+  "name": "MINISTRY OF EDUCATION",
+  "demand": "DEMAND NO. 25",
+  "department": "Department of School Education and Literacy",
+  "sections": {
+    "allocation": [
+      {
+        "index": "1",
+        "name": "Secretariat",
+        "2024_budget": {
+          "revenue": 54.26,
+          "capital": 0.76,
+          "total": 55.02
+        },
+        "2023": {
+          "budget": {
+            "revenue": 35.46,
+            "capital": 0.55,
+            "total": 36.01
+          },
+          "revised": {
+            "revenue": 42.17,
+            "capital": 0.65,
+            "total": 42.82
+          }
+        },
+        "2022_actual": {
+          "revenue": 32.09,
+          "capital": 0,
+          "total": 32.09
+        }
+      },
+      {
+        "index": "2",
+        "name": "Directorate of Adult Education",
+        "2024_budget": {
+          "revenue": 0.01,
+          "capital": 0,
+          "total": 0.01
+        },
+        "2023": {
+          "budget": {
+            "revenue": 3.0,
+            "capital": 0,
+            "total": 3.0
+          },
+          "revised": {
+            "revenue": 2.98,
+            "capital": 0,
+            "total": 2.98
+          }
+        },
+        "2022_actual": {
+          "revenue": 2.26,
+          "capital": 0,
+          "total": 2.26
+        }
+      },
+      {
+        "index": "3",
+        "name": "National Award to Teachers",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 3.97,
+          "capital": 0,
+          "total": 3.97
+        }
+      },
+      {
+        "index": "4",
+        "name": "Pradhan Mantri Innovative Learning Programme (DHRUV)",
+        "2024_budget": {
+          "revenue": 0.01,
+          "capital": 0,
+          "total": 0.01
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0.01,
+            "capital": 0,
+            "total": 0.01
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "5",
+        "name": "National Means cum Merit Scholarship Scheme",
+        "2024_budget": {
+          "revenue": 377.0,
+          "capital": 0,
+          "total": 377.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 364.0,
+            "capital": 0,
+            "total": 364.0
+          },
+          "revised": {
+            "revenue": 358.0,
+            "capital": 0,
+            "total": 358.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 306.5,
+          "capital": 0,
+          "total": 306.5
+        }
+      },
+      {
+        "index": "6",
+        "name": "Kendriya Vidyalaya Sangathan (KVS)",
+        "2024_budget": {
+          "revenue": 9302.67,
+          "capital": 0,
+          "total": 9302.67
+        },
+        "2023": {
+          "budget": {
+            "revenue": 8363.98,
+            "capital": 0,
+            "total": 8363.98
+          },
+          "revised": {
+            "revenue": 8500.0,
+            "capital": 0,
+            "total": 8500.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 7461.25,
+          "capital": 0,
+          "total": 7461.25
+        }
+      },
+      {
+        "index": "7",
+        "name": "Navodaya Vidyalaya Samiti (NVS)",
+        "2024_budget": {
+          "revenue": 5800.0,
+          "capital": 0,
+          "total": 5800.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 5486.5,
+            "capital": 0,
+            "total": 5486.5
+          },
+          "revised": {
+            "revenue": 5470.0,
+            "capital": 0,
+            "total": 5470.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 4920.3,
+          "capital": 0,
+          "total": 4920.3
+        }
+      },
+      {
+        "index": "8",
+        "name": "National Council of Educational Research and Training (NCERT)",
+        "2024_budget": {
+          "revenue": 510.0,
+          "capital": 0,
+          "total": 510.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 518.5,
+            "capital": 0,
+            "total": 518.5
+          },
+          "revised": {
+            "revenue": 480.0,
+            "capital": 0,
+            "total": 480.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 398.27,
+          "capital": 0,
+          "total": 398.27
+        }
+      },
+      {
+        "index": "9",
+        "name": "National Bal Bhawan",
+        "2024_budget": {
+          "revenue": 26.0,
+          "capital": 0,
+          "total": 26.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 22.38,
+            "capital": 0,
+            "total": 22.38
+          },
+          "revised": {
+            "revenue": 20.0,
+            "capital": 0,
+            "total": 20.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 20.52,
+          "capital": 0,
+          "total": 20.52
+        }
+      },
+      {
+        "index": "10",
+        "name": "Transfer to Madhyamik and Uchhatar Shiksha Kosh",
+        "2024_budget": {
+          "revenue": 11377.0,
+          "capital": 0,
+          "total": 11377.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 6000.0,
+            "capital": 0,
+            "total": 6000.0
+          },
+          "revised": {
+            "revenue": 17000.0,
+            "capital": 0,
+            "total": 17000.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "11",
+        "name": "Amount met from Madhyamik and Uchhatar Shiksha Kosh",
+        "2024_budget": {
+          "revenue": -11867.0,
+          "capital": 0,
+          "total": -11867.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": -6000.0,
+            "capital": 0,
+            "total": -6000.0
+          },
+          "revised": {
+            "revenue": -6000.0,
+            "capital": 0,
+            "total": -6000.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "12.",
+        "name": "Samagra Shiksha"
+      },
+      {
+        "index": "12.01",
+        "name": "Support for Samagra Shiksha",
+        "2024_budget": {
+          "revenue": 37499.99,
+          "capital": 0,
+          "total": 37499.99
+        },
+        "2023": {
+          "budget": {
+            "revenue": 37453.46,
+            "capital": 0,
+            "total": 37453.46
+          },
+          "revised": {
+            "revenue": 32999.99,
+            "capital": 0,
+            "total": 32999.99
+          }
+        },
+        "2022_actual": {
+          "revenue": 32514.68,
+          "capital": 0,
+          "total": 32514.68
+        }
+      },
+      {
+        "index": "12.02",
+        "name": "EAP Component",
+        "2024_budget": {
+          "revenue": 0.01,
+          "capital": 0,
+          "total": 0.01
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0.01,
+            "capital": 0,
+            "total": 0.01
+          },
+          "revised": {
+            "revenue": 0.01,
+            "capital": 0,
+            "total": 0.01
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "13",
+        "name": "Pradhan Mantri Poshan Shakti Nirman (PM POSHAN)",
+        "2024_budget": {
+          "revenue": 12467.39,
+          "capital": 0,
+          "total": 12467.39
+        },
+        "2023": {
+          "budget": {
+            "revenue": 11600.0,
+            "capital": 0,
+            "total": 11600.0
+          },
+          "revised": {
+            "revenue": 10000.0,
+            "capital": 0,
+            "total": 10000.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 12680.97,
+          "capital": 0,
+          "total": 12680.97
+        }
+      },
+      {
+        "index": "14",
+        "name": "Strengthening Teaching -Learning and Results for States (STARS)",
+        "2024_budget": {
+          "revenue": 1250.0,
+          "capital": 0,
+          "total": 1250.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 800.0,
+            "capital": 0,
+            "total": 800.0
+          },
+          "revised": {
+            "revenue": 700.0,
+            "capital": 0,
+            "total": 700.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 472.91,
+          "capital": 0,
+          "total": 472.91
+        }
+      },
+      {
+        "index": "15",
+        "name": "PM Schools for Rising India (PM SHRI)",
+        "2024_budget": {
+          "revenue": 6050.0,
+          "capital": 0,
+          "total": 6050.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 4000.0,
+            "capital": 0,
+            "total": 4000.0
+          },
+          "revised": {
+            "revenue": 2800.0,
+            "capital": 0,
+            "total": 2800.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "16",
+        "name": "New India Literacy Programme (NILP)",
+        "2024_budget": {
+          "revenue": 160.0,
+          "capital": 0,
+          "total": 160.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 157.0,
+            "capital": 0,
+            "total": 157.0
+          },
+          "revised": {
+            "revenue": 100.0,
+            "capital": 0,
+            "total": 100.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 76.41,
+          "capital": 0,
+          "total": 76.41
+        }
+      },
+      {
+        "index": "17",
+        "name": "Transfer to Prarambhik Shiksha Kosh (PSK)",
+        "2024_budget": {
+          "revenue": 43000.0,
+          "capital": 0,
+          "total": 43000.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 30000.0,
+            "capital": 0,
+            "total": 30000.0
+          },
+          "revised": {
+            "revenue": 38000.0,
+            "capital": 0,
+            "total": 38000.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 38000.0,
+          "capital": 0,
+          "total": 38000.0
+        }
+      },
+      {
+        "index": "18",
+        "name": "Amount met from Prarambhik Shiksha Kosh (PSK)",
+        "2024_budget": {
+          "revenue": -43000.0,
+          "capital": 0,
+          "total": -43000.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": -30000.0,
+            "capital": 0,
+            "total": -30000.0
+          },
+          "revised": {
+            "revenue": -38000.0,
+            "capital": 0,
+            "total": -38000.0
+          }
+        },
+        "2022_actual": {
+          "revenue": -38000.0,
+          "capital": 0,
+          "total": -38000.0
+        }
+      },
+      {
+        "index": "19",
+        "name": "Actual Recoveries -250.57 ... -250.57 ... ... ... ... ... ... ... ... ... Grand Total",
+        "2024_budget": {
+          "revenue": 73007.34,
+          "capital": 0.76,
+          "total": 73008.1
+        },
+        "2023": {
+          "budget": {
+            "revenue": 68804.3,
+            "capital": 0.55,
+            "total": 68804.85
+          },
+          "revised": {
+            "revenue": 72473.15,
+            "capital": 0.65,
+            "total": 72473.8
+          }
+        },
+        "2022_actual": {
+          "revenue": 58639.56,
+          "capital": 0,
+          "total": 58639.56
+        }
+      }
+    ],
+    "development_heads": [
+      {
+        "index": "1",
+        "name": "General Education",
+        "2024_budget": {
+          "revenue": 17126.82,
+          "capital": 0,
+          "total": 17126.82
+        },
+        "2023": {
+          "budget": {
+            "revenue": 15012.58,
+            "capital": 0,
+            "total": 15012.58
+          },
+          "revised": {
+            "revenue": 26771.6,
+            "capital": 0,
+            "total": 26771.6
+          }
+        },
+        "2022_actual": {
+          "revenue": 13666.98,
+          "capital": 0,
+          "total": 13666.98
+        }
+      },
+      {
+        "index": "2",
+        "name": "Secretariat -Social Services",
+        "2024_budget": {
+          "revenue": 54.26,
+          "capital": 0,
+          "total": 54.26
+        },
+        "2023": {
+          "budget": {
+            "revenue": 35.46,
+            "capital": 0,
+            "total": 35.46
+          },
+          "revised": {
+            "revenue": 42.17,
+            "capital": 0,
+            "total": 42.17
+          }
+        },
+        "2022_actual": {
+          "revenue": 32.05,
+          "capital": 0,
+          "total": 32.05
+        }
+      },
+      {
+        "index": "3",
+        "name": "Capital Outlay on other Social Services",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0.76,
+          "total": 0.76
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0.55,
+            "total": 0.55
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0.65,
+            "total": 0.65
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "4",
+        "name": "North Eastern Areas",
+        "2024_budget": {
+          "revenue": 7029.63,
+          "capital": 0,
+          "total": 7029.63
+        },
+        "2023": {
+          "budget": {
+            "revenue": 6510.88,
+            "capital": 0,
+            "total": 6510.88
+          },
+          "revised": {
+            "revenue": 5375.45,
+            "capital": 0,
+            "total": 5375.45
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "5",
+        "name": "Grants -in-aid to State Governments",
+        "2024_budget": {
+          "revenue": 46620.77,
+          "capital": 0,
+          "total": 46620.77
+        },
+        "2023": {
+          "budget": {
+            "revenue": 45234.07,
+            "capital": 0,
+            "total": 45234.07
+          },
+          "revised": {
+            "revenue": 38416.92,
+            "capital": 0,
+            "total": 38416.92
+          }
+        },
+        "2022_actual": {
+          "revenue": 44031.86,
+          "capital": 0,
+          "total": 44031.86
+        }
+      },
+      {
+        "index": "6",
+        "name": "Grants -in-aid to Union Territory Governments",
+        "2024_budget": {
+          "revenue": 2175.86,
+          "capital": 0,
+          "total": 2175.86
+        },
+        "2023": {
+          "budget": {
+            "revenue": 2011.31,
+            "capital": 0,
+            "total": 2011.31
+          },
+          "revised": {
+            "revenue": 1867.01,
+            "capital": 0,
+            "total": 1867.01
+          }
+        },
+        "2022_actual": {
+          "revenue": 908.67,
+          "capital": 0,
+          "total": 908.67
+        }
+      },
+      {
+        "index": "1",
+        "name": "Secr etariat: ..Provides for Secretariat expenditure of the Department. 2. Directorate of Adult Education: ..Directorate of Adult Education (DAE) has been functioning as the National Resource Center in the field of Adult Education. The Directorate was set up as subordinate office of the Department of Elementary Education & Literacy under the Ministry of Education to provide academic and technical resource support to various government and non -government agencies implementing Adult Education Progarmme in the count ry. 3. National Award to Teachers: ..Instituted in 1958, the National Award to Teachers are given away by the President of India on 5th September (Teacher's Day) every year to give public recognition to meritorious teachers working in primary, middle and s econdary schools. 4. Pradhan Mantri Innovative Learning Programme (DHRUV): ..This Scheme is an initiative to provide guidance from renowned/prominent persons in their field to select talented students. 5. National Means cum Merit Scholarship Scheme: ..National Means -cum-Merit Scholarship Scheme launched in 2008 provides for one lakh Scholarships of ..`6000/ - per annum ( `500/- per month) at class IX stage which continues upto class XII subject to fulfilment of eligibility criteria. The objective of the scheme is to award scholarships to meritorious students of economically weaker sections to arrest their drop-out at class VIII and encourage them to continue the secondary stage i.e upto class XII. In this Scheme, the corpus of Madhyamik and Uchchtar Shiksha",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 2024.0,
+          "total": -25.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 2023.0,
+            "capital": -24.0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "6",
+        "name": "Kendriya Vidyalaya Sangathan (KVS): ..Kendriya Vidyalaya Sangathan was set up in 1965, as a registered body, wholly financed by Government to establish, control and manage Kendriya Vidyalayas, the main objective of which is to meet the educational needs of the children of transferable Central Government employees. In this Scheme, the corpus of Madhyamik and Uchchtar Shiksha Kosh (MUSK) in Revis ed Estimates 2023 -24 is kept at",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 2024.0,
+            "total": -25.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "7",
+        "name": "Navodaya Vidyalaya Samiti (NVS): ..In pursuance of National Policy of Education (NPE), -1986 (as modified in 1992) on setting up of residential schools where good qu ality education could be imparted to the talented children from rural area, a Central Scheme was launched by the Government of India in 1986 to setup Jawahar Navodaya Vidyalayas (JNVs) in each district of the Country. These JNVs are run by an Autonomous or ganizations, the Navodaya Vidyalayas Samiti (NVS) established in 1986 under the Registration of Socities Act, 1860. In the Scheme of NVS, the corpus of Madhyamik and Uchhatara Shiksha Kosh (MUSK) in Revised Estimates 2023 -24 is kept as Rs",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 2024.0,
+            "total": -25.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 1750.0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "8",
+        "name": "National Council of Educational Research and Training (NCERT): ..National Council of Educational Research and Training (NCERT) was set up in 1961 by the Government of India as an autonomous organization to advise and assist the Ministry of Human Resource Development, Government of India and Departments of Education in States/UTs in formulation and implementation of their policies and major programmes including finalization of National Curriculum Framework (NCF) in the field of Education particularly for qualitative improvement in School Education. 9. National Bal Bhawan: ..National Bal Bhawan (NBB), New Delhi established by the Government of India in 1956 at the initiative of the first Prime Minister of India, Pt. Jawahar Lal Nehru, is an autonomous body which is fully financed by the Ministry of Education, Department of School Education and Literacy. National Bal Bhawan has been contributing towards achieving creativity amongst children in the age group of",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 5.0,
+          "capital": -16.0,
+          "total": 0
+        }
+      },
+      {
+        "index": "12",
+        "name": "Samagra Shiksha: ..The erstwhile Schemes of Sarva Shiksha Abhiyan (SSA), Rashtriya Madhyamik Shiksha Abhiyan (RMSA) and Strengthening of Teacher Training Institutions have been merged to form the Scheme of Samagra Shiksha. The merger intends to give a holistic approach to School Education. In this Scheme, the corpus of Prarambhik Shiksha Kosh (PSK) and Madhyamik and Uchchtar Shiksha Kosh (MUSK) in Revised Estimates 2023 -24 is kept",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 2024.0,
+          "total": -25.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "13",
+        "name": "Pradhan Mantri Poshan Shakti Nirman (PM POSHAN): ..Pradhan Mantri Poshan Shakti Nirman (PM - POSHAN) earlier known as the National Programme of Mid -Day Meals in Schools is one of the foremost rights based Centrally Sponsored Schemes under the National Food Security Act, 2013 (NFSA). The primary objective of the scheme is to improve the nutritional status of children studying in classes I-VIII in eligible schools. In Financial Year 2023 -24, the corpus of Prarambhik Shiksha Kosh (PSK) at Rev ised Estimates is kept at ..`.10000 crore in the Scheme of Pradhan Mantri Poshan Shakti Nirman (PM - POSHAN). In BE 2024 -25 PSK is ..`.12000 crore. .. 14. Strengthening Teaching -Learning and Results for States (STARS): ..The Strengthening Teaching -Learning and Results for States (STARS) project seeks to support the states in developing, implementing, evaluating and improving interventions with direct linkages to improved education outcomes and school to work transition strategies for improved labour market o utcomes. The overall focus and components of the STARS project are aligned with the objectives of National Education Policy (NEP) 2020 of Quality Based Learning Outcomes. 15. PM Schools for Rising India (PM SHRI): ..The Scheme of PM Shri earlier known as Exemplar aims to prepare more than 15000 schools of excellence which will help show case the implementation of the National Education Policy 2020 and emerge as exemplars and schools of excellence over a period of time. They will provide leadership in their respective regions in providing high -quality education in an equitable, inclusive and joyful school environment that takes care of the diverse background, multilingual needs, and different academic abilities of children and makes them active participants in their own learning process as per the vision of NEP 2020. 16. New India Literacy Programme (NILP): ..A new Centrally Sponsored Scheme of Adult Education 'New India",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 2022.0,
+            "capital": -27.0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      }
+    ],
+    "public_enterprises": []
+  },
+  "number": 25
+}

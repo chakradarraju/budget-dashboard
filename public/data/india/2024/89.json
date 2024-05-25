@@ -1,0 +1,411 @@
+{
+  "name": "No. 89/Department of Science and Technology MINISTRY OF SCIENCE AND TECHNOLOGY",
+  "demand": "DEMAND NO. 89",
+  "department": "Department of Science and Technology",
+  "sections": {
+    "allocation": [
+      {
+        "index": "1.Secretariat",
+        "name": "",
+        "2024_budget": {
+          "revenue": 105.26,
+          "capital": 17.35,
+          "total": 122.61
+        },
+        "2023": {
+          "budget": {
+            "revenue": 98.75,
+            "capital": 15.25,
+            "total": 114.0
+          },
+          "revised": {
+            "revenue": 112.35,
+            "capital": 4.55,
+            "total": 116.9
+          }
+        },
+        "2022_actual": {
+          "revenue": 94.31,
+          "capital": 0,
+          "total": 94.31
+        }
+      },
+      {
+        "index": "2.Survey",
+        "name": "of India",
+        "2024_budget": {
+          "revenue": 489.89,
+          "capital": 43.75,
+          "total": 533.64
+        },
+        "2023": {
+          "budget": {
+            "revenue": 464.7,
+            "capital": 66.0,
+            "total": 530.7
+          },
+          "revised": {
+            "revenue": 426.36,
+            "capital": 31.6,
+            "total": 457.96
+          }
+        },
+        "2022_actual": {
+          "revenue": 439.03,
+          "capital": 36.69,
+          "total": 475.72
+        }
+      },
+      {
+        "index": "3.National",
+        "name": "Atlas and Thematic Mapping Organization",
+        "2024_budget": {
+          "revenue": 27.79,
+          "capital": 3.4,
+          "total": 31.19
+        },
+        "2023": {
+          "budget": {
+            "revenue": 29.0,
+            "capital": 7.05,
+            "total": 36.05
+          },
+          "revised": {
+            "revenue": 27.28,
+            "capital": 5.24,
+            "total": 32.52
+          }
+        },
+        "2022_actual": {
+          "revenue": 24.95,
+          "capital": 3.34,
+          "total": 28.29
+        }
+      },
+      {
+        "index": "4.Science",
+        "name": "Counsellor Abroad",
+        "2024_budget": {
+          "revenue": 8.5,
+          "capital": 0,
+          "total": 8.5
+        },
+        "2023": {
+          "budget": {
+            "revenue": 11.5,
+            "capital": 0,
+            "total": 11.5
+          },
+          "revised": {
+            "revenue": 9.5,
+            "capital": 0,
+            "total": 9.5
+          }
+        },
+        "2022_actual": {
+          "revenue": 21.12,
+          "capital": 0,
+          "total": 21.12
+        }
+      },
+      {
+        "index": "5.Science",
+        "name": "and Technology Institutional and Human Capacity",
+        "2024_budget": {
+          "revenue": 900.0,
+          "capital": 0,
+          "total": 900.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1068.4,
+            "capital": 0,
+            "total": 1068.4
+          },
+          "revised": {
+            "revenue": 500.0,
+            "capital": 0,
+            "total": 500.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 769.88
+        }
+      },
+      {
+        "index": "6.Research",
+        "name": "and Development",
+        "2024_budget": {
+          "revenue": 291.0,
+          "capital": 0,
+          "total": 291.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 592.0,
+            "capital": 0,
+            "total": 592.0
+          },
+          "revised": {
+            "revenue": 200.0,
+            "capital": 0,
+            "total": 200.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 245.04,
+          "capital": 0,
+          "total": 245.04
+        }
+      },
+      {
+        "index": "7.Innovation,",
+        "name": "Technology Development and Deployment476.33 ... 476.33 536.60 ... 536.60 200.00 ... 200.00 536.61 ... 536.61"
+      },
+      {
+        "index": "8.National",
+        "name": "Mission on Interdisciplinary Cyber Physical Systems299.40 ... 299.40 580.00 ... 580.00 435.00 ... 435.00 614.46 ... 614.46"
+      },
+      {
+        "index": "9.National",
+        "name": "Quantum Mission (NQM)",
+        "2024_budget": {
+          "revenue": 477.0,
+          "capital": 0,
+          "total": 477.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 5.0,
+            "capital": 0,
+            "total": 5.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "10",
+        "name": "Science and Engineering Research Board",
+        "2024_budget": {
+          "revenue": 803.0,
+          "capital": 0,
+          "total": 803.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 803.0,
+            "capital": 0,
+            "total": 803.0
+          },
+          "revised": {
+            "revenue": 1004.5,
+            "capital": 0,
+            "total": 1004.5
+          }
+        },
+        "2022_actual": {
+          "revenue": 803.0,
+          "capital": 0,
+          "total": 803.0
+        }
+      },
+      {
+        "index": "11",
+        "name": "Technology Development Board",
+        "2024_budget": {
+          "revenue": 100.0,
+          "capital": 0,
+          "total": 100.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 100.0,
+            "capital": 0,
+            "total": 100.0
+          },
+          "revised": {
+            "revenue": 54.7,
+            "capital": 0,
+            "total": 54.7
+          }
+        },
+        "2022_actual": {
+          "revenue": 100.0,
+          "capital": 0,
+          "total": 100.0
+        }
+      },
+      {
+        "index": "12",
+        "name": "Assistance to Autonomous Bodies",
+        "2024_budget": {
+          "revenue": 1612.2,
+          "capital": 0,
+          "total": 1612.2
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1560.0,
+            "capital": 0,
+            "total": 1560.0
+          },
+          "revised": {
+            "revenue": 1618.3,
+            "capital": 0,
+            "total": 1618.3
+          }
+        },
+        "2022_actual": {
+          "revenue": 1246.9,
+          "capital": 0,
+          "total": 1246.9
+        }
+      },
+      {
+        "index": "13",
+        "name": "National Research Foundation (NRF)",
+        "2024_budget": {
+          "revenue": 2000.0,
+          "capital": 0,
+          "total": 2000.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 2000.0,
+            "capital": 0,
+            "total": 2000.0
+          },
+          "revised": {
+            "revenue": 258.6,
+            "capital": 0,
+            "total": 258.6
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "14",
+        "name": "Actual Recoveries -123.73 ... -123.73 ... ... ... ... ... ... ... ... ... Total -Others",
+        "2024_budget": {
+          "revenue": 2000.0,
+          "capital": 0,
+          "total": 2000.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 2000.0,
+            "capital": 0,
+            "total": 2000.0
+          },
+          "revised": {
+            "revenue": 258.6,
+            "capital": 0,
+            "total": 258.6
+          }
+        },
+        "2022_actual": {
+          "revenue": -123.73,
+          "capital": 0,
+          "total": -123.73
+        }
+      }
+    ],
+    "development_heads": [
+      {
+        "index": "1",
+        "name": "Other Scientific Research",
+        "2024_budget": {
+          "revenue": 7859.25,
+          "capital": 0,
+          "total": 7859.25
+        },
+        "2023": {
+          "budget": {
+            "revenue": 7744.0,
+            "capital": 0,
+            "total": 7744.0
+          },
+          "revised": {
+            "revenue": 4738.04,
+            "capital": 0,
+            "total": 4738.04
+          }
+        },
+        "2022_actual": {
+          "revenue": 4302.07,
+          "capital": 0,
+          "total": 4302.07
+        }
+      },
+      {
+        "index": "2",
+        "name": "Secretariat -Economic Services",
+        "2024_budget": {
+          "revenue": 105.26,
+          "capital": 0,
+          "total": 105.26
+        },
+        "2023": {
+          "budget": {
+            "revenue": 98.75,
+            "capital": 0,
+            "total": 98.75
+          },
+          "revised": {
+            "revenue": 112.35,
+            "capital": 0,
+            "total": 112.35
+          }
+        },
+        "2022_actual": {
+          "revenue": 94.16,
+          "capital": 0,
+          "total": 94.16
+        }
+      },
+      {
+        "index": "3",
+        "name": "Capital Outlay on Other Scientific and Environmental Research",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 64.5,
+          "total": 64.5
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 88.3,
+            "total": 88.3
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 41.39,
+            "total": 41.39
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 40.03,
+          "total": 40.03
+        }
+      }
+    ],
+    "public_enterprises": []
+  },
+  "number": 89
+}

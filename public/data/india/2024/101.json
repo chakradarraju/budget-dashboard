@@ -1,0 +1,715 @@
+{
+  "name": "MINISTRY OF WOMEN AND CHILD DEVELOPMENT",
+  "demand": "DEMAND NO. 101",
+  "department": "Ministry of Women and Child Development",
+  "sections": {
+    "allocation": [
+      {
+        "index": "1",
+        "name": "Secretariat",
+        "2024_budget": {
+          "revenue": 80.41,
+          "capital": 3.38,
+          "total": 83.79
+        },
+        "2023": {
+          "budget": {
+            "revenue": 61.32,
+            "capital": 3.08,
+            "total": 64.4
+          },
+          "revised": {
+            "revenue": 64.32,
+            "capital": 9.08,
+            "total": 73.4
+          }
+        },
+        "2022_actual": {
+          "revenue": 56.96,
+          "capital": 0,
+          "total": 56.96
+        }
+      },
+      {
+        "index": "2",
+        "name": "Food and Nutrition Board",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 18.0,
+            "capital": 0,
+            "total": 18.0
+          },
+          "revised": {
+            "revenue": 19.3,
+            "capital": 0,
+            "total": 19.3
+          }
+        },
+        "2022_actual": {
+          "revenue": 15.83,
+          "capital": 0,
+          "total": 15.83
+        }
+      },
+      {
+        "index": "3",
+        "name": "National Institute of Public Cooperation and Child Development (NIPCCD)",
+        "2024_budget": {
+          "revenue": 88.87,
+          "capital": 0,
+          "total": 88.87
+        },
+        "2023": {
+          "budget": {
+            "revenue": 56.0,
+            "capital": 0,
+            "total": 56.0
+          },
+          "revised": {
+            "revenue": 73.5,
+            "capital": 0,
+            "total": 73.5
+          }
+        },
+        "2022_actual": {
+          "revenue": 47.17,
+          "capital": 0,
+          "total": 47.17
+        }
+      },
+      {
+        "index": "4",
+        "name": "Central Adoption Resource Agency (CARA)",
+        "2024_budget": {
+          "revenue": 11.4,
+          "capital": 0,
+          "total": 11.4
+        },
+        "2023": {
+          "budget": {
+            "revenue": 9.4,
+            "capital": 0,
+            "total": 9.4
+          },
+          "revised": {
+            "revenue": 10.38,
+            "capital": 0,
+            "total": 10.38
+          }
+        },
+        "2022_actual": {
+          "revenue": 6.68,
+          "capital": 0,
+          "total": 6.68
+        }
+      },
+      {
+        "index": "5",
+        "name": "National Commission for Protection of Child Rights (NCPCR)",
+        "2024_budget": {
+          "revenue": 24.79,
+          "capital": 0,
+          "total": 24.79
+        },
+        "2023": {
+          "budget": {
+            "revenue": 21.25,
+            "capital": 0,
+            "total": 21.25
+          },
+          "revised": {
+            "revenue": 28.9,
+            "capital": 0,
+            "total": 28.9
+          }
+        },
+        "2022_actual": {
+          "revenue": 22.3,
+          "capital": 0,
+          "total": 22.3
+        }
+      },
+      {
+        "index": "6",
+        "name": "National Commission for Women",
+        "2024_budget": {
+          "revenue": 28.0,
+          "capital": 0,
+          "total": 28.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 42.0,
+            "capital": 0,
+            "total": 42.0
+          },
+          "revised": {
+            "revenue": 29.79,
+            "capital": 0,
+            "total": 29.79
+          }
+        },
+        "2022_actual": {
+          "revenue": 29.12,
+          "capital": 0,
+          "total": 29.12
+        }
+      },
+      {
+        "index": "7",
+        "name": "Central Social Welfare Board",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 40.06,
+            "capital": 0,
+            "total": 40.06
+          },
+          "revised": {
+            "revenue": 55.06,
+            "capital": 0,
+            "total": 55.06
+          }
+        },
+        "2022_actual": {
+          "revenue": 69.33,
+          "capital": 0,
+          "total": 69.33
+        }
+      },
+      {
+        "index": "8",
+        "name": "National Awards",
+        "2024_budget": {
+          "revenue": 1.6,
+          "capital": 0,
+          "total": 1.6
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1.6,
+            "capital": 0,
+            "total": 1.6
+          },
+          "revised": {
+            "revenue": 1.6,
+            "capital": 0,
+            "total": 1.6
+          }
+        },
+        "2022_actual": {
+          "revenue": 0.56,
+          "capital": 0,
+          "total": 0.56
+        }
+      },
+      {
+        "index": "9",
+        "name": "Contribution to UNICEF",
+        "2024_budget": {
+          "revenue": 5.6,
+          "capital": 0,
+          "total": 5.6
+        },
+        "2023": {
+          "budget": {
+            "revenue": 5.6,
+            "capital": 0,
+            "total": 5.6
+          },
+          "revised": {
+            "revenue": 5.6,
+            "capital": 0,
+            "total": 5.6
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "10",
+        "name": "Other Schemes Funded from Nirbhaya Fund",
+        "2024_budget": {
+          "revenue": 30.0,
+          "capital": 0,
+          "total": 30.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 20.0,
+            "capital": 0,
+            "total": 20.0
+          },
+          "revised": {
+            "revenue": 30.0,
+            "capital": 0,
+            "total": 30.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 4.95,
+          "capital": 0,
+          "total": 4.95
+        }
+      },
+      {
+        "index": "11",
+        "name": "Transfer to Nirbhaya Fund",
+        "2024_budget": {
+          "revenue": 500.0,
+          "capital": 0,
+          "total": 500.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 500.0,
+            "capital": 0,
+            "total": 500.0
+          },
+          "revised": {
+            "revenue": 500.0,
+            "capital": 0,
+            "total": 500.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 500.0,
+          "capital": 0,
+          "total": 500.0
+        }
+      },
+      {
+        "index": "12",
+        "name": "Amount met from Nirbhaya Fund",
+        "2024_budget": {
+          "revenue": -500.0,
+          "capital": 0,
+          "total": -500.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": -500.0,
+            "capital": 0,
+            "total": -500.0
+          },
+          "revised": {
+            "revenue": -500.0,
+            "capital": 0,
+            "total": -500.0
+          }
+        },
+        "2022_actual": {
+          "revenue": -4.95,
+          "capital": 0,
+          "total": -4.95
+        }
+      },
+      {
+        "index": "13",
+        "name": "Actual Recoveries -13.07 ... -13.07 ... ... ... ... ... ... ... ... ... 14. Saksham Anganwadi and POSHAN 2.0 (Umbrella ICDS - Anganwadi Services, Poshan Abhiyan, Scheme for Adolescent Girls)",
+        "2024_budget": {
+          "revenue": 21200.0,
+          "capital": 0,
+          "total": 21200.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 20552.31,
+            "capital": 2.0,
+            "total": 20554.31
+          },
+          "revised": {
+            "revenue": 21521.13,
+            "capital": 2.0,
+            "total": 21523.13
+          }
+        },
+        "2022_actual": {
+          "revenue": 19876.11,
+          "capital": 0,
+          "total": 19876.11
+        }
+      },
+      {
+        "index": "15",
+        "name": "Mission VATSALYA (Child Protection Services and Child Welfare Services)",
+        "2024_budget": {
+          "revenue": 1472.17,
+          "capital": 0,
+          "total": 1472.17
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1472.17,
+            "capital": 0,
+            "total": 1472.17
+          },
+          "revised": {
+            "revenue": 1272.17,
+            "capital": 0,
+            "total": 1272.17
+          }
+        },
+        "2022_actual": {
+          "revenue": 1042.91,
+          "capital": 0,
+          "total": 1042.91
+        }
+      },
+      {
+        "index": "16",
+        "name": "Mission Shakti (Mission for Protection and Empowerment for Women) 16.01 SAMBAL (Beti Bacaho Beti Padhao, One Stop Centre, Nari Adalat, Mahila Police Volunteer, Women's Helpline etc.)",
+        "2024_budget": {
+          "revenue": 629.0,
+          "capital": 0,
+          "total": 629.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 562.0,
+            "capital": 0,
+            "total": 562.0
+          },
+          "revised": {
+            "revenue": 462.0,
+            "capital": 0,
+            "total": 462.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 195.6,
+          "capital": 0,
+          "total": 195.6
+        }
+      },
+      {
+        "index": "16.02",
+        "name": "SAMARTHYA(Shakti Sadan (Swadhar, Ujjawala, Widow Home), Shakhi Niwas (Working Women Hostel), Palna (National Creche Scheme), Pradhan Mantri Matru Vandana Yojana/ National Hub for Women Empowerment/Gender Budgeting/Research/ Skilling/ Trg/ Media etc.)",
+        "2024_budget": {
+          "revenue": 2516.97,
+          "capital": 0,
+          "total": 2516.97
+        },
+        "2023": {
+          "budget": {
+            "revenue": 2581.96,
+            "capital": 0,
+            "total": 2581.96
+          },
+          "revised": {
+            "revenue": 1863.85,
+            "capital": 0,
+            "total": 1863.85
+          }
+        },
+        "2022_actual": {
+          "revenue": 2144.55,
+          "capital": 0,
+          "total": 2144.55
+        }
+      }
+    ],
+    "development_heads": [
+      {
+        "index": "1",
+        "name": "Social Security and Welfare",
+        "2024_budget": {
+          "revenue": 1226.29,
+          "capital": 0,
+          "total": 1226.29
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1429.92,
+            "capital": 0,
+            "total": 1429.92
+          },
+          "revised": {
+            "revenue": 1169.11,
+            "capital": 0,
+            "total": 1169.11
+          }
+        },
+        "2022_actual": {
+          "revenue": 2661.76,
+          "capital": 0,
+          "total": 2661.76
+        }
+      },
+      {
+        "index": "2",
+        "name": "Nutrition",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 18.0,
+            "capital": 0,
+            "total": 18.0
+          },
+          "revised": {
+            "revenue": 19.3,
+            "capital": 0,
+            "total": 19.3
+          }
+        },
+        "2022_actual": {
+          "revenue": 15.83,
+          "capital": 0,
+          "total": 15.83
+        }
+      },
+      {
+        "index": "3",
+        "name": "Secretariat -Social Services",
+        "2024_budget": {
+          "revenue": 80.41,
+          "capital": 0,
+          "total": 80.41
+        },
+        "2023": {
+          "budget": {
+            "revenue": 61.32,
+            "capital": 0,
+            "total": 61.32
+          },
+          "revised": {
+            "revenue": 64.32,
+            "capital": 0,
+            "total": 64.32
+          }
+        },
+        "2022_actual": {
+          "revenue": 56.93,
+          "capital": 0,
+          "total": 56.93
+        }
+      },
+      {
+        "index": "4",
+        "name": "Capital Outlay on Social Security and Welfare",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 2.0,
+            "total": 2.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 2.0,
+            "total": 2.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "5",
+        "name": "Capital Outlay on other Social Services",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 3.38,
+          "total": 3.38
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 3.08,
+            "total": 3.08
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 9.08,
+            "total": 9.08
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "6",
+        "name": "North Eastern Areas",
+        "2024_budget": {
+          "revenue": 2733.9,
+          "capital": 0,
+          "total": 2733.9
+        },
+        "2023": {
+          "budget": {
+            "revenue": 2519.0,
+            "capital": 0,
+            "total": 2519.0
+          },
+          "revised": {
+            "revenue": 2522.0,
+            "capital": 0,
+            "total": 2522.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "7",
+        "name": "Grants -in-aid to State Governments",
+        "2024_budget": {
+          "revenue": 21235.88,
+          "capital": 0,
+          "total": 21235.88
+        },
+        "2023": {
+          "budget": {
+            "revenue": 20506.56,
+            "capital": 0,
+            "total": 20506.56
+          },
+          "revised": {
+            "revenue": 20801.15,
+            "capital": 0,
+            "total": 20801.15
+          }
+        },
+        "2022_actual": {
+          "revenue": 20544.62,
+          "capital": 0,
+          "total": 20544.62
+        }
+      },
+      {
+        "index": "8",
+        "name": "Grants -in-aid to Union Territory Governments",
+        "2024_budget": {
+          "revenue": 812.33,
+          "capital": 0,
+          "total": 812.33
+        },
+        "2023": {
+          "budget": {
+            "revenue": 908.87,
+            "capital": 0,
+            "total": 908.87
+          },
+          "revised": {
+            "revenue": 861.72,
+            "capital": 0,
+            "total": 861.72
+          }
+        },
+        "2022_actual": {
+          "revenue": 714.91,
+          "capital": 0,
+          "total": 714.91
+        }
+      },
+      {
+        "index": "1",
+        "name": "Secretariat: ..The provision is for expenditure on Secretariat of the Ministry. It also includes requirements for purchase of Information Technology purchase of hardware and software, training etc. for strengthening of e -governance activities in the Ministr y. 2. Food and Nutrion Board: ..The Food and Nutrition Board (FNB) is a technical support wing under Child Development Bureau of the Ministry. FNB is responsible for the policy issues related to nutrition. It provides inputs for nutrition education and a wareness through a wide range of nutrition education and extension services as well as training programmes. 3. National Institute of Public Cooperation and Child Development (NIPCCD): ..NIPCCD conducts research and evaluation studies, organizes training pr ogrammes, seminars, workshops, conferences, provides information services in the field of public cooperation and child development and also caters to the need of training and research consultancy through its headquarters in New Delhi and its four regional centres at Bangalore, Guwahati, Indore and Lucknow. 4. Central Adoption Resource Agency (CARA): ..Central Adoption Resource Authority is a statutory body of Ministry of Women & Child Development, Government of India. It functions as the nodal body for adoption of Indian children and is mandated to monitor and regulate in country and inter country adoptions. CARA primarily deals with adoption of orphan, abandoned and surrendered children through its associated recognised adoption agencies. Adoption Regu lations, 2017 framed by Central Adoption Resource Authority as mandated under section 68 c of Juvenile Justice (Care and Protection of Children) Act, 2015 has been notified on 4th",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 2015.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 2017.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 2017.0,
+          "total": 0
+        }
+      },
+      {
+        "index": "5",
+        "name": "National Commission for Protection of Child Rights (NCPCR): ..The NCPCR was set up under the Commissions for Protection of Child Rights Act, 2005 to ensure better protection of the rights of the child through the monitoring of constitutional a nd legal rights of children and monitoring programmes relating to the survival, welfare and development of children. 6. National Commission for Women: ..National Commission for Women is a statutory body constituted under National Commission",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1.0,
+            "capital": 990.0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "7",
+        "name": "Central Social Welfare Board: ..CSWB has initiated several programmes for the welfare and development of women and children, especially in rural areas. The important programmes that are currently being implemented include Condensed Courses of Education for women and girls, Awareness Generation programmes, Creche Scheme, Family Counselling Centres and Short Stay Homes. These schemes are implemented through Voluntary Organizations in collaboration with State Social Welfare Boards. 8. National Awards: ..This includes provision for the National Awards for Child Welfare. 9. Contribution to UNICEF: ..This is meant for meeting expenditure on India contribution to the UNICEF. 14. Saksham Anganwadi and POSHAN 2.0 (Umbrella ICDS - Anganwadi Services, Poshan Abhiyan, Scheme for Adolescent Girls): ..Saksham Anganwadi and Poshan 2.0 - The objective of the scheme is to develop practices that nurture health, wellness and immunity among malnutrition. The schemes of Anganwadi Services, Adolescent Girls and Poshan Abh iyaan have been re -aligned under Poshan 2.0 for maximizing nutritional outcomes. Components under the schemes have been reorganized in 3 primary verticals viz. Nutrition Support for POSHAN and for Adolescent Girls, Early Childhood Care and Education (3 - 6 years) and Anganwadi Infrastructure including modern, upgraded Saksham Angawadis. The allocation",
+        "2024_budget": {
+          "revenue": -24.0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 2023.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      }
+    ],
+    "public_enterprises": []
+  },
+  "number": 101
+}

@@ -1,0 +1,831 @@
+{
+  "name": "MINISTRY OF LAW AND JUSTICE",
+  "demand": "DEMAND NO. 65",
+  "department": "Law and Justice",
+  "sections": {
+    "allocation": [
+      {
+        "index": "1",
+        "name": "Secretariat",
+        "2024_budget": {
+          "revenue": 258.55,
+          "capital": 6.88,
+          "total": 265.43
+        },
+        "2023": {
+          "budget": {
+            "revenue": 261.34,
+            "capital": 4.6,
+            "total": 265.94
+          },
+          "revised": {
+            "revenue": 262.63,
+            "capital": 7.11,
+            "total": 269.74
+          }
+        },
+        "2022_actual": {
+          "revenue": 238.06,
+          "capital": 0,
+          "total": 238.06
+        }
+      },
+      {
+        "index": "2",
+        "name": "Social Security and Welfare",
+        "2024_budget": {
+          "revenue": 0.1,
+          "capital": 0,
+          "total": 0.1
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0.2,
+            "capital": 0,
+            "total": 0.2
+          },
+          "revised": {
+            "revenue": 0.2,
+            "capital": 0,
+            "total": 0.2
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "3",
+        "name": "Tax Tribunals",
+        "2024_budget": {
+          "revenue": 120.76,
+          "capital": 49.0,
+          "total": 169.76
+        },
+        "2023": {
+          "budget": {
+            "revenue": 122.6,
+            "capital": 73.4,
+            "total": 196.0
+          },
+          "revised": {
+            "revenue": 117.05,
+            "capital": 114.64,
+            "total": 231.69
+          }
+        },
+        "2022_actual": {
+          "revenue": 113.94,
+          "capital": 0,
+          "total": 113.94
+        }
+      },
+      {
+        "index": "4",
+        "name": "Designing Innovative Solutions for Holistic Access to Justice in India(DISHA)",
+        "2024_budget": {
+          "revenue": 48.0,
+          "capital": 0,
+          "total": 48.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 40.0,
+            "capital": 0,
+            "total": 40.0
+          },
+          "revised": {
+            "revenue": 48.0,
+            "capital": 0,
+            "total": 48.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 47.14,
+          "capital": 0,
+          "total": 47.14
+        }
+      },
+      {
+        "index": "5",
+        "name": "e-Courts Phase II",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": -0.04,
+          "capital": 0,
+          "total": -0.04
+        }
+      },
+      {
+        "index": "6",
+        "name": "e-Courts Phase III",
+        "2024_budget": {
+          "revenue": 1500.0,
+          "capital": 0,
+          "total": 1500.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0.01,
+            "capital": 0,
+            "total": 0.01
+          },
+          "revised": {
+            "revenue": 825.0,
+            "capital": 0,
+            "total": 825.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "7",
+        "name": "National Judicial Academy",
+        "2024_budget": {
+          "revenue": 20.0,
+          "capital": 0,
+          "total": 20.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 20.0,
+            "capital": 0,
+            "total": 20.0
+          },
+          "revised": {
+            "revenue": 24.5,
+            "capital": 0,
+            "total": 24.5
+          }
+        },
+        "2022_actual": {
+          "revenue": 20.0,
+          "capital": 0,
+          "total": 20.0
+        }
+      },
+      {
+        "index": "8",
+        "name": "National Legal Services Authority",
+        "2024_budget": {
+          "revenue": 200.0,
+          "capital": 0,
+          "total": 200.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 200.0,
+            "capital": 0,
+            "total": 200.0
+          },
+          "revised": {
+            "revenue": 400.0,
+            "capital": 0,
+            "total": 400.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 190.0,
+          "capital": 0,
+          "total": 190.0
+        }
+      },
+      {
+        "index": "9",
+        "name": "Indian Law Institute (ILI)",
+        "2024_budget": {
+          "revenue": 3.18,
+          "capital": 0,
+          "total": 3.18
+        },
+        "2023": {
+          "budget": {
+            "revenue": 3.5,
+            "capital": 0,
+            "total": 3.5
+          },
+          "revised": {
+            "revenue": 3.5,
+            "capital": 0,
+            "total": 3.5
+          }
+        },
+        "2022_actual": {
+          "revenue": 6.5,
+          "capital": 0,
+          "total": 6.5
+        }
+      },
+      {
+        "index": "10",
+        "name": "New Delhi International Arbitration Centre",
+        "2024_budget": {
+          "revenue": 4.0,
+          "capital": 0,
+          "total": 4.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 3.0,
+            "capital": 0,
+            "total": 3.0
+          },
+          "revised": {
+            "revenue": 3.76,
+            "capital": 0,
+            "total": 3.76
+          }
+        },
+        "2022_actual": {
+          "revenue": 2.25,
+          "capital": 0,
+          "total": 2.25
+        }
+      },
+      {
+        "index": "11",
+        "name": "Aribitration Council of India (ACI)",
+        "2024_budget": {
+          "revenue": 0.5,
+          "capital": 0,
+          "total": 0.5
+        },
+        "2023": {
+          "budget": {
+            "revenue": 2.0,
+            "capital": 0,
+            "total": 2.0
+          },
+          "revised": {
+            "revenue": 0.71,
+            "capital": 0,
+            "total": 0.71
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "12",
+        "name": "Mediation Council of India",
+        "2024_budget": {
+          "revenue": 0.5,
+          "capital": 0,
+          "total": 0.5
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0.02,
+            "capital": 0,
+            "total": 0.02
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "13.",
+        "name": "Infrastructure Facilities for Judiciary"
+      },
+      {
+        "index": "13.01",
+        "name": "Infrastructure Facilities for Judiciary",
+        "2024_budget": {
+          "revenue": 998.0,
+          "capital": 0,
+          "total": 998.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1051.0,
+            "capital": 0,
+            "total": 1051.0
+          },
+          "revised": {
+            "revenue": 1051.0,
+            "capital": 0,
+            "total": 1051.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 857.2,
+          "capital": 0,
+          "total": 857.2
+        }
+      },
+      {
+        "index": "13.02",
+        "name": "Gram Nyayalayas",
+        "2024_budget": {
+          "revenue": 2.0,
+          "capital": 0,
+          "total": 2.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 10.0,
+            "capital": 0,
+            "total": 10.0
+          },
+          "revised": {
+            "revenue": 10.0,
+            "capital": 0,
+            "total": 10.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0.8,
+          "capital": 0,
+          "total": 0.8
+        }
+      },
+      {
+        "index": "14.",
+        "name": "Fast Track Special Courts"
+      },
+      {
+        "index": "14.01",
+        "name": "Fast Track Special Courts",
+        "2024_budget": {
+          "revenue": 200.0,
+          "capital": 0,
+          "total": 200.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 200.0,
+            "capital": 0,
+            "total": 200.0
+          },
+          "revised": {
+            "revenue": 200.0,
+            "capital": 0,
+            "total": 200.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 200.0,
+          "capital": 0,
+          "total": 200.0
+        }
+      },
+      {
+        "index": "14.02",
+        "name": "Met from Nirbhaya Fund",
+        "2024_budget": {
+          "revenue": -200.0,
+          "capital": 0,
+          "total": -200.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": -200.0,
+            "capital": 0,
+            "total": -200.0
+          },
+          "revised": {
+            "revenue": -200.0,
+            "capital": 0,
+            "total": -200.0
+          }
+        },
+        "2022_actual": {
+          "revenue": -200.0,
+          "capital": 0,
+          "total": -200.0
+        }
+      },
+      {
+        "index": "15.",
+        "name": "Organs of Elections"
+      },
+      {
+        "index": "15.01",
+        "name": "Lok Sabha Elections",
+        "2024_budget": {
+          "revenue": 1000.0,
+          "capital": 0,
+          "total": 1000.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 180.0,
+            "capital": 0,
+            "total": 180.0
+          },
+          "revised": {
+            "revenue": 1538.86,
+            "capital": 0,
+            "total": 1538.86
+          }
+        },
+        "2022_actual": {
+          "revenue": 1444.03,
+          "capital": 0,
+          "total": 1444.03
+        }
+      },
+      {
+        "index": "15.02",
+        "name": "Identity Cards to Voters",
+        "2024_budget": {
+          "revenue": 404.81,
+          "capital": 0,
+          "total": 404.81
+        },
+        "2023": {
+          "budget": {
+            "revenue": 18.0,
+            "capital": 0,
+            "total": 18.0
+          },
+          "revised": {
+            "revenue": 79.66,
+            "capital": 0,
+            "total": 79.66
+          }
+        },
+        "2022_actual": {
+          "revenue": 119.35,
+          "capital": 0,
+          "total": 119.35
+        }
+      },
+      {
+        "index": "15.03",
+        "name": "Other Election Expenses",
+        "2024_budget": {
+          "revenue": 1003.2,
+          "capital": 0,
+          "total": 1003.2
+        },
+        "2023": {
+          "budget": {
+            "revenue": 94.0,
+            "capital": 0,
+            "total": 94.0
+          },
+          "revised": {
+            "revenue": 1501.3,
+            "capital": 0,
+            "total": 1501.3
+          }
+        },
+        "2022_actual": {
+          "revenue": 1887.79,
+          "capital": 0,
+          "total": 1887.79
+        }
+      },
+      {
+        "index": "16",
+        "name": "EVMs for Election Commission",
+        "2024_budget": {
+          "revenue": 10.19,
+          "capital": 24.65,
+          "total": 34.84
+        },
+        "2023": {
+          "budget": {
+            "revenue": 25.0,
+            "capital": 1866.78,
+            "total": 1891.78
+          },
+          "revised": {
+            "revenue": 61.2,
+            "capital": 2441.1,
+            "total": 2502.3
+          }
+        },
+        "2022_actual": {
+          "revenue": 5.0,
+          "capital": 1191.24,
+          "total": 1196.24
+        }
+      }
+    ],
+    "development_heads": [
+      {
+        "index": "1",
+        "name": "Administration of Justice",
+        "2024_budget": {
+          "revenue": 1693.74,
+          "capital": 0,
+          "total": 1693.74
+        },
+        "2023": {
+          "budget": {
+            "revenue": 330.61,
+            "capital": 0,
+            "total": 330.61
+          },
+          "revised": {
+            "revenue": 1295.55,
+            "capital": 0,
+            "total": 1295.55
+          }
+        },
+        "2022_actual": {
+          "revenue": 329.22,
+          "capital": 0,
+          "total": 329.22
+        }
+      },
+      {
+        "index": "2",
+        "name": "Elections",
+        "2024_budget": {
+          "revenue": 2418.2,
+          "capital": 0,
+          "total": 2418.2
+        },
+        "2023": {
+          "budget": {
+            "revenue": 317.0,
+            "capital": 0,
+            "total": 317.0
+          },
+          "revised": {
+            "revenue": 3181.02,
+            "capital": 0,
+            "total": 3181.02
+          }
+        },
+        "2022_actual": {
+          "revenue": 3456.17,
+          "capital": 0,
+          "total": 3456.17
+        }
+      },
+      {
+        "index": "3",
+        "name": "Collection of Taxes on Income and Expenditure",
+        "2024_budget": {
+          "revenue": 120.76,
+          "capital": 0,
+          "total": 120.76
+        },
+        "2023": {
+          "budget": {
+            "revenue": 122.6,
+            "capital": 0,
+            "total": 122.6
+          },
+          "revised": {
+            "revenue": 117.05,
+            "capital": 0,
+            "total": 117.05
+          }
+        },
+        "2022_actual": {
+          "revenue": 113.9,
+          "capital": 0,
+          "total": 113.9
+        }
+      },
+      {
+        "index": "4",
+        "name": "Secretariat -General Services",
+        "2024_budget": {
+          "revenue": 166.67,
+          "capital": 0,
+          "total": 166.67
+        },
+        "2023": {
+          "budget": {
+            "revenue": 181.0,
+            "capital": 0,
+            "total": 181.0
+          },
+          "revised": {
+            "revenue": 169.6,
+            "capital": 0,
+            "total": 169.6
+          }
+        },
+        "2022_actual": {
+          "revenue": 162.53,
+          "capital": 0,
+          "total": 162.53
+        }
+      },
+      {
+        "index": "5",
+        "name": "Other Administrative Services",
+        "2024_budget": {
+          "revenue": 21.32,
+          "capital": 0,
+          "total": 21.32
+        },
+        "2023": {
+          "budget": {
+            "revenue": 20.24,
+            "capital": 0,
+            "total": 20.24
+          },
+          "revised": {
+            "revenue": 22.47,
+            "capital": 0,
+            "total": 22.47
+          }
+        },
+        "2022_actual": {
+          "revenue": 12.11,
+          "capital": 0,
+          "total": 12.11
+        }
+      },
+      {
+        "index": "6",
+        "name": "Capital Outlay on Other Administrative Services",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 71.55,
+          "total": 71.55
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 1936.78,
+            "total": 1936.78
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 2553.83,
+            "total": 2553.83
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 1191.24,
+          "total": 1191.24
+        }
+      },
+      {
+        "index": "7",
+        "name": "Capital Outlay on Miscellaneous General Services",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 8.98,
+          "total": 8.98
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 8.0,
+            "total": 8.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 9.02,
+            "total": 9.02
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "8",
+        "name": "Social Security and Welfare",
+        "2024_budget": {
+          "revenue": 0.1,
+          "capital": 0,
+          "total": 0.1
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0.2,
+            "capital": 0,
+            "total": 0.2
+          },
+          "revised": {
+            "revenue": 0.2,
+            "capital": 0,
+            "total": 0.2
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "9",
+        "name": "North Eastern Areas",
+        "2024_budget": {
+          "revenue": 255.0,
+          "capital": 0,
+          "total": 255.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 111.0,
+            "capital": 0,
+            "total": 111.0
+          },
+          "revised": {
+            "revenue": 193.5,
+            "capital": 0,
+            "total": 193.5
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "10",
+        "name": "Grants -in-aid to State Governments",
+        "2024_budget": {
+          "revenue": 845.0,
+          "capital": 0,
+          "total": 845.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 888.0,
+            "capital": 0,
+            "total": 888.0
+          },
+          "revised": {
+            "revenue": 888.0,
+            "capital": 0,
+            "total": 888.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 835.85,
+          "capital": 0,
+          "total": 835.85
+        }
+      },
+      {
+        "index": "11",
+        "name": "Grants -in-aid to Union Territory Governments",
+        "2024_budget": {
+          "revenue": 53.0,
+          "capital": 0,
+          "total": 53.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 60.0,
+            "capital": 0,
+            "total": 60.0
+          },
+          "revised": {
+            "revenue": 60.0,
+            "capital": 0,
+            "total": 60.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 22.15,
+          "capital": 0,
+          "total": 22.15
+        }
+      }
+    ],
+    "public_enterprises": []
+  },
+  "number": 65
+}

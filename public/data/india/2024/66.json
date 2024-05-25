@@ -1,0 +1,143 @@
+{
+  "name": "MINISTRY OF LAW AND JUSTICE",
+  "demand": "DEMAND NO. 66",
+  "department": "Election Commission",
+  "sections": {
+    "allocation": [
+      {
+        "index": "1",
+        "name": "Election Commission of India",
+        "2024_budget": {
+          "revenue": 306.06,
+          "capital": 15.83,
+          "total": 321.89
+        },
+        "2023": {
+          "budget": {
+            "revenue": 312.0,
+            "capital": 28.0,
+            "total": 340.0
+          },
+          "revised": {
+            "revenue": 385.67,
+            "capital": 80.37,
+            "total": 466.04
+          }
+        },
+        "2022_actual": {
+          "revenue": 320.23,
+          "capital": 0,
+          "total": 320.23
+        }
+      },
+      {
+        "index": "2",
+        "name": "Actual Recoveries",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": -0.98,
+          "capital": -5.0,
+          "total": -5.98
+        }
+      }
+    ],
+    "development_heads": [
+      {
+        "index": "1",
+        "name": "Elections",
+        "2024_budget": {
+          "revenue": 306.06,
+          "capital": 0,
+          "total": 306.06
+        },
+        "2023": {
+          "budget": {
+            "revenue": 312.0,
+            "capital": 0,
+            "total": 312.0
+          },
+          "revised": {
+            "revenue": 385.67,
+            "capital": 0,
+            "total": 385.67
+          }
+        },
+        "2022_actual": {
+          "revenue": 319.25,
+          "capital": 0,
+          "total": 319.25
+        }
+      },
+      {
+        "index": "2",
+        "name": "Capital Outlay on Public Works",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 2.01,
+          "total": 2.01
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 7.0,
+            "total": 7.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 61.57,
+            "total": 61.57
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": -5.0,
+          "total": -5.0
+        }
+      },
+      {
+        "index": "3",
+        "name": "Capital Outlay on Other Administrative Services",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 13.82,
+          "total": 13.82
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 21.0,
+            "total": 21.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 18.8,
+            "total": 18.8
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      }
+    ],
+    "public_enterprises": []
+  },
+  "number": 66
+}

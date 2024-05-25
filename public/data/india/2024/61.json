@@ -1,0 +1,646 @@
+{
+  "name": "MINISTRY OF INFORMATION AND BROADCASTING",
+  "demand": "DEMAND NO. 61",
+  "department": "Ministry of Information and Broadcasting",
+  "sections": {
+    "allocation": [
+      {
+        "index": "1.",
+        "name": "Establishment Expenditure"
+      },
+      {
+        "index": "1.01",
+        "name": "Secretariat",
+        "2024_budget": {
+          "revenue": 117.18,
+          "capital": 2.3,
+          "total": 119.48
+        },
+        "2023": {
+          "budget": {
+            "revenue": 110.56,
+            "capital": 0.19,
+            "total": 110.75
+          },
+          "revised": {
+            "revenue": 113.04,
+            "capital": 1.73,
+            "total": 114.77
+          }
+        },
+        "2022_actual": {
+          "revenue": 106.4,
+          "capital": 0,
+          "total": 106.4
+        }
+      },
+      {
+        "index": "1.02",
+        "name": "Art and Culture",
+        "2024_budget": {
+          "revenue": 36.93,
+          "capital": 0.1,
+          "total": 37.03
+        },
+        "2023": {
+          "budget": {
+            "revenue": 27.99,
+            "capital": 0,
+            "total": 27.99
+          },
+          "revised": {
+            "revenue": 45.54,
+            "capital": 0.12,
+            "total": 45.66
+          }
+        },
+        "2022_actual": {
+          "revenue": 17.54,
+          "capital": 0,
+          "total": 17.54
+        }
+      },
+      {
+        "index": "1.03",
+        "name": "Information and Publicity",
+        "2024_budget": {
+          "revenue": 399.22,
+          "capital": 10.68,
+          "total": 409.9
+        },
+        "2023": {
+          "budget": {
+            "revenue": 391.87,
+            "capital": 4.89,
+            "total": 396.76
+          },
+          "revised": {
+            "revenue": 379.34,
+            "capital": 11.23,
+            "total": 390.57
+          }
+        },
+        "2022_actual": {
+          "revenue": 445.47,
+          "capital": 0,
+          "total": 445.47
+        }
+      },
+      {
+        "index": "2",
+        "name": "Broadcasting Infrastructure Network Development",
+        "2024_budget": {
+          "revenue": 500.0,
+          "capital": 0,
+          "total": 500.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 600.0,
+            "capital": 0,
+            "total": 600.0
+          },
+          "revised": {
+            "revenue": 475.0,
+            "capital": 0,
+            "total": 475.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 159.91,
+          "capital": 0,
+          "total": 159.91
+        }
+      },
+      {
+        "index": "3",
+        "name": "Development Communication and Dissemination of Filmic Content",
+        "2024_budget": {
+          "revenue": 324.24,
+          "capital": 25.76,
+          "total": 350.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 274.24,
+            "capital": 25.76,
+            "total": 300.0
+          },
+          "revised": {
+            "revenue": 324.24,
+            "capital": 25.76,
+            "total": 350.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 97.21,
+          "capital": 25.65,
+          "total": 122.86
+        }
+      },
+      {
+        "index": "4",
+        "name": "Development Communication and Information Dissemination",
+        "2024_budget": {
+          "revenue": 160.0,
+          "capital": 0,
+          "total": 160.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 200.0,
+            "capital": 0,
+            "total": 200.0
+          },
+          "revised": {
+            "revenue": 197.28,
+            "capital": 0,
+            "total": 197.28
+          }
+        },
+        "2022_actual": {
+          "revenue": 284.88,
+          "capital": 0,
+          "total": 284.88
+        }
+      },
+      {
+        "index": "5",
+        "name": "Supporting Community Radio Movement in India",
+        "2024_budget": {
+          "revenue": 5.0,
+          "capital": 0,
+          "total": 5.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 5.0,
+            "capital": 0,
+            "total": 5.0
+          },
+          "revised": {
+            "revenue": 5.0,
+            "capital": 0,
+            "total": 5.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 2.01,
+          "capital": 0,
+          "total": 2.01
+        }
+      },
+      {
+        "index": "6.",
+        "name": "Support to Autonomous Bodies"
+      },
+      {
+        "index": "6.01",
+        "name": "Prasar Bharati",
+        "2024_budget": {
+          "revenue": 2509.94,
+          "capital": 0,
+          "total": 2509.94
+        },
+        "2023": {
+          "budget": {
+            "revenue": 2808.36,
+            "capital": 0,
+            "total": 2808.36
+          },
+          "revised": {
+            "revenue": 2644.02,
+            "capital": 0,
+            "total": 2644.02
+          }
+        },
+        "2022_actual": {
+          "revenue": 2710.82,
+          "capital": 0,
+          "total": 2710.82
+        }
+      },
+      {
+        "index": "6.02",
+        "name": "Film and Television Institute of India, Pune",
+        "2024_budget": {
+          "revenue": 87.11,
+          "capital": 0,
+          "total": 87.11
+        },
+        "2023": {
+          "budget": {
+            "revenue": 64.75,
+            "capital": 0,
+            "total": 64.75
+          },
+          "revised": {
+            "revenue": 73.47,
+            "capital": 0,
+            "total": 73.47
+          }
+        },
+        "2022_actual": {
+          "revenue": 68.53,
+          "capital": 0,
+          "total": 68.53
+        }
+      },
+      {
+        "index": "6.03",
+        "name": "Satyajit Ray Film and Television Institute(SRFTI) Kolkata",
+        "2024_budget": {
+          "revenue": 81.45,
+          "capital": 0,
+          "total": 81.45
+        },
+        "2023": {
+          "budget": {
+            "revenue": 95.13,
+            "capital": 0,
+            "total": 95.13
+          },
+          "revised": {
+            "revenue": 82.97,
+            "capital": 0,
+            "total": 82.97
+          }
+        },
+        "2022_actual": {
+          "revenue": 60.1,
+          "capital": 0,
+          "total": 60.1
+        }
+      },
+      {
+        "index": "6.04",
+        "name": "Childrens Films Society of India",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 2.11,
+          "capital": 0,
+          "total": 2.11
+        }
+      },
+      {
+        "index": "6.05",
+        "name": "Indian Institute of Mass Communication",
+        "2024_budget": {
+          "revenue": 44.0,
+          "capital": 0,
+          "total": 44.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 44.67,
+            "capital": 0,
+            "total": 44.67
+          },
+          "revised": {
+            "revenue": 37.0,
+            "capital": 0,
+            "total": 37.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 29.21,
+          "capital": 0,
+          "total": 29.21
+        }
+      },
+      {
+        "index": "6.06",
+        "name": "Press Council of India",
+        "2024_budget": {
+          "revenue": 15.64,
+          "capital": 0,
+          "total": 15.64
+        },
+        "2023": {
+          "budget": {
+            "revenue": 18.21,
+            "capital": 0,
+            "total": 18.21
+          },
+          "revised": {
+            "revenue": 10.64,
+            "capital": 0,
+            "total": 10.64
+          }
+        },
+        "2022_actual": {
+          "revenue": 6.07,
+          "capital": 0,
+          "total": 6.07
+        }
+      },
+      {
+        "index": "7",
+        "name": "National Film Development Corporation (NFDC)",
+        "2024_budget": {
+          "revenue": 23.0,
+          "capital": 0,
+          "total": 23.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 20.38,
+            "capital": 0,
+            "total": 20.38
+          },
+          "revised": {
+            "revenue": 23.38,
+            "capital": 0,
+            "total": 23.38
+          }
+        },
+        "2022_actual": {
+          "revenue": 8.22,
+          "capital": 0,
+          "total": 8.22
+        }
+      }
+    ],
+    "development_heads": [
+      {
+        "index": "1",
+        "name": "Art and Culture",
+        "2024_budget": {
+          "revenue": 36.93,
+          "capital": 0,
+          "total": 36.93
+        },
+        "2023": {
+          "budget": {
+            "revenue": 27.99,
+            "capital": 0,
+            "total": 27.99
+          },
+          "revised": {
+            "revenue": 45.54,
+            "capital": 0,
+            "total": 45.54
+          }
+        },
+        "2022_actual": {
+          "revenue": 17.54,
+          "capital": 0,
+          "total": 17.54
+        }
+      },
+      {
+        "index": "2",
+        "name": "Information and Publicity",
+        "2024_budget": {
+          "revenue": 1088.16,
+          "capital": 0,
+          "total": 1088.16
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1063.75,
+            "capital": 0,
+            "total": 1063.75
+          },
+          "revised": {
+            "revenue": 1078.09,
+            "capital": 0,
+            "total": 1078.09
+          }
+        },
+        "2022_actual": {
+          "revenue": 1001.15,
+          "capital": 0,
+          "total": 1001.15
+        }
+      },
+      {
+        "index": "3",
+        "name": "Broadcasting",
+        "2024_budget": {
+          "revenue": 2959.94,
+          "capital": 0,
+          "total": 2959.94
+        },
+        "2023": {
+          "budget": {
+            "revenue": 3348.36,
+            "capital": 0,
+            "total": 3348.36
+          },
+          "revised": {
+            "revenue": 3071.52,
+            "capital": 0,
+            "total": 3071.52
+          }
+        },
+        "2022_actual": {
+          "revenue": 2869.46,
+          "capital": 0,
+          "total": 2869.46
+        }
+      },
+      {
+        "index": "4",
+        "name": "Secretariat -Social Services",
+        "2024_budget": {
+          "revenue": 117.18,
+          "capital": 0,
+          "total": 117.18
+        },
+        "2023": {
+          "budget": {
+            "revenue": 110.56,
+            "capital": 0,
+            "total": 110.56
+          },
+          "revised": {
+            "revenue": 113.04,
+            "capital": 0,
+            "total": 113.04
+          }
+        },
+        "2022_actual": {
+          "revenue": 106.38,
+          "capital": 0,
+          "total": 106.38
+        }
+      },
+      {
+        "index": "5",
+        "name": "Capital Outlay on Information and Publicity",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 38.84,
+          "total": 38.84
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 30.84,
+            "total": 30.84
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 38.84,
+            "total": 38.84
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 25.65,
+          "total": 25.65
+        }
+      },
+      {
+        "index": "6",
+        "name": "North Eastern Areas",
+        "2024_budget": {
+          "revenue": 101.5,
+          "capital": 0,
+          "total": 101.5
+        },
+        "2023": {
+          "budget": {
+            "revenue": 110.5,
+            "capital": 0,
+            "total": 110.5
+          },
+          "revised": {
+            "revenue": 102.73,
+            "capital": 0,
+            "total": 102.73
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      }
+    ],
+    "public_enterprises": [
+      {
+        "index": "1",
+        "name": "Braodcast Engineering Consultants India Limited",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 196.34,
+            "total": 196.34
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "2",
+        "name": "National Film Development Corporation",
+        "2024_budget": {
+          "revenue": 23.0,
+          "capital": 9.28,
+          "total": 32.28
+        },
+        "2023": {
+          "budget": {
+            "revenue": 20.38,
+            "capital": 159.9,
+            "total": 180.28
+          },
+          "revised": {
+            "revenue": 23.38,
+            "capital": 22.48,
+            "total": 45.86
+          }
+        },
+        "2022_actual": {
+          "revenue": 8.22,
+          "capital": 5.01,
+          "total": 13.23
+        }
+      },
+      {
+        "index": "1.01",
+        "name": "Secretariat: ..It covers the establishment expenditure for Main Secretariat and Principal Accounts Office. 1.02. Art and Culture: ..The provision covers expenditure in respect of Central Board of Film Certification (CBFC). 1.03. Information and Publicity: ..This covers esta blishment expenditure of the following Media Units and Secretariat of this Ministry - (i) Central Bureau of Communication (erstwhile Bureau of Outreach and Communication) - It covers the activities viz. publicity campaigns through advertising and other printed materials, as well as through Radio, Televisions, exhibitions and other outdoor publicity media, interpersonal, developmental communication through film shows, live media programmes, photo displays and seminars and live entertainment media for cre ating awareness amongst the masses, particularly in rural areas. (ii) Press Information Bureau (PIB) - It serves as a link between the Government and the Press and attends to the Publicity and Public relation requirements of various Ministries/Department s of the Government and official photo coverage of the day to day assignments of Prime Minister and Vice President of India. It is also responsible for visual documentation and preparing photographs for internal and external publicity on behalf of Governme nt of India. (iii) Publications Division - This provides for expenditure of the Publications Division of the Ministry which publishes priced books, journals and other printed material in English, Hindi and Regional languages on a wide variety of subject s. Publications Division also brings out the weekly Employment News/Rozgar Samachar in English, Hindi and Urdu. (iv) New Media Wing - It collects and collates basic information on subjects of media interest for providing assistance to the Ministry and to its Media Units, Indian Missions abroad and newspapers and media agencies. Provision is for carrying out this task. (v) Registrar of Newspapers for India (RNI) -It maintains statistical records/verification of titles for newspapers/periodicals. It a lso issues certificate of registration in respect of newspapers/periodicals. Provision is to perform these activities. (vi) Secretariat - It handles payments towards Contribution to International Programme for Development of Communication (IPDC), Contri bution to the Asian Institute of Broadcasting Development (AIBD), Contribution to membership of International Archive Organizations by NFAI and Private FM Radio Station. (vii) Electronic Media Monitoring Centre (EMMC) - EMMC monitors programme and advertising as per relevant codes. The provision is for monitoring Television Channels/ Radio for violation of codes. 2. Broadcasting Infrastructure Network Development: ..It is implemented through Prasar Bharati. Scheme aims at digitalisation & FMisation of AIR Network, upgradation of capacity of DTH platform to accommodate more channels and enriching viewers experience etc. 3. Development Communication and Dissemination of Filmic Content: ..It is for promotion and preservation of Indian cinema by means of film festivals, production of new films and documentaries and to provide Indian Cinema with a National and International platform to showcase its work etc. 4. Development Communication and Information Dissemination: ..It is to generate awareness in citizens about various schemes and programs of the Government to enable the target beneficiaries to avail benefits of the developmental schemes and elicit people participation in process of development. 5. Supporting Community Radio Movement in India: ..It is to support Community Radio Movement which is a crucial communication tool particularly in communities where most people neither read nor write. 6.01. Prasar Bharati: ..It includes salary and the leave salary and pension contribution of Government Emplo yees on deemed deputation to Prasar Bharati. 6.02. Film and Television Institute of India, Pune: ..It now includes the erstwhile scheme allocation under Grants -in-Aid to",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 2020.0,
+          "total": -21.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "6.03",
+        "name": "Satyaj it Ray Film and Television Institute(SRFTI) Kolkata: ..It now includes the erstwhile",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 2020.0,
+          "total": -21.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      }
+    ]
+  },
+  "number": 61
+}

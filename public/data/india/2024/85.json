@@ -1,0 +1,2360 @@
+{
+  "name": "MINISTRY OF RAILWAYS",
+  "demand": "DEMAND NO. 85",
+  "department": "Ministry of Railways",
+  "sections": {
+    "allocation": [
+      {
+        "index": "1.",
+        "name": "Working Expenses"
+      },
+      {
+        "index": "1.01",
+        "name": "Staff Cost",
+        "2024_budget": {
+          "revenue": 117620.39,
+          "capital": 0,
+          "total": 117620.39
+        },
+        "2023": {
+          "budget": {
+            "revenue": 105235.44,
+            "capital": 0,
+            "total": 105235.44
+          },
+          "revised": {
+            "revenue": 109289.88,
+            "capital": 0,
+            "total": 109289.88
+          }
+        },
+        "2022_actual": {
+          "revenue": 99478.27,
+          "capital": 0,
+          "total": 99478.27
+        }
+      },
+      {
+        "index": "1.02",
+        "name": "Office Expenses (Contingent Expenses)",
+        "2024_budget": {
+          "revenue": 2290.23,
+          "capital": 0,
+          "total": 2290.23
+        },
+        "2023": {
+          "budget": {
+            "revenue": 2295.08,
+            "capital": 0,
+            "total": 2295.08
+          },
+          "revised": {
+            "revenue": 1986.61,
+            "capital": 0,
+            "total": 1986.61
+          }
+        },
+        "2022_actual": {
+          "revenue": 1709.71,
+          "capital": 0,
+          "total": 1709.71
+        }
+      },
+      {
+        "index": "1.03",
+        "name": "Less Receipts",
+        "2024_budget": {
+          "revenue": -2700.0,
+          "capital": 0,
+          "total": -2700.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": -2700.0,
+            "capital": 0,
+            "total": -2700.0
+          },
+          "revised": {
+            "revenue": -2300.0,
+            "capital": 0,
+            "total": -2300.0
+          }
+        },
+        "2022_actual": {
+          "revenue": -2003.8,
+          "capital": 0,
+          "total": -2003.8
+        }
+      },
+      {
+        "index": "2.",
+        "name": "Other Ordinary Working Expenses"
+      },
+      {
+        "index": "2.01",
+        "name": "Diesel for Traction",
+        "2024_budget": {
+          "revenue": 10735.31,
+          "capital": 0,
+          "total": 10735.31
+        },
+        "2023": {
+          "budget": {
+            "revenue": 14358.85,
+            "capital": 0,
+            "total": 14358.85
+          },
+          "revised": {
+            "revenue": 14155.9,
+            "capital": 0,
+            "total": 14155.9
+          }
+        },
+        "2022_actual": {
+          "revenue": 19907.49,
+          "capital": 0,
+          "total": 19907.49
+        }
+      },
+      {
+        "index": "2.02",
+        "name": "Electricity for Traction",
+        "2024_budget": {
+          "revenue": 23101.62,
+          "capital": 0,
+          "total": 23101.62
+        },
+        "2023": {
+          "budget": {
+            "revenue": 20464.46,
+            "capital": 0,
+            "total": 20464.46
+          },
+          "revised": {
+            "revenue": 20892.26,
+            "capital": 0,
+            "total": 20892.26
+          }
+        },
+        "2022_actual": {
+          "revenue": 18319.91,
+          "capital": 0,
+          "total": 18319.91
+        }
+      },
+      {
+        "index": "2.03",
+        "name": "Materials for Repairs and Maintenance",
+        "2024_budget": {
+          "revenue": 12252.04,
+          "capital": 0,
+          "total": 12252.04
+        },
+        "2023": {
+          "budget": {
+            "revenue": 9792.88,
+            "capital": 0,
+            "total": 9792.88
+          },
+          "revised": {
+            "revenue": 11833.13,
+            "capital": 0,
+            "total": 11833.13
+          }
+        },
+        "2022_actual": {
+          "revenue": 10823.32,
+          "capital": 0,
+          "total": 10823.32
+        }
+      },
+      {
+        "index": "2.04",
+        "name": "Contractual Payments",
+        "2024_budget": {
+          "revenue": 11055.8,
+          "capital": 0,
+          "total": 11055.8
+        },
+        "2023": {
+          "budget": {
+            "revenue": 9568.14,
+            "capital": 0,
+            "total": 9568.14
+          },
+          "revised": {
+            "revenue": 10313.33,
+            "capital": 0,
+            "total": 10313.33
+          }
+        },
+        "2022_actual": {
+          "revenue": 9289.1,
+          "capital": 0,
+          "total": 9289.1
+        }
+      },
+      {
+        "index": "2.05",
+        "name": "Lease/Hire Charges payable to Indian Railway Finance Corporation etc.",
+        "2024_budget": {
+          "revenue": 23256.47,
+          "capital": 0,
+          "total": 23256.47
+        },
+        "2023": {
+          "budget": {
+            "revenue": 23782.12,
+            "capital": 0,
+            "total": 23782.12
+          },
+          "revised": {
+            "revenue": 18283.4,
+            "capital": 0,
+            "total": 18283.4
+          }
+        },
+        "2022_actual": {
+          "revenue": 16584.07,
+          "capital": 0,
+          "total": 16584.07
+        }
+      },
+      {
+        "index": "2.06",
+        "name": "Inter Railway Financial Adjusment (Transfer of Debits/Credits)",
+        "2024_budget": {
+          "revenue": 1109.34,
+          "capital": 0,
+          "total": 1109.34
+        },
+        "2023": {
+          "budget": {
+            "revenue": 903.57,
+            "capital": 0,
+            "total": 903.57
+          },
+          "revised": {
+            "revenue": 1060.31,
+            "capital": 0,
+            "total": 1060.31
+          }
+        },
+        "2022_actual": {
+          "revenue": 940.48,
+          "capital": 0,
+          "total": 940.48
+        }
+      },
+      {
+        "index": "2.07",
+        "name": "Electricity for Non -Traction",
+        "2024_budget": {
+          "revenue": 1941.99,
+          "capital": 0,
+          "total": 1941.99
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1840.1,
+            "capital": 0,
+            "total": 1840.1
+          },
+          "revised": {
+            "revenue": 1871.7,
+            "capital": 0,
+            "total": 1871.7
+          }
+        },
+        "2022_actual": {
+          "revenue": 1798.52,
+          "capital": 0,
+          "total": 1798.52
+        }
+      },
+      {
+        "index": "2.08",
+        "name": "Fuel for other than Traction",
+        "2024_budget": {
+          "revenue": 1571.96,
+          "capital": 0,
+          "total": 1571.96
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1254.36,
+            "capital": 0,
+            "total": 1254.36
+          },
+          "revised": {
+            "revenue": 1521.32,
+            "capital": 0,
+            "total": 1521.32
+          }
+        },
+        "2022_actual": {
+          "revenue": 1347.88,
+          "capital": 0,
+          "total": 1347.88
+        }
+      },
+      {
+        "index": "2.09",
+        "name": "GST etc",
+        "2024_budget": {
+          "revenue": 1242.14,
+          "capital": 0,
+          "total": 1242.14
+        },
+        "2023": {
+          "budget": {
+            "revenue": 818.78,
+            "capital": 0,
+            "total": 818.78
+          },
+          "revised": {
+            "revenue": 1163.39,
+            "capital": 0,
+            "total": 1163.39
+          }
+        },
+        "2022_actual": {
+          "revenue": 948.52,
+          "capital": 0,
+          "total": 948.52
+        }
+      },
+      {
+        "index": "2.10",
+        "name": "Security -Government Railway Police etc",
+        "2024_budget": {
+          "revenue": 1508.26,
+          "capital": 0,
+          "total": 1508.26
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1295.18,
+            "capital": 0,
+            "total": 1295.18
+          },
+          "revised": {
+            "revenue": 1500.06,
+            "capital": 0,
+            "total": 1500.06
+          }
+        },
+        "2022_actual": {
+          "revenue": 1304.61,
+          "capital": 0,
+          "total": 1304.61
+        }
+      },
+      {
+        "index": "2.11",
+        "name": "Compensation Claims and Workmen' Compensation Claim",
+        "2024_budget": {
+          "revenue": 659.64,
+          "capital": 0,
+          "total": 659.64
+        },
+        "2023": {
+          "budget": {
+            "revenue": 598.21,
+            "capital": 0,
+            "total": 598.21
+          },
+          "revised": {
+            "revenue": 715.97,
+            "capital": 0,
+            "total": 715.97
+          }
+        },
+        "2022_actual": {
+          "revenue": 483.65,
+          "capital": 0,
+          "total": 483.65
+        }
+      },
+      {
+        "index": "2.12",
+        "name": "Catering",
+        "2024_budget": {
+          "revenue": 629.88,
+          "capital": 0,
+          "total": 629.88
+        },
+        "2023": {
+          "budget": {
+            "revenue": 367.9,
+            "capital": 0,
+            "total": 367.9
+          },
+          "revised": {
+            "revenue": 608.75,
+            "capital": 0,
+            "total": 608.75
+          }
+        },
+        "2022_actual": {
+          "revenue": 300.37,
+          "capital": 0,
+          "total": 300.37
+        }
+      },
+      {
+        "index": "2.13",
+        "name": "Annual Maintenance Contract / Spectrum Charges etc",
+        "2024_budget": {
+          "revenue": 456.3,
+          "capital": 0,
+          "total": 456.3
+        },
+        "2023": {
+          "budget": {
+            "revenue": 271.37,
+            "capital": 0,
+            "total": 271.37
+          },
+          "revised": {
+            "revenue": 569.07,
+            "capital": 0,
+            "total": 569.07
+          }
+        },
+        "2022_actual": {
+          "revenue": 452.22,
+          "capital": 0,
+          "total": 452.22
+        }
+      },
+      {
+        "index": "2.14",
+        "name": "Miscellaneous Expenditure",
+        "2024_budget": {
+          "revenue": 1685.64,
+          "capital": 0,
+          "total": 1685.64
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1060.57,
+            "capital": 0,
+            "total": 1060.57
+          },
+          "revised": {
+            "revenue": 1651.43,
+            "capital": 0,
+            "total": 1651.43
+          }
+        },
+        "2022_actual": {
+          "revenue": 2133.6,
+          "capital": 0,
+          "total": 2133.6
+        }
+      },
+      {
+        "index": "2.15",
+        "name": "Appropriation to Depreciation Reserve Fund",
+        "2024_budget": {
+          "revenue": 1000.0,
+          "capital": 0,
+          "total": 1000.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1000.0,
+            "capital": 0,
+            "total": 1000.0
+          },
+          "revised": {
+            "revenue": 800.0,
+            "capital": 0,
+            "total": 800.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 700.0,
+          "capital": 0,
+          "total": 700.0
+        }
+      },
+      {
+        "index": "2.16",
+        "name": "Appropriation to Pension Fund",
+        "2024_budget": {
+          "revenue": 67100.0,
+          "capital": 0,
+          "total": 67100.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 70616.0,
+            "capital": 0,
+            "total": 70616.0
+          },
+          "revised": {
+            "revenue": 62200.0,
+            "capital": 0,
+            "total": 62200.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 54800.0,
+          "capital": 0,
+          "total": 54800.0
+        }
+      },
+      {
+        "index": "2.17",
+        "name": "Expenditure on Pension",
+        "2024_budget": {
+          "revenue": 65000.0,
+          "capital": 0,
+          "total": 65000.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 62000.0,
+            "capital": 0,
+            "total": 62000.0
+          },
+          "revised": {
+            "revenue": 59500.0,
+            "capital": 0,
+            "total": 59500.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 55034.0,
+          "capital": 0,
+          "total": 55034.0
+        }
+      },
+      {
+        "index": "2.18",
+        "name": "Deduct amount met from Pension Fund",
+        "2024_budget": {
+          "revenue": -65000.0,
+          "capital": 0,
+          "total": -65000.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": -62000.0,
+            "capital": 0,
+            "total": -62000.0
+          },
+          "revised": {
+            "revenue": -59500.0,
+            "capital": 0,
+            "total": -59500.0
+          }
+        },
+        "2022_actual": {
+          "revenue": -55034.0,
+          "capital": 0,
+          "total": -55034.0
+        }
+      },
+      {
+        "index": "2.19",
+        "name": "Less Recoveries",
+        "2024_budget": {
+          "revenue": -3517.01,
+          "capital": 0,
+          "total": -3517.01
+        },
+        "2023": {
+          "budget": {
+            "revenue": -2733.01,
+            "capital": 0,
+            "total": -2733.01
+          },
+          "revised": {
+            "revenue": -3816.51,
+            "capital": 0,
+            "total": -3816.51
+          }
+        },
+        "2022_actual": {
+          "revenue": -3662.14,
+          "capital": 0,
+          "total": -3662.14
+        }
+      },
+      {
+        "index": "3.",
+        "name": "Appropriation to Railway Funds from Surplus"
+      },
+      {
+        "index": "3.01",
+        "name": "Appropriation to Development Fund",
+        "2024_budget": {
+          "revenue": 1000.0,
+          "capital": 0,
+          "total": 1000.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1210.0,
+            "capital": 0,
+            "total": 1210.0
+          },
+          "revised": {
+            "revenue": 1000.0,
+            "capital": 0,
+            "total": 1000.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 1000.0,
+          "capital": 0,
+          "total": 1000.0
+        }
+      },
+      {
+        "index": "3.02",
+        "name": "Appropriation to Rashtirya Rail Sanraksha Kosh",
+        "2024_budget": {
+          "revenue": 1800.0,
+          "capital": 0,
+          "total": 1800.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1000.0,
+            "capital": 0,
+            "total": 1000.0
+          },
+          "revised": {
+            "revenue": 1000.0,
+            "capital": 0,
+            "total": 1000.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 1517.38,
+          "capital": 0,
+          "total": 1517.38
+        }
+      },
+      {
+        "index": "3.03",
+        "name": "Less Receipts",
+        "2024_budget": {
+          "revenue": -2800.0,
+          "capital": 0,
+          "total": -2800.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": -2210.0,
+            "capital": 0,
+            "total": -2210.0
+          },
+          "revised": {
+            "revenue": -2000.0,
+            "capital": 0,
+            "total": -2000.0
+          }
+        },
+        "2022_actual": {
+          "revenue": -2517.38,
+          "capital": 0,
+          "total": -2517.38
+        }
+      },
+      {
+        "index": "4.",
+        "name": "Railway Revenue Receipts"
+      },
+      {
+        "index": "4.01",
+        "name": "Passenger",
+        "2024_budget": {
+          "revenue": -80000.0,
+          "capital": 0,
+          "total": -80000.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": -70000.0,
+            "capital": 0,
+            "total": -70000.0
+          },
+          "revised": {
+            "revenue": -73000.0,
+            "capital": 0,
+            "total": -73000.0
+          }
+        },
+        "2022_actual": {
+          "revenue": -63416.85,
+          "capital": 0,
+          "total": -63416.85
+        }
+      },
+      {
+        "index": "4.02",
+        "name": "Other Coaching",
+        "2024_budget": {
+          "revenue": -7500.0,
+          "capital": 0,
+          "total": -7500.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": -7000.0,
+            "capital": 0,
+            "total": -7000.0
+          },
+          "revised": {
+            "revenue": -6500.0,
+            "capital": 0,
+            "total": -6500.0
+          }
+        },
+        "2022_actual": {
+          "revenue": -5958.32,
+          "capital": 0,
+          "total": -5958.32
+        }
+      },
+      {
+        "index": "4.03",
+        "name": "Goods",
+        "2024_budget": {
+          "revenue": -174500.0,
+          "capital": 0,
+          "total": -174500.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": -174590.0,
+            "capital": 0,
+            "total": -174590.0
+          },
+          "revised": {
+            "revenue": -164700.0,
+            "capital": 0,
+            "total": -164700.0
+          }
+        },
+        "2022_actual": {
+          "revenue": -157641.77,
+          "capital": 0,
+          "total": -157641.77
+        }
+      },
+      {
+        "index": "4.04",
+        "name": "Sundry",
+        "2024_budget": {
+          "revenue": -10500.0,
+          "capital": 0,
+          "total": -10500.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": -8000.0,
+            "capital": 0,
+            "total": -8000.0
+          },
+          "revised": {
+            "revenue": -9300.0,
+            "capital": 0,
+            "total": -9300.0
+          }
+        },
+        "2022_actual": {
+          "revenue": -8444.44,
+          "capital": 0,
+          "total": -8444.44
+        }
+      },
+      {
+        "index": "4.05",
+        "name": "Suspense",
+        "2024_budget": {
+          "revenue": -100.0,
+          "capital": 0,
+          "total": -100.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": -100.0,
+            "capital": 0,
+            "total": -100.0
+          },
+          "revised": {
+            "revenue": -100.0,
+            "capital": 0,
+            "total": -100.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "4.06",
+        "name": "Other Miscellaneous Receipts",
+        "2024_budget": {
+          "revenue": -400.0,
+          "capital": 0,
+          "total": -400.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": -400.0,
+            "capital": 0,
+            "total": -400.0
+          },
+          "revised": {
+            "revenue": -700.0,
+            "capital": 0,
+            "total": -700.0
+          }
+        },
+        "2022_actual": {
+          "revenue": -194.4,
+          "capital": 0,
+          "total": -194.4
+        }
+      },
+      {
+        "index": "5",
+        "name": "Budget Support from General Revenues 5.01 Reimbursement of losses on operation of Strategic lines",
+        "2024_budget": {
+          "revenue": 2648.0,
+          "capital": 0,
+          "total": 2648.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 487.51,
+            "capital": 0,
+            "total": 487.51
+          },
+          "revised": {
+            "revenue": 2491.84,
+            "capital": 0,
+            "total": 2491.84
+          }
+        },
+        "2022_actual": {
+          "revenue": 2461.9,
+          "capital": 0,
+          "total": 2461.9
+        }
+      },
+      {
+        "index": "5.02",
+        "name": "Debt Servicing (interest component) against market borrowings for National Projects in 2018 -19",
+        "2024_budget": {
+          "revenue": 745.0,
+          "capital": 0,
+          "total": 745.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 780.0,
+            "capital": 0,
+            "total": 780.0
+          },
+          "revised": {
+            "revenue": 780.0,
+            "capital": 0,
+            "total": 780.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 692.07,
+          "capital": 0,
+          "total": 692.07
+        }
+      },
+      {
+        "index": "6",
+        "name": "Transfer to Central Road and Infrastructure Fund",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 11000.0,
+          "total": 11000.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 12049.7,
+            "total": 12049.7
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 11000.0,
+            "total": 11000.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "7",
+        "name": "Transfer to National Investment Fund",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 14800.0,
+          "total": 14800.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 29434.99,
+            "total": 29434.99
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 11100.0,
+            "total": 11100.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 35000.02,
+          "total": 35000.02
+        }
+      },
+      {
+        "index": "8",
+        "name": "New Lines",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 36091.21,
+          "total": 36091.21
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 31850.0,
+            "total": 31850.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 34410.0,
+            "total": 34410.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 24377.09,
+          "total": 24377.09
+        }
+      },
+      {
+        "index": "9",
+        "name": "Gauge Conversion",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 4533.76,
+          "total": 4533.76
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 4600.0,
+            "total": 4600.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 4278.54,
+            "total": 4278.54
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 2582.19,
+          "total": 2582.19
+        }
+      },
+      {
+        "index": "10",
+        "name": "Doubling",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 30000.0,
+          "total": 30000.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 30749.4,
+            "total": 30749.4
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 35046.03,
+            "total": 35046.03
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 25620.61,
+          "total": 25620.61
+        }
+      },
+      {
+        "index": "11",
+        "name": "Computerisation",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 725.62,
+          "total": 725.62
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 425.0,
+            "total": 425.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 690.48,
+            "total": 690.48
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 398.47,
+          "total": 398.47
+        }
+      },
+      {
+        "index": "12",
+        "name": "Traffic Facilities - Yard Remodelling and Others",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 8650.0,
+          "total": 8650.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 6715.0,
+            "total": 6715.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 7808.62,
+            "total": 7808.62
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 2257.51,
+          "total": 2257.51
+        }
+      },
+      {
+        "index": "13",
+        "name": "Railway Research",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 72.01,
+          "total": 72.01
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 61.5,
+            "total": 61.5
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 66.52,
+            "total": 66.52
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 39.12,
+          "total": 39.12
+        }
+      },
+      {
+        "index": "14",
+        "name": "Rolling Stock",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 41086.09,
+          "total": 41086.09
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 37581.0,
+            "total": 37581.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 40395.87,
+            "total": 40395.87
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 19035.41,
+          "total": 19035.41
+        }
+      },
+      {
+        "index": "15",
+        "name": "Leased assets - Payment of Capital Component",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 24270.0,
+          "total": 24270.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 22228.57,
+            "total": 22228.57
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 21300.0,
+            "total": 21300.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 17456.4,
+          "total": 17456.4
+        }
+      },
+      {
+        "index": "16",
+        "name": "Road Safety Works - Level Crossings",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 700.0,
+          "total": 700.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 700.0,
+            "total": 700.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 551.53,
+            "total": 551.53
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 519.91,
+          "total": 519.91
+        }
+      },
+      {
+        "index": "17",
+        "name": "Road Safety Works - Road Over/Under Bridges",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 9506.49,
+          "total": 9506.49
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 7400.0,
+            "total": 7400.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 6297.42,
+            "total": 6297.42
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 4827.29,
+          "total": 4827.29
+        }
+      },
+      {
+        "index": "18",
+        "name": "Track Renewals",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 17150.0,
+          "total": 17150.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 17296.84,
+            "total": 17296.84
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 16826.36,
+            "total": 16826.36
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 16325.72,
+          "total": 16325.72
+        }
+      },
+      {
+        "index": "19",
+        "name": "Bridge Works, Turnnel Works and Approaches",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 2088.4,
+          "total": 2088.4
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 1255.0,
+            "total": 1255.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 1999.63,
+            "total": 1999.63
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 1050.46,
+          "total": 1050.46
+        }
+      },
+      {
+        "index": "20",
+        "name": "Signalling and Telecom",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 4491.58,
+          "total": 4491.58
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 4198.22,
+            "total": 4198.22
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 3580.85,
+            "total": 3580.85
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 2456.12,
+          "total": 2456.12
+        }
+      },
+      {
+        "index": "21",
+        "name": "Electrification Projects",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 6500.0,
+          "total": 6500.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 8070.0,
+            "total": 8070.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 8360.72,
+            "total": 8360.72
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 340.14,
+          "total": 340.14
+        }
+      },
+      {
+        "index": "22",
+        "name": "Other Electrical Works",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 1650.0,
+          "total": 1650.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 1650.0,
+            "total": 1650.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 1545.2,
+            "total": 1545.2
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 734.96,
+          "total": 734.96
+        }
+      },
+      {
+        "index": "23",
+        "name": "Machinery and Plant",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 729.0,
+          "total": 729.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 740.0,
+            "total": 740.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 467.71,
+            "total": 467.71
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 528.86,
+          "total": 528.86
+        }
+      },
+      {
+        "index": "24",
+        "name": "Workshop Including Production Units",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 4125.0,
+          "total": 4125.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 4600.5,
+            "total": 4600.5
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 3457.79,
+            "total": 3457.79
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 2480.7,
+          "total": 2480.7
+        }
+      },
+      {
+        "index": "25",
+        "name": "Staff Welfare",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 730.0,
+          "total": 730.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 628.82,
+            "total": 628.82
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 732.62,
+            "total": 732.62
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 420.9,
+          "total": 420.9
+        }
+      },
+      {
+        "index": "26",
+        "name": "Customer Amenities",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 16351.8,
+          "total": 16351.8
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 13355.0,
+            "total": 13355.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 9618.21,
+            "total": 9618.21
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 2159.4,
+          "total": 2159.4
+        }
+      },
+      {
+        "index": "27",
+        "name": "Investment in PSU/JV/SPV etc.",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 31107.0,
+          "total": 31107.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 34353.55,
+            "total": 34353.55
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 32800.0,
+            "total": 32800.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 27532.93,
+          "total": 27532.93
+        }
+      },
+      {
+        "index": "28",
+        "name": "Other Specified Works",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 1045.0,
+          "total": 1045.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 1300.0,
+            "total": 1300.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 850.97,
+            "total": 850.97
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 556.22,
+          "total": 556.22
+        }
+      },
+      {
+        "index": "29",
+        "name": "Training/Human Resource Development",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 312.03,
+          "total": 312.03
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 305.0,
+            "total": 305.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 242.12,
+            "total": 242.12
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 115.42,
+          "total": 115.42
+        }
+      },
+      {
+        "index": "30",
+        "name": "Stores Suspense",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 25809.21,
+          "total": 25809.21
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 29512.87,
+            "total": 29512.87
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 25842.34,
+            "total": 25842.34
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 25164.51,
+          "total": 25164.51
+        }
+      },
+      {
+        "index": "31",
+        "name": "Manufacturing Suspense",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 59298.89,
+          "total": 59298.89
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 55855.18,
+            "total": 55855.18
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 52923.19,
+            "total": 52923.19
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 41718.49,
+          "total": 41718.49
+        }
+      },
+      {
+        "index": "32",
+        "name": "Miscellaneous Advances",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 401.33,
+          "total": 401.33
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 1304.93,
+            "total": 1304.93
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 1091.0,
+            "total": 1091.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 832.56,
+          "total": 832.56
+        }
+      },
+      {
+        "index": "33",
+        "name": "Metropolitan Transportation Projects",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 1099.12,
+          "total": 1099.12
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 2450.0,
+            "total": 2450.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 2050.88,
+            "total": 2050.88
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 2801.59,
+          "total": 2801.59
+        }
+      },
+      {
+        "index": "34.",
+        "name": "Transfer to Rashtirya Rail Sanraksha Kosh"
+      },
+      {
+        "index": "34.01",
+        "name": "From Gross Budgetary Support",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 10000.0,
+          "total": 10000.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 10000.0,
+            "total": 10000.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 10000.0,
+            "total": 10000.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 10000.0,
+          "total": 10000.0
+        }
+      },
+      {
+        "index": "35",
+        "name": "Transfer to Railway Safety Fund",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 45000.0,
+          "total": 45000.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 45000.0,
+            "total": 45000.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 45000.0,
+            "total": 45000.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 30000.0,
+          "total": 30000.0
+        }
+      },
+      {
+        "index": "36.",
+        "name": "Sovereign Green Fund"
+      },
+      {
+        "index": "36.01",
+        "name": "Transfer to Sovereign Green Fund",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 15000.0,
+          "total": 15000.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 12479.0,
+            "total": 12479.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 12479.0,
+            "total": 12479.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 10239.0,
+          "total": 10239.0
+        }
+      },
+      {
+        "index": "36.02",
+        "name": "Production of energy efficient three phase electric locos",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 12000.0,
+          "total": 12000.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 9929.0,
+            "total": 9929.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 9929.0,
+            "total": 9929.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 8541.0,
+          "total": 8541.0
+        }
+      },
+      {
+        "index": "36.03",
+        "name": "Dum Dum airport New Garia via Rajerhat construction of Metro railway New Garia (Kavi Subhas) Biman Bandar",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 1791.39,
+          "total": 1791.39
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 1200.0,
+            "total": 1200.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 1750.0,
+            "total": 1750.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 904.0,
+          "total": 904.0
+        }
+      },
+      {
+        "index": "36.04",
+        "name": "Joka Binoy Badal Dinesh Bagh via Majerhat construction of Metro Railway",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 1208.61,
+          "total": 1208.61
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 1350.0,
+            "total": 1350.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 800.0,
+            "total": 800.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 794.0,
+          "total": 794.0
+        }
+      },
+      {
+        "index": "36.05",
+        "name": "Amount met from Sovereign Green Fund",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": -15000.0,
+          "total": -15000.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": -12479.0,
+            "total": -12479.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": -12479.0,
+            "total": -12479.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": -10239.0,
+          "total": -10239.0
+        }
+      },
+      {
+        "index": "37.",
+        "name": "Issue of Bonus Shares"
+      },
+      {
+        "index": "37.01",
+        "name": "M/S IRCON International Limited",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 68.83,
+            "total": 68.83
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "37.02",
+        "name": "M/S Maharashtra Rail Infrastructure Development Corporation (MRIDC) Limited",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 1.0,
+            "total": 1.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "37.03",
+        "name": "Receipts Assumed",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": -69.83,
+            "total": -69.83
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "38.",
+        "name": "Amount met from"
+      },
+      {
+        "index": "38.01",
+        "name": "Central Road and Infrastructure Fund",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": -11000.0,
+          "total": -11000.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": -12049.7,
+            "total": -12049.7
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": -11000.0,
+            "total": -11000.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "38.02",
+        "name": "National Investment Fund",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": -14800.0,
+          "total": -14800.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": -29434.99,
+            "total": -29434.99
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": -11100.0,
+            "total": -11100.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": -35000.02,
+          "total": -35000.02
+        }
+      },
+      {
+        "index": "38.03",
+        "name": "Capital Fund ... ... ... ... ... ... ... ... ... ... ... ... 38.04 Depreciation Reserve Fund",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": -1000.0,
+          "total": -1000.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": -1000.0,
+            "total": -1000.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": -1000.0,
+            "total": -1000.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": -617.38,
+          "total": -617.38
+        }
+      },
+      {
+        "index": "38.05",
+        "name": "Development Fund",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": -1000.0,
+          "total": -1000.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": -1000.0,
+            "total": -1000.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": -1000.0,
+            "total": -1000.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": -985.38,
+          "total": -985.38
+        }
+      },
+      {
+        "index": "38.06",
+        "name": "Credits or Recoveries",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": -88323.54,
+          "total": -88323.54
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": -88465.38,
+            "total": -88465.38
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": -82513.6,
+            "total": -82513.6
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": -69901.42,
+          "total": -69901.42
+        }
+      },
+      {
+        "index": "38.07",
+        "name": "Nirbhaya Fund",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": -200.0,
+          "total": -200.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": -200.0,
+            "total": -200.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": -200.0,
+            "total": -200.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": -12.94,
+          "total": -12.94
+        }
+      },
+      {
+        "index": "38.08",
+        "name": "Rashtriya Rail Sanraksha Kosh",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": -11000.0,
+          "total": -11000.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": -11000.0,
+            "total": -11000.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": -11000.0,
+            "total": -11000.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": -11797.42,
+          "total": -11797.42
+        }
+      },
+      {
+        "index": "38.09",
+        "name": "Railway Safety Fund",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": -45000.0,
+          "total": -45000.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": -45000.0,
+            "total": -45000.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": -45000.0,
+            "total": -45000.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": -30001.29,
+          "total": -30001.29
+        }
+      }
+    ],
+    "development_heads": [
+      {
+        "index": "1",
+        "name": "Indian Railways - Policy Formulation, Direction, Research and Other Miscelllaneous Organisations ... ... ... ... ... ... ... ... ... ... ... ... 2. Indian Railways - Commercial Lines - Working Expenses ... ... ... ... ... ... ... ... ... ... ... ... 3. Indian Railways - Strategic Lines - Working Expenses ... ... ... ... ... ... ... ... ... ... ... ... 4. Appropriation from Railway Surplus ... ... ... ... ... ... ... ... ... ... ... ... 5. Other Transport Services",
+        "2024_budget": {
+          "revenue": 3393.0,
+          "capital": 0,
+          "total": 3393.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1267.51,
+            "capital": 0,
+            "total": 1267.51
+          },
+          "revised": {
+            "revenue": 3271.84,
+            "capital": 0,
+            "total": 3271.84
+          }
+        },
+        "2022_actual": {
+          "revenue": 3153.97,
+          "capital": 0,
+          "total": 3153.97
+        }
+      },
+      {
+        "index": "6",
+        "name": "Capital Outlay on Indian Railways - Commercial Lines",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 251893.08,
+          "total": 251893.08
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 239924.78,
+            "total": 239924.78
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 239898.58,
+            "total": 239898.58
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 159169.22,
+          "total": 159169.22
+        }
+      },
+      {
+        "index": "7",
+        "name": "Capital Outlay on Indian Railways - Strategic Lines",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 106.92,
+          "total": 106.92
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 75.22,
+            "total": 75.22
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 101.42,
+            "total": 101.42
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 86.93,
+          "total": 86.93
+        }
+      }
+    ],
+    "public_enterprises": [
+      {
+        "index": "1",
+        "name": "Indian Railway Finance Corporation ... 30239.43 30239.43 ... ... ... ... ... ... ... ... ... 2. Dedicated Freight Corridor Corporation of India Ltd",
+        "2024_budget": {
+          "revenue": 3955.0,
+          "capital": 200.0,
+          "total": 4155.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 12241.0,
+            "capital": 15241.0,
+            "total": 27482.0
+          },
+          "revised": {
+            "revenue": 12241.0,
+            "capital": 2285.0,
+            "total": 14526.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 14865.5,
+          "capital": 0,
+          "total": 14865.5
+        }
+      },
+      {
+        "index": "3",
+        "name": "Kolkata Metro Rail Corporation Limited",
+        "2024_budget": {
+          "revenue": 906.0,
+          "capital": 0,
+          "total": 906.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 500.0,
+            "capital": 500.0,
+            "total": 1000.0
+          },
+          "revised": {
+            "revenue": 600.0,
+            "capital": 0,
+            "total": 600.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 300.0,
+          "capital": 0,
+          "total": 300.0
+        }
+      },
+      {
+        "index": "4",
+        "name": "National High Speed Rail Corporation Limited",
+        "2024_budget": {
+          "revenue": 25000.0,
+          "capital": 0,
+          "total": 25000.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 19592.0,
+            "capital": 20592.0,
+            "total": 40184.0
+          },
+          "revised": {
+            "revenue": 18592.0,
+            "capital": 0,
+            "total": 18592.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 12000.0,
+          "capital": 0,
+          "total": 12000.0
+        }
+      },
+      {
+        "index": "5",
+        "name": "Equity in State Joint Ventures and Others",
+        "2024_budget": {
+          "revenue": 1246.0,
+          "capital": 1029.0,
+          "total": 2275.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1570.55,
+            "capital": 2000.0,
+            "total": 3570.55
+          },
+          "revised": {
+            "revenue": 917.0,
+            "capital": 0,
+            "total": 917.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 110.55,
+          "capital": 615.33,
+          "total": 725.88
+        }
+      },
+      {
+        "index": "6",
+        "name": "Indian Railways",
+        "2024_budget": {
+          "revenue": 220893.0,
+          "capital": 3000.0,
+          "total": 223893.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 205646.45,
+            "capital": 3000.0,
+            "total": 208646.45
+          },
+          "revised": {
+            "revenue": 207200.0,
+            "capital": 3000.0,
+            "total": 210200.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 131930.1,
+          "capital": 3401.47,
+          "total": 135331.57
+        }
+      },
+      {
+        "index": "7",
+        "name": "Public Private Partnership and Others",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 8771.0,
+          "total": 8771.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 10550.0,
+            "total": 10550.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 14715.0,
+            "total": 14715.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 10470.7,
+          "total": 10470.7
+        }
+      },
+      {
+        "index": "8",
+        "name": "Bengaluru Suburban Transport Project by K RIDE",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 450.0,
+            "capital": 900.0,
+            "total": 1350.0
+          },
+          "revised": {
+            "revenue": 450.0,
+            "capital": 0,
+            "total": 450.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 50.0,
+          "capital": 0,
+          "total": 50.0
+        }
+      }
+    ]
+  },
+  "number": 85
+}

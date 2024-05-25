@@ -1,0 +1,221 @@
+{
+  "name": "MINISTRY OF HOME AFFAIRS",
+  "demand": "DEMAND NO. 58",
+  "department": "Transfers to Jammu and Kashmir",
+  "sections": {
+    "allocation": [
+      {
+        "index": "1",
+        "name": "Grants towards contribution to Union Territory Disaster Response Fund",
+        "2024_budget": {
+          "revenue": 279.0,
+          "capital": 0,
+          "total": 279.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 279.0,
+            "capital": 0,
+            "total": 279.0
+          },
+          "revised": {
+            "revenue": 279.0,
+            "capital": 0,
+            "total": 279.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 279.0,
+          "capital": 0,
+          "total": 279.0
+        }
+      },
+      {
+        "index": "2",
+        "name": "Central Assistance to Union Territories",
+        "2024_budget": {
+          "revenue": 35619.3,
+          "capital": 0,
+          "total": 35619.3
+        },
+        "2023": {
+          "budget": {
+            "revenue": 33923.0,
+            "capital": 0,
+            "total": 33923.0
+          },
+          "revised": {
+            "revenue": 40093.0,
+            "capital": 0,
+            "total": 40093.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 43132.52,
+          "capital": 0,
+          "total": 43132.52
+        }
+      },
+      {
+        "index": "3",
+        "name": "Grants towards equity contribution for 624 MW Kiru HEP",
+        "2024_budget": {
+          "revenue": 130.0,
+          "capital": 0,
+          "total": 130.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 130.0,
+            "capital": 0,
+            "total": 130.0
+          },
+          "revised": {
+            "revenue": 130.0,
+            "capital": 0,
+            "total": 130.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 32.5,
+          "capital": 0,
+          "total": 32.5
+        }
+      },
+      {
+        "index": "4",
+        "name": "Grants towards equity for Ratle 800 MW HEP",
+        "2024_budget": {
+          "revenue": 476.44,
+          "capital": 0,
+          "total": 476.44
+        },
+        "2023": {
+          "budget": {
+            "revenue": 476.44,
+            "capital": 0,
+            "total": 476.44
+          },
+          "revised": {
+            "revenue": 476.44,
+            "capital": 0,
+            "total": 476.44
+          }
+        },
+        "2022_actual": {
+          "revenue": 119.11,
+          "capital": 0,
+          "total": 119.11
+        }
+      },
+      {
+        "index": "5",
+        "name": "Grant towards JTFRP -EAP",
+        "2024_budget": {
+          "revenue": 500.0,
+          "capital": 0,
+          "total": 500.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 500.0,
+            "capital": 0,
+            "total": 500.0
+          },
+          "revised": {
+            "revenue": 500.0,
+            "capital": 0,
+            "total": 500.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 1008.0,
+          "capital": 0,
+          "total": 1008.0
+        }
+      },
+      {
+        "index": "6",
+        "name": "Support for Capital Expenditure of UT",
+        "2024_budget": {
+          "revenue": 101.77,
+          "capital": 0,
+          "total": 101.77
+        },
+        "2023": {
+          "budget": {
+            "revenue": 101.77,
+            "capital": 0,
+            "total": 101.77
+          },
+          "revised": {
+            "revenue": 101.77,
+            "capital": 0,
+            "total": 101.77
+          }
+        },
+        "2022_actual": {
+          "revenue": 125.0,
+          "capital": 0,
+          "total": 125.0
+        }
+      },
+      {
+        "index": "7",
+        "name": "Grants for equity contribution for 540MW KWR HEP",
+        "2024_budget": {
+          "revenue": 171.23,
+          "capital": 0,
+          "total": 171.23
+        },
+        "2023": {
+          "budget": {
+            "revenue": 171.23,
+            "capital": 0,
+            "total": 171.23
+          },
+          "revised": {
+            "revenue": 171.23,
+            "capital": 0,
+            "total": 171.23
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      }
+    ],
+    "development_heads": [
+      {
+        "index": "1",
+        "name": "Grants -in-aid to Union Territory Governments",
+        "2024_budget": {
+          "revenue": 37277.74,
+          "capital": 0,
+          "total": 37277.74
+        },
+        "2023": {
+          "budget": {
+            "revenue": 35581.44,
+            "capital": 0,
+            "total": 35581.44
+          },
+          "revised": {
+            "revenue": 41751.44,
+            "capital": 0,
+            "total": 41751.44
+          }
+        },
+        "2022_actual": {
+          "revenue": 44696.13,
+          "capital": 0,
+          "total": 44696.13
+        }
+      }
+    ],
+    "public_enterprises": []
+  },
+  "number": 58
+}

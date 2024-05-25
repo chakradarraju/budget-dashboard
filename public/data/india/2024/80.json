@@ -1,0 +1,169 @@
+{
+  "name": "THE PRESIDENT, PARLIAMENT, UNION PUBLIC SERVICE COMMISSION AND THE SECRETARIAT  OF THE VICE PRESIDENT",
+  "demand": "No. 80 (APPROPRIATION)",
+  "department": "Staff, Household and Allowances of the President",
+  "sections": {
+    "allocation": [
+      {
+        "index": "1",
+        "name": "President",
+        "2024_budget": {
+          "revenue": 0.6,
+          "capital": 0,
+          "total": 0.6
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0.6,
+            "capital": 0,
+            "total": 0.6
+          },
+          "revised": {
+            "revenue": 0.6,
+            "capital": 0,
+            "total": 0.6
+          }
+        },
+        "2022_actual": {
+          "revenue": 1.32,
+          "capital": 0,
+          "total": 1.32
+        }
+      },
+      {
+        "index": "2",
+        "name": "Secretariat",
+        "2024_budget": {
+          "revenue": 69.93,
+          "capital": 20.94,
+          "total": 90.87
+        },
+        "2023": {
+          "budget": {
+            "revenue": 51.78,
+            "capital": 1.54,
+            "total": 53.32
+          },
+          "revised": {
+            "revenue": 55.09,
+            "capital": 3.26,
+            "total": 58.35
+          }
+        },
+        "2022_actual": {
+          "revenue": 36.77,
+          "capital": 0,
+          "total": 36.77
+        }
+      },
+      {
+        "index": "3",
+        "name": "Other Expenditure",
+        "2024_budget": {
+          "revenue": 37.56,
+          "capital": 15.15,
+          "total": 52.71
+        },
+        "2023": {
+          "budget": {
+            "revenue": 35.35,
+            "capital": 0.87,
+            "total": 36.22
+          },
+          "revised": {
+            "revenue": 37.35,
+            "capital": 1.39,
+            "total": 38.74
+          }
+        },
+        "2022_actual": {
+          "revenue": 42.29,
+          "capital": 0,
+          "total": 42.29
+        }
+      },
+      {
+        "index": "4",
+        "name": "Actual Recoveries",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": -0.02,
+          "capital": 0,
+          "total": -0.02
+        }
+      }
+    ],
+    "development_heads": [
+      {
+        "index": "1",
+        "name": "President, Vice President/Governor, Administrator of Union Territories",
+        "2024_budget": {
+          "revenue": 108.09,
+          "capital": 0,
+          "total": 108.09
+        },
+        "2023": {
+          "budget": {
+            "revenue": 87.73,
+            "capital": 0,
+            "total": 87.73
+          },
+          "revised": {
+            "revenue": 93.04,
+            "capital": 0,
+            "total": 93.04
+          }
+        },
+        "2022_actual": {
+          "revenue": 80.36,
+          "capital": 0,
+          "total": 80.36
+        }
+      },
+      {
+        "index": "2",
+        "name": "Capital Outlay on Miscellaneous General Services",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 36.09,
+          "total": 36.09
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 2.41,
+            "total": 2.41
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 4.65,
+            "total": 4.65
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      }
+    ],
+    "public_enterprises": []
+  },
+  "number": 80
+}

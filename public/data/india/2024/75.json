@@ -1,0 +1,64 @@
+{
+  "name": "MINISTRY OF PERSONNEL, PUBLIC GRIEVANCES AND PENSIONS",
+  "demand": "No. 75 (APPROPRIATION)",
+  "department": "Central Vigilance Commission",
+  "sections": {
+    "allocation": [],
+    "development_heads": [
+      {
+        "index": "1",
+        "name": "Vigilance",
+        "2024_budget": {
+          "revenue": 49.69,
+          "capital": 0,
+          "total": 49.69
+        },
+        "2023": {
+          "budget": {
+            "revenue": 43.21,
+            "capital": 0,
+            "total": 43.21
+          },
+          "revised": {
+            "revenue": 46.48,
+            "capital": 0,
+            "total": 46.48
+          }
+        },
+        "2022_actual": {
+          "revenue": 43.17,
+          "capital": 0,
+          "total": 43.17
+        }
+      },
+      {
+        "index": "2",
+        "name": "Capital Outlay on Other Administrative Services",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 1.62,
+          "total": 1.62
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 1.25,
+            "total": 1.25
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 1.25,
+            "total": 1.25
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      }
+    ],
+    "public_enterprises": []
+  },
+  "number": 75
+}

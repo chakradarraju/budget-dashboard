@@ -1,0 +1,541 @@
+{
+  "name": "MINISTRY OF FINANCE",
+  "demand": "DEMAND NO. 38",
+  "department": "Indian Audit and Accounts Department",
+  "sections": {
+    "allocation": [
+      {
+        "index": "1",
+        "name": "Comptroller and Auditor General of India",
+        "2024_budget": {
+          "revenue": 288.83,
+          "capital": 6.21,
+          "total": 295.04
+        },
+        "2023": {
+          "budget": {
+            "revenue": 263.67,
+            "capital": 0,
+            "total": 263.67
+          },
+          "revised": {
+            "revenue": 330.46,
+            "capital": 0,
+            "total": 330.46
+          }
+        },
+        "2022_actual": {
+          "revenue": 224.45,
+          "capital": 0,
+          "total": 224.45
+        }
+      },
+      {
+        "index": "2.",
+        "name": "Civil Audit and Accounts Offices"
+      },
+      {
+        "index": "2.01",
+        "name": "Civil Audit Offices",
+        "2024_budget": {
+          "revenue": 3226.0,
+          "capital": 39.74,
+          "total": 3265.74
+        },
+        "2023": {
+          "budget": {
+            "revenue": 3157.48,
+            "capital": 0,
+            "total": 3157.48
+          },
+          "revised": {
+            "revenue": 3190.75,
+            "capital": 0,
+            "total": 3190.75
+          }
+        },
+        "2022_actual": {
+          "revenue": 2986.73,
+          "capital": 0,
+          "total": 2986.73
+        }
+      },
+      {
+        "index": "2.02",
+        "name": "Civil Accounts Offices",
+        "2024_budget": {
+          "revenue": 1527.26,
+          "capital": 28.26,
+          "total": 1555.52
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1554.44,
+            "capital": 0,
+            "total": 1554.44
+          },
+          "revised": {
+            "revenue": 1506.9,
+            "capital": 0,
+            "total": 1506.9
+          }
+        },
+        "2022_actual": {
+          "revenue": 1531.57,
+          "capital": 0,
+          "total": 1531.57
+        }
+      },
+      {
+        "index": "2.03",
+        "name": "Centralised Procurement",
+        "2024_budget": {
+          "revenue": 29.82,
+          "capital": 62.0,
+          "total": 91.82
+        },
+        "2023": {
+          "budget": {
+            "revenue": 24.04,
+            "capital": 0,
+            "total": 24.04
+          },
+          "revised": {
+            "revenue": 43.16,
+            "capital": 0,
+            "total": 43.16
+          }
+        },
+        "2022_actual": {
+          "revenue": 46.61,
+          "capital": 0,
+          "total": 46.61
+        }
+      },
+      {
+        "index": "2.04",
+        "name": "Training",
+        "2024_budget": {
+          "revenue": 86.5,
+          "capital": 4.29,
+          "total": 90.79
+        },
+        "2023": {
+          "budget": {
+            "revenue": 84.52,
+            "capital": 0,
+            "total": 84.52
+          },
+          "revised": {
+            "revenue": 85.81,
+            "capital": 0,
+            "total": 85.81
+          }
+        },
+        "2022_actual": {
+          "revenue": 83.15,
+          "capital": 0,
+          "total": 83.15
+        }
+      },
+      {
+        "index": "3",
+        "name": "P and T Audit Offices",
+        "2024_budget": {
+          "revenue": 195.15,
+          "capital": 1.29,
+          "total": 196.44
+        },
+        "2023": {
+          "budget": {
+            "revenue": 179.74,
+            "capital": 0,
+            "total": 179.74
+          },
+          "revised": {
+            "revenue": 185.15,
+            "capital": 0,
+            "total": 185.15
+          }
+        },
+        "2022_actual": {
+          "revenue": 231.25,
+          "capital": 0,
+          "total": 231.25
+        }
+      },
+      {
+        "index": "4",
+        "name": "Railway Audit Offices",
+        "2024_budget": {
+          "revenue": 324.08,
+          "capital": 6.12,
+          "total": 330.2
+        },
+        "2023": {
+          "budget": {
+            "revenue": 312.52,
+            "capital": 0,
+            "total": 312.52
+          },
+          "revised": {
+            "revenue": 312.52,
+            "capital": 0,
+            "total": 312.52
+          }
+        },
+        "2022_actual": {
+          "revenue": 292.58,
+          "capital": 0,
+          "total": 292.58
+        }
+      },
+      {
+        "index": "5",
+        "name": "Defence Audit Offices",
+        "2024_budget": {
+          "revenue": 163.4,
+          "capital": 3.52,
+          "total": 166.92
+        },
+        "2023": {
+          "budget": {
+            "revenue": 149.67,
+            "capital": 0,
+            "total": 149.67
+          },
+          "revised": {
+            "revenue": 154.12,
+            "capital": 0,
+            "total": 154.12
+          }
+        },
+        "2022_actual": {
+          "revenue": 146.5,
+          "capital": 0,
+          "total": 146.5
+        }
+      },
+      {
+        "index": "6",
+        "name": "Commercial Audit Offices",
+        "2024_budget": {
+          "revenue": 285.91,
+          "capital": 5.43,
+          "total": 291.34
+        },
+        "2023": {
+          "budget": {
+            "revenue": 273.42,
+            "capital": 0,
+            "total": 273.42
+          },
+          "revised": {
+            "revenue": 275.8,
+            "capital": 0,
+            "total": 275.8
+          }
+        },
+        "2022_actual": {
+          "revenue": 270.92,
+          "capital": 0,
+          "total": 270.92
+        }
+      },
+      {
+        "index": "7",
+        "name": "Overseas Audit Offices",
+        "2024_budget": {
+          "revenue": 44.86,
+          "capital": 0.1,
+          "total": 44.96
+        },
+        "2023": {
+          "budget": {
+            "revenue": 40.77,
+            "capital": 0,
+            "total": 40.77
+          },
+          "revised": {
+            "revenue": 46.47,
+            "capital": 0,
+            "total": 46.47
+          }
+        },
+        "2022_actual": {
+          "revenue": 43.29,
+          "capital": 0,
+          "total": 43.29
+        }
+      },
+      {
+        "index": "8",
+        "name": "Other Expenditure 13.98 ... 13.98 ... ... ... ... ... ... ... ... ... 9. Purchase of ready -built office building",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 17.0,
+          "total": 17.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 20.0,
+            "total": 20.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 16.53,
+            "total": 16.53
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 146.85,
+          "total": 146.85
+        }
+      },
+      {
+        "index": "10",
+        "name": "Purchase of ready -built Residential Accommodation",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 8.0,
+          "total": 8.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 10.0,
+            "total": 10.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 8.47,
+            "total": 8.47
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 9.5,
+          "total": 9.5
+        }
+      },
+      {
+        "index": "11",
+        "name": "Direction and Administration",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 112.76,
+            "total": 112.76
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 187.81,
+            "total": 187.81
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "12.",
+        "name": "Recoveries adjusted in reduction of Expenditure"
+      },
+      {
+        "index": "12.01",
+        "name": "Comptroller and Auditor General of India",
+        "2024_budget": {
+          "revenue": -10.04,
+          "capital": 0,
+          "total": -10.04
+        },
+        "2023": {
+          "budget": {
+            "revenue": -10.19,
+            "capital": 0,
+            "total": -10.19
+          },
+          "revised": {
+            "revenue": -9.5,
+            "capital": 0,
+            "total": -9.5
+          }
+        },
+        "2022_actual": {
+          "revenue": -4.0,
+          "capital": 0,
+          "total": -4.0
+        }
+      },
+      {
+        "index": "12.02",
+        "name": "Audit and Accounts Offices",
+        "2024_budget": {
+          "revenue": -375.79,
+          "capital": -6.46,
+          "total": -382.25
+        },
+        "2023": {
+          "budget": {
+            "revenue": -360.15,
+            "capital": -6.56,
+            "total": -366.71
+          },
+          "revised": {
+            "revenue": -361.58,
+            "capital": -5.5,
+            "total": -367.08
+          }
+        },
+        "2022_actual": {
+          "revenue": -347.18,
+          "capital": 0,
+          "total": -347.18
+        }
+      }
+    ],
+    "development_heads": [
+      {
+        "index": "1",
+        "name": "Audit",
+        "2024_budget": {
+          "revenue": 5785.98,
+          "capital": 0,
+          "total": 5785.98
+        },
+        "2023": {
+          "budget": {
+            "revenue": 5669.93,
+            "capital": 0,
+            "total": 5669.93
+          },
+          "revised": {
+            "revenue": 5760.06,
+            "capital": 0,
+            "total": 5760.06
+          }
+        },
+        "2022_actual": {
+          "revenue": 5519.85,
+          "capital": 0,
+          "total": 5519.85
+        }
+      },
+      {
+        "index": "2",
+        "name": "Capital Account On Audit",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 150.5,
+          "total": 150.5
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "3",
+        "name": "Capital Outlay on Public Works",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 17.0,
+          "total": 17.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 20.0,
+            "total": 20.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 16.53,
+            "total": 16.53
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 146.85,
+          "total": 146.85
+        }
+      },
+      {
+        "index": "4",
+        "name": "Capital Outlay on Miscellaneous General Services",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 106.2,
+            "total": 106.2
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 182.31,
+            "total": 182.31
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "5",
+        "name": "Capital Outlay on Housing",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 8.0,
+          "total": 8.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 10.0,
+            "total": 10.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 8.47,
+            "total": 8.47
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 9.5,
+          "total": 9.5
+        }
+      }
+    ],
+    "public_enterprises": []
+  },
+  "number": 38
+}

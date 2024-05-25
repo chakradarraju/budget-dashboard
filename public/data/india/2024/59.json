@@ -1,0 +1,169 @@
+{
+  "name": "MINISTRY OF HOME AFFAIRS",
+  "demand": "DEMAND NO. 59",
+  "department": "Transfers to Puducherry",
+  "sections": {
+    "allocation": [
+      {
+        "index": "1",
+        "name": "Grants towards contribution to Union Territory Disaster Response Fund",
+        "2024_budget": {
+          "revenue": 5.0,
+          "capital": 0,
+          "total": 5.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 5.0,
+            "capital": 0,
+            "total": 5.0
+          },
+          "revised": {
+            "revenue": 5.0,
+            "capital": 0,
+            "total": 5.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 5.0,
+          "capital": 0,
+          "total": 5.0
+        }
+      },
+      {
+        "index": "2",
+        "name": "Central Assistance to Union Territories",
+        "2024_budget": {
+          "revenue": 3263.98,
+          "capital": 0,
+          "total": 3263.98
+        },
+        "2023": {
+          "budget": {
+            "revenue": 3112.75,
+            "capital": 0,
+            "total": 3112.75
+          },
+          "revised": {
+            "revenue": 3383.75,
+            "capital": 0,
+            "total": 3383.75
+          }
+        },
+        "2022_actual": {
+          "revenue": 3124.77,
+          "capital": 0,
+          "total": 3124.77
+        }
+      },
+      {
+        "index": "3",
+        "name": "EAP for Coastal Disaster Risk Reduction Project",
+        "2024_budget": {
+          "revenue": 0.01,
+          "capital": 0,
+          "total": 0.01
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0.01,
+            "capital": 0,
+            "total": 0.01
+          },
+          "revised": {
+            "revenue": 0.01,
+            "capital": 0,
+            "total": 0.01
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "4",
+        "name": "EAP for Water Supply Project",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0.01,
+          "total": 0.01
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0.01,
+            "total": 0.01
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0.01,
+            "total": 0.01
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      }
+    ],
+    "development_heads": [
+      {
+        "index": "1",
+        "name": "Grants -in-aid to Union Territory Governments",
+        "2024_budget": {
+          "revenue": 3268.99,
+          "capital": 0,
+          "total": 3268.99
+        },
+        "2023": {
+          "budget": {
+            "revenue": 3117.76,
+            "capital": 0,
+            "total": 3117.76
+          },
+          "revised": {
+            "revenue": 3388.76,
+            "capital": 0,
+            "total": 3388.76
+          }
+        },
+        "2022_actual": {
+          "revenue": 3129.77,
+          "capital": 0,
+          "total": 3129.77
+        }
+      },
+      {
+        "index": "2",
+        "name": "Loans and Advances to Union Territory Governments",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0.01,
+          "total": 0.01
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0.01,
+            "total": 0.01
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0.01,
+            "total": 0.01
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      }
+    ],
+    "public_enterprises": []
+  },
+  "number": 59
+}

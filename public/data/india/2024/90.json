@@ -1,0 +1,300 @@
+{
+  "name": "MINISTRY OF SCIENCE AND TECHNOLOGY",
+  "demand": "DEMAND NO. 90",
+  "department": "Department of Biotechnology",
+  "sections": {
+    "allocation": [
+      {
+        "index": "1",
+        "name": "Secretariat",
+        "2024_budget": {
+          "revenue": 46.86,
+          "capital": 0,
+          "total": 46.86
+        },
+        "2023": {
+          "budget": {
+            "revenue": 46.39,
+            "capital": 0,
+            "total": 46.39
+          },
+          "revised": {
+            "revenue": 44.25,
+            "capital": 0,
+            "total": 44.25
+          }
+        },
+        "2022_actual": {
+          "revenue": 32.74,
+          "capital": 0,
+          "total": 32.74
+        }
+      },
+      {
+        "index": "2",
+        "name": "Biotechnology Research and Development",
+        "2024_budget": {
+          "revenue": 1100.0,
+          "capital": 0,
+          "total": 1100.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1345.0,
+            "capital": 0,
+            "total": 1345.0
+          },
+          "revised": {
+            "revenue": 500.0,
+            "capital": 0,
+            "total": 500.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 968.95,
+          "capital": 0,
+          "total": 968.95
+        }
+      },
+      {
+        "index": "3",
+        "name": "Industrial and Entrepreneurship Development",
+        "2024_budget": {
+          "revenue": 74.0,
+          "capital": 0,
+          "total": 74.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 300.0,
+            "capital": 0,
+            "total": 300.0
+          },
+          "revised": {
+            "revenue": 50.0,
+            "capital": 0,
+            "total": 50.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 238.46,
+          "capital": 0,
+          "total": 238.46
+        }
+      },
+      {
+        "index": "4",
+        "name": "Assistance to Autonomous Institutions",
+        "2024_budget": {
+          "revenue": 940.66,
+          "capital": 0,
+          "total": 940.66
+        },
+        "2023": {
+          "budget": {
+            "revenue": 902.47,
+            "capital": 0,
+            "total": 902.47
+          },
+          "revised": {
+            "revenue": 911.07,
+            "capital": 0,
+            "total": 911.07
+          }
+        },
+        "2022_actual": {
+          "revenue": 848.68,
+          "capital": 0,
+          "total": 848.68
+        }
+      },
+      {
+        "index": "5",
+        "name": "Biotechnology Industry Research Assistance Council",
+        "2024_budget": {
+          "revenue": 40.0,
+          "capital": 0,
+          "total": 40.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 40.0,
+            "capital": 0,
+            "total": 40.0
+          },
+          "revised": {
+            "revenue": 52.0,
+            "capital": 0,
+            "total": 52.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 32.59,
+          "capital": 0,
+          "total": 32.59
+        }
+      },
+      {
+        "index": "6",
+        "name": "International Centre for Genetic Engineering and Biotechnology (ICGEB)",
+        "2024_budget": {
+          "revenue": 50.0,
+          "capital": 0,
+          "total": 50.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 50.0,
+            "capital": 0,
+            "total": 50.0
+          },
+          "revised": {
+            "revenue": 50.0,
+            "capital": 0,
+            "total": 50.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "7",
+        "name": "Actual Recoveries -76.68 ... -76.68 ... ... ... ... ... ... ... ... ... Total -Others",
+        "2024_budget": {
+          "revenue": 50.0,
+          "capital": 0,
+          "total": 50.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 50.0,
+            "capital": 0,
+            "total": 50.0
+          },
+          "revised": {
+            "revenue": 50.0,
+            "capital": 0,
+            "total": 50.0
+          }
+        },
+        "2022_actual": {
+          "revenue": -76.68,
+          "capital": 0,
+          "total": -76.68
+        }
+      }
+    ],
+    "development_heads": [
+      {
+        "index": "1",
+        "name": "Other Scientific Research",
+        "2024_budget": {
+          "revenue": 2087.26,
+          "capital": 0,
+          "total": 2087.26
+        },
+        "2023": {
+          "budget": {
+            "revenue": 2472.97,
+            "capital": 0,
+            "total": 2472.97
+          },
+          "revised": {
+            "revenue": 1508.07,
+            "capital": 0,
+            "total": 1508.07
+          }
+        },
+        "2022_actual": {
+          "revenue": 2012.0,
+          "capital": 0,
+          "total": 2012.0
+        }
+      },
+      {
+        "index": "2",
+        "name": "Secretariat -Economic Services",
+        "2024_budget": {
+          "revenue": 46.86,
+          "capital": 0,
+          "total": 46.86
+        },
+        "2023": {
+          "budget": {
+            "revenue": 46.39,
+            "capital": 0,
+            "total": 46.39
+          },
+          "revised": {
+            "revenue": 44.25,
+            "capital": 0,
+            "total": 44.25
+          }
+        },
+        "2022_actual": {
+          "revenue": 32.74,
+          "capital": 0,
+          "total": 32.74
+        }
+      },
+      {
+        "index": "3",
+        "name": "North Eastern Areas",
+        "2024_budget": {
+          "revenue": 117.4,
+          "capital": 0,
+          "total": 117.4
+        },
+        "2023": {
+          "budget": {
+            "revenue": 164.5,
+            "capital": 0,
+            "total": 164.5
+          },
+          "revised": {
+            "revenue": 55.0,
+            "capital": 0,
+            "total": 55.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      }
+    ],
+    "public_enterprises": [
+      {
+        "index": "1",
+        "name": "Biotechnology Industry Research Assistance Council",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 20.5,
+          "total": 20.5
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 33.0,
+            "total": 33.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 30.25,
+            "total": 30.25
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 25.98,
+          "total": 25.98
+        }
+      }
+    ]
+  },
+  "number": 90
+}

@@ -1,0 +1,433 @@
+{
+  "name": "MINISTRY OF FISHERIES, ANIMAL HUSBANDRY AND DAIRYING",
+  "demand": "DEMAND NO. 43",
+  "department": "Department of Fisheries",
+  "sections": {
+    "allocation": [
+      {
+        "index": "1.",
+        "name": "Secretariat"
+      },
+      {
+        "index": "1.01",
+        "name": "Establishment Expenditure",
+        "2024_budget": {
+          "revenue": 32.98,
+          "capital": 1.8,
+          "total": 34.78
+        },
+        "2023": {
+          "budget": {
+            "revenue": 27.53,
+            "capital": 0.6,
+            "total": 28.13
+          },
+          "revised": {
+            "revenue": 28.12,
+            "capital": 0.6,
+            "total": 28.72
+          }
+        },
+        "2022_actual": {
+          "revenue": 19.44,
+          "capital": 0,
+          "total": 19.44
+        }
+      },
+      {
+        "index": "1.02",
+        "name": "International Cooperation",
+        "2024_budget": {
+          "revenue": 2.2,
+          "capital": 0,
+          "total": 2.2
+        },
+        "2023": {
+          "budget": {
+            "revenue": 2.2,
+            "capital": 0,
+            "total": 2.2
+          },
+          "revised": {
+            "revenue": 2.2,
+            "capital": 0,
+            "total": 2.2
+          }
+        },
+        "2022_actual": {
+          "revenue": 2.03,
+          "capital": 0,
+          "total": 2.03
+        }
+      },
+      {
+        "index": "2",
+        "name": "Fisheries Institute",
+        "2024_budget": {
+          "revenue": 125.82,
+          "capital": 17.2,
+          "total": 143.02
+        },
+        "2023": {
+          "budget": {
+            "revenue": 149.44,
+            "capital": 19.8,
+            "total": 169.24
+          },
+          "revised": {
+            "revenue": 117.42,
+            "capital": 7.66,
+            "total": 125.08
+          }
+        },
+        "2022_actual": {
+          "revenue": 138.83,
+          "capital": 2.28,
+          "total": 141.11
+        }
+      },
+      {
+        "index": "3",
+        "name": "Fisheries and Aquaculture Infrastructure Development Fund (FIDF)",
+        "2024_budget": {
+          "revenue": 30.0,
+          "capital": 0,
+          "total": 30.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 25.0,
+            "capital": 0,
+            "total": 25.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "4",
+        "name": "Coastal Aquaculture Authority",
+        "2024_budget": {
+          "revenue": 5.72,
+          "capital": 0,
+          "total": 5.72
+        },
+        "2023": {
+          "budget": {
+            "revenue": 5.2,
+            "capital": 0,
+            "total": 5.2
+          },
+          "revised": {
+            "revenue": 5.2,
+            "capital": 0,
+            "total": 5.2
+          }
+        },
+        "2022_actual": {
+          "revenue": 4.6,
+          "capital": 0,
+          "total": 4.6
+        }
+      },
+      {
+        "index": "5",
+        "name": "National Fisheries Development Board",
+        "2024_budget": {
+          "revenue": 16.78,
+          "capital": 0,
+          "total": 16.78
+        },
+        "2023": {
+          "budget": {
+            "revenue": 19.0,
+            "capital": 0,
+            "total": 19.0
+          },
+          "revised": {
+            "revenue": 14.8,
+            "capital": 0,
+            "total": 14.8
+          }
+        },
+        "2022_actual": {
+          "revenue": 13.0,
+          "capital": 0,
+          "total": 13.0
+        }
+      },
+      {
+        "index": "6",
+        "name": "Fisheries and Aquaculture Infrastructure Development Fund",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 25.0,
+            "capital": 0,
+            "total": 25.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 12.0,
+          "capital": 0,
+          "total": 12.0
+        }
+      },
+      {
+        "index": "7",
+        "name": "Pradhan Mantri Matsya Sampada Yojana ( PMMSY)",
+        "2024_budget": {
+          "revenue": 2352.0,
+          "capital": 0,
+          "total": 2352.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 2000.0,
+            "capital": 0,
+            "total": 2000.0
+          },
+          "revised": {
+            "revenue": 1500.0,
+            "capital": 0,
+            "total": 1500.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 1168.38,
+          "capital": 0,
+          "total": 1168.38
+        }
+      },
+      {
+        "index": "8",
+        "name": "Actual Recoveries -66.18 ... -66.18 ... ... ... ... ... ... ... ... ... Total -Centrally Sponsored Schemes",
+        "2024_budget": {
+          "revenue": 2352.0,
+          "capital": 0,
+          "total": 2352.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 2025.0,
+            "capital": 0,
+            "total": 2025.0
+          },
+          "revised": {
+            "revenue": 1500.0,
+            "capital": 0,
+            "total": 1500.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 1114.2,
+          "capital": 0,
+          "total": 1114.2
+        }
+      }
+    ],
+    "development_heads": [
+      {
+        "index": "1",
+        "name": "Fisheries",
+        "2024_budget": {
+          "revenue": 606.39,
+          "capital": 0,
+          "total": 606.39
+        },
+        "2023": {
+          "budget": {
+            "revenue": 562.61,
+            "capital": 0,
+            "total": 562.61
+          },
+          "revised": {
+            "revenue": 446.08,
+            "capital": 0,
+            "total": 446.08
+          }
+        },
+        "2022_actual": {
+          "revenue": 361.17,
+          "capital": 0,
+          "total": 361.17
+        }
+      },
+      {
+        "index": "2",
+        "name": "Secretariat -Economic Services",
+        "2024_budget": {
+          "revenue": 35.18,
+          "capital": 0,
+          "total": 35.18
+        },
+        "2023": {
+          "budget": {
+            "revenue": 29.73,
+            "capital": 0,
+            "total": 29.73
+          },
+          "revised": {
+            "revenue": 30.32,
+            "capital": 0,
+            "total": 30.32
+          }
+        },
+        "2022_actual": {
+          "revenue": 21.47,
+          "capital": 0,
+          "total": 21.47
+        }
+      },
+      {
+        "index": "3",
+        "name": "Capital Outlay on Fisheries",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 17.2,
+          "total": 17.2
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 19.8,
+            "total": 19.8
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 7.66,
+            "total": 7.66
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 2.28,
+          "total": 2.28
+        }
+      },
+      {
+        "index": "4",
+        "name": "Capital Outlay on Other General Economic Services",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 1.8,
+          "total": 1.8
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0.6,
+            "total": 0.6
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0.6,
+            "total": 0.6
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "5",
+        "name": "North Eastern Areas",
+        "2024_budget": {
+          "revenue": 235.98,
+          "capital": 0,
+          "total": 235.98
+        },
+        "2023": {
+          "budget": {
+            "revenue": 200.7,
+            "capital": 0,
+            "total": 200.7
+          },
+          "revised": {
+            "revenue": 150.53,
+            "capital": 0,
+            "total": 150.53
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "6",
+        "name": "Grants -in-aid to State Governments",
+        "2024_budget": {
+          "revenue": 1598.46,
+          "capital": 0,
+          "total": 1598.46
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1359.23,
+            "capital": 0,
+            "total": 1359.23
+          },
+          "revised": {
+            "revenue": 1019.42,
+            "capital": 0,
+            "total": 1019.42
+          }
+        },
+        "2022_actual": {
+          "revenue": 873.62,
+          "capital": 0,
+          "total": 873.62
+        }
+      },
+      {
+        "index": "7",
+        "name": "Grants -in-aid to Union Territory Governments",
+        "2024_budget": {
+          "revenue": 89.49,
+          "capital": 0,
+          "total": 89.49
+        },
+        "2023": {
+          "budget": {
+            "revenue": 76.1,
+            "capital": 0,
+            "total": 76.1
+          },
+          "revised": {
+            "revenue": 46.39,
+            "capital": 0,
+            "total": 46.39
+          }
+        },
+        "2022_actual": {
+          "revenue": 35.84,
+          "capital": 0,
+          "total": 35.84
+        }
+      }
+    ],
+    "public_enterprises": []
+  },
+  "number": 43
+}

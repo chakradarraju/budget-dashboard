@@ -1,8 +1,10 @@
 import React from 'react';
 import { PieChart, Pie, Cell, Tooltip, ResponsiveContainer } from 'recharts';
-import { Collapse, Grid, IconButton, Paper, Table, TableBody, TableCell, TableContainer, TableHead, TableRow } from '@mui/material';
+import { Alert, Collapse, Grid, IconButton, LinearProgress, Paper, Table, TableBody, TableCell, TableContainer, TableHead, TableRow } from '@mui/material';
 import KeyboardArrowDownIcon from '@mui/icons-material/KeyboardArrowDown';
 import KeyboardArrowUpIcon from '@mui/icons-material/KeyboardArrowUp';
+import { useQuery } from '@tanstack/react-query';
+import axios from 'axios';
 
 const COLORS = ['#0088FE', '#00C49F', '#FFBB28', '#FF8042', '#AAFF00', '#FF00AA', '#00AAFF'];
 const NUMBER_FORMAT = Intl.NumberFormat('en-IN', {minimumFractionDigits:2,maximumFractionDigits:2});
@@ -50,9 +52,9 @@ const Row = ({row, schema, totalValue}) => {
             </TableHead>
             <TableBody>
               {row.subitems.map(subrow => (<TableRow>
-                <TableCell>{subrow.label}</TableCell>
-                {subrow?.subvalue1 !== undefined && <TableCell align='right' style={{ fontFamily: 'monospace'}}>{subrow.subvalue1.toFixed(2)}</TableCell>}
-                {subrow?.subvalue2 !== undefined && <TableCell align='right' style={{ fontFamily: 'monospace'}}>{subrow.subvalue2.toFixed(2)}</TableCell>}
+                <TableCell><a href={`./${subrow.index}/`}>{subrow.label}</a></TableCell>
+                {subrow?.subvalue1 !== undefined && <TableCell align='right' style={{ fontFamily: 'monospace'}}>{formatRuppee(subrow.subvalue1)}</TableCell>}
+                {subrow?.subvalue2 !== undefined && <TableCell align='right' style={{ fontFamily: 'monospace'}}>{formatRuppee(subrow.subvalue2)}</TableCell>}
                 <TableCell align='right' style={{ fontFamily: 'monospace'}}>{(subrow.value / row.value * 100).toFixed(2)}</TableCell>
                 <TableCell align='right' style={{ fontFamily: 'monospace'}}>{formatRuppee(subrow.value)}</TableCell>
               </TableRow>))}
@@ -64,24 +66,46 @@ const Row = ({row, schema, totalValue}) => {
   </>);
 }
 
-const Dashboard = ({data}) => {
-  const pieData = data.data.map(row => ({
+const Dashboard = (props) => {
+
+  console.log('Dashboard props', props);
+
+  const { isPending, isError, data, error } = useQuery({
+    queryKey: [props.path],
+    queryFn: () => axios.get(`/data/${props.path}/index.json`)
+  });
+
+  if (isPending) {
+    return <LinearProgress></LinearProgress>
+  }
+
+  if (isError) {
+    return (<Alert variant="filled" severity="error">
+      Unable to load data.
+      <pre>{error}</pre>
+    </Alert>);
+  }
+
+  console.log('data', data, props);
+
+  const pieData = data.data.data.map(row => ({
     name: row.label,
     value: row.value
   }));
 
   const totalValue = pieData.reduce((acc, curr) => acc + curr.value, 0);
 
-  return (
+  return (<>
+    <h1>Budget 2024</h1>
     <Grid container style={{ flexWrap: 'wrap' }}>
       <Grid item xs={12} sm={8}>
         <TableContainer component={Paper} style={{padding: '10px'}}>
           <Table aria-label="collapsible table">
             <TableHead>
               <TableRow>
-                <TableCell><b>{data.schema.label}</b></TableCell>
+                <TableCell><b>{data.data.schema.label}</b></TableCell>
                 <TableCell align='right'><b>%</b></TableCell>
-                <TableCell align='right'><b>{data.schema.value}</b></TableCell>
+                <TableCell align='right'><b>{data.data.schema.value}</b></TableCell>
               </TableRow>
               <TableRow>
                 <TableCell><b>Total</b></TableCell>
@@ -90,7 +114,7 @@ const Dashboard = ({data}) => {
               </TableRow>
             </TableHead>
             <TableBody>
-              {data.data.map(row => <Row row={row} schema={data.schema} totalValue={totalValue} />)}
+              {data.data.data.map(row => <Row key={row.label} row={row} schema={data.data.schema} totalValue={totalValue} />)}
             </TableBody>
           </Table>
         </TableContainer>
@@ -110,6 +134,7 @@ const Dashboard = ({data}) => {
               fill="#8884d8"
               dataKey="value"
               label={false}
+              isAnimationActive={false}
             >
               {pieData.map((entry, index) => (
                 <Cell key={`cell-${index}`} fill={COLORS[index % COLORS.length]} />
@@ -123,13 +148,15 @@ const Dashboard = ({data}) => {
             />
           </PieChart>
         </ResponsiveContainer>
-        <span>
-          Source: <a href={data.sourceUrl}>{data.label}</a>
+        <div>
+          Source: <a href={data.data.sourceUrl}>{data.data.label}</a>
+        </div>
+        <div>
           Source code: <a href="https://github.com/chakradarraju/budget-dashboard">Github</a>
-        </span>
+        </div>
       </Grid>
     </Grid>
-  );
+  </>);
 };
 
 export default Dashboard;

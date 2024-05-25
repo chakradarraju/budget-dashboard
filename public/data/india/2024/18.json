@@ -1,0 +1,637 @@
+{
+  "name": "MINISTRY OF CULTURE",
+  "demand": "DEMAND NO. 18",
+  "department": "Ministry of Culture",
+  "sections": {
+    "allocation": [
+      {
+        "index": "1",
+        "name": "Secretariat including Central Secretariat Library",
+        "2024_budget": {
+          "revenue": 65.54,
+          "capital": 3.45,
+          "total": 68.99
+        },
+        "2023": {
+          "budget": {
+            "revenue": 64.98,
+            "capital": 5.0,
+            "total": 69.98
+          },
+          "revised": {
+            "revenue": 63.64,
+            "capital": 3.9,
+            "total": 67.54
+          }
+        },
+        "2022_actual": {
+          "revenue": 61.61,
+          "capital": 0,
+          "total": 61.61
+        }
+      },
+      {
+        "index": "2",
+        "name": "Archaeological Survey of India (A.S.I)",
+        "2024_budget": {
+          "revenue": 1133.53,
+          "capital": 140.38,
+          "total": 1273.91
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1072.83,
+            "capital": 30.0,
+            "total": 1102.83
+          },
+          "revised": {
+            "revenue": 1100.84,
+            "capital": 30.24,
+            "total": 1131.08
+          }
+        },
+        "2022_actual": {
+          "revenue": 1010.56,
+          "capital": 15.67,
+          "total": 1026.23
+        }
+      },
+      {
+        "index": "3",
+        "name": "Libraries and Archives",
+        "2024_budget": {
+          "revenue": 166.1,
+          "capital": 22.11,
+          "total": 188.21
+        },
+        "2023": {
+          "budget": {
+            "revenue": 118.35,
+            "capital": 220.4,
+            "total": 338.75
+          },
+          "revised": {
+            "revenue": 112.23,
+            "capital": 24.05,
+            "total": 136.28
+          }
+        },
+        "2022_actual": {
+          "revenue": 103.1,
+          "capital": 10.17,
+          "total": 113.27
+        }
+      },
+      {
+        "index": "4",
+        "name": "Museums",
+        "2024_budget": {
+          "revenue": 110.66,
+          "capital": 13.06,
+          "total": 123.72
+        },
+        "2023": {
+          "budget": {
+            "revenue": 119.8,
+            "capital": 17.0,
+            "total": 136.8
+          },
+          "revised": {
+            "revenue": 113.81,
+            "capital": 16.21,
+            "total": 130.02
+          }
+        },
+        "2022_actual": {
+          "revenue": 94.96,
+          "capital": 32.26,
+          "total": 127.22
+        }
+      },
+      {
+        "index": "5",
+        "name": "Anthropological Survey of India ( An. S.I.)",
+        "2024_budget": {
+          "revenue": 43.78,
+          "capital": 11.01,
+          "total": 54.79
+        },
+        "2023": {
+          "budget": {
+            "revenue": 41.33,
+            "capital": 13.0,
+            "total": 54.33
+          },
+          "revised": {
+            "revenue": 40.84,
+            "capital": 13.0,
+            "total": 53.84
+          }
+        },
+        "2022_actual": {
+          "revenue": 35.58,
+          "capital": 12.94,
+          "total": 48.52
+        }
+      },
+      {
+        "index": "6",
+        "name": "Centenaries and Anniversaries, Celebrations and Schemes",
+        "2024_budget": {
+          "revenue": 90.0,
+          "capital": 0,
+          "total": 90.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 185.0,
+            "capital": 0,
+            "total": 185.0
+          },
+          "revised": {
+            "revenue": 335.0,
+            "capital": 0,
+            "total": 335.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 363.13,
+          "capital": 0,
+          "total": 363.13
+        }
+      },
+      {
+        "index": "7",
+        "name": "Kala Sanskriti Vikas Yojana",
+        "2024_budget": {
+          "revenue": 207.24,
+          "capital": 0,
+          "total": 207.24
+        },
+        "2023": {
+          "budget": {
+            "revenue": 210.49,
+            "capital": 0,
+            "total": 210.49
+          },
+          "revised": {
+            "revenue": 218.65,
+            "capital": 0,
+            "total": 218.65
+          }
+        },
+        "2022_actual": {
+          "revenue": 213.76,
+          "capital": 0,
+          "total": 213.76
+        }
+      },
+      {
+        "index": "8",
+        "name": "Development of Museums",
+        "2024_budget": {
+          "revenue": 165.6,
+          "capital": 0,
+          "total": 165.6
+        },
+        "2023": {
+          "budget": {
+            "revenue": 183.86,
+            "capital": 0,
+            "total": 183.86
+          },
+          "revised": {
+            "revenue": 183.46,
+            "capital": 0,
+            "total": 183.46
+          }
+        },
+        "2022_actual": {
+          "revenue": 142.32,
+          "capital": 0,
+          "total": 142.32
+        }
+      },
+      {
+        "index": "9",
+        "name": "Development of Libraries and Archives",
+        "2024_budget": {
+          "revenue": 27.24,
+          "capital": 0,
+          "total": 27.24
+        },
+        "2023": {
+          "budget": {
+            "revenue": 26.02,
+            "capital": 0,
+            "total": 26.02
+          },
+          "revised": {
+            "revenue": 26.02,
+            "capital": 0,
+            "total": 26.02
+          }
+        },
+        "2022_actual": {
+          "revenue": 18.99,
+          "capital": 0,
+          "total": 18.99
+        }
+      },
+      {
+        "index": "10",
+        "name": "Global Engagement and International Cooperation",
+        "2024_budget": {
+          "revenue": 12.1,
+          "capital": 0,
+          "total": 12.1
+        },
+        "2023": {
+          "budget": {
+            "revenue": 25.55,
+            "capital": 0,
+            "total": 25.55
+          },
+          "revised": {
+            "revenue": 25.72,
+            "capital": 0,
+            "total": 25.72
+          }
+        },
+        "2022_actual": {
+          "revenue": 12.96,
+          "capital": 0,
+          "total": 12.96
+        }
+      },
+      {
+        "index": "11",
+        "name": "National mission on cultural mapping and roadmap",
+        "2024_budget": {
+          "revenue": 18.06,
+          "capital": 0,
+          "total": 18.06
+        },
+        "2023": {
+          "budget": {
+            "revenue": 19.82,
+            "capital": 0,
+            "total": 19.82
+          },
+          "revised": {
+            "revenue": 19.92,
+            "capital": 0,
+            "total": 19.92
+          }
+        },
+        "2022_actual": {
+          "revenue": 19.04,
+          "capital": 0,
+          "total": 19.04
+        }
+      },
+      {
+        "index": "12",
+        "name": "Support to Akademies",
+        "2024_budget": {
+          "revenue": 389.37,
+          "capital": 0,
+          "total": 389.37
+        },
+        "2023": {
+          "budget": {
+            "revenue": 401.27,
+            "capital": 0,
+            "total": 401.27
+          },
+          "revised": {
+            "revenue": 435.45,
+            "capital": 0,
+            "total": 435.45
+          }
+        },
+        "2022_actual": {
+          "revenue": 519.07,
+          "capital": 0,
+          "total": 519.07
+        }
+      },
+      {
+        "index": "13",
+        "name": "Support to Museums",
+        "2024_budget": {
+          "revenue": 373.7,
+          "capital": 0,
+          "total": 373.7
+        },
+        "2023": {
+          "budget": {
+            "revenue": 357.39,
+            "capital": 0,
+            "total": 357.39
+          },
+          "revised": {
+            "revenue": 389.4,
+            "capital": 0,
+            "total": 389.4
+          }
+        },
+        "2022_actual": {
+          "revenue": 317.62,
+          "capital": 0,
+          "total": 317.62
+        }
+      },
+      {
+        "index": "14",
+        "name": "Support to Libraries",
+        "2024_budget": {
+          "revenue": 110.04,
+          "capital": 0,
+          "total": 110.04
+        },
+        "2023": {
+          "budget": {
+            "revenue": 106.46,
+            "capital": 0,
+            "total": 106.46
+          },
+          "revised": {
+            "revenue": 103.46,
+            "capital": 0,
+            "total": 103.46
+          }
+        },
+        "2022_actual": {
+          "revenue": 100.31,
+          "capital": 0,
+          "total": 100.31
+        }
+      },
+      {
+        "index": "15",
+        "name": "Buddhist Tibetan Institutions and Memorials",
+        "2024_budget": {
+          "revenue": 137.77,
+          "capital": 0,
+          "total": 137.77
+        },
+        "2023": {
+          "budget": {
+            "revenue": 130.91,
+            "capital": 0,
+            "total": 130.91
+          },
+          "revised": {
+            "revenue": 153.97,
+            "capital": 0,
+            "total": 153.97
+          }
+        },
+        "2022_actual": {
+          "revenue": 128.56,
+          "capital": 0,
+          "total": 128.56
+        }
+      },
+      {
+        "index": "16",
+        "name": "Grantee Bodies",
+        "2024_budget": {
+          "revenue": 20.19,
+          "capital": 0,
+          "total": 20.19
+        },
+        "2023": {
+          "budget": {
+            "revenue": 50.19,
+            "capital": 0,
+            "total": 50.19
+          },
+          "revised": {
+            "revenue": 50.19,
+            "capital": 0,
+            "total": 50.19
+          }
+        },
+        "2022_actual": {
+          "revenue": 71.51,
+          "capital": 0,
+          "total": 71.51
+        }
+      },
+      {
+        "index": "17",
+        "name": "Actual Recoveries",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": -8.63,
+          "capital": 0,
+          "total": -8.63
+        }
+      }
+    ],
+    "development_heads": [
+      {
+        "index": "1",
+        "name": "Art and Culture",
+        "2024_budget": {
+          "revenue": 2953.35,
+          "capital": 0,
+          "total": 2953.35
+        },
+        "2023": {
+          "budget": {
+            "revenue": 2984.19,
+            "capital": 0,
+            "total": 2984.19
+          },
+          "revised": {
+            "revenue": 3223.96,
+            "capital": 0,
+            "total": 3223.96
+          }
+        },
+        "2022_actual": {
+          "revenue": 3142.84,
+          "capital": 0,
+          "total": 3142.84
+        }
+      },
+      {
+        "index": "2",
+        "name": "Secretariat -Social Services",
+        "2024_budget": {
+          "revenue": 65.54,
+          "capital": 0,
+          "total": 65.54
+        },
+        "2023": {
+          "budget": {
+            "revenue": 64.98,
+            "capital": 0,
+            "total": 64.98
+          },
+          "revised": {
+            "revenue": 63.64,
+            "capital": 0,
+            "total": 63.64
+          }
+        },
+        "2022_actual": {
+          "revenue": 61.61,
+          "capital": 0,
+          "total": 61.61
+        }
+      },
+      {
+        "index": "3",
+        "name": "Capital Outlay on Education, Sports, Art and Culture",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 186.56,
+          "total": 186.56
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 280.4,
+            "total": 280.4
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 83.5,
+            "total": 83.5
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 71.04,
+          "total": 71.04
+        }
+      },
+      {
+        "index": "4",
+        "name": "Capital Outlay on other Social Services",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 3.45,
+          "total": 3.45
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 5.0,
+            "total": 5.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 3.9,
+            "total": 3.9
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "5",
+        "name": "North Eastern Areas",
+        "2024_budget": {
+          "revenue": 52.03,
+          "capital": 0,
+          "total": 52.03
+        },
+        "2023": {
+          "budget": {
+            "revenue": 65.08,
+            "capital": 0,
+            "total": 65.08
+          },
+          "revised": {
+            "revenue": 85.0,
+            "capital": 0,
+            "total": 85.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "1",
+        "name": "Secretariat including Central Secretariat Library: ..It includes expenditure on account of salary and allied items on Secretariat of the Ministry and Central Secretariat Library. 2. Archaeological Survey of India: ..The A rchaeological Survey of India (ASI) was set up in 1861 and is an attached office of the Ministry of Culture. Its main functions are preservation, conservation and development of protected monuments and sites, including World Heritage Monuments and antiqui ties, maintenance of gardens & development of new gardens surrounding Centrally Protected Monuments and sites, exploration and excavation of ancient sites, specialized study of inscription and Indian architecture, maintenance of Archaeological site Museums , operation of the Antiquities and Art Treasures Act, and Research and Training in different",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 10.0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 3693.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 22.0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "3",
+        "name": "Libraries and Archives: ..The provision is for expenditure of the National Archives of India, National Library and Central Reference Library. 4. Museums: ..The provision is for expenditure of the National Museum, National Research Laboratory for Conservation of Cultural Property, National Gallery of Modern Art and National Monument Authority/Competent Authority. 5. Anthropological Survey of India ( An. S.I.): ..The provision is for expenditure of the Anthropological Survey of India, which was established in 1945. It conducts bio -cultural investigation/ research on Indian population, collects and preserves documents of scientific interest about the people of India. The Survey through its anthropological research contributes in respect of the biological, social and cultural heritage of the country. 6. Centenaries and Anniversaries, Celebrations and Schemes: ..Provision for Centenaries and Anniversaries celebrations Provision under Centenaries and Anniversaries celebrations scheme duri ng the year",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 2024.0,
+          "capital": -2025.0,
+          "total": 0
+        }
+      }
+    ],
+    "public_enterprises": []
+  },
+  "number": 18
+}

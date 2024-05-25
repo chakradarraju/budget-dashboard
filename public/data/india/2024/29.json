@@ -1,0 +1,1261 @@
+{
+  "name": "MINISTRY OF EXTERNAL AFFAIRS",
+  "demand": "DEMAND NO. 29",
+  "department": "Ministry of External Affairs",
+  "sections": {
+    "allocation": [
+      {
+        "index": "1",
+        "name": "Secretariat",
+        "2024_budget": {
+          "revenue": 789.68,
+          "capital": 0,
+          "total": 789.68
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1518.29,
+            "capital": 0,
+            "total": 1518.29
+          },
+          "revised": {
+            "revenue": 1395.06,
+            "capital": 0,
+            "total": 1395.06
+          }
+        },
+        "2022_actual": {
+          "revenue": 702.55,
+          "capital": 0,
+          "total": 702.55
+        }
+      },
+      {
+        "index": "2",
+        "name": "Embassies and Missions",
+        "2024_budget": {
+          "revenue": 3867.64,
+          "capital": 0,
+          "total": 3867.64
+        },
+        "2023": {
+          "budget": {
+            "revenue": 3528.85,
+            "capital": 0,
+            "total": 3528.85
+          },
+          "revised": {
+            "revenue": 3773.32,
+            "capital": 0,
+            "total": 3773.32
+          }
+        },
+        "2022_actual": {
+          "revenue": 3494.42,
+          "capital": 0,
+          "total": 3494.42
+        }
+      },
+      {
+        "index": "3",
+        "name": "Passport and Emigration",
+        "2024_budget": {
+          "revenue": 970.65,
+          "capital": 0,
+          "total": 970.65
+        },
+        "2023": {
+          "budget": {
+            "revenue": 997.78,
+            "capital": 0,
+            "total": 997.78
+          },
+          "revised": {
+            "revenue": 1792.14,
+            "capital": 0,
+            "total": 1792.14
+          }
+        },
+        "2022_actual": {
+          "revenue": 1096.04,
+          "capital": 0,
+          "total": 1096.04
+        }
+      },
+      {
+        "index": "4",
+        "name": "Scheme for Welfare of Women abroad 4.01 One Stop Centre (Funded from Nirbhaya Fund)",
+        "2024_budget": {
+          "revenue": 0.01,
+          "capital": 0,
+          "total": 0.01
+        },
+        "2023": {
+          "budget": {
+            "revenue": 5.0,
+            "capital": 0,
+            "total": 5.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "4.02",
+        "name": "Amount met from Nirbhaya Fund",
+        "2024_budget": {
+          "revenue": -0.01,
+          "capital": 0,
+          "total": -0.01
+        },
+        "2023": {
+          "budget": {
+            "revenue": -5.0,
+            "capital": 0,
+            "total": -5.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "5",
+        "name": "Other Expenditure of Ministry",
+        "2024_budget": {
+          "revenue": 127.79,
+          "capital": 685.48,
+          "total": 813.27
+        },
+        "2023": {
+          "budget": {
+            "revenue": 148.56,
+            "capital": 751.87,
+            "total": 900.43
+          },
+          "revised": {
+            "revenue": 121.88,
+            "capital": 361.57,
+            "total": 483.45
+          }
+        },
+        "2022_actual": {
+          "revenue": 92.95,
+          "capital": 470.02,
+          "total": 562.97
+        }
+      },
+      {
+        "index": "6",
+        "name": "Bhutan",
+        "2024_budget": {
+          "revenue": 1078.86,
+          "capital": 989.7,
+          "total": 2068.56
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1632.24,
+            "capital": 768.34,
+            "total": 2400.58
+          },
+          "revised": {
+            "revenue": 784.61,
+            "capital": 1614.36,
+            "total": 2398.97
+          }
+        },
+        "2022_actual": {
+          "revenue": 1763.11,
+          "capital": 704.2,
+          "total": 2467.31
+        }
+      },
+      {
+        "index": "7",
+        "name": "Afghanistan",
+        "2024_budget": {
+          "revenue": 200.0,
+          "capital": 0,
+          "total": 200.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 200.0,
+            "capital": 0,
+            "total": 200.0
+          },
+          "revised": {
+            "revenue": 220.0,
+            "capital": 0,
+            "total": 220.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 279.37,
+          "capital": 0,
+          "total": 279.37
+        }
+      },
+      {
+        "index": "8",
+        "name": "Bangladesh",
+        "2024_budget": {
+          "revenue": 120.0,
+          "capital": 0,
+          "total": 120.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 200.0,
+            "capital": 0,
+            "total": 200.0
+          },
+          "revised": {
+            "revenue": 130.0,
+            "capital": 0,
+            "total": 130.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 133.88,
+          "capital": 0,
+          "total": 133.88
+        }
+      },
+      {
+        "index": "9",
+        "name": "Nepal",
+        "2024_budget": {
+          "revenue": 700.0,
+          "capital": 0,
+          "total": 700.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 550.0,
+            "capital": 0,
+            "total": 550.0
+          },
+          "revised": {
+            "revenue": 650.0,
+            "capital": 0,
+            "total": 650.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 434.27,
+          "capital": 0,
+          "total": 434.27
+        }
+      },
+      {
+        "index": "10",
+        "name": "Sri Lanka",
+        "2024_budget": {
+          "revenue": 75.0,
+          "capital": 0,
+          "total": 75.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 150.0,
+            "capital": 0,
+            "total": 150.0
+          },
+          "revised": {
+            "revenue": 60.0,
+            "capital": 0,
+            "total": 60.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 126.04,
+          "capital": 0,
+          "total": 126.04
+        }
+      },
+      {
+        "index": "11",
+        "name": "Maldives",
+        "2024_budget": {
+          "revenue": 600.0,
+          "capital": 0,
+          "total": 600.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 400.0,
+            "capital": 0,
+            "total": 400.0
+          },
+          "revised": {
+            "revenue": 770.9,
+            "capital": 0,
+            "total": 770.9
+          }
+        },
+        "2022_actual": {
+          "revenue": 183.16,
+          "capital": 0,
+          "total": 183.16
+        }
+      },
+      {
+        "index": "12",
+        "name": "Myanmar",
+        "2024_budget": {
+          "revenue": 250.0,
+          "capital": 0,
+          "total": 250.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 400.0,
+            "capital": 0,
+            "total": 400.0
+          },
+          "revised": {
+            "revenue": 370.0,
+            "capital": 0,
+            "total": 370.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 454.62,
+          "capital": 0,
+          "total": 454.62
+        }
+      },
+      {
+        "index": "13",
+        "name": "Mongolia",
+        "2024_budget": {
+          "revenue": 5.0,
+          "capital": 0,
+          "total": 5.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 7.0,
+            "capital": 0,
+            "total": 7.0
+          },
+          "revised": {
+            "revenue": 5.0,
+            "capital": 0,
+            "total": 5.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "14",
+        "name": "African Countries",
+        "2024_budget": {
+          "revenue": 200.0,
+          "capital": 0,
+          "total": 200.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 250.0,
+            "capital": 0,
+            "total": 250.0
+          },
+          "revised": {
+            "revenue": 180.0,
+            "capital": 0,
+            "total": 180.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 153.31,
+          "capital": 0,
+          "total": 153.31
+        }
+      },
+      {
+        "index": "15",
+        "name": "Eurasian Countries",
+        "2024_budget": {
+          "revenue": 20.0,
+          "capital": 0,
+          "total": 20.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 75.0,
+            "capital": 0,
+            "total": 75.0
+          },
+          "revised": {
+            "revenue": 20.0,
+            "capital": 0,
+            "total": 20.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 54.75,
+          "capital": 0,
+          "total": 54.75
+        }
+      },
+      {
+        "index": "16",
+        "name": "Latin American Countries",
+        "2024_budget": {
+          "revenue": 30.0,
+          "capital": 0,
+          "total": 30.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 50.0,
+            "capital": 0,
+            "total": 50.0
+          },
+          "revised": {
+            "revenue": 32.0,
+            "capital": 0,
+            "total": 32.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 2.79,
+          "capital": 0,
+          "total": 2.79
+        }
+      },
+      {
+        "index": "17",
+        "name": "Other Developing Countries",
+        "2024_budget": {
+          "revenue": 125.0,
+          "capital": 0,
+          "total": 125.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 150.0,
+            "capital": 0,
+            "total": 150.0
+          },
+          "revised": {
+            "revenue": 95.0,
+            "capital": 0,
+            "total": 95.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 89.98,
+          "capital": 0,
+          "total": 89.98
+        }
+      },
+      {
+        "index": "18",
+        "name": "Disaster Relief",
+        "2024_budget": {
+          "revenue": 10.0,
+          "capital": 0,
+          "total": 10.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 5.0,
+            "capital": 0,
+            "total": 5.0
+          },
+          "revised": {
+            "revenue": 55.0,
+            "capital": 0,
+            "total": 55.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 1.6,
+          "capital": 0,
+          "total": 1.6
+        }
+      },
+      {
+        "index": "19",
+        "name": "Chabahar Port",
+        "2024_budget": {
+          "revenue": 100.0,
+          "capital": 0,
+          "total": 100.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 100.0,
+            "capital": 0,
+            "total": 100.0
+          },
+          "revised": {
+            "revenue": 100.0,
+            "capital": 0,
+            "total": 100.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 100.0,
+          "capital": 0,
+          "total": 100.0
+        }
+      },
+      {
+        "index": "20",
+        "name": "Mauritius",
+        "2024_budget": {
+          "revenue": 370.0,
+          "capital": 0,
+          "total": 370.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 460.79,
+            "capital": 0,
+            "total": 460.79
+          },
+          "revised": {
+            "revenue": 330.0,
+            "capital": 0,
+            "total": 330.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 568.08,
+          "capital": 0,
+          "total": 568.08
+        }
+      },
+      {
+        "index": "21",
+        "name": "Seychelles",
+        "2024_budget": {
+          "revenue": 10.0,
+          "capital": 0,
+          "total": 10.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 10.0,
+            "capital": 0,
+            "total": 10.0
+          },
+          "revised": {
+            "revenue": 9.91,
+            "capital": 0,
+            "total": 9.91
+          }
+        },
+        "2022_actual": {
+          "revenue": 6.05,
+          "capital": 0,
+          "total": 6.05
+        }
+      },
+      {
+        "index": "22",
+        "name": "Support to International Training/Programmes",
+        "2024_budget": {
+          "revenue": 769.0,
+          "capital": 0,
+          "total": 769.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 435.21,
+            "capital": 0,
+            "total": 435.21
+          },
+          "revised": {
+            "revenue": 1105.01,
+            "capital": 0,
+            "total": 1105.01
+          }
+        },
+        "2022_actual": {
+          "revenue": 479.75,
+          "capital": 0,
+          "total": 479.75
+        }
+      },
+      {
+        "index": "23",
+        "name": "Aid for Cultural & Heritage Project",
+        "2024_budget": {
+          "revenue": 15.0,
+          "capital": 0,
+          "total": 15.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 5.0,
+            "capital": 0,
+            "total": 5.0
+          },
+          "revised": {
+            "revenue": 10.0,
+            "capital": 0,
+            "total": 10.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 9.24,
+          "capital": 0,
+          "total": 9.24
+        }
+      },
+      {
+        "index": "24",
+        "name": "Indian Council of Cultural Relations (ICCR)",
+        "2024_budget": {
+          "revenue": 331.25,
+          "capital": 0,
+          "total": 331.25
+        },
+        "2023": {
+          "budget": {
+            "revenue": 345.21,
+            "capital": 0,
+            "total": 345.21
+          },
+          "revised": {
+            "revenue": 315.21,
+            "capital": 0,
+            "total": 315.21
+          }
+        },
+        "2022_actual": {
+          "revenue": 290.26,
+          "capital": 0,
+          "total": 290.26
+        }
+      },
+      {
+        "index": "25",
+        "name": "Assistance to Other Autonomous Bodies",
+        "2024_budget": {
+          "revenue": 38.6,
+          "capital": 0,
+          "total": 38.6
+        },
+        "2023": {
+          "budget": {
+            "revenue": 35.29,
+            "capital": 0,
+            "total": 35.29
+          },
+          "revised": {
+            "revenue": 34.95,
+            "capital": 0,
+            "total": 34.95
+          }
+        },
+        "2022_actual": {
+          "revenue": 30.93,
+          "capital": 0,
+          "total": 30.93
+        }
+      },
+      {
+        "index": "26",
+        "name": "Special Diplomatic Expenditure",
+        "2024_budget": {
+          "revenue": 4659.01,
+          "capital": 0,
+          "total": 4659.01
+        },
+        "2023": {
+          "budget": {
+            "revenue": 4162.01,
+            "capital": 0,
+            "total": 4162.01
+          },
+          "revised": {
+            "revenue": 4834.53,
+            "capital": 0,
+            "total": 4834.53
+          }
+        },
+        "2022_actual": {
+          "revenue": 4027.09,
+          "capital": 0,
+          "total": 4027.09
+        }
+      },
+      {
+        "index": "27",
+        "name": "International Cooperation",
+        "2024_budget": {
+          "revenue": 282.12,
+          "capital": 0,
+          "total": 282.12
+        },
+        "2023": {
+          "budget": {
+            "revenue": 295.36,
+            "capital": 0,
+            "total": 295.36
+          },
+          "revised": {
+            "revenue": 497.7,
+            "capital": 0,
+            "total": 497.7
+          }
+        },
+        "2022_actual": {
+          "revenue": 478.7,
+          "capital": 0,
+          "total": 478.7
+        }
+      },
+      {
+        "index": "28",
+        "name": "Nalanda University",
+        "2024_budget": {
+          "revenue": 200.0,
+          "capital": 0,
+          "total": 200.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 250.0,
+            "capital": 0,
+            "total": 250.0
+          },
+          "revised": {
+            "revenue": 300.0,
+            "capital": 0,
+            "total": 300.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 290.0,
+          "capital": 0,
+          "total": 290.0
+        }
+      },
+      {
+        "index": "29",
+        "name": "South Asian University",
+        "2024_budget": {
+          "revenue": 100.0,
+          "capital": 0,
+          "total": 100.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 129.0,
+            "capital": 0,
+            "total": 129.0
+          },
+          "revised": {
+            "revenue": 93.0,
+            "capital": 0,
+            "total": 93.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 110.32,
+          "capital": 0,
+          "total": 110.32
+        }
+      },
+      {
+        "index": "30",
+        "name": "Demarcation of Boundaries",
+        "2024_budget": {
+          "revenue": 3.0,
+          "capital": 0,
+          "total": 3.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 2.0,
+            "capital": 0,
+            "total": 2.0
+          },
+          "revised": {
+            "revenue": 3.0,
+            "capital": 0,
+            "total": 3.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 2.15,
+          "capital": 0,
+          "total": 2.15
+        }
+      },
+      {
+        "index": "31",
+        "name": "Celebration of Pravasi Bhartiya Divas",
+        "2024_budget": {
+          "revenue": 20.0,
+          "capital": 0,
+          "total": 20.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 15.0,
+            "capital": 0,
+            "total": 15.0
+          },
+          "revised": {
+            "revenue": 15.0,
+            "capital": 0,
+            "total": 15.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 30.96,
+          "capital": 0,
+          "total": 30.96
+        }
+      },
+      {
+        "index": "32",
+        "name": "Expenditure relating to Pilgrimages abroad",
+        "2024_budget": {
+          "revenue": 1.0,
+          "capital": 0,
+          "total": 1.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1.0,
+            "capital": 0,
+            "total": 1.0
+          },
+          "revised": {
+            "revenue": 0.13,
+            "capital": 0,
+            "total": 0.13
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "33",
+        "name": "Loss by exchange",
+        "2024_budget": {
+          "revenue": 0.01,
+          "capital": 0,
+          "total": 0.01
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0.01,
+            "capital": 0,
+            "total": 0.01
+          },
+          "revised": {
+            "revenue": 0.01,
+            "capital": 0,
+            "total": 0.01
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "34",
+        "name": "Training",
+        "2024_budget": {
+          "revenue": 27.48,
+          "capital": 0,
+          "total": 27.48
+        },
+        "2023": {
+          "budget": {
+            "revenue": 21.19,
+            "capital": 0,
+            "total": 21.19
+          },
+          "revised": {
+            "revenue": 28.87,
+            "capital": 0,
+            "total": 28.87
+          }
+        },
+        "2022_actual": {
+          "revenue": 24.2,
+          "capital": 0,
+          "total": 24.2
+        }
+      },
+      {
+        "index": "35",
+        "name": "Actual Recoveries",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": -23.0,
+          "capital": -0.83,
+          "total": -23.83
+        }
+      },
+      {
+        "index": "36",
+        "name": "Loans for General Financial and Trading Institutions 36.01 Payment to Exim Bank towards Guarantees invoked against Doubtful Debts",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 4383.4,
+          "total": 4383.4
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 9013.72,
+            "total": 9013.72
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "36.02",
+        "name": "Deduct Recoveries met from Guarantee Redemption Fund",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": -4383.4,
+          "total": -4383.4
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": -9013.72,
+            "total": -9013.72
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "37",
+        "name": "Transfer to Reserve Fund - Guarantee Redemption Fund",
+        "2024_budget": {
+          "revenue": 4383.4,
+          "capital": 0,
+          "total": 4383.4
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 9013.72,
+            "capital": 0,
+            "total": 9013.72
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      }
+    ],
+    "development_heads": [
+      {
+        "index": "1",
+        "name": "Secretariat -General Services",
+        "2024_budget": {
+          "revenue": 789.68,
+          "capital": 0,
+          "total": 789.68
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1518.29,
+            "capital": 0,
+            "total": 1518.29
+          },
+          "revised": {
+            "revenue": 1395.06,
+            "capital": 0,
+            "total": 1395.06
+          }
+        },
+        "2022_actual": {
+          "revenue": 702.4,
+          "capital": 0,
+          "total": 702.4
+        }
+      },
+      {
+        "index": "2",
+        "name": "External Affairs",
+        "2024_budget": {
+          "revenue": 10628.54,
+          "capital": 0,
+          "total": 10628.54
+        },
+        "2023": {
+          "budget": {
+            "revenue": 9931.25,
+            "capital": 0,
+            "total": 9931.25
+          },
+          "revised": {
+            "revenue": 11809.73,
+            "capital": 0,
+            "total": 11809.73
+          }
+        },
+        "2022_actual": {
+          "revenue": 9950.86,
+          "capital": 0,
+          "total": 9950.86
+        }
+      },
+      {
+        "index": "3",
+        "name": "Miscellaneous General Services",
+        "2024_budget": {
+          "revenue": 4383.41,
+          "capital": 0,
+          "total": 4383.41
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0.01,
+            "capital": 0,
+            "total": 0.01
+          },
+          "revised": {
+            "revenue": 9013.73,
+            "capital": 0,
+            "total": 9013.73
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "4",
+        "name": "Capital Outlay on Public Works",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 324.0,
+          "total": 324.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 353.0,
+            "total": 353.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 160.0,
+            "total": 160.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 224.78,
+          "total": 224.78
+        }
+      },
+      {
+        "index": "5",
+        "name": "Capital Outlay on Other Administrative Services",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 89.67,
+          "total": 89.67
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 66.82,
+            "total": 66.82
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 77.52,
+            "total": 77.52
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "6",
+        "name": "Capital Outlay on Miscellaneous General Services",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 21.81,
+          "total": 21.81
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 24.05,
+            "total": 24.05
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 23.05,
+            "total": 23.05
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "7",
+        "name": "Capital Outlay on Housing",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 250.0,
+          "total": 250.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 308.0,
+            "total": 308.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 101.0,
+            "total": 101.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 244.41,
+          "total": 244.41
+        }
+      },
+      {
+        "index": "8",
+        "name": "Loans to General Financial and Trading Institutions ... ... ... ... ... ... ... ... ... ... ... ... Total -Economic Services ... ... ... ... ... ... ... ... ... ... ... ... Others 9. Technical and Economic Co -operation with Other Countries",
+        "2024_budget": {
+          "revenue": 4677.86,
+          "capital": 0,
+          "total": 4677.86
+        },
+        "2023": {
+          "budget": {
+            "revenue": 5080.24,
+            "capital": 0,
+            "total": 5080.24
+          },
+          "revised": {
+            "revenue": 4927.43,
+            "capital": 0,
+            "total": 4927.43
+          }
+        },
+        "2022_actual": {
+          "revenue": 4834.31,
+          "capital": 0,
+          "total": 4834.31
+        }
+      },
+      {
+        "index": "10",
+        "name": "Advances to Foreign Governments",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 989.7,
+          "total": 989.7
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 768.34,
+            "total": 768.34
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 1614.36,
+            "total": 1614.36
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 704.2,
+          "total": 704.2
+        }
+      }
+    ],
+    "public_enterprises": []
+  },
+  "number": 29
+}

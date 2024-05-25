@@ -1,0 +1,325 @@
+{
+  "name": "MINISTRY OF HOME AFFAIRS",
+  "demand": "DEMAND NO. 50",
+  "department": "Cabinet",
+  "sections": {
+    "allocation": [
+      {
+        "index": "1",
+        "name": "Secretariat assistance to Ex -Governors",
+        "2024_budget": {
+          "revenue": 1.8,
+          "capital": 0,
+          "total": 1.8
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1.8,
+            "capital": 0,
+            "total": 1.8
+          },
+          "revised": {
+            "revenue": 1.3,
+            "capital": 0,
+            "total": 1.3
+          }
+        },
+        "2022_actual": {
+          "revenue": 1.3,
+          "capital": 0,
+          "total": 1.3
+        }
+      },
+      {
+        "index": "2",
+        "name": "Council of Ministers",
+        "2024_budget": {
+          "revenue": 756.81,
+          "capital": 76.0,
+          "total": 832.81
+        },
+        "2023": {
+          "budget": {
+            "revenue": 545.54,
+            "capital": 287.27,
+            "total": 832.81
+          },
+          "revised": {
+            "revenue": 780.17,
+            "capital": 509.11,
+            "total": 1289.28
+          }
+        },
+        "2022_actual": {
+          "revenue": 586.35,
+          "capital": 94.78,
+          "total": 681.13
+        }
+      },
+      {
+        "index": "3",
+        "name": "Cabinet Secretariat",
+        "2024_budget": {
+          "revenue": 68.6,
+          "capital": 1.4,
+          "total": 70.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 69.76,
+            "capital": 2.15,
+            "total": 71.91
+          },
+          "revised": {
+            "revenue": 68.13,
+            "capital": 2.15,
+            "total": 70.28
+          }
+        },
+        "2022_actual": {
+          "revenue": 63.26,
+          "capital": 0,
+          "total": 63.26
+        }
+      },
+      {
+        "index": "4",
+        "name": "National Security Council Secretariat",
+        "2024_budget": {
+          "revenue": 187.85,
+          "capital": 12.15,
+          "total": 200.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 185.7,
+            "capital": 0,
+            "total": 185.7
+          },
+          "revised": {
+            "revenue": 259.3,
+            "capital": 40.0,
+            "total": 299.3
+          }
+        },
+        "2022_actual": {
+          "revenue": 181.5,
+          "capital": 0,
+          "total": 181.5
+        }
+      },
+      {
+        "index": "5",
+        "name": "Office of Principal Scientific Advisor",
+        "2024_budget": {
+          "revenue": 74.9,
+          "capital": 0.1,
+          "total": 75.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 96.85,
+            "capital": 0.08,
+            "total": 96.93
+          },
+          "revised": {
+            "revenue": 76.12,
+            "capital": 0.08,
+            "total": 76.2
+          }
+        },
+        "2022_actual": {
+          "revenue": 69.15,
+          "capital": 0,
+          "total": 69.15
+        }
+      },
+      {
+        "index": "6",
+        "name": "Prime Minister's Office",
+        "2024_budget": {
+          "revenue": 65.3,
+          "capital": 0,
+          "total": 65.3
+        },
+        "2023": {
+          "budget": {
+            "revenue": 62.65,
+            "capital": 0,
+            "total": 62.65
+          },
+          "revised": {
+            "revenue": 62.65,
+            "capital": 0,
+            "total": 62.65
+          }
+        },
+        "2022_actual": {
+          "revenue": 53.57,
+          "capital": 0,
+          "total": 53.57
+        }
+      },
+      {
+        "index": "7",
+        "name": "Hospitality and Entertainment Expenses",
+        "2024_budget": {
+          "revenue": 4.0,
+          "capital": 0,
+          "total": 4.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 6.88,
+            "capital": 0,
+            "total": 6.88
+          },
+          "revised": {
+            "revenue": 4.0,
+            "capital": 0,
+            "total": 4.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 6.0,
+          "capital": 0,
+          "total": 6.0
+        }
+      }
+    ],
+    "development_heads": [
+      {
+        "index": "1",
+        "name": "President, Vice President/Governor, Administrator of Union Territories",
+        "2024_budget": {
+          "revenue": 1.8,
+          "capital": 0,
+          "total": 1.8
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1.8,
+            "capital": 0,
+            "total": 1.8
+          },
+          "revised": {
+            "revenue": 1.3,
+            "capital": 0,
+            "total": 1.3
+          }
+        },
+        "2022_actual": {
+          "revenue": 1.3,
+          "capital": 0,
+          "total": 1.3
+        }
+      },
+      {
+        "index": "2",
+        "name": "Council of Ministers",
+        "2024_budget": {
+          "revenue": 1153.46,
+          "capital": 0,
+          "total": 1153.46
+        },
+        "2023": {
+          "budget": {
+            "revenue": 960.5,
+            "capital": 0,
+            "total": 960.5
+          },
+          "revised": {
+            "revenue": 1246.37,
+            "capital": 0,
+            "total": 1246.37
+          }
+        },
+        "2022_actual": {
+          "revenue": 953.83,
+          "capital": 0,
+          "total": 953.83
+        }
+      },
+      {
+        "index": "3",
+        "name": "Other Administrative Services",
+        "2024_budget": {
+          "revenue": 4.0,
+          "capital": 0,
+          "total": 4.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 6.88,
+            "capital": 0,
+            "total": 6.88
+          },
+          "revised": {
+            "revenue": 4.0,
+            "capital": 0,
+            "total": 4.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 6.0,
+          "capital": 0,
+          "total": 6.0
+        }
+      },
+      {
+        "index": "4",
+        "name": "Capital Outlay on Other Administrative Services",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 76.0,
+          "total": 76.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 287.27,
+            "total": 287.27
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 509.11,
+            "total": 509.11
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 94.78,
+          "total": 94.78
+        }
+      },
+      {
+        "index": "5",
+        "name": "Capital Outlay on Miscellaneous General Services",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 13.65,
+          "total": 13.65
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 2.23,
+            "total": 2.23
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 42.23,
+            "total": 42.23
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      }
+    ],
+    "public_enterprises": []
+  },
+  "number": 50
+}

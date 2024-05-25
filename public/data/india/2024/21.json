@@ -1,0 +1,1314 @@
+{
+  "name": "MINISTRY OF DEFENCE",
+  "demand": "DEMAND NO. 21",
+  "department": "Capital Outlay on Defence Services",
+  "sections": {
+    "allocation": [
+      {
+        "index": "1",
+        "name": "Land -Army",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 291.0,
+            "total": 291.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 355.9,
+            "total": 355.9
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 210.45,
+          "total": 210.45
+        }
+      },
+      {
+        "index": "2",
+        "name": "Construction Works -Army",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 6788.54,
+            "total": 6788.54
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 6502.26,
+            "total": 6502.26
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 4685.41,
+          "total": 4685.41
+        }
+      },
+      {
+        "index": "3",
+        "name": "Aircrafts and Aeroengines -Army",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 5500.0,
+            "total": 5500.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 5500.0,
+            "total": 5500.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 4767.05,
+          "total": 4767.05
+        }
+      },
+      {
+        "index": "4",
+        "name": "Heavy and Medium Vehicles",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 3000.0,
+            "total": 3000.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 2500.0,
+            "total": 2500.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 1840.89,
+          "total": 1840.89
+        }
+      },
+      {
+        "index": "5",
+        "name": "Other equipment -Army",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 21300.0,
+            "total": 21300.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 18163.0,
+            "total": 18163.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 25037.92,
+          "total": 25037.92
+        }
+      },
+      {
+        "index": "6",
+        "name": "Rolling Stock",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 163.0,
+            "total": 163.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 200.0,
+            "total": 200.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 40.51,
+          "total": 40.51
+        }
+      },
+      {
+        "index": "7",
+        "name": "Rashtriya Rifles",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 100.0,
+            "total": 100.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 136.0,
+            "total": 136.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 28.66,
+          "total": 28.66
+        }
+      },
+      {
+        "index": "8",
+        "name": "National Cadet Corps",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 13.0,
+            "total": 13.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 13.0,
+            "total": 13.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 4.16,
+          "total": 4.16
+        }
+      },
+      {
+        "index": "9",
+        "name": "Ex-Servicemen Contributory Health Scheme",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 86.0,
+            "total": 86.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 41.0,
+            "total": 41.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0.62,
+          "total": 0.62
+        }
+      },
+      {
+        "index": "10",
+        "name": "Land -Navy",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 1550.9,
+            "total": 1550.9
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 241.0,
+            "total": 241.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 16.76,
+          "total": 16.76
+        }
+      },
+      {
+        "index": "11",
+        "name": "Construction Works -Navy",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 1900.1,
+            "total": 1900.1
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 1900.0,
+            "total": 1900.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 1758.42,
+          "total": 1758.42
+        }
+      },
+      {
+        "index": "12",
+        "name": "Aircrafts and Aeroengines",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 7000.0,
+            "total": 7000.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 2500.0,
+            "total": 2500.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 7035.81,
+          "total": 7035.81
+        }
+      },
+      {
+        "index": "13",
+        "name": "Heavy and Medium Vehicles",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 90.0,
+            "total": 90.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 30.0,
+            "total": 30.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 28.67,
+          "total": 28.67
+        }
+      },
+      {
+        "index": "14",
+        "name": "Other equipment -Navy",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 9500.0,
+            "total": 9500.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 15200.0,
+            "total": 15200.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 8535.45,
+          "total": 8535.45
+        }
+      },
+      {
+        "index": "15",
+        "name": "Naval Fleet",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 24200.0,
+            "total": 24200.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 24445.0,
+            "total": 24445.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 23483.19,
+          "total": 23483.19
+        }
+      },
+      {
+        "index": "16",
+        "name": "Naval Dockyard/projects",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 6725.0,
+            "total": 6725.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 5340.0,
+            "total": 5340.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 4364.16,
+          "total": 4364.16
+        }
+      },
+      {
+        "index": "17",
+        "name": "Joint Staff",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 1838.75,
+            "total": 1838.75
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 1396.18,
+            "total": 1396.18
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 869.02,
+          "total": 869.02
+        }
+      },
+      {
+        "index": "18",
+        "name": "Land -Air Force",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 340.27,
+            "total": 340.27
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 453.81,
+            "total": 453.81
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 248.53,
+          "total": 248.53
+        }
+      },
+      {
+        "index": "19",
+        "name": "Construction Works -Air Force",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 2342.31,
+            "total": 2342.31
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 2330.51,
+            "total": 2330.51
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 2052.65,
+          "total": 2052.65
+        }
+      },
+      {
+        "index": "20",
+        "name": "Aircrafts and Aeroengines -Air Force",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 15721.65,
+            "total": 15721.65
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 16113.2,
+            "total": 16113.2
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 23207.63,
+          "total": 23207.63
+        }
+      },
+      {
+        "index": "21",
+        "name": "Heavy and Medium Vehicles -Air Force",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 947.94,
+            "total": 947.94
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 185.86,
+            "total": 185.86
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 173.45,
+          "total": 173.45
+        }
+      },
+      {
+        "index": "22",
+        "name": "Other equipment -Air Force",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 36223.13,
+            "total": 36223.13
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 37939.04,
+            "total": 37939.04
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 18132.94,
+          "total": 18132.94
+        }
+      },
+      {
+        "index": "23",
+        "name": "Special Projects",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 1561.79,
+            "total": 1561.79
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 1089.2,
+            "total": 1089.2
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 956.71,
+          "total": 956.71
+        }
+      },
+      {
+        "index": "24",
+        "name": "Defence Ordnance Factories",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 5.0,
+          "total": 5.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 5.0,
+            "total": 5.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0.5,
+            "total": 0.5
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "25",
+        "name": "Emergency Authorisation for newly created DPSUs ... 2500.00 2500.00 ... ... ... ... ... ... ... ... ... 26. Research and Development",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 13208.0,
+          "total": 13208.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 12850.0,
+            "total": 12850.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 12942.85,
+            "total": 12942.85
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 11497.72,
+          "total": 11497.72
+        }
+      },
+      {
+        "index": "27",
+        "name": "Inspection - Director General Quality Audit (DGQA)",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 20.0,
+          "total": 20.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 20.0,
+            "total": 20.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 10.0,
+            "total": 10.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 6.84,
+          "total": 6.84
+        }
+      },
+      {
+        "index": "28",
+        "name": "Land",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 2329.36,
+          "total": 2329.36
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "29",
+        "name": "Aircraft and Aero Engines",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 40777.86,
+          "total": 40777.86
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "30",
+        "name": "Heavy and Medium Vehicles",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 4137.88,
+          "total": 4137.88
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "31",
+        "name": "Other Equipments",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 62343.02,
+          "total": 62343.02
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "32",
+        "name": "Joint Staff",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 1352.98,
+          "total": 1352.98
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "33",
+        "name": "Procurement of Rolling Stock",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 150.0,
+          "total": 150.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "34",
+        "name": "Ex- Servicemen Contributory Health Scheme",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 41.5,
+          "total": 41.5
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "35",
+        "name": "Rashtriya Rifles",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 195.0,
+          "total": 195.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "36",
+        "name": "National Cadet Corps",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 17.0,
+          "total": 17.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "37",
+        "name": "Construction Works",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 12016.75,
+          "total": 12016.75
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "38",
+        "name": "Naval Fleet",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 23800.0,
+          "total": 23800.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "39",
+        "name": "Naval Dockyard/ Projects",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 6830.0,
+          "total": 6830.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "40",
+        "name": "Special Projects",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 1574.17,
+          "total": 1574.17
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "41",
+        "name": "Projects of the Army",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 10.0,
+          "total": 10.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 100.0,
+            "total": 100.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 1.0,
+            "total": 1.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0.52,
+          "total": 0.52
+        }
+      },
+      {
+        "index": "42",
+        "name": "Projects of the Air Force",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 1697.48,
+          "total": 1697.48
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 1131.62,
+            "total": 1131.62
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 388.89,
+            "total": 388.89
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 145.87,
+          "total": 145.87
+        }
+      },
+      {
+        "index": "43",
+        "name": "Investment in Public Enterprises",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 1494.0,
+          "total": 1494.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 1310.0,
+            "total": 1310.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 1310.0,
+            "total": 1310.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 1310.0,
+          "total": 1310.0
+        }
+      }
+    ],
+    "development_heads": [
+      {
+        "index": "1",
+        "name": "Capital Outlay on Defence Services",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 172000.0,
+          "total": 172000.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 162600.0,
+            "total": 162600.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 157228.2,
+            "total": 157228.2
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 142940.01,
+          "total": 142940.01
+        }
+      }
+    ],
+    "public_enterprises": [
+      {
+        "index": "1",
+        "name": "Armoured Vehicles Nigam Limited",
+        "2024_budget": {
+          "revenue": 173.86,
+          "capital": 0,
+          "total": 173.86
+        },
+        "2023": {
+          "budget": {
+            "revenue": 290.0,
+            "capital": 0,
+            "total": 290.0
+          },
+          "revised": {
+            "revenue": 290.0,
+            "capital": 0,
+            "total": 290.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 282.0,
+          "capital": 0,
+          "total": 282.0
+        }
+      },
+      {
+        "index": "2",
+        "name": "Advanced Weapons and Equipment India Limited",
+        "2024_budget": {
+          "revenue": 329.26,
+          "capital": 0,
+          "total": 329.26
+        },
+        "2023": {
+          "budget": {
+            "revenue": 225.0,
+            "capital": 0,
+            "total": 225.0
+          },
+          "revised": {
+            "revenue": 225.0,
+            "capital": 0,
+            "total": 225.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 226.0,
+          "capital": 0,
+          "total": 226.0
+        }
+      },
+      {
+        "index": "3",
+        "name": "Gliders India Limited",
+        "2024_budget": {
+          "revenue": 2.14,
+          "capital": 0,
+          "total": 2.14
+        },
+        "2023": {
+          "budget": {
+            "revenue": 2.0,
+            "capital": 0,
+            "total": 2.0
+          },
+          "revised": {
+            "revenue": 2.0,
+            "capital": 0,
+            "total": 2.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 7.0,
+          "capital": 0,
+          "total": 7.0
+        }
+      },
+      {
+        "index": "4",
+        "name": "India Optel Limited",
+        "2024_budget": {
+          "revenue": 5.18,
+          "capital": 0,
+          "total": 5.18
+        },
+        "2023": {
+          "budget": {
+            "revenue": 6.0,
+            "capital": 0,
+            "total": 6.0
+          },
+          "revised": {
+            "revenue": 6.0,
+            "capital": 0,
+            "total": 6.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 8.0,
+          "capital": 0,
+          "total": 8.0
+        }
+      },
+      {
+        "index": "5",
+        "name": "Munitions India Limited",
+        "2024_budget": {
+          "revenue": 745.45,
+          "capital": 0,
+          "total": 745.45
+        },
+        "2023": {
+          "budget": {
+            "revenue": 580.0,
+            "capital": 0,
+            "total": 580.0
+          },
+          "revised": {
+            "revenue": 580.0,
+            "capital": 0,
+            "total": 580.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 577.0,
+          "capital": 0,
+          "total": 577.0
+        }
+      },
+      {
+        "index": "6",
+        "name": "Troop Comforts Limited",
+        "2024_budget": {
+          "revenue": 9.96,
+          "capital": 0,
+          "total": 9.96
+        },
+        "2023": {
+          "budget": {
+            "revenue": 7.0,
+            "capital": 0,
+            "total": 7.0
+          },
+          "revised": {
+            "revenue": 7.0,
+            "capital": 0,
+            "total": 7.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 7.0,
+          "capital": 0,
+          "total": 7.0
+        }
+      },
+      {
+        "index": "7",
+        "name": "Yantra India Limited",
+        "2024_budget": {
+          "revenue": 228.15,
+          "capital": 0,
+          "total": 228.15
+        },
+        "2023": {
+          "budget": {
+            "revenue": 200.0,
+            "capital": 0,
+            "total": 200.0
+          },
+          "revised": {
+            "revenue": 200.0,
+            "capital": 0,
+            "total": 200.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 203.0,
+          "capital": 0,
+          "total": 203.0
+        }
+      }
+    ]
+  },
+  "number": 21
+}

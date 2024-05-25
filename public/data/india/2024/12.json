@@ -1,0 +1,408 @@
+{
+  "name": "MINISTRY OF COMMUNICATIONS",
+  "demand": "DEMAND NO. 12",
+  "department": "Department of Posts",
+  "sections": {
+    "allocation": [
+      {
+        "index": "1.",
+        "name": "Expenditure relating to establishment"
+      },
+      {
+        "index": "1.01",
+        "name": "Pay and Allowances",
+        "2024_budget": {
+          "revenue": 21004.96,
+          "capital": 0,
+          "total": 21004.96
+        },
+        "2023": {
+          "budget": {
+            "revenue": 23419.12,
+            "capital": 0,
+            "total": 23419.12
+          },
+          "revised": {
+            "revenue": 19393.31,
+            "capital": 0,
+            "total": 19393.31
+          }
+        },
+        "2022_actual": {
+          "revenue": 19119.96,
+          "capital": 0,
+          "total": 19119.96
+        }
+      },
+      {
+        "index": "1.02",
+        "name": "Pensions",
+        "2024_budget": {
+          "revenue": 12500.0,
+          "capital": 0,
+          "total": 12500.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 13251.96,
+            "capital": 0,
+            "total": 13251.96
+          },
+          "revised": {
+            "revenue": 12000.0,
+            "capital": 0,
+            "total": 12000.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 11099.15,
+          "capital": 0,
+          "total": 11099.15
+        }
+      },
+      {
+        "index": "1.03",
+        "name": "Other expenditures",
+        "2024_budget": {
+          "revenue": 2672.78,
+          "capital": 40.0,
+          "total": 2712.78
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1035.99,
+            "capital": 18.0,
+            "total": 1053.99
+          },
+          "revised": {
+            "revenue": 2654.79,
+            "capital": 29.8,
+            "total": 2684.59
+          }
+        },
+        "2022_actual": {
+          "revenue": 980.01,
+          "capital": 15.1,
+          "total": 995.11
+        }
+      },
+      {
+        "index": "1.04",
+        "name": "Less Postal Receipts",
+        "2024_budget": {
+          "revenue": -12238.77,
+          "capital": 0,
+          "total": -12238.77
+        },
+        "2023": {
+          "budget": {
+            "revenue": -13439.38,
+            "capital": 0,
+            "total": -13439.38
+          },
+          "revised": {
+            "revenue": -11408.04,
+            "capital": 0,
+            "total": -11408.04
+          }
+        },
+        "2022_actual": {
+          "revenue": -10917.89,
+          "capital": 0,
+          "total": -10917.89
+        }
+      },
+      {
+        "index": "2",
+        "name": "Postal Operation",
+        "2024_budget": {
+          "revenue": 140.4,
+          "capital": 85.58,
+          "total": 225.98
+        },
+        "2023": {
+          "budget": {
+            "revenue": 120.86,
+            "capital": 1023.45,
+            "total": 1144.31
+          },
+          "revised": {
+            "revenue": 131.87,
+            "capital": 1185.0,
+            "total": 1316.87
+          }
+        },
+        "2022_actual": {
+          "revenue": 239.01,
+          "capital": 993.99,
+          "total": 1233.0
+        }
+      },
+      {
+        "index": "3",
+        "name": "India Post Payments Bank",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 250.0,
+          "total": 250.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 250.0,
+            "total": 250.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 250.0,
+            "total": 250.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 400.0,
+          "total": 400.0
+        }
+      },
+      {
+        "index": "4",
+        "name": "Human Resource Management",
+        "2024_budget": {
+          "revenue": 36.0,
+          "capital": 6.0,
+          "total": 42.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 28.0,
+            "capital": 6.0,
+            "total": 34.0
+          },
+          "revised": {
+            "revenue": 36.07,
+            "capital": 1.4,
+            "total": 37.47
+          }
+        },
+        "2022_actual": {
+          "revenue": 18.2,
+          "capital": 3.56,
+          "total": 21.76
+        }
+      },
+      {
+        "index": "5",
+        "name": "Estates Management",
+        "2024_budget": {
+          "revenue": 0.5,
+          "capital": 133.0,
+          "total": 133.5
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0.5,
+            "capital": 99.5,
+            "total": 100.0
+          },
+          "revised": {
+            "revenue": 0.5,
+            "capital": 114.5,
+            "total": 115.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 64.02,
+          "total": 64.02
+        }
+      },
+      {
+        "index": "6",
+        "name": "IT Modernization Project 2.0",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 748.02,
+          "total": 748.02
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      }
+    ],
+    "development_heads": [
+      {
+        "index": "1",
+        "name": "Postal Services",
+        "2024_budget": {
+          "revenue": 24100.07,
+          "capital": 0,
+          "total": 24100.07
+        },
+        "2023": {
+          "budget": {
+            "revenue": 24406.46,
+            "capital": 0,
+            "total": 24406.46
+          },
+          "revised": {
+            "revenue": 22794.44,
+            "capital": 0,
+            "total": 22794.44
+          }
+        },
+        "2022_actual": {
+          "revenue": 20538.44,
+          "capital": 0,
+          "total": 20538.44
+        }
+      },
+      {
+        "index": "2",
+        "name": "Capital Outlay on Postal Services",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 913.45,
+          "total": 913.45
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 1029.71,
+            "total": 1029.71
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 1197.83,
+            "total": 1197.83
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 1076.67,
+          "total": 1076.67
+        }
+      },
+      {
+        "index": "3",
+        "name": "Investments in General Financial and Trading Institutions",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 250.0,
+          "total": 250.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 250.0,
+            "total": 250.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 250.0,
+            "total": 250.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 400.0,
+          "total": 400.0
+        }
+      },
+      {
+        "index": "4",
+        "name": "North Eastern Areas",
+        "2024_budget": {
+          "revenue": 15.8,
+          "capital": 0,
+          "total": 15.8
+        },
+        "2023": {
+          "budget": {
+            "revenue": 10.59,
+            "capital": 0,
+            "total": 10.59
+          },
+          "revised": {
+            "revenue": 14.06,
+            "capital": 0,
+            "total": 14.06
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "5",
+        "name": "Capital Outlay on North Eastern Areas",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 99.15,
+          "total": 99.15
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 117.24,
+            "total": 117.24
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 132.87,
+            "total": 132.87
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      }
+    ],
+    "public_enterprises": [
+      {
+        "index": "1",
+        "name": "India Post Payments Bank",
+        "2024_budget": {
+          "revenue": 250.0,
+          "capital": 0,
+          "total": 250.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 250.0,
+            "capital": 0,
+            "total": 250.0
+          },
+          "revised": {
+            "revenue": 250.0,
+            "capital": 0,
+            "total": 250.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 400.0,
+          "capital": 0,
+          "total": 400.0
+        }
+      }
+    ]
+  },
+  "number": 12
+}

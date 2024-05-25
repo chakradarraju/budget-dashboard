@@ -1,0 +1,247 @@
+{
+  "name": "MINISTRY OF FINANCE",
+  "demand": "DEMAND NO. 31",
+  "department": "Department of Expenditure",
+  "sections": {
+    "allocation": [
+      {
+        "index": "1",
+        "name": "Secretariat General Services",
+        "2024_budget": {
+          "revenue": 353.94,
+          "capital": 90.65,
+          "total": 444.59
+        },
+        "2023": {
+          "budget": {
+            "revenue": 333.25,
+            "capital": 127.51,
+            "total": 460.76
+          },
+          "revised": {
+            "revenue": 322.64,
+            "capital": 89.67,
+            "total": 412.31
+          }
+        },
+        "2022_actual": {
+          "revenue": 318.91,
+          "capital": 0,
+          "total": 318.91
+        }
+      },
+      {
+        "index": "2",
+        "name": "Institute of Government Accounts and Finance",
+        "2024_budget": {
+          "revenue": 12.14,
+          "capital": 0.81,
+          "total": 12.95
+        },
+        "2023": {
+          "budget": {
+            "revenue": 10.41,
+            "capital": 0.57,
+            "total": 10.98
+          },
+          "revised": {
+            "revenue": 9.96,
+            "capital": 1.17,
+            "total": 11.13
+          }
+        },
+        "2022_actual": {
+          "revenue": 5.35,
+          "capital": 0,
+          "total": 5.35
+        }
+      },
+      {
+        "index": "3",
+        "name": "NSDL Charges for New Pension Scheme",
+        "2024_budget": {
+          "revenue": 31.5,
+          "capital": 0,
+          "total": 31.5
+        },
+        "2023": {
+          "budget": {
+            "revenue": 30.5,
+            "capital": 0,
+            "total": 30.5
+          },
+          "revised": {
+            "revenue": 30.5,
+            "capital": 0,
+            "total": 30.5
+          }
+        },
+        "2022_actual": {
+          "revenue": 28.47,
+          "capital": 0,
+          "total": 28.47
+        }
+      },
+      {
+        "index": "4",
+        "name": "Actual Recoveries",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": -0.25,
+          "capital": 0,
+          "total": -0.25
+        }
+      },
+      {
+        "index": "5",
+        "name": "National Institute of Financial Management",
+        "2024_budget": {
+          "revenue": 15.1,
+          "capital": 0,
+          "total": 15.1
+        },
+        "2023": {
+          "budget": {
+            "revenue": 15.1,
+            "capital": 0,
+            "total": 15.1
+          },
+          "revised": {
+            "revenue": 15.1,
+            "capital": 0,
+            "total": 15.1
+          }
+        },
+        "2022_actual": {
+          "revenue": 13.3,
+          "capital": 0,
+          "total": 13.3
+        }
+      }
+    ],
+    "development_heads": [
+      {
+        "index": "1",
+        "name": "Secretariat -General Services",
+        "2024_budget": {
+          "revenue": 353.94,
+          "capital": 0,
+          "total": 353.94
+        },
+        "2023": {
+          "budget": {
+            "revenue": 333.25,
+            "capital": 0,
+            "total": 333.25
+          },
+          "revised": {
+            "revenue": 322.64,
+            "capital": 0,
+            "total": 322.64
+          }
+        },
+        "2022_actual": {
+          "revenue": 318.66,
+          "capital": 0,
+          "total": 318.66
+        }
+      },
+      {
+        "index": "2",
+        "name": "Other Administrative Services",
+        "2024_budget": {
+          "revenue": 58.74,
+          "capital": 0,
+          "total": 58.74
+        },
+        "2023": {
+          "budget": {
+            "revenue": 56.01,
+            "capital": 0,
+            "total": 56.01
+          },
+          "revised": {
+            "revenue": 55.56,
+            "capital": 0,
+            "total": 55.56
+          }
+        },
+        "2022_actual": {
+          "revenue": 47.12,
+          "capital": 0,
+          "total": 47.12
+        }
+      },
+      {
+        "index": "3",
+        "name": "Capital Outlay on Public Works",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0.01,
+            "total": 0.01
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0.01,
+            "total": 0.01
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "4",
+        "name": "Capital Outlay on Other Administrative Services",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 91.46,
+          "total": 91.46
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 128.07,
+            "total": 128.07
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 90.83,
+            "total": 90.83
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      }
+    ],
+    "public_enterprises": []
+  },
+  "number": 31
+}

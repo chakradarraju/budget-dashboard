@@ -1,0 +1,953 @@
+{
+  "name": "MINISTRY OF ELECTRONICS AND INFORMATION TECHNOLOGY",
+  "demand": "DEMAND NO. 27",
+  "department": "Ministry of Electronics and Information Technology",
+  "sections": {
+    "allocation": [
+      {
+        "index": "1",
+        "name": "Secretariat",
+        "2024_budget": {
+          "revenue": 125.8,
+          "capital": 24.2,
+          "total": 150.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 112.4,
+            "capital": 27.6,
+            "total": 140.0
+          },
+          "revised": {
+            "revenue": 119.32,
+            "capital": 25.68,
+            "total": 145.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 128.94,
+          "capital": 0,
+          "total": 128.94
+        }
+      },
+      {
+        "index": "2",
+        "name": "National Informatics Centre",
+        "2024_budget": {
+          "revenue": 1399.94,
+          "capital": 348.7,
+          "total": 1748.64
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1339.13,
+            "capital": 188.13,
+            "total": 1527.26
+          },
+          "revised": {
+            "revenue": 1351.32,
+            "capital": 200.68,
+            "total": 1552.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 1244.72,
+          "capital": 145.99,
+          "total": 1390.71
+        }
+      },
+      {
+        "index": "3",
+        "name": "Regulatory Authorities 3.01 Standardization Testing and Quality Certification (STQC)",
+        "2024_budget": {
+          "revenue": 137.5,
+          "capital": 62.5,
+          "total": 200.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 123.6,
+            "capital": 11.9,
+            "total": 135.5
+          },
+          "revised": {
+            "revenue": 115.05,
+            "capital": 41.95,
+            "total": 157.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 99.7,
+          "capital": 10.63,
+          "total": 110.33
+        }
+      },
+      {
+        "index": "3.02",
+        "name": "Cyber Security (CERT -In)",
+        "2024_budget": {
+          "revenue": 95.0,
+          "capital": 145.0,
+          "total": 240.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 84.5,
+            "capital": 140.5,
+            "total": 225.0
+          },
+          "revised": {
+            "revenue": 68.0,
+            "capital": 140.0,
+            "total": 208.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 56.51,
+          "capital": 119.98,
+          "total": 176.49
+        }
+      },
+      {
+        "index": "3.03",
+        "name": "Controller of Certifying Authorities (CCA)",
+        "2024_budget": {
+          "revenue": 13.39,
+          "capital": 0.61,
+          "total": 14.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 12.45,
+            "capital": 0.55,
+            "total": 13.0
+          },
+          "revised": {
+            "revenue": 11.95,
+            "capital": 0.55,
+            "total": 12.5
+          }
+        },
+        "2022_actual": {
+          "revenue": 9.43,
+          "capital": 0,
+          "total": 9.43
+        }
+      },
+      {
+        "index": "4.",
+        "name": "Electronic Governance"
+      },
+      {
+        "index": "4.01",
+        "name": "Program Component",
+        "2024_budget": {
+          "revenue": 631.5,
+          "capital": 0,
+          "total": 631.5
+        },
+        "2023": {
+          "budget": {
+            "revenue": 530.74,
+            "capital": 0,
+            "total": 530.74
+          },
+          "revised": {
+            "revenue": 560.0,
+            "capital": 0,
+            "total": 560.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 214.14,
+          "capital": 0,
+          "total": 214.14
+        }
+      },
+      {
+        "index": "4.02",
+        "name": "EAP Component",
+        "2024_budget": {
+          "revenue": 18.5,
+          "capital": 0,
+          "total": 18.5
+        },
+        "2023": {
+          "budget": {
+            "revenue": 25.0,
+            "capital": 0,
+            "total": 25.0
+          },
+          "revised": {
+            "revenue": 28.0,
+            "capital": 0,
+            "total": 28.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 2.18,
+          "capital": 0,
+          "total": 2.18
+        }
+      },
+      {
+        "index": "5",
+        "name": "Manpower Development 78.64 ... 78.64 ... ... ... ... ... ... ... ... ... 6. National Knowledge Network",
+        "2024_budget": {
+          "revenue": 240.26,
+          "capital": 0,
+          "total": 240.26
+        },
+        "2023": {
+          "budget": {
+            "revenue": 352.0,
+            "capital": 0,
+            "total": 352.0
+          },
+          "revised": {
+            "revenue": 582.0,
+            "capital": 0,
+            "total": 582.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 323.26,
+          "capital": 0,
+          "total": 323.26
+        }
+      },
+      {
+        "index": "7",
+        "name": "Promotion of Electronics and IT HW Manufacturing (MSIPS, EDF and Manufacturing Clusters)",
+        "2024_budget": {
+          "revenue": 750.0,
+          "capital": 0,
+          "total": 750.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 700.0,
+            "capital": 0,
+            "total": 700.0
+          },
+          "revised": {
+            "revenue": 700.0,
+            "capital": 0,
+            "total": 700.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 634.03,
+          "capital": 0,
+          "total": 634.03
+        }
+      },
+      {
+        "index": "8",
+        "name": "PLI for Large Scale Electronics and IT Hardware 1654.96 ... 1654.96 ... ... ... ... ... ... ... ... ... 9. Promotion of IT/ITeS Industries",
+        "2024_budget": {
+          "revenue": 130.0,
+          "capital": 0,
+          "total": 130.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 150.0,
+            "capital": 0,
+            "total": 150.0
+          },
+          "revised": {
+            "revenue": 120.0,
+            "capital": 0,
+            "total": 120.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 66.08,
+          "capital": 0,
+          "total": 66.08
+        }
+      },
+      {
+        "index": "10",
+        "name": "Cyber Security Projects",
+        "2024_budget": {
+          "revenue": 759.0,
+          "capital": 0,
+          "total": 759.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 400.0,
+            "capital": 0,
+            "total": 400.0
+          },
+          "revised": {
+            "revenue": 400.0,
+            "capital": 0,
+            "total": 400.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 30.11,
+          "capital": 0,
+          "total": 30.11
+        }
+      },
+      {
+        "index": "11",
+        "name": "R and D in IT/Electronics/CCBT",
+        "2024_budget": {
+          "revenue": 1148.25,
+          "capital": 0,
+          "total": 1148.25
+        },
+        "2023": {
+          "budget": {
+            "revenue": 600.0,
+            "capital": 0,
+            "total": 600.0
+          },
+          "revised": {
+            "revenue": 1000.0,
+            "capital": 0,
+            "total": 1000.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 275.07,
+          "capital": 0,
+          "total": 275.07
+        }
+      },
+      {
+        "index": "12",
+        "name": "Pradhan Mantri Gramin Digital Saksharta Abhiyan (PMGDISHA) 250.00 ... 250.00 ... ... ... ... ... ... ... ... ... 13. Promotion of Digital payment",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1500.0,
+            "capital": 0,
+            "total": 1500.0
+          },
+          "revised": {
+            "revenue": 584.0,
+            "capital": 0,
+            "total": 584.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 1989.62,
+          "capital": 0,
+          "total": 1989.62
+        }
+      },
+      {
+        "index": "14",
+        "name": "Capacity Building and Skill Development Scheme",
+        "2024_budget": {
+          "revenue": 537.5,
+          "capital": 0,
+          "total": 537.5
+        },
+        "2023": {
+          "budget": {
+            "revenue": 537.5,
+            "capital": 0,
+            "total": 537.5
+          },
+          "revised": {
+            "revenue": 454.01,
+            "capital": 0,
+            "total": 454.01
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "15",
+        "name": "Modified Programme for Development of Semiconductors and Display Manufacturing Ecosystem in India 15.01 Modified Scheme for setting up of Compound Semiconducors/Silicon Photonics/Sensors Fab/Discrete Semiconductors Fab and Semiconductor Assembly, Testing, Marking and Packaging (ATMP)/Outsourced Semiconductor Assembly and Test (OSAT) facilities in India",
+        "2024_budget": {
+          "revenue": 4203.0,
+          "capital": 0,
+          "total": 4203.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1799.92,
+            "capital": 0,
+            "total": 1799.92
+          },
+          "revised": {
+            "revenue": 1424.84,
+            "capital": 0,
+            "total": 1424.84
+          }
+        },
+        "2022_actual": {
+          "revenue": 13.0,
+          "capital": 0,
+          "total": 13.0
+        }
+      },
+      {
+        "index": "15.02",
+        "name": "Modified Scheme for Setting up of Semiconductor Fabs in India",
+        "2024_budget": {
+          "revenue": 1500.0,
+          "capital": 0,
+          "total": 1500.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1000.0,
+            "capital": 0,
+            "total": 1000.0
+          },
+          "revised": {
+            "revenue": 12.51,
+            "capital": 0,
+            "total": 12.51
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "15.03",
+        "name": "Modified Scheme for setting up of Display Fabs in India",
+        "2024_budget": {
+          "revenue": 100.0,
+          "capital": 0,
+          "total": 100.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0.04,
+            "capital": 0,
+            "total": 0.04
+          },
+          "revised": {
+            "revenue": 0.01,
+            "capital": 0,
+            "total": 0.01
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "15.04",
+        "name": "Modernisation of Semi -Conductor Laboratory, Mohali",
+        "2024_budget": {
+          "revenue": 900.0,
+          "capital": 0,
+          "total": 900.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0.04,
+            "capital": 0,
+            "total": 0.04
+          },
+          "revised": {
+            "revenue": 16.0,
+            "capital": 0,
+            "total": 16.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "15.05",
+        "name": "Design Linked Incentive Scheme",
+        "2024_budget": {
+          "revenue": 200.0,
+          "capital": 0,
+          "total": 200.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 200.0,
+            "capital": 0,
+            "total": 200.0
+          },
+          "revised": {
+            "revenue": 50.0,
+            "capital": 0,
+            "total": 50.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "16",
+        "name": "Production Linked Incentive Scheme (PLI) 16.01 Production linked Incentive for Large Scale Electronics Manufacturing",
+        "2024_budget": {
+          "revenue": 6125.0,
+          "capital": 0,
+          "total": 6125.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 4499.04,
+            "capital": 0,
+            "total": 4499.04
+          },
+          "revised": {
+            "revenue": 4489.46,
+            "capital": 0,
+            "total": 4489.46
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "16.02",
+        "name": "Production Linked Incentive for IT Hardware",
+        "2024_budget": {
+          "revenue": 75.0,
+          "capital": 0,
+          "total": 75.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 146.0,
+            "capital": 0,
+            "total": 146.0
+          },
+          "revised": {
+            "revenue": 70.42,
+            "capital": 0,
+            "total": 70.42
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "17",
+        "name": "Promotion of Digital Transactions (excluding Digital Payments)",
+        "2024_budget": {
+          "revenue": 1.5,
+          "capital": 0,
+          "total": 1.5
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "18",
+        "name": "Centre for Development of Advanced Computing (C - DAC)",
+        "2024_budget": {
+          "revenue": 270.0,
+          "capital": 0,
+          "total": 270.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 270.0,
+            "capital": 0,
+            "total": 270.0
+          },
+          "revised": {
+            "revenue": 270.0,
+            "capital": 0,
+            "total": 270.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 250.0,
+          "capital": 0,
+          "total": 250.0
+        }
+      },
+      {
+        "index": "19",
+        "name": "Centre for Materials for Electronics and Information Technology (C -MET)",
+        "2024_budget": {
+          "revenue": 110.0,
+          "capital": 0,
+          "total": 110.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 110.0,
+            "capital": 0,
+            "total": 110.0
+          },
+          "revised": {
+            "revenue": 100.0,
+            "capital": 0,
+            "total": 100.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 62.31,
+          "capital": 0,
+          "total": 62.31
+        }
+      },
+      {
+        "index": "20",
+        "name": "Society for Applied Microwave Electronics Engineering and Research (SAMEER)",
+        "2024_budget": {
+          "revenue": 160.0,
+          "capital": 0,
+          "total": 160.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 160.0,
+            "capital": 0,
+            "total": 160.0
+          },
+          "revised": {
+            "revenue": 150.0,
+            "capital": 0,
+            "total": 150.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 131.39,
+          "capital": 0,
+          "total": 131.39
+        }
+      },
+      {
+        "index": "21",
+        "name": "Unique Identification Authority of India (UIDAI)",
+        "2024_budget": {
+          "revenue": 600.0,
+          "capital": 0,
+          "total": 600.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 940.0,
+            "capital": 0,
+            "total": 940.0
+          },
+          "revised": {
+            "revenue": 800.0,
+            "capital": 0,
+            "total": 800.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 1219.65,
+          "capital": 0,
+          "total": 1219.65
+        }
+      },
+      {
+        "index": "22",
+        "name": "Bhaskaracharya National Institute for Space Applications and Geo -Information",
+        "2024_budget": {
+          "revenue": 20.0,
+          "capital": 0,
+          "total": 20.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 44.0,
+            "capital": 0,
+            "total": 44.0
+          },
+          "revised": {
+            "revenue": 29.5,
+            "capital": 0,
+            "total": 29.5
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "23",
+        "name": "Semi Conductor Laboratory (SCL)",
+        "2024_budget": {
+          "revenue": 540.0,
+          "capital": 0,
+          "total": 540.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 533.0,
+            "capital": 0,
+            "total": 533.0
+          },
+          "revised": {
+            "revenue": 493.0,
+            "capital": 0,
+            "total": 493.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 203.86,
+          "capital": 0,
+          "total": 203.86
+        }
+      },
+      {
+        "index": "24",
+        "name": "Digital India Corporation erstwhile Media Lab Asia",
+        "2024_budget": {
+          "revenue": 13.0,
+          "capital": 0,
+          "total": 13.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 11.0,
+            "capital": 0,
+            "total": 11.0
+          },
+          "revised": {
+            "revenue": 13.0,
+            "capital": 0,
+            "total": 13.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 6.08,
+          "capital": 0,
+          "total": 6.08
+        }
+      },
+      {
+        "index": "25",
+        "name": "Actual Recoveries -1021.03 ... -1021.03 ... ... ... ... ... ... ... ... ... Total -Others",
+        "2024_budget": {
+          "revenue": 13.0,
+          "capital": 0,
+          "total": 13.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 11.0,
+            "capital": 0,
+            "total": 11.0
+          },
+          "revised": {
+            "revenue": 13.0,
+            "capital": 0,
+            "total": 13.0
+          }
+        },
+        "2022_actual": {
+          "revenue": -1014.95,
+          "capital": 0,
+          "total": -1014.95
+        }
+      }
+    ],
+    "development_heads": [
+      {
+        "index": "1",
+        "name": "Industries",
+        "2024_budget": {
+          "revenue": 16946.44,
+          "capital": 0,
+          "total": 16946.44
+        },
+        "2023": {
+          "budget": {
+            "revenue": 12544.8,
+            "capital": 0,
+            "total": 12544.8
+          },
+          "revised": {
+            "revenue": 10692.62,
+            "capital": 0,
+            "total": 10692.62
+          }
+        },
+        "2022_actual": {
+          "revenue": 5329.56,
+          "capital": 0,
+          "total": 5329.56
+        }
+      },
+      {
+        "index": "2",
+        "name": "Secretariat -Economic Services",
+        "2024_budget": {
+          "revenue": 1525.74,
+          "capital": 0,
+          "total": 1525.74
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1451.53,
+            "capital": 0,
+            "total": 1451.53
+          },
+          "revised": {
+            "revenue": 1470.64,
+            "capital": 0,
+            "total": 1470.64
+          }
+        },
+        "2022_actual": {
+          "revenue": 1373.44,
+          "capital": 0,
+          "total": 1373.44
+        }
+      },
+      {
+        "index": "3",
+        "name": "Census Surveys and Statistics",
+        "2024_budget": {
+          "revenue": 600.0,
+          "capital": 0,
+          "total": 600.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 940.0,
+            "capital": 0,
+            "total": 940.0
+          },
+          "revised": {
+            "revenue": 800.0,
+            "capital": 0,
+            "total": 800.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 1219.65,
+          "capital": 0,
+          "total": 1219.65
+        }
+      },
+      {
+        "index": "4",
+        "name": "Capital Outlay on Telecommunication and Electronic Industries",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 208.11,
+          "total": 208.11
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 152.95,
+            "total": 152.95
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 182.5,
+            "total": 182.5
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 130.61,
+          "total": 130.61
+        }
+      },
+      {
+        "index": "5",
+        "name": "Capital Outlay on Other General Economic Services",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 372.9,
+          "total": 372.9
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 215.73,
+            "total": 215.73
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 226.36,
+            "total": 226.36
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 145.99,
+          "total": 145.99
+        }
+      },
+      {
+        "index": "6",
+        "name": "North Eastern Areas",
+        "2024_budget": {
+          "revenue": 1731.96,
+          "capital": 0,
+          "total": 1731.96
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1244.03,
+            "capital": 0,
+            "total": 1244.03
+          },
+          "revised": {
+            "revenue": 1049.13,
+            "capital": 0,
+            "total": 1049.13
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      }
+    ],
+    "public_enterprises": []
+  },
+  "number": 27
+}

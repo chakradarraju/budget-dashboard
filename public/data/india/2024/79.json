@@ -1,0 +1,1494 @@
+{
+  "name": "MINISTRY OF POWER",
+  "demand": "DEMAND NO. 79",
+  "department": "Ministry of Power",
+  "sections": {
+    "allocation": [
+      {
+        "index": "1",
+        "name": "Secretariat",
+        "2024_budget": {
+          "revenue": 69.14,
+          "capital": 4.18,
+          "total": 73.32
+        },
+        "2023": {
+          "budget": {
+            "revenue": 57.13,
+            "capital": 3.59,
+            "total": 60.72
+          },
+          "revised": {
+            "revenue": 62.46,
+            "capital": 3.54,
+            "total": 66.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 52.67,
+          "capital": 0,
+          "total": 52.67
+        }
+      },
+      {
+        "index": "2.",
+        "name": "Statutory Authorities"
+      },
+      {
+        "index": "2.01",
+        "name": "Central Electricity Authority",
+        "2024_budget": {
+          "revenue": 148.76,
+          "capital": 2.64,
+          "total": 151.4
+        },
+        "2023": {
+          "budget": {
+            "revenue": 132.84,
+            "capital": 2.2,
+            "total": 135.04
+          },
+          "revised": {
+            "revenue": 139.0,
+            "capital": 1.92,
+            "total": 140.92
+          }
+        },
+        "2022_actual": {
+          "revenue": 124.19,
+          "capital": 0,
+          "total": 124.19
+        }
+      },
+      {
+        "index": "2.02",
+        "name": "Setting up of Joint Electricity Regulatory Commission (JERC) for UTs and Goa",
+        "2024_budget": {
+          "revenue": 14.75,
+          "capital": 0,
+          "total": 14.75
+        },
+        "2023": {
+          "budget": {
+            "revenue": 13.5,
+            "capital": 0,
+            "total": 13.5
+          },
+          "revised": {
+            "revenue": 12.5,
+            "capital": 0,
+            "total": 12.5
+          }
+        },
+        "2022_actual": {
+          "revenue": 12.0,
+          "capital": 0,
+          "total": 12.0
+        }
+      },
+      {
+        "index": "2.03",
+        "name": "Setting up of Joint Electricity Regulatory Commission (JERC) for J&K and Ladakh",
+        "2024_budget": {
+          "revenue": 3.94,
+          "capital": 0,
+          "total": 3.94
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 3.75,
+            "capital": 0,
+            "total": 3.75
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "2.04",
+        "name": "Appellate Tribunal for Electricity",
+        "2024_budget": {
+          "revenue": 42.0,
+          "capital": 0,
+          "total": 42.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 40.66,
+            "capital": 0,
+            "total": 40.66
+          },
+          "revised": {
+            "revenue": 35.0,
+            "capital": 0,
+            "total": 35.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 33.8,
+          "capital": 0,
+          "total": 33.8
+        }
+      },
+      {
+        "index": "2.05",
+        "name": "Central Electricity Regulatory Commission (CERC) Fund",
+        "2024_budget": {
+          "revenue": 85.0,
+          "capital": 0,
+          "total": 85.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 140.0,
+            "capital": 0,
+            "total": 140.0
+          },
+          "revised": {
+            "revenue": 170.0,
+            "capital": 0,
+            "total": 170.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 135.0,
+          "capital": 0,
+          "total": 135.0
+        }
+      },
+      {
+        "index": "2.06",
+        "name": "Less - Amount met from CERC Fund",
+        "2024_budget": {
+          "revenue": -85.0,
+          "capital": 0,
+          "total": -85.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": -140.0,
+            "capital": 0,
+            "total": -140.0
+          },
+          "revised": {
+            "revenue": -170.0,
+            "capital": 0,
+            "total": -170.0
+          }
+        },
+        "2022_actual": {
+          "revenue": -139.02,
+          "capital": 0,
+          "total": -139.02
+        }
+      },
+      {
+        "index": "3.",
+        "name": "Energy Conservation Schemes"
+      },
+      {
+        "index": "3.01",
+        "name": "Energy Conservation",
+        "2024_budget": {
+          "revenue": 25.0,
+          "capital": 0,
+          "total": 25.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 30.9,
+            "capital": 0,
+            "total": 30.9
+          },
+          "revised": {
+            "revenue": 26.32,
+            "capital": 0,
+            "total": 26.32
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "5.",
+        "name": "Strengthening of Power Systems"
+      },
+      {
+        "index": "5.01",
+        "name": "Smart Grids",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 14.62,
+            "capital": 0,
+            "total": 14.62
+          },
+          "revised": {
+            "revenue": 14.62,
+            "capital": 0,
+            "total": 14.62
+          }
+        },
+        "2022_actual": {
+          "revenue": 25.77,
+          "capital": 0,
+          "total": 25.77
+        }
+      },
+      {
+        "index": "5.02",
+        "name": "Green Energy Corridors",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 1.0,
+          "total": 1.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 1.0,
+            "total": 1.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0.01,
+            "total": 0.01
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 13.11,
+          "total": 13.11
+        }
+      },
+      {
+        "index": "5.03",
+        "name": "Interest Subsidy to National Electricity Fund",
+        "2024_budget": {
+          "revenue": 500.0,
+          "capital": 0,
+          "total": 500.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 500.0,
+            "capital": 0,
+            "total": 500.0
+          },
+          "revised": {
+            "revenue": 538.0,
+            "capital": 0,
+            "total": 538.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 582.89,
+          "capital": 0,
+          "total": 582.89
+        }
+      },
+      {
+        "index": "5.04",
+        "name": "Power System Improvement in North Eastern States excluding Arunachal Pradesh and Sikkim (Program Component)",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 517.05,
+            "capital": 0,
+            "total": 517.05
+          },
+          "revised": {
+            "revenue": 312.56,
+            "capital": 0,
+            "total": 312.56
+          }
+        },
+        "2022_actual": {
+          "revenue": 459.71,
+          "capital": 0,
+          "total": 459.71
+        }
+      },
+      {
+        "index": "5.05",
+        "name": "Power System Improvement in North Eastern States excluding Arunachal Pradesh and Sikkim (EAP Component)",
+        "2024_budget": {
+          "revenue": 0.01,
+          "capital": 0,
+          "total": 0.01
+        },
+        "2023": {
+          "budget": {
+            "revenue": 469.95,
+            "capital": 0,
+            "total": 469.95
+          },
+          "revised": {
+            "revenue": 287.44,
+            "capital": 0,
+            "total": 287.44
+          }
+        },
+        "2022_actual": {
+          "revenue": 361.06,
+          "capital": 0,
+          "total": 361.06
+        }
+      },
+      {
+        "index": "5.06",
+        "name": "Strengthening of Transmission System in the States of Arunachal Pradesh and Sikkim",
+        "2024_budget": {
+          "revenue": 0.01,
+          "capital": 0,
+          "total": 0.01
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1400.0,
+            "capital": 0,
+            "total": 1400.0
+          },
+          "revised": {
+            "revenue": 1409.0,
+            "capital": 0,
+            "total": 1409.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 1100.71,
+          "capital": 0,
+          "total": 1100.71
+        }
+      },
+      {
+        "index": "6",
+        "name": "Power System Development Fund 6.01 Transfer to Power System Development Fund (PSDF)",
+        "2024_budget": {
+          "revenue": 1200.0,
+          "capital": 0,
+          "total": 1200.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1000.0,
+            "capital": 0,
+            "total": 1000.0
+          },
+          "revised": {
+            "revenue": 900.0,
+            "capital": 0,
+            "total": 900.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 604.48,
+          "capital": 0,
+          "total": 604.48
+        }
+      },
+      {
+        "index": "6.02",
+        "name": "Scheme for Power System Development",
+        "2024_budget": {
+          "revenue": 747.38,
+          "capital": 0,
+          "total": 747.38
+        },
+        "2023": {
+          "budget": {
+            "revenue": 547.38,
+            "capital": 0,
+            "total": 547.38
+          },
+          "revised": {
+            "revenue": 360.5,
+            "capital": 0,
+            "total": 360.5
+          }
+        },
+        "2022_actual": {
+          "revenue": 326.75,
+          "capital": 0,
+          "total": 326.75
+        }
+      },
+      {
+        "index": "6.03",
+        "name": "Payment of interest for loan",
+        "2024_budget": {
+          "revenue": 452.62,
+          "capital": 0,
+          "total": 452.62
+        },
+        "2023": {
+          "budget": {
+            "revenue": 452.62,
+            "capital": 0,
+            "total": 452.62
+          },
+          "revised": {
+            "revenue": 539.5,
+            "capital": 0,
+            "total": 539.5
+          }
+        },
+        "2022_actual": {
+          "revenue": 451.17,
+          "capital": 0,
+          "total": 451.17
+        }
+      },
+      {
+        "index": "6.04",
+        "name": "Less -Amount met from Power System Development Fund",
+        "2024_budget": {
+          "revenue": -1200.0,
+          "capital": 0,
+          "total": -1200.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": -1000.0,
+            "capital": 0,
+            "total": -1000.0
+          },
+          "revised": {
+            "revenue": -900.0,
+            "capital": 0,
+            "total": -900.0
+          }
+        },
+        "2022_actual": {
+          "revenue": -604.48,
+          "capital": 0,
+          "total": -604.48
+        }
+      },
+      {
+        "index": "7.",
+        "name": "Reform Linked Distribution Scheme"
+      },
+      {
+        "index": "7.01",
+        "name": "Reform Linked Distribution Scheme",
+        "2024_budget": {
+          "revenue": 14500.0,
+          "capital": 0,
+          "total": 14500.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 12071.6,
+            "capital": 0,
+            "total": 12071.6
+          },
+          "revised": {
+            "revenue": 10400.0,
+            "capital": 0,
+            "total": 10400.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 2738.43,
+          "capital": 0,
+          "total": 2738.43
+        }
+      },
+      {
+        "index": "8",
+        "name": "Scheme for Promoting Energy Efficiency activities in different sectors of Indian Economy",
+        "2024_budget": {
+          "revenue": 40.0,
+          "capital": 0,
+          "total": 40.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 103.8,
+            "capital": 0,
+            "total": 103.8
+          },
+          "revised": {
+            "revenue": 33.56,
+            "capital": 0,
+            "total": 33.56
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "9",
+        "name": "Viability Gap Funding for development of Battery Energy Storage Systems",
+        "2024_budget": {
+          "revenue": 96.0,
+          "capital": 0,
+          "total": 96.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0.01,
+            "capital": 0,
+            "total": 0.01
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "10.",
+        "name": "Training and Research"
+      },
+      {
+        "index": "10.01",
+        "name": "Central Power Research Institute",
+        "2024_budget": {
+          "revenue": 180.0,
+          "capital": 0,
+          "total": 180.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 208.0,
+            "capital": 0,
+            "total": 208.0
+          },
+          "revised": {
+            "revenue": 150.0,
+            "capital": 0,
+            "total": 150.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 174.96,
+          "capital": 0,
+          "total": 174.96
+        }
+      },
+      {
+        "index": "10.02",
+        "name": "National Power Training Institute",
+        "2024_budget": {
+          "revenue": 50.0,
+          "capital": 0,
+          "total": 50.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 35.0,
+            "capital": 0,
+            "total": 35.0
+          },
+          "revised": {
+            "revenue": 35.0,
+            "capital": 0,
+            "total": 35.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 14.35,
+          "capital": 0,
+          "total": 14.35
+        }
+      },
+      {
+        "index": "11",
+        "name": "Conservation and Energy Efficiency 11.01 Bureau of Energy Efficiency (Program Component) 77.16 ... 77.16 ... ... ... ... ... ... ... ... ... Total -Autonomous Bodies",
+        "2024_budget": {
+          "revenue": 230.0,
+          "capital": 0,
+          "total": 230.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 243.0,
+            "capital": 0,
+            "total": 243.0
+          },
+          "revised": {
+            "revenue": 185.0,
+            "capital": 0,
+            "total": 185.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 266.47,
+          "capital": 0,
+          "total": 266.47
+        }
+      },
+      {
+        "index": "12",
+        "name": "Assistance to CPSUs 12.01 Central Assistance for Pakul Dul HEP under J and K PMDP 2015 as grant to Chenab Valley Power Projects Private Limited (CVPPPL)",
+        "2024_budget": {
+          "revenue": 568.68,
+          "capital": 0,
+          "total": 568.68
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1448.0,
+            "capital": 0,
+            "total": 1448.0
+          },
+          "revised": {
+            "revenue": 604.22,
+            "capital": 0,
+            "total": 604.22
+          }
+        },
+        "2022_actual": {
+          "revenue": 424.92,
+          "capital": 0,
+          "total": 424.92
+        }
+      },
+      {
+        "index": "12.02",
+        "name": "GoI fully serviced bond issue expenditure and interest (PFC bonds)",
+        "2024_budget": {
+          "revenue": 376.4,
+          "capital": 0,
+          "total": 376.4
+        },
+        "2023": {
+          "budget": {
+            "revenue": 376.4,
+            "capital": 0,
+            "total": 376.4
+          },
+          "revised": {
+            "revenue": 376.4,
+            "capital": 0,
+            "total": 376.4
+          }
+        },
+        "2022_actual": {
+          "revenue": 376.39,
+          "capital": 0,
+          "total": 376.39
+        }
+      },
+      {
+        "index": "12.03",
+        "name": "GoI fully serviced bond issue expenditure and interest (REC Bonds)",
+        "2024_budget": {
+          "revenue": 1943.59,
+          "capital": 0,
+          "total": 1943.59
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1945.56,
+            "capital": 0,
+            "total": 1945.56
+          },
+          "revised": {
+            "revenue": 1945.56,
+            "capital": 0,
+            "total": 1945.56
+          }
+        },
+        "2022_actual": {
+          "revenue": 1944.58,
+          "capital": 0,
+          "total": 1944.58
+        }
+      },
+      {
+        "index": "12.04",
+        "name": "Reimbursement of Claim for any expenditure already incurred by NTPC on Lohari Nagpala Hydro Power",
+        "2024_budget": {
+          "revenue": 80.4,
+          "capital": 0,
+          "total": 80.4
+        },
+        "2023": {
+          "budget": {
+            "revenue": 104.4,
+            "capital": 0,
+            "total": 104.4
+          },
+          "revised": {
+            "revenue": 36.12,
+            "capital": 0,
+            "total": 36.12
+          }
+        },
+        "2022_actual": {
+          "revenue": 157.4,
+          "capital": 0,
+          "total": 157.4
+        }
+      },
+      {
+        "index": "12.05",
+        "name": "Grant towards cost of downstream protection work of Subansiri Lower Project (NHPC)",
+        "2024_budget": {
+          "revenue": 51.98,
+          "capital": 0,
+          "total": 51.98
+        },
+        "2023": {
+          "budget": {
+            "revenue": 56.98,
+            "capital": 0,
+            "total": 56.98
+          },
+          "revised": {
+            "revenue": 56.98,
+            "capital": 0,
+            "total": 56.98
+          }
+        },
+        "2022_actual": {
+          "revenue": 3.98,
+          "capital": 0,
+          "total": 3.98
+        }
+      },
+      {
+        "index": "13.",
+        "name": "Issue of Bonus Shares"
+      },
+      {
+        "index": "13.01",
+        "name": "National Thermal Power Corporation",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 957.72,
+            "total": 957.72
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "13.02",
+        "name": "Power Grid Corporation of India Limited",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 861.53,
+            "total": 861.53
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "13.03",
+        "name": "Miscellaneous Capital Receipts",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": -1819.25,
+            "total": -1819.25
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "14",
+        "name": "Advance Ultra Super Critical plant in Sipat, Chattisgarh",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0.01,
+            "capital": 0,
+            "total": 0.01
+          },
+          "revised": {
+            "revenue": 0.01,
+            "capital": 0,
+            "total": 0.01
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "15",
+        "name": "Payment to SDMC - Badarpur Thermal Power Station",
+        "2024_budget": {
+          "revenue": 1.5,
+          "capital": 0,
+          "total": 1.5
+        },
+        "2023": {
+          "budget": {
+            "revenue": 16.08,
+            "capital": 0,
+            "total": 16.08
+          },
+          "revised": {
+            "revenue": 6.0,
+            "capital": 0,
+            "total": 6.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 16.08,
+          "capital": 0,
+          "total": 16.08
+        }
+      },
+      {
+        "index": "16",
+        "name": "Support for cost of enabling infrastructure i.e Roads/ Bridge etc",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 60.0,
+          "total": 60.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 10.0,
+            "total": 10.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 10.0,
+            "total": 10.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "17",
+        "name": "Support for flood moderation storage - Hydro electric projects",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 450.0,
+          "total": 450.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0.01,
+            "total": 0.01
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 109.0,
+            "total": 109.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 10.0,
+          "total": 10.0
+        }
+      },
+      {
+        "index": "18",
+        "name": "Creation of a Central Transmission Utility (CTU)",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0.01,
+            "capital": 0,
+            "total": 0.01
+          },
+          "revised": {
+            "revenue": 0.01,
+            "capital": 0,
+            "total": 0.01
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "19",
+        "name": "Payment Pertaining to International Arbitration Case",
+        "2024_budget": {
+          "revenue": 12.0,
+          "capital": 0,
+          "total": 12.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 12.0,
+            "capital": 0,
+            "total": 12.0
+          },
+          "revised": {
+            "revenue": 22.0,
+            "capital": 0,
+            "total": 22.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 11.99,
+          "capital": 0,
+          "total": 11.99
+        }
+      },
+      {
+        "index": "20",
+        "name": "Manufacturing Zones under Atmanirbhar Bharat Package",
+        "2024_budget": {
+          "revenue": 80.0,
+          "capital": 0,
+          "total": 80.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 100.0,
+            "capital": 0,
+            "total": 100.0
+          },
+          "revised": {
+            "revenue": 40.0,
+            "capital": 0,
+            "total": 40.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "21",
+        "name": "Subsidy to Indian Shipping Companies",
+        "2024_budget": {
+          "revenue": 0.01,
+          "capital": 0,
+          "total": 0.01
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0.01,
+            "capital": 0,
+            "total": 0.01
+          },
+          "revised": {
+            "revenue": 0.01,
+            "capital": 0,
+            "total": 0.01
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "22",
+        "name": "Additional fund for PMRP (J&K)",
+        "2024_budget": {
+          "revenue": 0.01,
+          "capital": 0,
+          "total": 0.01
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0.01,
+            "capital": 0,
+            "total": 0.01
+          },
+          "revised": {
+            "revenue": 64.0,
+            "capital": 0,
+            "total": 64.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "23",
+        "name": "Viability Gap Funding",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0.01,
+            "capital": 0,
+            "total": 0.01
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      }
+    ],
+    "development_heads": [
+      {
+        "index": "1",
+        "name": "Power",
+        "2024_budget": {
+          "revenue": 18465.02,
+          "capital": 0,
+          "total": 18465.02
+        },
+        "2023": {
+          "budget": {
+            "revenue": 17003.29,
+            "capital": 0,
+            "total": 17003.29
+          },
+          "revised": {
+            "revenue": 14399.07,
+            "capital": 0,
+            "total": 14399.07
+          }
+        },
+        "2022_actual": {
+          "revenue": 9237.21,
+          "capital": 0,
+          "total": 9237.21
+        }
+      },
+      {
+        "index": "2",
+        "name": "Secretariat -Economic Services",
+        "2024_budget": {
+          "revenue": 69.14,
+          "capital": 0,
+          "total": 69.14
+        },
+        "2023": {
+          "budget": {
+            "revenue": 57.13,
+            "capital": 0,
+            "total": 57.13
+          },
+          "revised": {
+            "revenue": 62.46,
+            "capital": 0,
+            "total": 62.46
+          }
+        },
+        "2022_actual": {
+          "revenue": 52.66,
+          "capital": 0,
+          "total": 52.66
+        }
+      },
+      {
+        "index": "3",
+        "name": "Capital Outlay on Power Projects",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 517.82,
+          "total": 517.82
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 16.8,
+            "total": 16.8
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 124.47,
+            "total": 124.47
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 23.11,
+          "total": 23.11
+        }
+      },
+      {
+        "index": "4",
+        "name": "North Eastern Areas",
+        "2024_budget": {
+          "revenue": 1450.02,
+          "capital": 0,
+          "total": 1450.02
+        },
+        "2023": {
+          "budget": {
+            "revenue": 3594.1,
+            "capital": 0,
+            "total": 3594.1
+          },
+          "revised": {
+            "revenue": 3049.0,
+            "capital": 0,
+            "total": 3049.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      }
+    ],
+    "public_enterprises": [
+      {
+        "index": "1",
+        "name": "Power System Operation Corporation Limited",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 30.0,
+          "total": 30.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 67.0,
+            "total": 67.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 124.0,
+            "total": 124.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 68.32,
+          "total": 68.32
+        }
+      },
+      {
+        "index": "2",
+        "name": "National Hydro Electric Power Corporation Limited",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 11761.87,
+          "total": 11761.87
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 10857.22,
+            "total": 10857.22
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 9006.31,
+            "total": 9006.31
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 6464.85,
+          "total": 6464.85
+        }
+      },
+      {
+        "index": "3",
+        "name": "Damodar Valley Corporation Limited",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 3262.0,
+          "total": 3262.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 2708.0,
+            "total": 2708.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 2708.0,
+            "total": 2708.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 2055.37,
+          "total": 2055.37
+        }
+      },
+      {
+        "index": "4",
+        "name": "North Eastern Electric Power Corporation Limited",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 1841.18,
+          "total": 1841.18
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 2018.59,
+            "total": 2018.59
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 1150.02,
+            "total": 1150.02
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 849.45,
+          "total": 849.45
+        }
+      },
+      {
+        "index": "5",
+        "name": "Satluj Jal Vidyut Nigam Limited",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 12000.0,
+          "total": 12000.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 10000.0,
+            "total": 10000.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 10000.0,
+            "total": 10000.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 8239.7,
+          "total": 8239.7
+        }
+      },
+      {
+        "index": "6",
+        "name": "Tehri Hydro Development Corporation Limited",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 3440.96,
+          "total": 3440.96
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 3900.41,
+            "total": 3900.41
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 4877.22,
+            "total": 4877.22
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 4615.02,
+          "total": 4615.02
+        }
+      },
+      {
+        "index": "7",
+        "name": "Power Grid Corporation of India Limited",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 12250.0,
+          "total": 12250.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 8800.0,
+            "total": 8800.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 8800.0,
+            "total": 8800.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 8850.0,
+          "total": 8850.0
+        }
+      },
+      {
+        "index": "8",
+        "name": "Rural Electrification Corporation ... ... ... ... ... ... ... ... ... ... ... ... Total -Rural Electrification Corporation ... ... ... ... ... ... ... ... ... ... ... ... National Thermal Power Corporation Limited 9. National Thermal Power Corporation Limited",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 22700.0,
+          "total": 22700.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 22454.0,
+            "total": 22454.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 22454.0,
+            "total": 22454.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 26241.29,
+          "total": 26241.29
+        }
+      },
+      {
+        "index": "8",
+        "name": "Scheme for Promoting Energy Efficiency activities in different sectors of Indian Economy: ..Funds are provided to Bureau of Energy Efficiency (BEE) for implementation of various energy efficiency initiatives in the areas of household lighting, commercial buildings, Standards & Labeling appliances, Demand Side Management in Agriculture or Municipalities, SMEs and large industries including the initiation of the process for development of Energy Consumption norms for industrial sub -sectors, capacity building of SDAs, DISCOMS etc. 9. Viability Gap Funding for development of Battery Energy S torage Systems: ..A scheme for development of Pump Storage Plants and Battery Energy Storage Systems. The objective is development of a financially viable Grid -scale Long duration energy storage and to enable deployment renewable energy, of energy storage s ervices, integration of larger amount of renewable energy. 10.01. Central Power Research Institute: ..Central Power Research Institute, Bengaluru serves as a National Laboratory for applied research in the field of electrical power and also functions as an independent authority for testing, evaluation and certification of electrical equipment and components. 10.02. National Power Training Institute: ..National Power Training Institute is engaged in imparting training in various aspects of power sector inclu ding operation and maintenance of power stations. 11. Conservation and Energy Efficiency: ..Funds are provided to Bureau of Energy Efficiency (BEE) for implementation of various energy efficiency initiatives in the areas of household lighting, commercial b uildings, Standards & Labeling appliances, Demand Side Management in Agriculture or Municipalities, SMEs and large industries including the initiation of the process for development of Energy Consumption norms for industrial sub -sectors, capacity building of SDAs, DISCOMS etc. 12.01. Central Assistance for Pakul Dul HEP under J and K PMDP 2015 as grant to Chenab Valley Power Projects Private Limited (CVPPPL): ..It is part of Prime Minister development package(2015), the assistance is for the Pakul Dul HEP i mplemented through joint venture with Chenab Valley Power project Pvt limited. 12.02. GoI fully serviced bond issue expenditure and interest (PFC bonds): ..The allocation is required for expenses and on the issue of Bonds, interest payable on infrastructur e bonds raise by Power Finance Corporation (PFC). 12.03. GoI fully serviced bond issue expenditure and interest (REC Bonds): ..Interest payment on account of EBR of Rs 4000 cr raised",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": -18.0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 15000.0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 2017.0
+        }
+      },
+      {
+        "index": "2018",
+        "name": "-19 for DDUG JY & Saubhagaya (Rural). 12.04. Reimbursement of Claim for any expenditure already incurred by NTPC on Lohari Nagpala Hydro Power: ..The scheme is for distribution of award in respect of Lohari Nag Pala Hydro Power Project. 12.05. Grant towards cost of do wnstream protection work of Subansiri Lower Project (NHPC): ..Expenditure on Downstream protection work of Subansiri Lower project (NHPC). As per decision taken in the meeting in NITI Aayog held on 24.09.2019, the cost of downstream protection work of Suban siri Lower project is to be borne by the Government of India. 13. Issue of Bonus Shares: ..Adjustment of prior period issue of bonus shares in favour of Government of India ( `.861.53 crore",
+        "2024_budget": {
+          "revenue": -22.0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 2021.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      }
+    ]
+  },
+  "number": 79
+}

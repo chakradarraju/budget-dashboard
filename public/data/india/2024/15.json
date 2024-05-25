@@ -1,0 +1,928 @@
+{
+  "name": "MINISTRY OF CONSUMER AFFAIRS, FOOD AND PUBLIC DISTRIBUTION",
+  "demand": "DEMAND NO. 15",
+  "department": "Department of Food and Public Distribution",
+  "sections": {
+    "allocation": [
+      {
+        "index": "1",
+        "name": "Secretariat",
+        "2024_budget": {
+          "revenue": 75.83,
+          "capital": 5.02,
+          "total": 80.85
+        },
+        "2023": {
+          "budget": {
+            "revenue": 79.99,
+            "capital": 3.36,
+            "total": 83.35
+          },
+          "revised": {
+            "revenue": 329.52,
+            "capital": 4.66,
+            "total": 334.18
+          }
+        },
+        "2022_actual": {
+          "revenue": 72.38,
+          "capital": 0,
+          "total": 72.38
+        }
+      },
+      {
+        "index": "2",
+        "name": "National Sugar Institue, Kanpur",
+        "2024_budget": {
+          "revenue": 26.32,
+          "capital": 4.63,
+          "total": 30.95
+        },
+        "2023": {
+          "budget": {
+            "revenue": 28.0,
+            "capital": 1.92,
+            "total": 29.92
+          },
+          "revised": {
+            "revenue": 27.7,
+            "capital": 2.02,
+            "total": 29.72
+          }
+        },
+        "2022_actual": {
+          "revenue": 22.89,
+          "capital": 2.72,
+          "total": 25.61
+        }
+      },
+      {
+        "index": "3",
+        "name": "Other Establishment Expenditure of Food, Storage and Warehousing",
+        "2024_budget": {
+          "revenue": 48.31,
+          "capital": 7.37,
+          "total": 55.68
+        },
+        "2023": {
+          "budget": {
+            "revenue": 36.4,
+            "capital": 45.09,
+            "total": 81.49
+          },
+          "revised": {
+            "revenue": 33.5,
+            "capital": 47.99,
+            "total": 81.49
+          }
+        },
+        "2022_actual": {
+          "revenue": 16.75,
+          "capital": 29.53,
+          "total": 46.28
+        }
+      },
+      {
+        "index": "4",
+        "name": "Food Subsidy to Food Corporation of India under National Food Security Act.",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 137207.0,
+            "capital": 0,
+            "total": 137207.0
+          },
+          "revised": {
+            "revenue": 139662.0,
+            "capital": 0,
+            "total": 139662.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 200219.2,
+          "capital": 0,
+          "total": 200219.2
+        }
+      },
+      {
+        "index": "5",
+        "name": "Food Subsidy for Decentralized Procurement of Foodgrains under NFSA",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 59793.0,
+            "capital": 0,
+            "total": 59793.0
+          },
+          "revised": {
+            "revenue": 72250.0,
+            "capital": 0,
+            "total": 72250.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 72282.49,
+          "capital": 0,
+          "total": 72282.49
+        }
+      },
+      {
+        "index": "6",
+        "name": "Pradhan Mantri Garib Kalyan Anna Yojana (PMGKAY)",
+        "2024_budget": {
+          "revenue": 205250.0,
+          "capital": 0,
+          "total": 205250.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "7",
+        "name": "Sugar Subsidy payable under Public Distribution System",
+        "2024_budget": {
+          "revenue": 0.01,
+          "capital": 0,
+          "total": 0.01
+        },
+        "2023": {
+          "budget": {
+            "revenue": 350.0,
+            "capital": 0,
+            "total": 350.0
+          },
+          "revised": {
+            "revenue": 420.0,
+            "capital": 0,
+            "total": 420.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 300.69,
+          "capital": 0,
+          "total": 300.69
+        }
+      },
+      {
+        "index": "8.",
+        "name": "Ways and Means Advance to FCI"
+      },
+      {
+        "index": "8.01",
+        "name": "Ways and Means Advance to FCI",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 50000.0,
+          "total": 50000.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 25000.0,
+            "total": 25000.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 25000.0,
+            "total": 25000.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 10000.0,
+          "total": 10000.0
+        }
+      },
+      {
+        "index": "8.02",
+        "name": "Repayments of Ways and Means Advance by FCI",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": -50000.0,
+          "total": -50000.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": -25000.0,
+            "total": -25000.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": -25000.0,
+            "total": -25000.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": -10000.0,
+          "total": -10000.0
+        }
+      },
+      {
+        "index": "9",
+        "name": "Scheme for Creation and Maintenance of Buffer Stock of 40 LMT of Sugar",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0.09,
+          "capital": 0,
+          "total": 0.09
+        }
+      },
+      {
+        "index": "10",
+        "name": "Scheme for Creation and Maintenance of Buffer Stock of Sugar",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0.46,
+            "capital": 0,
+            "total": 0.46
+          }
+        },
+        "2022_actual": {
+          "revenue": 3.0,
+          "capital": 0,
+          "total": 3.0
+        }
+      },
+      {
+        "index": "11",
+        "name": "Scheme for Assistance to Sugar Mills for 2019 -20 season",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 8.32,
+          "capital": 0,
+          "total": 8.32
+        }
+      },
+      {
+        "index": "12",
+        "name": "Scheme for extending financial assistance to sugar mills for enhancement and augmentation of ethanol production capacity",
+        "2024_budget": {
+          "revenue": 450.0,
+          "capital": 0,
+          "total": 450.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 400.0,
+            "capital": 0,
+            "total": 400.0
+          },
+          "revised": {
+            "revenue": 400.0,
+            "capital": 0,
+            "total": 400.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 175.0,
+          "capital": 0,
+          "total": 175.0
+        }
+      },
+      {
+        "index": "13",
+        "name": "Scheme for providing assistance to Sugar Mills for expenses on marketing costs including handling, upgrading and other processing costs and costs of international and internal transport and freight charges on export of sugar 15.28 ... 15.28 ... ... ... ... ... ... ... ... ... Development of Sugar Industry 14. Schemes for Development of Sugar Industries 14.01 Financial Assistance to Sugar Undertakings/Other Expenditure",
+        "2024_budget": {
+          "revenue": 0.01,
+          "capital": 0,
+          "total": 0.01
+        },
+        "2023": {
+          "budget": {
+            "revenue": 10.0,
+            "capital": 0,
+            "total": 10.0
+          },
+          "revised": {
+            "revenue": 10.0,
+            "capital": 0,
+            "total": 10.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 16.0,
+          "capital": 0,
+          "total": 16.0
+        }
+      },
+      {
+        "index": "14.02",
+        "name": "Loans to Sugar Mills for Bagasse based Co - generation of Power Project ... 40.56 40.56 ... ... ... ... ... ... ... ... ... 14.03 Loans to Sugar Factories for production of Anhydrous Alcohol or Ethanol from Alcohol",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0.46,
+          "total": 0.46
+        }
+      },
+      {
+        "index": "15",
+        "name": "Strengthening of PDS Operations",
+        "2024_budget": {
+          "revenue": 0.54,
+          "capital": 0,
+          "total": 0.54
+        },
+        "2023": {
+          "budget": {
+            "revenue": 5.0,
+            "capital": 0,
+            "total": 5.0
+          },
+          "revised": {
+            "revenue": 5.0,
+            "capital": 0,
+            "total": 5.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0.8,
+          "capital": 0,
+          "total": 0.8
+        }
+      },
+      {
+        "index": "16",
+        "name": "Integrated Management of Public Distribution System 31.64 ... 31.64 ... ... ... ... ... ... ... ... ... 17. Storage and Godowns",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0.01,
+          "total": 0.01
+        },
+        "2023": {
+          "budget": {
+            "revenue": 3.57,
+            "capital": 100.0,
+            "total": 103.57
+          },
+          "revised": {
+            "revenue": 3.57,
+            "capital": 147.26,
+            "total": 150.83
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 38.21,
+          "total": 38.21
+        }
+      },
+      {
+        "index": "18",
+        "name": "Actual Recoveries -30.43 ... -30.43 ... ... ... ... ... ... ... ... ... Total -Central Sector Schemes/Projects",
+        "2024_budget": {
+          "revenue": 205700.56,
+          "capital": 0.01,
+          "total": 205700.57
+        },
+        "2023": {
+          "budget": {
+            "revenue": 197768.57,
+            "capital": 100.0,
+            "total": 197868.57
+          },
+          "revised": {
+            "revenue": 212751.03,
+            "capital": 147.26,
+            "total": 212898.29
+          }
+        },
+        "2022_actual": {
+          "revenue": 273022.08,
+          "capital": 79.23,
+          "total": 273101.31
+        }
+      },
+      {
+        "index": "19",
+        "name": "Warehousing Development and Regulatory Authority",
+        "2024_budget": {
+          "revenue": 25.69,
+          "capital": 0,
+          "total": 25.69
+        },
+        "2023": {
+          "budget": {
+            "revenue": 22.0,
+            "capital": 0,
+            "total": 22.0
+          },
+          "revised": {
+            "revenue": 22.1,
+            "capital": 0,
+            "total": 22.1
+          }
+        },
+        "2022_actual": {
+          "revenue": 15.17,
+          "capital": 0,
+          "total": 15.17
+        }
+      },
+      {
+        "index": "20",
+        "name": "Investment in Equity Capital of Food Corporation of India",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0.01,
+          "total": 0.01
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 1900.0,
+          "total": 1900.0
+        }
+      },
+      {
+        "index": "21",
+        "name": "PDS-Evaluation, Monitoring & Research",
+        "2024_budget": {
+          "revenue": 1.0,
+          "capital": 0,
+          "total": 1.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0.34,
+            "capital": 0,
+            "total": 0.34
+          },
+          "revised": {
+            "revenue": 0.3,
+            "capital": 0,
+            "total": 0.3
+          }
+        },
+        "2022_actual": {
+          "revenue": 0.77,
+          "capital": 0,
+          "total": 0.77
+        }
+      },
+      {
+        "index": "22",
+        "name": "Generating Awareness amongst TPDS beneficiaries",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 3.67,
+            "capital": 0,
+            "total": 3.67
+          },
+          "revised": {
+            "revenue": 3.67,
+            "capital": 0,
+            "total": 3.67
+          }
+        },
+        "2022_actual": {
+          "revenue": 1.14,
+          "capital": 0,
+          "total": 1.14
+        }
+      },
+      {
+        "index": "23",
+        "name": "Fortification of Rice and its Distribution under Public Distribution System",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0.11,
+            "capital": 0,
+            "total": 0.11
+          }
+        },
+        "2022_actual": {
+          "revenue": 9.84,
+          "capital": 0,
+          "total": 9.84
+        }
+      },
+      {
+        "index": "24",
+        "name": "Assistance to States Agencies for Intra -State Movement of Foodgrains and FPS Dealers Margin under NFSA",
+        "2024_budget": {
+          "revenue": 7075.0,
+          "capital": 0,
+          "total": 7075.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 7424.6,
+            "capital": 0,
+            "total": 7424.6
+          },
+          "revised": {
+            "revenue": 8531.77,
+            "capital": 0,
+            "total": 8531.77
+          }
+        },
+        "2022_actual": {
+          "revenue": 8572.03,
+          "capital": 0,
+          "total": 8572.03
+        }
+      },
+      {
+        "index": "25",
+        "name": "Scheme for Modernization and Reforms through Technology in Public Distribution System (SMART - PDS)",
+        "2024_budget": {
+          "revenue": 23.5,
+          "capital": 26.5,
+          "total": 50.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 23.01,
+            "capital": 0,
+            "total": 23.01
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      }
+    ],
+    "development_heads": [
+      {
+        "index": "1",
+        "name": "Food Storage and Warehousing",
+        "2024_budget": {
+          "revenue": 205827.38,
+          "capital": 0,
+          "total": 205827.38
+        },
+        "2023": {
+          "budget": {
+            "revenue": 197855.51,
+            "capital": 0,
+            "total": 197855.51
+          },
+          "revised": {
+            "revenue": 212851.73,
+            "capital": 0,
+            "total": 212851.73
+          }
+        },
+        "2022_actual": {
+          "revenue": 273084.75,
+          "capital": 0,
+          "total": 273084.75
+        }
+      },
+      {
+        "index": "2",
+        "name": "Secretariat -Economic Services",
+        "2024_budget": {
+          "revenue": 75.83,
+          "capital": 0,
+          "total": 75.83
+        },
+        "2023": {
+          "budget": {
+            "revenue": 79.99,
+            "capital": 0,
+            "total": 79.99
+          },
+          "revised": {
+            "revenue": 329.52,
+            "capital": 0,
+            "total": 329.52
+          }
+        },
+        "2022_actual": {
+          "revenue": 72.3,
+          "capital": 0,
+          "total": 72.3
+        }
+      },
+      {
+        "index": "3",
+        "name": "Capital Outlay on Food Storage and Warehousing",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 43.53,
+          "total": 43.53
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 90.37,
+            "total": 90.37
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 121.53,
+            "total": 121.53
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 1970.46,
+          "total": 1970.46
+        }
+      },
+      {
+        "index": "4",
+        "name": "Loans for Food, Storage and Warehousing ... ... ... ... ... ... ... ... ... ... ... ... 5. Loans for Consumer Industries ... 41.02 41.02 ... ... ... ... ... ... ... ... ... Total -Economic Services",
+        "2024_budget": {
+          "revenue": 205903.21,
+          "capital": 43.53,
+          "total": 205946.74
+        },
+        "2023": {
+          "budget": {
+            "revenue": 197935.5,
+            "capital": 90.37,
+            "total": 198025.87
+          },
+          "revised": {
+            "revenue": 213181.25,
+            "capital": 121.53,
+            "total": 213302.78
+          }
+        },
+        "2022_actual": {
+          "revenue": 273157.05,
+          "capital": 2011.48,
+          "total": 275168.53
+        }
+      },
+      {
+        "index": "6",
+        "name": "North Eastern Areas",
+        "2024_budget": {
+          "revenue": 711.0,
+          "capital": 0,
+          "total": 711.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 803.97,
+            "capital": 0,
+            "total": 803.97
+          },
+          "revised": {
+            "revenue": 605.98,
+            "capital": 0,
+            "total": 605.98
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "7",
+        "name": "Grants -in-aid to State Governments",
+        "2024_budget": {
+          "revenue": 6195.0,
+          "capital": 0,
+          "total": 6195.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 6373.6,
+            "capital": 0,
+            "total": 6373.6
+          },
+          "revised": {
+            "revenue": 7633.98,
+            "capital": 0,
+            "total": 7633.98
+          }
+        },
+        "2022_actual": {
+          "revenue": 8340.91,
+          "capital": 0,
+          "total": 8340.91
+        }
+      },
+      {
+        "index": "8",
+        "name": "Grants -in-aid to Union Territory Governments",
+        "2024_budget": {
+          "revenue": 167.0,
+          "capital": 0,
+          "total": 167.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 250.5,
+            "capital": 0,
+            "total": 250.5
+          },
+          "revised": {
+            "revenue": 301.5,
+            "capital": 0,
+            "total": 301.5
+          }
+        },
+        "2022_actual": {
+          "revenue": 235.09,
+          "capital": 0,
+          "total": 235.09
+        }
+      },
+      {
+        "index": "9",
+        "name": "Capital Outlay on North Eastern Areas",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0.01,
+          "total": 0.01
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 60.0,
+            "total": 60.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 80.4,
+            "total": 80.4
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      }
+    ],
+    "public_enterprises": [
+      {
+        "index": "1",
+        "name": "Food Corporation of India",
+        "2024_budget": {
+          "revenue": 0.02,
+          "capital": 31976.0,
+          "total": 31976.02
+        },
+        "2023": {
+          "budget": {
+            "revenue": 100.0,
+            "capital": 145000.0,
+            "total": 145100.0
+          },
+          "revised": {
+            "revenue": 147.26,
+            "capital": 22460.0,
+            "total": 22607.26
+          }
+        },
+        "2022_actual": {
+          "revenue": 1938.21,
+          "capital": 30503.0,
+          "total": 32441.21
+        }
+      },
+      {
+        "index": "2",
+        "name": "Central Warehousing Corporation",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 651.0,
+          "total": 651.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 380.0,
+            "total": 380.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 530.0,
+            "total": 530.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 421.14,
+          "total": 421.14
+        }
+      }
+    ]
+  },
+  "number": 15
+}

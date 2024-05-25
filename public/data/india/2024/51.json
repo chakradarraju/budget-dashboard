@@ -1,0 +1,1407 @@
+{
+  "name": "MINISTRY OF HOME AFFAIRS",
+  "demand": "DEMAND NO. 51",
+  "department": "Police",
+  "sections": {
+    "allocation": [
+      {
+        "index": "1.",
+        "name": "Central Armed Police Forces"
+      },
+      {
+        "index": "1.01",
+        "name": "Central Reserve Police Force",
+        "2024_budget": {
+          "revenue": 32336.01,
+          "capital": 473.64,
+          "total": 32809.65
+        },
+        "2023": {
+          "budget": {
+            "revenue": 31154.09,
+            "capital": 618.14,
+            "total": 31772.23
+          },
+          "revised": {
+            "revenue": 30594.94,
+            "capital": 794.1,
+            "total": 31389.04
+          }
+        },
+        "2022_actual": {
+          "revenue": 28718.39,
+          "capital": 479.53,
+          "total": 29197.92
+        }
+      },
+      {
+        "index": "1.02",
+        "name": "National Security Guard",
+        "2024_budget": {
+          "revenue": 1202.16,
+          "capital": 71.03,
+          "total": 1273.19
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1216.47,
+            "capital": 70.07,
+            "total": 1286.54
+          },
+          "revised": {
+            "revenue": 1252.21,
+            "capital": 70.72,
+            "total": 1322.93
+          }
+        },
+        "2022_actual": {
+          "revenue": 1107.22,
+          "capital": 44.29,
+          "total": 1151.51
+        }
+      },
+      {
+        "index": "1.03",
+        "name": "Border Security Force",
+        "2024_budget": {
+          "revenue": 24652.51,
+          "capital": 375.01,
+          "total": 25027.52
+        },
+        "2023": {
+          "budget": {
+            "revenue": 24215.51,
+            "capital": 555.77,
+            "total": 24771.28
+          },
+          "revised": {
+            "revenue": 24339.46,
+            "capital": 699.22,
+            "total": 25038.68
+          }
+        },
+        "2022_actual": {
+          "revenue": 22980.93,
+          "capital": 293.01,
+          "total": 23273.94
+        }
+      },
+      {
+        "index": "1.04",
+        "name": "Indo-Tibetan Border Police",
+        "2024_budget": {
+          "revenue": 8111.22,
+          "capital": 142.31,
+          "total": 8253.53
+        },
+        "2023": {
+          "budget": {
+            "revenue": 7922.28,
+            "capital": 174.61,
+            "total": 8096.89
+          },
+          "revised": {
+            "revenue": 8101.37,
+            "capital": 102.31,
+            "total": 8203.68
+          }
+        },
+        "2022_actual": {
+          "revenue": 7637.22,
+          "capital": 99.04,
+          "total": 7736.26
+        }
+      },
+      {
+        "index": "1.05",
+        "name": "Central Industrial Security Force",
+        "2024_budget": {
+          "revenue": 13585.78,
+          "capital": 70.06,
+          "total": 13655.84
+        },
+        "2023": {
+          "budget": {
+            "revenue": 13072.24,
+            "capital": 142.44,
+            "total": 13214.68
+          },
+          "revised": {
+            "revenue": 12817.7,
+            "capital": 112.15,
+            "total": 12929.85
+          }
+        },
+        "2022_actual": {
+          "revenue": 12720.61,
+          "capital": 68.97,
+          "total": 12789.58
+        }
+      },
+      {
+        "index": "1.06",
+        "name": "Assam Rifles",
+        "2024_budget": {
+          "revenue": 7050.08,
+          "capital": 318.25,
+          "total": 7368.33
+        },
+        "2023": {
+          "budget": {
+            "revenue": 6801.27,
+            "capital": 251.19,
+            "total": 7052.46
+          },
+          "revised": {
+            "revenue": 6986.27,
+            "capital": 290.02,
+            "total": 7276.29
+          }
+        },
+        "2022_actual": {
+          "revenue": 6447.5,
+          "capital": 217.59,
+          "total": 6665.09
+        }
+      },
+      {
+        "index": "1.07",
+        "name": "Shashastra Seema Bal",
+        "2024_budget": {
+          "revenue": 8371.46,
+          "capital": 114.31,
+          "total": 8485.77
+        },
+        "2023": {
+          "budget": {
+            "revenue": 8146.98,
+            "capital": 182.12,
+            "total": 8329.1
+          },
+          "revised": {
+            "revenue": 8302.27,
+            "capital": 133.41,
+            "total": 8435.68
+          }
+        },
+        "2022_actual": {
+          "revenue": 7576.9,
+          "capital": 89.84,
+          "total": 7666.74
+        }
+      },
+      {
+        "index": "1.08",
+        "name": "Departmental Accounting",
+        "2024_budget": {
+          "revenue": 129.53,
+          "capital": 0.01,
+          "total": 129.54
+        },
+        "2023": {
+          "budget": {
+            "revenue": 141.85,
+            "capital": 0,
+            "total": 141.85
+          },
+          "revised": {
+            "revenue": 144.79,
+            "capital": 0,
+            "total": 144.79
+          }
+        },
+        "2022_actual": {
+          "revenue": 126.39,
+          "capital": 0,
+          "total": 126.39
+        }
+      },
+      {
+        "index": "2",
+        "name": "Intelligence Bureau",
+        "2024_budget": {
+          "revenue": 3014.09,
+          "capital": 181.0,
+          "total": 3195.09
+        },
+        "2023": {
+          "budget": {
+            "revenue": 3163.26,
+            "capital": 255.06,
+            "total": 3418.32
+          },
+          "revised": {
+            "revenue": 3023.44,
+            "capital": 245.5,
+            "total": 3268.94
+          }
+        },
+        "2022_actual": {
+          "revenue": 2807.42,
+          "capital": 59.48,
+          "total": 2866.9
+        }
+      },
+      {
+        "index": "3",
+        "name": "National Intelligence Grid",
+        "2024_budget": {
+          "revenue": 36.95,
+          "capital": 161.58,
+          "total": 198.53
+        },
+        "2023": {
+          "budget": {
+            "revenue": 40.98,
+            "capital": 159.55,
+            "total": 200.53
+          },
+          "revised": {
+            "revenue": 36.07,
+            "capital": 161.57,
+            "total": 197.64
+          }
+        },
+        "2022_actual": {
+          "revenue": 44.14,
+          "capital": 50.0,
+          "total": 94.14
+        }
+      },
+      {
+        "index": "4",
+        "name": "Special Protection Group",
+        "2024_budget": {
+          "revenue": 430.82,
+          "capital": 75.5,
+          "total": 506.32
+        },
+        "2023": {
+          "budget": {
+            "revenue": 356.59,
+            "capital": 77.0,
+            "total": 433.59
+          },
+          "revised": {
+            "revenue": 390.0,
+            "capital": 56.83,
+            "total": 446.83
+          }
+        },
+        "2022_actual": {
+          "revenue": 339.79,
+          "capital": 60.65,
+          "total": 400.44
+        }
+      },
+      {
+        "index": "5",
+        "name": "Delhi Police",
+        "2024_budget": {
+          "revenue": 10291.28,
+          "capital": 886.22,
+          "total": 11177.5
+        },
+        "2023": {
+          "budget": {
+            "revenue": 10642.11,
+            "capital": 1019.92,
+            "total": 11662.03
+          },
+          "revised": {
+            "revenue": 11047.67,
+            "capital": 892.66,
+            "total": 11940.33
+          }
+        },
+        "2022_actual": {
+          "revenue": 11240.07,
+          "capital": 287.22,
+          "total": 11527.29
+        }
+      },
+      {
+        "index": "6",
+        "name": "Central Police Organisations",
+        "2024_budget": {
+          "revenue": 1095.14,
+          "capital": 132.99,
+          "total": 1228.13
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1049.37,
+            "capital": 97.84,
+            "total": 1147.21
+          },
+          "revised": {
+            "revenue": 1187.06,
+            "capital": 131.0,
+            "total": 1318.06
+          }
+        },
+        "2022_actual": {
+          "revenue": 925.34,
+          "capital": 21.22,
+          "total": 946.56
+        }
+      },
+      {
+        "index": "7",
+        "name": "Education, Training and Research",
+        "2024_budget": {
+          "revenue": 762.71,
+          "capital": 124.85,
+          "total": 887.56
+        },
+        "2023": {
+          "budget": {
+            "revenue": 323.38,
+            "capital": 118.79,
+            "total": 442.17
+          },
+          "revised": {
+            "revenue": 319.1,
+            "capital": 121.7,
+            "total": 440.8
+          }
+        },
+        "2022_actual": {
+          "revenue": 260.31,
+          "capital": 10.2,
+          "total": 270.51
+        }
+      },
+      {
+        "index": "8",
+        "name": "Criminology and Forensic Science",
+        "2024_budget": {
+          "revenue": 71.73,
+          "capital": 13.14,
+          "total": 84.87
+        },
+        "2023": {
+          "budget": {
+            "revenue": 81.22,
+            "capital": 28.25,
+            "total": 109.47
+          },
+          "revised": {
+            "revenue": 75.59,
+            "capital": 12.34,
+            "total": 87.93
+          }
+        },
+        "2022_actual": {
+          "revenue": 65.2,
+          "capital": 2.61,
+          "total": 67.81
+        }
+      },
+      {
+        "index": "9",
+        "name": "IVFRT (Immigration, Visa and Foreigners Registration and Tracking)",
+        "2024_budget": {
+          "revenue": 226.25,
+          "capital": 0,
+          "total": 226.25
+        },
+        "2023": {
+          "budget": {
+            "revenue": 229.25,
+            "capital": 0,
+            "total": 229.25
+          },
+          "revised": {
+            "revenue": 229.25,
+            "capital": 0,
+            "total": 229.25
+          }
+        },
+        "2022_actual": {
+          "revenue": 291.53,
+          "capital": 0,
+          "total": 291.53
+        }
+      },
+      {
+        "index": "10",
+        "name": "BSF Air Wing, Aircrafts, River Boats and Helibase",
+        "2024_budget": {
+          "revenue": 28.83,
+          "capital": 234.75,
+          "total": 263.58
+        },
+        "2023": {
+          "budget": {
+            "revenue": 21.69,
+            "capital": 56.49,
+            "total": 78.18
+          },
+          "revised": {
+            "revenue": 20.06,
+            "capital": 61.92,
+            "total": 81.98
+          }
+        },
+        "2022_actual": {
+          "revenue": 22.52,
+          "capital": 34.15,
+          "total": 56.67
+        }
+      },
+      {
+        "index": "11.",
+        "name": "Border Infrastructure and Management"
+      },
+      {
+        "index": "11.01",
+        "name": "Maintenance and Border Check Post",
+        "2024_budget": {
+          "revenue": 310.0,
+          "capital": 0,
+          "total": 310.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 350.61,
+            "capital": 0,
+            "total": 350.61
+          },
+          "revised": {
+            "revenue": 290.5,
+            "capital": 0,
+            "total": 290.5
+          }
+        },
+        "2022_actual": {
+          "revenue": 258.55,
+          "capital": 0,
+          "total": 258.55
+        }
+      },
+      {
+        "index": "11.02",
+        "name": "Capital Outlay",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 3540.0,
+          "total": 3540.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 3194.42,
+            "total": 3194.42
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 2881.72,
+            "total": 2881.72
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 3157.44,
+          "total": 3157.44
+        }
+      },
+      {
+        "index": "12",
+        "name": "Police Infrastructure 12.01 Building Projects of CAPFs and Central Police Organisations",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 3095.78,
+          "total": 3095.78
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 3366.66,
+            "total": 3366.66
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 2071.15,
+            "total": 2071.15
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 1877.26,
+          "total": 1877.26
+        }
+      },
+      {
+        "index": "12.02",
+        "name": "Delhi Police",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 220.48,
+          "total": 220.48
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 270.0,
+            "total": 270.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 188.5,
+            "total": 188.5
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 258.8,
+          "total": 258.8
+        }
+      },
+      {
+        "index": "13.",
+        "name": "Schemes for Safety of Women"
+      },
+      {
+        "index": "13.01",
+        "name": "Nirbhaya Fund Transfer",
+        "2024_budget": {
+          "revenue": 50.0,
+          "capital": 0,
+          "total": 50.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 100.0,
+            "capital": 0,
+            "total": 100.0
+          },
+          "revised": {
+            "revenue": 100.0,
+            "capital": 0,
+            "total": 100.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 100.0,
+          "capital": 0,
+          "total": 100.0
+        }
+      },
+      {
+        "index": "13.02",
+        "name": "Cyber Crime Prevention against Women and Children and Miscellaneous Schemes",
+        "2024_budget": {
+          "revenue": 42.85,
+          "capital": 10.0,
+          "total": 52.85
+        },
+        "2023": {
+          "budget": {
+            "revenue": 85.78,
+            "capital": 35.0,
+            "total": 120.78
+          },
+          "revised": {
+            "revenue": 54.13,
+            "capital": 70.23,
+            "total": 124.36
+          }
+        },
+        "2022_actual": {
+          "revenue": 61.31,
+          "capital": 0.46,
+          "total": 61.77
+        }
+      },
+      {
+        "index": "13.03",
+        "name": "Met from Nirbhaya Fund",
+        "2024_budget": {
+          "revenue": -42.85,
+          "capital": -10.0,
+          "total": -52.85
+        },
+        "2023": {
+          "budget": {
+            "revenue": -85.78,
+            "capital": -35.0,
+            "total": -120.78
+          },
+          "revised": {
+            "revenue": -54.13,
+            "capital": -70.23,
+            "total": -124.36
+          }
+        },
+        "2022_actual": {
+          "revenue": -61.31,
+          "capital": -0.46,
+          "total": -61.77
+        }
+      },
+      {
+        "index": "13.04",
+        "name": "Emergency Response Support System",
+        "2024_budget": {
+          "revenue": 150.0,
+          "capital": 0,
+          "total": 150.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 221.0,
+            "capital": 0,
+            "total": 221.0
+          },
+          "revised": {
+            "revenue": 205.07,
+            "capital": 0,
+            "total": 205.07
+          }
+        },
+        "2022_actual": {
+          "revenue": 18.9,
+          "capital": 0,
+          "total": 18.9
+        }
+      },
+      {
+        "index": "13.05",
+        "name": "Upgradation of Central Forensic Science Laboratories, including setting up of National Forensic Data Centre",
+        "2024_budget": {
+          "revenue": 5.0,
+          "capital": 50.0,
+          "total": 55.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0.36,
+            "capital": 2.34,
+            "total": 2.7
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "13.06",
+        "name": "Modernisation of Forensic Capacitites",
+        "2024_budget": {
+          "revenue": 700.0,
+          "capital": 0,
+          "total": 700.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 700.0,
+            "capital": 0,
+            "total": 700.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "14",
+        "name": "Indian Cyber Crime Coordination Centre",
+        "2024_budget": {
+          "revenue": 94.4,
+          "capital": 56.55,
+          "total": 150.95
+        },
+        "2023": {
+          "budget": {
+            "revenue": 94.4,
+            "capital": 0,
+            "total": 94.4
+          },
+          "revised": {
+            "revenue": 39.55,
+            "capital": 47.39,
+            "total": 86.94
+          }
+        },
+        "2022_actual": {
+          "revenue": 18.8,
+          "capital": 0,
+          "total": 18.8
+        }
+      },
+      {
+        "index": "15",
+        "name": "Modernization Plan IV for Central Armed Police Forces",
+        "2024_budget": {
+          "revenue": 31.72,
+          "capital": 168.91,
+          "total": 200.63
+        },
+        "2023": {
+          "budget": {
+            "revenue": 31.72,
+            "capital": 170.55,
+            "total": 202.27
+          },
+          "revised": {
+            "revenue": 23.14,
+            "capital": 109.48,
+            "total": 132.62
+          }
+        },
+        "2022_actual": {
+          "revenue": 1.48,
+          "capital": 76.19,
+          "total": 77.67
+        }
+      },
+      {
+        "index": "16",
+        "name": "Inter Operable Criminal Justice System",
+        "2024_budget": {
+          "revenue": 250.0,
+          "capital": 0,
+          "total": 250.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 590.6,
+            "capital": 0,
+            "total": 590.6
+          },
+          "revised": {
+            "revenue": 300.0,
+            "capital": 0,
+            "total": 300.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 75.96,
+          "capital": 0,
+          "total": 75.96
+        }
+      },
+      {
+        "index": "17",
+        "name": "Modernization of Prisons",
+        "2024_budget": {
+          "revenue": 300.0,
+          "capital": 0,
+          "total": 300.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 250.0,
+            "capital": 0,
+            "total": 250.0
+          },
+          "revised": {
+            "revenue": 200.0,
+            "capital": 0,
+            "total": 200.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 100.0,
+          "capital": 0,
+          "total": 100.0
+        }
+      },
+      {
+        "index": "18",
+        "name": "Support to poor prisoners",
+        "2024_budget": {
+          "revenue": 20.0,
+          "capital": 0,
+          "total": 20.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 20.0,
+            "capital": 0,
+            "total": 20.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "19",
+        "name": "Land Port Authority of India",
+        "2024_budget": {
+          "revenue": 330.0,
+          "capital": 0,
+          "total": 330.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 330.0,
+            "capital": 0,
+            "total": 330.0
+          },
+          "revised": {
+            "revenue": 374.5,
+            "capital": 0,
+            "total": 374.5
+          }
+        },
+        "2022_actual": {
+          "revenue": 358.45,
+          "capital": 0,
+          "total": 358.45
+        }
+      },
+      {
+        "index": "20",
+        "name": "National Forensic Science University",
+        "2024_budget": {
+          "revenue": 80.0,
+          "capital": 0,
+          "total": 80.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 80.0,
+            "capital": 0,
+            "total": 80.0
+          },
+          "revised": {
+            "revenue": 80.0,
+            "capital": 0,
+            "total": 80.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 70.0,
+          "capital": 0,
+          "total": 70.0
+        }
+      },
+      {
+        "index": "21",
+        "name": "Rashtriya Raksha University",
+        "2024_budget": {
+          "revenue": 90.0,
+          "capital": 0,
+          "total": 90.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 80.0,
+            "capital": 0,
+            "total": 80.0
+          },
+          "revised": {
+            "revenue": 110.0,
+            "capital": 0,
+            "total": 110.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 80.0,
+          "capital": 0,
+          "total": 80.0
+        }
+      },
+      {
+        "index": "22",
+        "name": "India Reserve Battalions and Reimbursement to",
+        "2024_budget": {
+          "revenue": 125.3,
+          "capital": 1.0,
+          "total": 126.3
+        },
+        "2023": {
+          "budget": {
+            "revenue": 35.0,
+            "capital": 1.0,
+            "total": 36.0
+          },
+          "revised": {
+            "revenue": 41.19,
+            "capital": 0,
+            "total": 41.19
+          }
+        },
+        "2022_actual": {
+          "revenue": 15.71,
+          "capital": 0,
+          "total": 15.71
+        }
+      },
+      {
+        "index": "23",
+        "name": "Welfare Grant and Misc.",
+        "2024_budget": {
+          "revenue": 800.0,
+          "capital": 0,
+          "total": 800.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 80.0,
+            "capital": 0,
+            "total": 80.0
+          },
+          "revised": {
+            "revenue": 950.29,
+            "capital": 0,
+            "total": 950.29
+          }
+        },
+        "2022_actual": {
+          "revenue": 81.9,
+          "capital": 0,
+          "total": 81.9
+        }
+      },
+      {
+        "index": "24",
+        "name": "Research",
+        "2024_budget": {
+          "revenue": 750.0,
+          "capital": 1250.0,
+          "total": 2000.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 775.0,
+            "capital": 1000.0,
+            "total": 1775.0
+          },
+          "revised": {
+            "revenue": 700.0,
+            "capital": 859.0,
+            "total": 1559.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 629.17,
+          "capital": 1028.46,
+          "total": 1657.63
+        }
+      },
+      {
+        "index": "25",
+        "name": "Modernisation of Police Forces 25.01 Modernisation of State Police Forces and Crime and Criminal Tracking Network and Systems(CCTNS)",
+        "2024_budget": {
+          "revenue": 520.51,
+          "capital": 0,
+          "total": 520.51
+        },
+        "2023": {
+          "budget": {
+            "revenue": 264.12,
+            "capital": 0,
+            "total": 264.12
+          },
+          "revised": {
+            "revenue": 221.16,
+            "capital": 0,
+            "total": 221.16
+          }
+        },
+        "2022_actual": {
+          "revenue": 34.72,
+          "capital": 0,
+          "total": 34.72
+        }
+      },
+      {
+        "index": "25.02",
+        "name": "Security Related Expenditure(SRE) and Special Infrastructure Scheme for Left Wing Extremist (LWE) Areas",
+        "2024_budget": {
+          "revenue": 3199.62,
+          "capital": 0,
+          "total": 3199.62
+        },
+        "2023": {
+          "budget": {
+            "revenue": 2780.88,
+            "capital": 0,
+            "total": 2780.88
+          },
+          "revised": {
+            "revenue": 2616.24,
+            "capital": 0,
+            "total": 2616.24
+          }
+        },
+        "2022_actual": {
+          "revenue": 2671.7,
+          "capital": 0,
+          "total": 2671.7
+        }
+      },
+      {
+        "index": "25.03",
+        "name": "Narcotics Control Bureau",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 5.0,
+            "capital": 0,
+            "total": 5.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 2.36,
+          "capital": 0,
+          "total": 2.36
+        }
+      },
+      {
+        "index": "25.04",
+        "name": "Modernization of Forensic Capacities",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 700.0,
+            "capital": 0,
+            "total": 700.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 187.5,
+          "capital": 0,
+          "total": 187.5
+        }
+      },
+      {
+        "index": "26",
+        "name": "Border Area Development Program",
+        "2024_budget": {
+          "revenue": 335.0,
+          "capital": 0,
+          "total": 335.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 600.0,
+            "capital": 0,
+            "total": 600.0
+          },
+          "revised": {
+            "revenue": 251.54,
+            "capital": 0,
+            "total": 251.54
+          }
+        },
+        "2022_actual": {
+          "revenue": 130.28,
+          "capital": 0,
+          "total": 130.28
+        }
+      },
+      {
+        "index": "27.",
+        "name": "Scheme for Safety of Women ( Safe City projects)"
+      },
+      {
+        "index": "27.01",
+        "name": "Safe City Projects",
+        "2024_budget": {
+          "revenue": 214.44,
+          "capital": 0,
+          "total": 214.44
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1100.0,
+            "capital": 0,
+            "total": 1100.0
+          },
+          "revised": {
+            "revenue": 516.52,
+            "capital": 0,
+            "total": 516.52
+          }
+        },
+        "2022_actual": {
+          "revenue": 85.0,
+          "capital": 0,
+          "total": 85.0
+        }
+      },
+      {
+        "index": "27.02",
+        "name": "Met From Nirbhaya Fund",
+        "2024_budget": {
+          "revenue": -214.44,
+          "capital": 0,
+          "total": -214.44
+        },
+        "2023": {
+          "budget": {
+            "revenue": -1100.0,
+            "capital": 0,
+            "total": -1100.0
+          },
+          "revised": {
+            "revenue": -516.52,
+            "capital": 0,
+            "total": -516.52
+          }
+        },
+        "2022_actual": {
+          "revenue": -12.71,
+          "capital": 0,
+          "total": -12.71
+        }
+      },
+      {
+        "index": "28",
+        "name": "Vibrant Villages Programme",
+        "2024_budget": {
+          "revenue": 1050.0,
+          "capital": 0,
+          "total": 1050.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 300.0,
+            "capital": 0,
+            "total": 300.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "29",
+        "name": "Actual Recovery",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": -218.14,
+          "capital": -9.94,
+          "total": -228.08
+        }
+      }
+    ],
+    "development_heads": [
+      {
+        "index": "1",
+        "name": "Police",
+        "2024_budget": {
+          "revenue": 115620.9,
+          "capital": 0,
+          "total": 115620.9
+        },
+        "2023": {
+          "budget": {
+            "revenue": 112455.65,
+            "capital": 0,
+            "total": 112455.65
+          },
+          "revised": {
+            "revenue": 113183.27,
+            "capital": 0,
+            "total": 113183.27
+          }
+        },
+        "2022_actual": {
+          "revenue": 104673.41,
+          "capital": 0,
+          "total": 104673.41
+        }
+      },
+      {
+        "index": "2",
+        "name": "Capital Outlay on Police",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 11243.53,
+          "total": 11243.53
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 11296.03,
+            "total": 11296.03
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 9985.03,
+            "total": 9985.03
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 8206.01,
+          "total": 8206.01
+        }
+      },
+      {
+        "index": "3",
+        "name": "Grants -in-aid to State Governments",
+        "2024_budget": {
+          "revenue": 3805.88,
+          "capital": 0,
+          "total": 3805.88
+        },
+        "2023": {
+          "budget": {
+            "revenue": 2538.24,
+            "capital": 0,
+            "total": 2538.24
+          },
+          "revised": {
+            "revenue": 2262.33,
+            "capital": 0,
+            "total": 2262.33
+          }
+        },
+        "2022_actual": {
+          "revenue": 1242.14,
+          "capital": 0,
+          "total": 1242.14
+        }
+      },
+      {
+        "index": "4",
+        "name": "Grants -in-aid to Union Territory Governments",
+        "2024_budget": {
+          "revenue": 1161.32,
+          "capital": 0,
+          "total": 1161.32
+        },
+        "2023": {
+          "budget": {
+            "revenue": 952.98,
+            "capital": 0,
+            "total": 952.98
+          },
+          "revised": {
+            "revenue": 945.19,
+            "capital": 0,
+            "total": 945.19
+          }
+        },
+        "2022_actual": {
+          "revenue": 1518.56,
+          "capital": 0,
+          "total": 1518.56
+        }
+      },
+      {
+        "index": "5",
+        "name": "Capital Outlay on North Eastern Areas",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 512.84,
+          "total": 512.84
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 512.84,
+            "total": 512.84
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 60.0,
+            "total": 60.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "6",
+        "name": "Loans and Advances to State Governments",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 1.0,
+          "total": 1.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 1.0,
+            "total": 1.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      }
+    ],
+    "public_enterprises": []
+  },
+  "number": 51
+}

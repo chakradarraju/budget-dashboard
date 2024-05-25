@@ -1,0 +1,482 @@
+{
+  "name": "DEPARMENT OF SPACE",
+  "demand": "DEMAND NO. 95",
+  "department": "Department of Space",
+  "sections": {
+    "allocation": [
+      {
+        "index": "1",
+        "name": "Secretariat",
+        "2024_budget": {
+          "revenue": 161.49,
+          "capital": 0,
+          "total": 161.49
+        },
+        "2023": {
+          "budget": {
+            "revenue": 154.0,
+            "capital": 0,
+            "total": 154.0
+          },
+          "revised": {
+            "revenue": 155.99,
+            "capital": 0,
+            "total": 155.99
+          }
+        },
+        "2022_actual": {
+          "revenue": 113.43,
+          "capital": 0,
+          "total": 113.43
+        }
+      },
+      {
+        "index": "2",
+        "name": "Indian Space Research Organisation (ISRO) Head Quarters",
+        "2024_budget": {
+          "revenue": 210.14,
+          "capital": 10.93,
+          "total": 221.07
+        },
+        "2023": {
+          "budget": {
+            "revenue": 186.46,
+            "capital": 15.45,
+            "total": 201.91
+          },
+          "revised": {
+            "revenue": 221.11,
+            "capital": 16.33,
+            "total": 237.44
+          }
+        },
+        "2022_actual": {
+          "revenue": 184.81,
+          "capital": 5.59,
+          "total": 190.4
+        }
+      },
+      {
+        "index": "3",
+        "name": "Indian National Space Promotion and Authorization Centre (IN -SPACe)",
+        "2024_budget": {
+          "revenue": 52.13,
+          "capital": 43.87,
+          "total": 96.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 42.0,
+            "capital": 53.0,
+            "total": 95.0
+          },
+          "revised": {
+            "revenue": 25.59,
+            "capital": 34.76,
+            "total": 60.35
+          }
+        },
+        "2022_actual": {
+          "revenue": 11.09,
+          "capital": 9.82,
+          "total": 20.91
+        }
+      },
+      {
+        "index": "4",
+        "name": "Space Technology",
+        "2024_budget": {
+          "revenue": 5104.5,
+          "capital": 4983.02,
+          "total": 10087.52
+        },
+        "2023": {
+          "budget": {
+            "revenue": 4034.01,
+            "capital": 5406.65,
+            "total": 9440.66
+          },
+          "revised": {
+            "revenue": 4283.08,
+            "capital": 3896.93,
+            "total": 8180.01
+          }
+        },
+        "2022_actual": {
+          "revenue": 3847.89,
+          "capital": 3798.82,
+          "total": 7646.71
+        }
+      },
+      {
+        "index": "5",
+        "name": "Space Applications",
+        "2024_budget": {
+          "revenue": 1265.31,
+          "capital": 346.4,
+          "total": 1611.71
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1084.55,
+            "capital": 474.4,
+            "total": 1558.95
+          },
+          "revised": {
+            "revenue": 1258.95,
+            "capital": 267.34,
+            "total": 1526.29
+          }
+        },
+        "2022_actual": {
+          "revenue": 1035.38,
+          "capital": 233.18,
+          "total": 1268.56
+        }
+      },
+      {
+        "index": "6",
+        "name": "Space Sciences",
+        "2024_budget": {
+          "revenue": 96.01,
+          "capital": 37.56,
+          "total": 133.57
+        },
+        "2023": {
+          "budget": {
+            "revenue": 92.49,
+            "capital": 46.31,
+            "total": 138.8
+          },
+          "revised": {
+            "revenue": 104.98,
+            "capital": 34.89,
+            "total": 139.87
+          }
+        },
+        "2022_actual": {
+          "revenue": 65.76,
+          "capital": 48.37,
+          "total": 114.13
+        }
+      },
+      {
+        "index": "7",
+        "name": "INSAT Satellite Systems",
+        "2024_budget": {
+          "revenue": 131.25,
+          "capital": 144.75,
+          "total": 276.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 171.0,
+            "capital": 360.0,
+            "total": 531.0
+          },
+          "revised": {
+            "revenue": 147.08,
+            "capital": 185.65,
+            "total": 332.73
+          }
+        },
+        "2022_actual": {
+          "revenue": 250.52,
+          "capital": 163.66,
+          "total": 414.18
+        }
+      },
+      {
+        "index": "8",
+        "name": "Indian Institute of Space Science and Technology (IIST)",
+        "2024_budget": {
+          "revenue": 129.5,
+          "capital": 0,
+          "total": 129.5
+        },
+        "2023": {
+          "budget": {
+            "revenue": 122.0,
+            "capital": 0,
+            "total": 122.0
+          },
+          "revised": {
+            "revenue": 125.25,
+            "capital": 0,
+            "total": 125.25
+          }
+        },
+        "2022_actual": {
+          "revenue": 72.77,
+          "capital": 0,
+          "total": 72.77
+        }
+      },
+      {
+        "index": "9",
+        "name": "Semi Conductor Laboratory (SCL) 80.00 ... 80.00 ... ... ... ... ... ... ... ... ... 10. North Eastern Space Applications Centre (NE -SAC)",
+        "2024_budget": {
+          "revenue": 51.49,
+          "capital": 0,
+          "total": 51.49
+        },
+        "2023": {
+          "budget": {
+            "revenue": 44.0,
+            "capital": 0,
+            "total": 44.0
+          },
+          "revised": {
+            "revenue": 41.7,
+            "capital": 0,
+            "total": 41.7
+          }
+        },
+        "2022_actual": {
+          "revenue": 24.27,
+          "capital": 0,
+          "total": 24.27
+        }
+      },
+      {
+        "index": "11",
+        "name": "National Atmospheric Research Laboratory (NARL)",
+        "2024_budget": {
+          "revenue": 52.0,
+          "capital": 0,
+          "total": 52.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 44.69,
+            "capital": 0,
+            "total": 44.69
+          },
+          "revised": {
+            "revenue": 47.04,
+            "capital": 0,
+            "total": 47.04
+          }
+        },
+        "2022_actual": {
+          "revenue": 33.92,
+          "capital": 0,
+          "total": 33.92
+        }
+      },
+      {
+        "index": "12",
+        "name": "Physical Research Laboratory (PRL)",
+        "2024_budget": {
+          "revenue": 217.0,
+          "capital": 0,
+          "total": 217.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 198.0,
+            "capital": 0,
+            "total": 198.0
+          },
+          "revised": {
+            "revenue": 208.0,
+            "capital": 0,
+            "total": 208.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 177.5,
+          "capital": 0,
+          "total": 177.5
+        }
+      },
+      {
+        "index": "13",
+        "name": "NewSpace India Limited (NSIL)",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 1.0,
+          "total": 1.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 1.0,
+            "total": 1.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "14",
+        "name": "International Co -operation",
+        "2024_budget": {
+          "revenue": 4.4,
+          "capital": 0,
+          "total": 4.4
+        },
+        "2023": {
+          "budget": {
+            "revenue": 13.9,
+            "capital": 0,
+            "total": 13.9
+          },
+          "revised": {
+            "revenue": 15.4,
+            "capital": 0,
+            "total": 15.4
+          }
+        },
+        "2022_actual": {
+          "revenue": 1.7,
+          "capital": 0,
+          "total": 1.7
+        }
+      },
+      {
+        "index": "15",
+        "name": "Actual Recoveries",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": -13.04,
+          "capital": -6.01,
+          "total": -19.05
+        }
+      }
+    ],
+    "development_heads": [
+      {
+        "index": "1",
+        "name": "Space Research",
+        "2024_budget": {
+          "revenue": 7313.73,
+          "capital": 0,
+          "total": 7313.73
+        },
+        "2023": {
+          "budget": {
+            "revenue": 6033.1,
+            "capital": 0,
+            "total": 6033.1
+          },
+          "revised": {
+            "revenue": 6478.18,
+            "capital": 0,
+            "total": 6478.18
+          }
+        },
+        "2022_actual": {
+          "revenue": 5772.57,
+          "capital": 0,
+          "total": 5772.57
+        }
+      },
+      {
+        "index": "2",
+        "name": "Secretariat -Economic Services",
+        "2024_budget": {
+          "revenue": 161.49,
+          "capital": 0,
+          "total": 161.49
+        },
+        "2023": {
+          "budget": {
+            "revenue": 154.0,
+            "capital": 0,
+            "total": 154.0
+          },
+          "revised": {
+            "revenue": 155.99,
+            "capital": 0,
+            "total": 155.99
+          }
+        },
+        "2022_actual": {
+          "revenue": 113.43,
+          "capital": 0,
+          "total": 113.43
+        }
+      },
+      {
+        "index": "3",
+        "name": "Capital Outlay on Space Research",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 5567.53,
+          "total": 5567.53
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 6356.81,
+            "total": 6356.81
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 4435.9,
+            "total": 4435.9
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 4253.43,
+          "total": 4253.43
+        }
+      }
+    ],
+    "public_enterprises": [
+      {
+        "index": "1",
+        "name": "NewSpace India LImited",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1.0,
+            "capital": 0,
+            "total": 1.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      }
+    ]
+  },
+  "number": 95
+}

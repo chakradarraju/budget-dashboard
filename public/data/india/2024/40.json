@@ -1,0 +1,428 @@
+{
+  "name": "No. 40 (APPROPRIATION)/Repayment of Debt MINISTRY OF FINANCE",
+  "demand": "No. 40 (APPROPRIATION)",
+  "department": "Repayment of Debt",
+  "sections": {
+    "allocation": [
+      {
+        "index": "1.Internal",
+        "name": "Debt of Central Government 1.01 Market Loans",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 361422.24,
+          "total": 361422.24
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 440192.78,
+            "total": 440192.78
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 440647.65,
+            "total": 440647.65
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 312740.47,
+          "total": 312740.47
+        }
+      },
+      {
+        "index": "1.02",
+        "name": "Buyback / Switching",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 100000.0,
+          "total": 100000.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 100000.0,
+            "total": 100000.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 100000.0,
+            "total": 100000.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 105489.62,
+          "total": 105489.62
+        }
+      },
+      {
+        "index": "1.03",
+        "name": "14 days Treasury Bills",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 5622781.2,
+          "total": 5622781.2
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 5834338.47,
+            "total": 5834338.47
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 4932264.21,
+            "total": 4932264.21
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 4871057.36,
+          "total": 4871057.36
+        }
+      },
+      {
+        "index": "1.04",
+        "name": "91 days Treasury Bills",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 566234.2,
+          "total": 566234.2
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 711661.48,
+            "total": 711661.48
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 624263.82,
+            "total": 624263.82
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 739748.84,
+          "total": 739748.84
+        }
+      },
+      {
+        "index": "1.05",
+        "name": "182 days Treasury Bills",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 552335.03,
+          "total": 552335.03
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 562557.95,
+            "total": 562557.95
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 555209.29,
+            "total": 555209.29
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 496815.33,
+          "total": 496815.33
+        }
+      },
+      {
+        "index": "1.06",
+        "name": "364 days Treasury Bills",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 461149.79,
+          "total": 461149.79
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 443989.75,
+            "total": 443989.75
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 445283.5,
+            "total": 445283.5
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 407796.43,
+          "total": 407796.43
+        }
+      },
+      {
+        "index": "1.07",
+        "name": "Cash Management Bills",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 100000.0,
+          "total": 100000.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 100000.0,
+            "total": 100000.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "1.08",
+        "name": "Ways and Means Advances",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 500000.0,
+          "total": 500000.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 500000.0,
+            "total": 500000.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 199313.0,
+            "total": 199313.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 57596.0,
+          "total": 57596.0
+        }
+      },
+      {
+        "index": "1.09",
+        "name": "Redemption of securities issued to International Financial",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 7815.94,
+          "total": 7815.94
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 7855.09,
+            "total": 7855.09
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 7774.92,
+            "total": 7774.92
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 5616.44,
+          "total": 5616.44
+        }
+      },
+      {
+        "index": "1.10",
+        "name": "Compensation and Other Bonds",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 4459.56,
+          "total": 4459.56
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 23563.49,
+            "total": 23563.49
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 20210.22,
+            "total": 20210.22
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 14916.18,
+          "total": 14916.18
+        }
+      },
+      {
+        "index": "1.11",
+        "name": "Redemption of Securities issued to NSSF",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 342515.96,
+          "total": 342515.96
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 176950.7,
+            "total": 176950.7
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 232737.58,
+            "total": 232737.58
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 137679.96,
+          "total": 137679.96
+        }
+      },
+      {
+        "index": "1.12",
+        "name": "Postal Life Insurance Fund ... 9893.68 9893.68 ... ... ... ... ... ... ... ... ... 1.13 Gold Monetization Scheme",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 97.0,
+          "total": 97.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 187.0,
+            "total": 187.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 87.37,
+            "total": 87.37
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 19.9,
+          "total": 19.9
+        }
+      },
+      {
+        "index": "1.14",
+        "name": "Sovereign Gold Bond Scheme",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 3500.0,
+          "total": 3500.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 1500.0,
+            "total": 1500.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 1500.0,
+            "total": 1500.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 402.22,
+          "total": 402.22
+        }
+      },
+      {
+        "index": "1.15",
+        "name": "Less Receipts",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": -8498706.92,
+          "total": -8498706.92
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": -8824692.71,
+            "total": -8824692.71
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": -7481187.56,
+            "total": -7481187.56
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": -7159772.43,
+          "total": -7159772.43
+        }
+      },
+      {
+        "index": "2.01",
+        "name": "Gross Budgetary Support",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 55910.4,
+          "total": 55910.4
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 45656.0,
+            "total": 45656.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 47873.2,
+            "total": 47873.2
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 39928.7,
+          "total": 39928.7
+        }
+      },
+      {
+        "index": "2.02",
+        "name": "Less Receipts",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": -55910.4,
+          "total": -55910.4
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": -45656.0,
+            "total": -45656.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": -47873.2,
+            "total": -47873.2
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": -39928.7,
+          "total": -39928.7
+        }
+      }
+    ],
+    "development_heads": [],
+    "public_enterprises": []
+  },
+  "number": 40
+}

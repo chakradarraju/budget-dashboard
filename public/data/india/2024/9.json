@@ -1,0 +1,408 @@
+{
+  "name": "MINISTRY OF COAL",
+  "demand": "DEMAND NO. 9",
+  "department": "Ministry of Coal",
+  "sections": {
+    "allocation": [
+      {
+        "index": "1",
+        "name": "Secretariat",
+        "2024_budget": {
+          "revenue": 40.08,
+          "capital": 1.49,
+          "total": 41.57
+        },
+        "2023": {
+          "budget": {
+            "revenue": 39.24,
+            "capital": 1.39,
+            "total": 40.63
+          },
+          "revised": {
+            "revenue": 36.56,
+            "capital": 1.44,
+            "total": 38.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 31.57,
+          "capital": 0,
+          "total": 31.57
+        }
+      },
+      {
+        "index": "2",
+        "name": "Statutory Bodies, Attached and Sub -ordinate Offices",
+        "2024_budget": {
+          "revenue": 26.66,
+          "capital": 0.71,
+          "total": 27.37
+        },
+        "2023": {
+          "budget": {
+            "revenue": 27.39,
+            "capital": 0.16,
+            "total": 27.55
+          },
+          "revised": {
+            "revenue": 29.77,
+            "capital": 0.11,
+            "total": 29.88
+          }
+        },
+        "2022_actual": {
+          "revenue": 15.74,
+          "capital": 0,
+          "total": 15.74
+        }
+      },
+      {
+        "index": "3",
+        "name": "Research and Development",
+        "2024_budget": {
+          "revenue": 21.0,
+          "capital": 0,
+          "total": 21.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 21.0,
+            "capital": 0,
+            "total": 21.0
+          },
+          "revised": {
+            "revenue": 18.0,
+            "capital": 0,
+            "total": 18.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 6.94,
+          "capital": 0,
+          "total": 6.94
+        }
+      },
+      {
+        "index": "4",
+        "name": "Conservation, Safety and Infrastructure Development in Coal Mines",
+        "2024_budget": {
+          "revenue": 92.5,
+          "capital": 0,
+          "total": 92.5
+        },
+        "2023": {
+          "budget": {
+            "revenue": 92.5,
+            "capital": 0,
+            "total": 92.5
+          },
+          "revised": {
+            "revenue": 92.5,
+            "capital": 0,
+            "total": 92.5
+          }
+        },
+        "2022_actual": {
+          "revenue": 48.64,
+          "capital": 0,
+          "total": 48.64
+        }
+      },
+      {
+        "index": "5.",
+        "name": "Exploration of Coal and Lignite"
+      },
+      {
+        "index": "5.01",
+        "name": "Programme Component",
+        "2024_budget": {
+          "revenue": 730.0,
+          "capital": 0,
+          "total": 730.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 450.0,
+            "capital": 0,
+            "total": 450.0
+          },
+          "revised": {
+            "revenue": 430.0,
+            "capital": 0,
+            "total": 430.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 393.6,
+          "capital": 0,
+          "total": 393.6
+        }
+      },
+      {
+        "index": "5.02",
+        "name": "Amount met from National Mineral Exploration Trust (NMET) Fund",
+        "2024_budget": {
+          "revenue": -730.0,
+          "capital": 0,
+          "total": -730.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": -450.0,
+            "capital": 0,
+            "total": -450.0
+          },
+          "revised": {
+            "revenue": -430.0,
+            "capital": 0,
+            "total": -430.0
+          }
+        },
+        "2022_actual": {
+          "revenue": -393.6,
+          "capital": 0,
+          "total": -393.6
+        }
+      },
+      {
+        "index": "6",
+        "name": "Coal Mines Pension Scheme",
+        "2024_budget": {
+          "revenue": 10.11,
+          "capital": 0,
+          "total": 10.11
+        },
+        "2023": {
+          "budget": {
+            "revenue": 10.64,
+            "capital": 0,
+            "total": 10.64
+          },
+          "revised": {
+            "revenue": 10.66,
+            "capital": 0,
+            "total": 10.66
+          }
+        },
+        "2022_actual": {
+          "revenue": 0.57,
+          "capital": 0,
+          "total": 0.57
+        }
+      }
+    ],
+    "development_heads": [
+      {
+        "index": "1",
+        "name": "Labour, Employment and Skill Development",
+        "2024_budget": {
+          "revenue": 10.11,
+          "capital": 0,
+          "total": 10.11
+        },
+        "2023": {
+          "budget": {
+            "revenue": 10.64,
+            "capital": 0,
+            "total": 10.64
+          },
+          "revised": {
+            "revenue": 10.66,
+            "capital": 0,
+            "total": 10.66
+          }
+        },
+        "2022_actual": {
+          "revenue": 0.57,
+          "capital": 0,
+          "total": 0.57
+        }
+      },
+      {
+        "index": "2",
+        "name": "Coal and Lignite",
+        "2024_budget": {
+          "revenue": 128.81,
+          "capital": 0,
+          "total": 128.81
+        },
+        "2023": {
+          "budget": {
+            "revenue": 129.54,
+            "capital": 0,
+            "total": 129.54
+          },
+          "revised": {
+            "revenue": 129.22,
+            "capital": 0,
+            "total": 129.22
+          }
+        },
+        "2022_actual": {
+          "revenue": 71.32,
+          "capital": 0,
+          "total": 71.32
+        }
+      },
+      {
+        "index": "3",
+        "name": "Secretariat -Economic Services",
+        "2024_budget": {
+          "revenue": 40.08,
+          "capital": 0,
+          "total": 40.08
+        },
+        "2023": {
+          "budget": {
+            "revenue": 39.24,
+            "capital": 0,
+            "total": 39.24
+          },
+          "revised": {
+            "revenue": 36.56,
+            "capital": 0,
+            "total": 36.56
+          }
+        },
+        "2022_actual": {
+          "revenue": 31.57,
+          "capital": 0,
+          "total": 31.57
+        }
+      },
+      {
+        "index": "4",
+        "name": "Capital Outlay on Other General Economic Services",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 2.2,
+          "total": 2.2
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 1.55,
+            "total": 1.55
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 1.55,
+            "total": 1.55
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "5",
+        "name": "North Eastern Areas",
+        "2024_budget": {
+          "revenue": 11.35,
+          "capital": 0,
+          "total": 11.35
+        },
+        "2023": {
+          "budget": {
+            "revenue": 11.35,
+            "capital": 0,
+            "total": 11.35
+          },
+          "revised": {
+            "revenue": 11.05,
+            "capital": 0,
+            "total": 11.05
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      }
+    ],
+    "public_enterprises": [
+      {
+        "index": "1",
+        "name": "NLC India Limited",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 2429.0,
+          "total": 2429.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 2880.01,
+            "total": 2880.01
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 2880.01,
+            "total": 2880.01
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 3307.78,
+          "total": 3307.78
+        }
+      },
+      {
+        "index": "2",
+        "name": "Coal India Limited",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 15500.0,
+          "total": 15500.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 16500.0,
+            "total": 16500.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 16500.0,
+            "total": 16500.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 18619.27,
+          "total": 18619.27
+        }
+      },
+      {
+        "index": "3",
+        "name": "SCCL",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 1600.0,
+          "total": 1600.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 1650.0,
+            "total": 1650.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 1650.0,
+            "total": 1650.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 1473.17,
+          "total": 1473.17
+        }
+      }
+    ]
+  },
+  "number": 9
+}

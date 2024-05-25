@@ -1,0 +1,1505 @@
+{
+  "name": "MINISTRY OF ENVIRONMENT, FORESTS AND CLIMATE CHANGE",
+  "demand": "DEMAND NO. 28",
+  "department": "Ministry of Environment, Forests and Climate Change",
+  "sections": {
+    "allocation": [
+      {
+        "index": "1",
+        "name": "Secretariat",
+        "2024_budget": {
+          "revenue": 305.87,
+          "capital": 8.92,
+          "total": 314.79
+        },
+        "2023": {
+          "budget": {
+            "revenue": 353.33,
+            "capital": 2.11,
+            "total": 355.44
+          },
+          "revised": {
+            "revenue": 296.28,
+            "capital": 6.86,
+            "total": 303.14
+          }
+        },
+        "2022_actual": {
+          "revenue": 172.98,
+          "capital": 0,
+          "total": 172.98
+        }
+      },
+      {
+        "index": "2.",
+        "name": "Attached/Subordinate Offices"
+      },
+      {
+        "index": "2.01",
+        "name": "Regional Offices",
+        "2024_budget": {
+          "revenue": 56.0,
+          "capital": 5.0,
+          "total": 61.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 44.0,
+            "capital": 3.0,
+            "total": 47.0
+          },
+          "revised": {
+            "revenue": 53.3,
+            "capital": 3.0,
+            "total": 56.3
+          }
+        },
+        "2022_actual": {
+          "revenue": 44.91,
+          "capital": 1.5,
+          "total": 46.41
+        }
+      },
+      {
+        "index": "2.02",
+        "name": "National Afforestation and Eco -Development Board",
+        "2024_budget": {
+          "revenue": 7.5,
+          "capital": 0,
+          "total": 7.5
+        },
+        "2023": {
+          "budget": {
+            "revenue": 7.5,
+            "capital": 0,
+            "total": 7.5
+          },
+          "revised": {
+            "revenue": 6.13,
+            "capital": 0,
+            "total": 6.13
+          }
+        },
+        "2022_actual": {
+          "revenue": 5.07,
+          "capital": 0,
+          "total": 5.07
+        }
+      },
+      {
+        "index": "2.03",
+        "name": "Forest Survey of India",
+        "2024_budget": {
+          "revenue": 39.17,
+          "capital": 6.83,
+          "total": 46.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 36.17,
+            "capital": 6.83,
+            "total": 43.0
+          },
+          "revised": {
+            "revenue": 37.39,
+            "capital": 2.59,
+            "total": 39.98
+          }
+        },
+        "2022_actual": {
+          "revenue": 39.5,
+          "capital": 1.5,
+          "total": 41.0
+        }
+      },
+      {
+        "index": "2.04",
+        "name": "Indira Gandhi National Forest Academy",
+        "2024_budget": {
+          "revenue": 63.0,
+          "capital": 8.0,
+          "total": 71.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 41.95,
+            "capital": 10.05,
+            "total": 52.0
+          },
+          "revised": {
+            "revenue": 48.25,
+            "capital": 6.0,
+            "total": 54.25
+          }
+        },
+        "2022_actual": {
+          "revenue": 40.77,
+          "capital": 4.0,
+          "total": 44.77
+        }
+      },
+      {
+        "index": "2.05",
+        "name": "State Forest Service and Rangers College",
+        "2024_budget": {
+          "revenue": 18.0,
+          "capital": 15.0,
+          "total": 33.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 17.0,
+            "capital": 21.0,
+            "total": 38.0
+          },
+          "revised": {
+            "revenue": 17.0,
+            "capital": 14.0,
+            "total": 31.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 15.8,
+          "capital": 13.0,
+          "total": 28.8
+        }
+      },
+      {
+        "index": "2.06",
+        "name": "Wildlife Crime Control Bureau",
+        "2024_budget": {
+          "revenue": 13.0,
+          "capital": 0.5,
+          "total": 13.5
+        },
+        "2023": {
+          "budget": {
+            "revenue": 13.35,
+            "capital": 0.15,
+            "total": 13.5
+          },
+          "revised": {
+            "revenue": 12.2,
+            "capital": 0.15,
+            "total": 12.35
+          }
+        },
+        "2022_actual": {
+          "revenue": 10.61,
+          "capital": 0,
+          "total": 10.61
+        }
+      },
+      {
+        "index": "2.07",
+        "name": "Botanical Survey of India",
+        "2024_budget": {
+          "revenue": 112.0,
+          "capital": 15.0,
+          "total": 127.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 84.08,
+            "capital": 51.92,
+            "total": 136.0
+          },
+          "revised": {
+            "revenue": 89.0,
+            "capital": 12.43,
+            "total": 101.43
+          }
+        },
+        "2022_actual": {
+          "revenue": 75.47,
+          "capital": 6.98,
+          "total": 82.45
+        }
+      },
+      {
+        "index": "2.08",
+        "name": "Zoological Survey of India",
+        "2024_budget": {
+          "revenue": 112.0,
+          "capital": 12.0,
+          "total": 124.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 86.9,
+            "capital": 17.1,
+            "total": 104.0
+          },
+          "revised": {
+            "revenue": 97.0,
+            "capital": 4.35,
+            "total": 101.35
+          }
+        },
+        "2022_actual": {
+          "revenue": 84.27,
+          "capital": 8.93,
+          "total": 93.2
+        }
+      },
+      {
+        "index": "2.09",
+        "name": "National Museum of Natural History",
+        "2024_budget": {
+          "revenue": 16.0,
+          "capital": 5.0,
+          "total": 21.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 14.85,
+            "capital": 5.15,
+            "total": 20.0
+          },
+          "revised": {
+            "revenue": 13.65,
+            "capital": 10.0,
+            "total": 23.65
+          }
+        },
+        "2022_actual": {
+          "revenue": 13.95,
+          "capital": 7.35,
+          "total": 21.3
+        }
+      },
+      {
+        "index": "2.10",
+        "name": "National Green Tribunal",
+        "2024_budget": {
+          "revenue": 44.0,
+          "capital": 9.0,
+          "total": 53.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 39.0,
+            "capital": 21.0,
+            "total": 60.0
+          },
+          "revised": {
+            "revenue": 30.0,
+            "capital": 9.0,
+            "total": 39.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 25.65,
+          "capital": 23.16,
+          "total": 48.81
+        }
+      },
+      {
+        "index": "3.",
+        "name": "National Zoological Park"
+      },
+      {
+        "index": "3.01",
+        "name": "Gross Budgetary Support",
+        "2024_budget": {
+          "revenue": 30.0,
+          "capital": 8.0,
+          "total": 38.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 29.93,
+            "capital": 7.07,
+            "total": 37.0
+          },
+          "revised": {
+            "revenue": 25.6,
+            "capital": 10.0,
+            "total": 35.6
+          }
+        },
+        "2022_actual": {
+          "revenue": 23.42,
+          "capital": 6.0,
+          "total": 29.42
+        }
+      },
+      {
+        "index": "3.02",
+        "name": "Less Gate Receipts",
+        "2024_budget": {
+          "revenue": -15.0,
+          "capital": 0,
+          "total": -15.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": -10.0,
+            "capital": 0,
+            "total": -10.0
+          },
+          "revised": {
+            "revenue": -16.0,
+            "capital": 0,
+            "total": -16.0
+          }
+        },
+        "2022_actual": {
+          "revenue": -1.1,
+          "capital": 0,
+          "total": -1.1
+        }
+      },
+      {
+        "index": "4.",
+        "name": "National Authority"
+      },
+      {
+        "index": "4.01",
+        "name": "Gross Budgetary Support",
+        "2024_budget": {
+          "revenue": 463.25,
+          "capital": 0,
+          "total": 463.25
+        },
+        "2023": {
+          "budget": {
+            "revenue": 463.25,
+            "capital": 0,
+            "total": 463.25
+          },
+          "revised": {
+            "revenue": 456.15,
+            "capital": 0,
+            "total": 456.15
+          }
+        },
+        "2022_actual": {
+          "revenue": 240.64,
+          "capital": 0,
+          "total": 240.64
+        }
+      },
+      {
+        "index": "4.02",
+        "name": "Less Amount met from National Compensatory Afforestation Fund",
+        "2024_budget": {
+          "revenue": -463.25,
+          "capital": 0,
+          "total": -463.25
+        },
+        "2023": {
+          "budget": {
+            "revenue": -463.25,
+            "capital": 0,
+            "total": -463.25
+          },
+          "revised": {
+            "revenue": -456.15,
+            "capital": 0,
+            "total": -456.15
+          }
+        },
+        "2022_actual": {
+          "revenue": -240.64,
+          "capital": 0,
+          "total": -240.64
+        }
+      },
+      {
+        "index": "5.",
+        "name": "Forestry Training and Capacity Building"
+      },
+      {
+        "index": "5.01",
+        "name": "Programme Component",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 6.43,
+          "capital": 0,
+          "total": 6.43
+        }
+      },
+      {
+        "index": "6",
+        "name": "Eco-Task Force 80.00 ... 80.00 ... ... ... ... ... ... ... ... ... Total -Environmental Knowledge and Capacity Building 86.43 ... 86.43 ... ... ... ... ... ... ... ... ... 7. Environmental Knowledge and Capacity Building",
+        "2024_budget": {
+          "revenue": 78.34,
+          "capital": 0,
+          "total": 78.34
+        },
+        "2023": {
+          "budget": {
+            "revenue": 92.86,
+            "capital": 0,
+            "total": 92.86
+          },
+          "revised": {
+            "revenue": 75.0,
+            "capital": 0,
+            "total": 75.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "8.",
+        "name": "National Coastal Mission (NCM)"
+      },
+      {
+        "index": "8.01",
+        "name": "Programme Component",
+        "2024_budget": {
+          "revenue": 50.0,
+          "capital": 0,
+          "total": 50.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 12.5,
+            "capital": 0,
+            "total": 12.5
+          },
+          "revised": {
+            "revenue": 43.3,
+            "capital": 0,
+            "total": 43.3
+          }
+        },
+        "2022_actual": {
+          "revenue": 16.38,
+          "capital": 0,
+          "total": 16.38
+        }
+      },
+      {
+        "index": "9.",
+        "name": "Hazardous Substances Management (HSM)"
+      },
+      {
+        "index": "9.01",
+        "name": "Programme Component",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 3.95,
+          "capital": 0,
+          "total": 3.95
+        }
+      },
+      {
+        "index": "10",
+        "name": "Climate Change Action Plan 31.98 ... 31.98 ... ... ... ... ... ... ... ... ... 11. National Adaptation Fund 21.95 ... 21.95 ... ... ... ... ... ... ... ... ... 12. National Mission on Himalayan Studies 26.60 ... 26.60 ... ... ... ... ... ... ... ... ... Total -Environment Protection, Management and Sustainable Development 84.48 ... 84.48 ... ... ... ... ... ... ... ... ... Decision support System for Environmental Awareness, Policy, Planning and Outcome Evaluation 13. Environmental Education, Awareness and Training 11.20 ... 11.20 ... ... ... ... ... ... ... ... ... 14. Environment Information Systems (ENVIS) 18.25 ... 18.25 ... ... ... ... ... ... ... ... ... 15. R and D for Conservation and Development",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 1.98,
+          "capital": 0,
+          "total": 1.98
+        }
+      },
+      {
+        "index": "16",
+        "name": "Environment Education, Awareness, Research and Skill Development",
+        "2024_budget": {
+          "revenue": 87.4,
+          "capital": 0,
+          "total": 87.4
+        },
+        "2023": {
+          "budget": {
+            "revenue": 87.4,
+            "capital": 0,
+            "total": 87.4
+          },
+          "revised": {
+            "revenue": 80.0,
+            "capital": 0,
+            "total": 80.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "17",
+        "name": "Control of Pollution",
+        "2024_budget": {
+          "revenue": 858.5,
+          "capital": 0,
+          "total": 858.5
+        },
+        "2023": {
+          "budget": {
+            "revenue": 756.0,
+            "capital": 0,
+            "total": 756.0
+          },
+          "revised": {
+            "revenue": 847.5,
+            "capital": 0,
+            "total": 847.5
+          }
+        },
+        "2022_actual": {
+          "revenue": 599.91,
+          "capital": 0,
+          "total": 599.91
+        }
+      },
+      {
+        "index": "18",
+        "name": "Central Pollution Control Board",
+        "2024_budget": {
+          "revenue": 113.0,
+          "capital": 0,
+          "total": 113.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 105.0,
+            "capital": 0,
+            "total": 105.0
+          },
+          "revised": {
+            "revenue": 105.7,
+            "capital": 0,
+            "total": 105.7
+          }
+        },
+        "2022_actual": {
+          "revenue": 97.0,
+          "capital": 0,
+          "total": 97.0
+        }
+      },
+      {
+        "index": "19",
+        "name": "Central Zoo Authority",
+        "2024_budget": {
+          "revenue": 12.0,
+          "capital": 0,
+          "total": 12.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 10.0,
+            "capital": 0,
+            "total": 10.0
+          },
+          "revised": {
+            "revenue": 9.9,
+            "capital": 0,
+            "total": 9.9
+          }
+        },
+        "2022_actual": {
+          "revenue": 8.88,
+          "capital": 0,
+          "total": 8.88
+        }
+      },
+      {
+        "index": "20",
+        "name": "National Biodiversity Authority",
+        "2024_budget": {
+          "revenue": 16.0,
+          "capital": 0,
+          "total": 16.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 16.4,
+            "capital": 0,
+            "total": 16.4
+          },
+          "revised": {
+            "revenue": 14.1,
+            "capital": 0,
+            "total": 14.1
+          }
+        },
+        "2022_actual": {
+          "revenue": 15.5,
+          "capital": 0,
+          "total": 15.5
+        }
+      },
+      {
+        "index": "21",
+        "name": "National Tiger Conservation Authority",
+        "2024_budget": {
+          "revenue": 35.0,
+          "capital": 0,
+          "total": 35.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 11.0,
+            "capital": 0,
+            "total": 11.0
+          },
+          "revised": {
+            "revenue": 15.8,
+            "capital": 0,
+            "total": 15.8
+          }
+        },
+        "2022_actual": {
+          "revenue": 10.0,
+          "capital": 0,
+          "total": 10.0
+        }
+      },
+      {
+        "index": "22",
+        "name": "Commission for Air Quality Management",
+        "2024_budget": {
+          "revenue": 16.0,
+          "capital": 0,
+          "total": 16.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 17.0,
+            "capital": 0,
+            "total": 17.0
+          },
+          "revised": {
+            "revenue": 13.1,
+            "capital": 0,
+            "total": 13.1
+          }
+        },
+        "2022_actual": {
+          "revenue": 12.6,
+          "capital": 0,
+          "total": 12.6
+        }
+      },
+      {
+        "index": "23",
+        "name": "GB Pant Himalayan Institue of Environment and Development",
+        "2024_budget": {
+          "revenue": 35.0,
+          "capital": 0,
+          "total": 35.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 25.0,
+            "capital": 0,
+            "total": 25.0
+          },
+          "revised": {
+            "revenue": 32.0,
+            "capital": 0,
+            "total": 32.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 23.79,
+          "capital": 0,
+          "total": 23.79
+        }
+      },
+      {
+        "index": "24",
+        "name": "Indian Council of Forestry Research and Education",
+        "2024_budget": {
+          "revenue": 300.0,
+          "capital": 0,
+          "total": 300.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 230.0,
+            "capital": 0,
+            "total": 230.0
+          },
+          "revised": {
+            "revenue": 483.23,
+            "capital": 0,
+            "total": 483.23
+          }
+        },
+        "2022_actual": {
+          "revenue": 246.75,
+          "capital": 0,
+          "total": 246.75
+        }
+      },
+      {
+        "index": "25",
+        "name": "Indian Institute of Forest Management",
+        "2024_budget": {
+          "revenue": 13.0,
+          "capital": 0,
+          "total": 13.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 17.5,
+            "capital": 0,
+            "total": 17.5
+          },
+          "revised": {
+            "revenue": 17.25,
+            "capital": 0,
+            "total": 17.25
+          }
+        },
+        "2022_actual": {
+          "revenue": 45.0,
+          "capital": 0,
+          "total": 45.0
+        }
+      },
+      {
+        "index": "26",
+        "name": "Indian Plywood Industries Research and Training Institute 12.00 ... 12.00 ... ... ... ... ... ... ... ... ... 27. Wildlife Institute of India",
+        "2024_budget": {
+          "revenue": 43.0,
+          "capital": 0,
+          "total": 43.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 36.5,
+            "capital": 0,
+            "total": 36.5
+          },
+          "revised": {
+            "revenue": 41.25,
+            "capital": 0,
+            "total": 41.25
+          }
+        },
+        "2022_actual": {
+          "revenue": 30.6,
+          "capital": 0,
+          "total": 30.6
+        }
+      },
+      {
+        "index": "28",
+        "name": "Actual Recoveries -16.23 ... -16.23 ... ... ... ... ... ... ... ... ... 29. Salim Ali Centre for Ornithology and Natural History (SACON)",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 9.0,
+          "capital": 0,
+          "total": 9.0
+        }
+      },
+      {
+        "index": "30",
+        "name": "Andaman& Nicobar Islands Forest Plantation Development Corporation",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 3.62,
+            "capital": 0,
+            "total": 3.62
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "31",
+        "name": "Matters related to Bhopal Gas Leak Disaster",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 126.09,
+            "capital": 0,
+            "total": 126.09
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "32",
+        "name": "Deduct Recovery of Unspent Balance of GIA from State/UT -33.18 ... -33.18 ... ... ... ... ... ... ... ... ... Total -Others",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 129.71,
+            "capital": 0,
+            "total": 129.71
+          }
+        },
+        "2022_actual": {
+          "revenue": -40.41,
+          "capital": 0,
+          "total": -40.41
+        }
+      },
+      {
+        "index": "33.",
+        "name": "National Mission for a Green India"
+      },
+      {
+        "index": "33.01",
+        "name": "Transfer to Sovereign Green Fund",
+        "2024_budget": {
+          "revenue": 170.0,
+          "capital": 0,
+          "total": 170.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 169.0,
+            "capital": 0,
+            "total": 169.0
+          },
+          "revised": {
+            "revenue": 120.0,
+            "capital": 0,
+            "total": 120.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 188.0,
+          "capital": 0,
+          "total": 188.0
+        }
+      },
+      {
+        "index": "33.02",
+        "name": "Green India Mission -National Afforestation Programme",
+        "2024_budget": {
+          "revenue": 170.0,
+          "capital": 0,
+          "total": 170.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 167.28,
+            "capital": 0,
+            "total": 167.28
+          },
+          "revised": {
+            "revenue": 119.43,
+            "capital": 0,
+            "total": 119.43
+          }
+        },
+        "2022_actual": {
+          "revenue": 140.7,
+          "capital": 0,
+          "total": 140.7
+        }
+      },
+      {
+        "index": "33.03",
+        "name": "Green India Mission - National Afforestation Programme (EAP Component)",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1.72,
+            "capital": 0,
+            "total": 1.72
+          },
+          "revised": {
+            "revenue": 0.57,
+            "capital": 0,
+            "total": 0.57
+          }
+        },
+        "2022_actual": {
+          "revenue": 16.6,
+          "capital": 0,
+          "total": 16.6
+        }
+      },
+      {
+        "index": "33.04",
+        "name": "Amount met from Sovereign Green Fund",
+        "2024_budget": {
+          "revenue": -170.0,
+          "capital": 0,
+          "total": -170.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": -169.0,
+            "capital": 0,
+            "total": -169.0
+          },
+          "revised": {
+            "revenue": -120.0,
+            "capital": 0,
+            "total": -120.0
+          }
+        },
+        "2022_actual": {
+          "revenue": -157.3,
+          "capital": 0,
+          "total": -157.3
+        }
+      },
+      {
+        "index": "33.05",
+        "name": "Forest Fire Prevention and Management",
+        "2024_budget": {
+          "revenue": 50.0,
+          "capital": 0,
+          "total": 50.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 51.0,
+            "capital": 0,
+            "total": 51.0
+          },
+          "revised": {
+            "revenue": 40.0,
+            "capital": 0,
+            "total": 40.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 29.17,
+          "capital": 0,
+          "total": 29.17
+        }
+      },
+      {
+        "index": "34.",
+        "name": "Conservation of Natural Resources and Ecosystems"
+      },
+      {
+        "index": "34.01",
+        "name": "Biodiversity Conservation",
+        "2024_budget": {
+          "revenue": 5.0,
+          "capital": 0,
+          "total": 5.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 7.0,
+            "capital": 0,
+            "total": 7.0
+          },
+          "revised": {
+            "revenue": 3.5,
+            "capital": 0,
+            "total": 3.5
+          }
+        },
+        "2022_actual": {
+          "revenue": 0.93,
+          "capital": 0,
+          "total": 0.93
+        }
+      },
+      {
+        "index": "34.02",
+        "name": "Conservation of Aquatic Ecosystems",
+        "2024_budget": {
+          "revenue": 35.5,
+          "capital": 0,
+          "total": 35.5
+        },
+        "2023": {
+          "budget": {
+            "revenue": 38.4,
+            "capital": 0,
+            "total": 38.4
+          },
+          "revised": {
+            "revenue": 20.6,
+            "capital": 0,
+            "total": 20.6
+          }
+        },
+        "2022_actual": {
+          "revenue": 19.38,
+          "capital": 0,
+          "total": 19.38
+        }
+      },
+      {
+        "index": "34.03",
+        "name": "Conservation of Aquatic Ecosystems (EAP Component)",
+        "2024_budget": {
+          "revenue": 3.0,
+          "capital": 0,
+          "total": 3.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1.6,
+            "capital": 0,
+            "total": 1.6
+          },
+          "revised": {
+            "revenue": 0.9,
+            "capital": 0,
+            "total": 0.9
+          }
+        },
+        "2022_actual": {
+          "revenue": 0.6,
+          "capital": 0,
+          "total": 0.6
+        }
+      },
+      {
+        "index": "35.",
+        "name": "Integrated Development of Wildlife Habitats 35.01 Project Tiger 151.97 ... 151.97 ... ... ... ... ... ... ... ... ... 35.02 Project Elephant"
+      },
+      {
+        "index": "35.03",
+        "name": "Development of Wildlife Habitats",
+        "2024_budget": {
+          "revenue": 148.0,
+          "capital": 0,
+          "total": 148.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 135.0,
+            "capital": 0,
+            "total": 135.0
+          },
+          "revised": {
+            "revenue": 109.34,
+            "capital": 0,
+            "total": 109.34
+          }
+        },
+        "2022_actual": {
+          "revenue": 59.84,
+          "capital": 0,
+          "total": 59.84
+        }
+      },
+      {
+        "index": "35.04",
+        "name": "Development of Wildlife Habitats (EAP Component)",
+        "2024_budget": {
+          "revenue": 12.0,
+          "capital": 0,
+          "total": 12.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 25.0,
+            "capital": 0,
+            "total": 25.0
+          },
+          "revised": {
+            "revenue": 1.06,
+            "capital": 0,
+            "total": 1.06
+          }
+        },
+        "2022_actual": {
+          "revenue": 19.05,
+          "capital": 0,
+          "total": 19.05
+        }
+      },
+      {
+        "index": "35.05",
+        "name": "Project Tiger & Elephant",
+        "2024_budget": {
+          "revenue": 290.0,
+          "capital": 0,
+          "total": 290.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 331.8,
+            "capital": 0,
+            "total": 331.8
+          },
+          "revised": {
+            "revenue": 239.6,
+            "capital": 0,
+            "total": 239.6
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      }
+    ],
+    "development_heads": [
+      {
+        "index": "1",
+        "name": "Forestry and Wild Life",
+        "2024_budget": {
+          "revenue": 715.67,
+          "capital": 0,
+          "total": 715.67
+        },
+        "2023": {
+          "budget": {
+            "revenue": 591.63,
+            "capital": 0,
+            "total": 591.63
+          },
+          "revised": {
+            "revenue": 839.76,
+            "capital": 0,
+            "total": 839.76
+          }
+        },
+        "2022_actual": {
+          "revenue": 686.6,
+          "capital": 0,
+          "total": 686.6
+        }
+      },
+      {
+        "index": "2",
+        "name": "Ecology and Environment",
+        "2024_budget": {
+          "revenue": 1378.32,
+          "capital": 0,
+          "total": 1378.32
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1180.63,
+            "capital": 0,
+            "total": 1180.63
+          },
+          "revised": {
+            "revenue": 1408.86,
+            "capital": 0,
+            "total": 1408.86
+          }
+        },
+        "2022_actual": {
+          "revenue": 1094.04,
+          "capital": 0,
+          "total": 1094.04
+        }
+      },
+      {
+        "index": "3",
+        "name": "Secretariat -Economic Services",
+        "2024_budget": {
+          "revenue": 305.87,
+          "capital": 0,
+          "total": 305.87
+        },
+        "2023": {
+          "budget": {
+            "revenue": 353.33,
+            "capital": 0,
+            "total": 353.33
+          },
+          "revised": {
+            "revenue": 296.28,
+            "capital": 0,
+            "total": 296.28
+          }
+        },
+        "2022_actual": {
+          "revenue": 160.49,
+          "capital": 0,
+          "total": 160.49
+        }
+      },
+      {
+        "index": "4",
+        "name": "Capital Outlay on Forestry and Wild Life",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 43.33,
+          "total": 43.33
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 48.1,
+            "total": 48.1
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 35.74,
+            "total": 35.74
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 26.0,
+          "total": 26.0
+        }
+      },
+      {
+        "index": "5",
+        "name": "Capital Outlay on Other Scientific and Environmental Research",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 41.0,
+          "total": 41.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 95.17,
+            "total": 95.17
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 35.78,
+            "total": 35.78
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 46.42,
+          "total": 46.42
+        }
+      },
+      {
+        "index": "6",
+        "name": "Capital Outlay on Other General Economic Services",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 8.92,
+          "total": 8.92
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 2.11,
+            "total": 2.11
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 6.86,
+            "total": 6.86
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "7",
+        "name": "North Eastern Areas",
+        "2024_budget": {
+          "revenue": 181.84,
+          "capital": 0,
+          "total": 181.84
+        },
+        "2023": {
+          "budget": {
+            "revenue": 186.0,
+            "capital": 0,
+            "total": 186.0
+          },
+          "revised": {
+            "revenue": 175.76,
+            "capital": 0,
+            "total": 175.76
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "8",
+        "name": "Grants -in-aid to State Governments",
+        "2024_budget": {
+          "revenue": 576.58,
+          "capital": 0,
+          "total": 576.58
+        },
+        "2023": {
+          "budget": {
+            "revenue": 619.43,
+            "capital": 0,
+            "total": 619.43
+          },
+          "revised": {
+            "revenue": 430.48,
+            "capital": 0,
+            "total": 430.48
+          }
+        },
+        "2022_actual": {
+          "revenue": 374.72,
+          "capital": 0,
+          "total": 374.72
+        }
+      },
+      {
+        "index": "9",
+        "name": "Grants -in-aid to Union Territory Governments",
+        "2024_budget": {
+          "revenue": 14.0,
+          "capital": 0,
+          "total": 14.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 3.0,
+            "capital": 0,
+            "total": 3.0
+          },
+          "revised": {
+            "revenue": 1.5,
+            "capital": 0,
+            "total": 1.5
+          }
+        },
+        "2022_actual": {
+          "revenue": 1.03,
+          "capital": 0,
+          "total": 1.03
+        }
+      },
+      {
+        "index": "16",
+        "name": "The Umbrella Central Sector Scheme Decision Support System for Environmental Awareness, Policy, Planning and Outcome Evaluation is revamped as Environment Education, Awareness, Research and Skill Development: The scheme creates awareness and imparts environmental education through exhibitions and training programmes. Among other objectives are collection of environmental informati on, dissemination of information to larger stakeholders. Provisions for Environment Education, Awareness and Training includes provisions for Swachhta Action Plan. 17. Control of Pollution: ..Control of Pollution has been conceptualized to provide financi al assistance to Pollution control Boards/Committees, funding to National Clean Air Programme (NCAP). 18-21. Statutory and Regulatory Bodies: The Ministry has four bodies - Central Pollution Control Board (CPCB), Central Zoo Authority (CZA), National Biodiversity Authority (NBA) and National Tiger Conservation Authority (NTCA). 22. Commission for Air Quality Management: ..Commission for Air Quality Management: A newly formed Statutory and Regulatory Body. This commission works for Air quality managemen t in National Capital region and adjoining areas. 23 - 27. Autonomous Bodies: The Ministry supports various autonomous bodies/institutions which are engaged in Research and Development namely, Indian Institute of Forestry Management(IIFM), Indian Council of Forestry Research and Education (ICFRE), Indian Plywood Industries Research& Training Institute (IPIRTI), Wildlife Institute of India (WII), GB Pant National Institute of Himalayan Environment and Sustainable Development (GBPNIHESD). 29. Salim Ali Cen tre for Ornithology and Natural History (SACON): ..A registered society to cover the entire field of natural history focusing on Ornithology. SACON is merged with Wildlife Institute of India, Autonomous Bodies, MoEF&CC. The budget provision for SACON is ke pt under WII. 30. Andaman& Nicobar Islands Forest Plantation Development Corporation: ..The provision of ..`3.62 crore has been made",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": -24.0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 2023.0
+        }
+      }
+    ],
+    "public_enterprises": []
+  },
+  "number": 28
+}

@@ -1,0 +1,909 @@
+{
+  "name": "MINISTRY OF FINANCE",
+  "demand": "No. 39 (APPROPRIATION)",
+  "department": "Interest Payments",
+  "sections": {
+    "allocation": [
+      {
+        "index": "1.",
+        "name": "Prepayment Premium for reduction of debt",
+        "2024_budget": {
+          "revenue": 1000.0,
+          "capital": 0,
+          "total": 1000.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1332.5,
+            "capital": 0,
+            "total": 1332.5
+          },
+          "revised": {
+            "revenue": 761.29,
+            "capital": 0,
+            "total": 761.29
+          }
+        },
+        "2022_actual": {
+          "revenue": 1025.68,
+          "capital": 0,
+          "total": 1025.68
+        }
+      },
+      {
+        "index": "2.",
+        "name": "Interest on Internal Debt"
+      },
+      {
+        "index": "2.01",
+        "name": "Market Loans",
+        "2024_budget": {
+          "revenue": 818322.46,
+          "capital": 0,
+          "total": 818322.46
+        },
+        "2023": {
+          "budget": {
+            "revenue": 754869.92,
+            "capital": 0,
+            "total": 754869.92
+          },
+          "revised": {
+            "revenue": 729228.09,
+            "capital": 0,
+            "total": 729228.09
+          }
+        },
+        "2022_actual": {
+          "revenue": 653109.21,
+          "capital": 0,
+          "total": 653109.21
+        }
+      },
+      {
+        "index": "2.02",
+        "name": "Less Amount met from GST Compensation Fund on back to back loans to States and UTs",
+        "2024_budget": {
+          "revenue": -15900.28,
+          "capital": 0,
+          "total": -15900.28
+        },
+        "2023": {
+          "budget": {
+            "revenue": -14000.0,
+            "capital": 0,
+            "total": -14000.0
+          },
+          "revised": {
+            "revenue": -13983.43,
+            "capital": 0,
+            "total": -13983.43
+          }
+        },
+        "2022_actual": {
+          "revenue": -14000.0,
+          "capital": 0,
+          "total": -14000.0
+        }
+      },
+      {
+        "index": "2.03",
+        "name": "Less accrued interest",
+        "2024_budget": {
+          "revenue": -30000.0,
+          "capital": 0,
+          "total": -30000.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": -20000.0,
+            "capital": 0,
+            "total": -20000.0
+          },
+          "revised": {
+            "revenue": -37113.44,
+            "capital": 0,
+            "total": -37113.44
+          }
+        },
+        "2022_actual": {
+          "revenue": -30198.18,
+          "capital": 0,
+          "total": -30198.18
+        }
+      },
+      {
+        "index": "2.04",
+        "name": "Discount on Cash Management Bills",
+        "2024_budget": {
+          "revenue": 1000.0,
+          "capital": 0,
+          "total": 1000.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1000.0,
+            "capital": 0,
+            "total": 1000.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "2.05",
+        "name": "Compensation and Other Bonds",
+        "2024_budget": {
+          "revenue": 9832.55,
+          "capital": 0,
+          "total": 9832.55
+        },
+        "2023": {
+          "budget": {
+            "revenue": 10653.94,
+            "capital": 0,
+            "total": 10653.94
+          },
+          "revised": {
+            "revenue": 9304.24,
+            "capital": 0,
+            "total": 9304.24
+          }
+        },
+        "2022_actual": {
+          "revenue": 8509.83,
+          "capital": 0,
+          "total": 8509.83
+        }
+      },
+      {
+        "index": "2.06",
+        "name": "14 days Treasury Bills",
+        "2024_budget": {
+          "revenue": 2469.19,
+          "capital": 0,
+          "total": 2469.19
+        },
+        "2023": {
+          "budget": {
+            "revenue": 2500.0,
+            "capital": 0,
+            "total": 2500.0
+          },
+          "revised": {
+            "revenue": 2244.72,
+            "capital": 0,
+            "total": 2244.72
+          }
+        },
+        "2022_actual": {
+          "revenue": 2040.65,
+          "capital": 0,
+          "total": 2040.65
+        }
+      },
+      {
+        "index": "2.07",
+        "name": "91 days Treasury Bills",
+        "2024_budget": {
+          "revenue": 11510.55,
+          "capital": 0,
+          "total": 11510.55
+        },
+        "2023": {
+          "budget": {
+            "revenue": 11739.52,
+            "capital": 0,
+            "total": 11739.52
+          },
+          "revised": {
+            "revenue": 11183.21,
+            "capital": 0,
+            "total": 11183.21
+          }
+        },
+        "2022_actual": {
+          "revenue": 9890.46,
+          "capital": 0,
+          "total": 9890.46
+        }
+      },
+      {
+        "index": "2.08",
+        "name": "182 days Treasury Bills",
+        "2024_budget": {
+          "revenue": 20511.59,
+          "capital": 0,
+          "total": 20511.59
+        },
+        "2023": {
+          "budget": {
+            "revenue": 19356.55,
+            "capital": 0,
+            "total": 19356.55
+          },
+          "revised": {
+            "revenue": 19654.22,
+            "capital": 0,
+            "total": 19654.22
+          }
+        },
+        "2022_actual": {
+          "revenue": 16375.3,
+          "capital": 0,
+          "total": 16375.3
+        }
+      },
+      {
+        "index": "2.09",
+        "name": "Discount on 364 days Treasury Bills",
+        "2024_budget": {
+          "revenue": 31504.25,
+          "capital": 0,
+          "total": 31504.25
+        },
+        "2023": {
+          "budget": {
+            "revenue": 29647.19,
+            "capital": 0,
+            "total": 29647.19
+          },
+          "revised": {
+            "revenue": 30392.99,
+            "capital": 0,
+            "total": 30392.99
+          }
+        },
+        "2022_actual": {
+          "revenue": 27196.5,
+          "capital": 0,
+          "total": 27196.5
+        }
+      },
+      {
+        "index": "2.10",
+        "name": "Management of Debt",
+        "2024_budget": {
+          "revenue": 3000.0,
+          "capital": 0,
+          "total": 3000.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 2500.0,
+            "capital": 0,
+            "total": 2500.0
+          },
+          "revised": {
+            "revenue": 2921.79,
+            "capital": 0,
+            "total": 2921.79
+          }
+        },
+        "2022_actual": {
+          "revenue": 2413.63,
+          "capital": 0,
+          "total": 2413.63
+        }
+      },
+      {
+        "index": "2.11",
+        "name": "Ways and Means Advance",
+        "2024_budget": {
+          "revenue": 800.0,
+          "capital": 0,
+          "total": 800.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1000.0,
+            "capital": 0,
+            "total": 1000.0
+          },
+          "revised": {
+            "revenue": 394.38,
+            "capital": 0,
+            "total": 394.38
+          }
+        },
+        "2022_actual": {
+          "revenue": 23.85,
+          "capital": 0,
+          "total": 23.85
+        }
+      },
+      {
+        "index": "2.12",
+        "name": "Marketable Securities issued in conversion of special securities",
+        "2024_budget": {
+          "revenue": 996.27,
+          "capital": 0,
+          "total": 996.27
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1243.07,
+            "capital": 0,
+            "total": 1243.07
+          },
+          "revised": {
+            "revenue": 1243.07,
+            "capital": 0,
+            "total": 1243.07
+          }
+        },
+        "2022_actual": {
+          "revenue": 1744.39,
+          "capital": 0,
+          "total": 1744.39
+        }
+      },
+      {
+        "index": "2.14",
+        "name": "Interest on Recapitalization Bonds",
+        "2024_budget": {
+          "revenue": 17689.57,
+          "capital": 0,
+          "total": 17689.57
+        },
+        "2023": {
+          "budget": {
+            "revenue": 17689.57,
+            "capital": 0,
+            "total": 17689.57
+          },
+          "revised": {
+            "revenue": 17689.57,
+            "capital": 0,
+            "total": 17689.57
+          }
+        },
+        "2022_actual": {
+          "revenue": 17689.57,
+          "capital": 0,
+          "total": 17689.57
+        }
+      },
+      {
+        "index": "2.15",
+        "name": "Interest on Recapitalisation Bonds to other Government Controlled Banking Entities",
+        "2024_budget": {
+          "revenue": 1603.2,
+          "capital": 0,
+          "total": 1603.2
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1603.2,
+            "capital": 0,
+            "total": 1603.2
+          },
+          "revised": {
+            "revenue": 1603.2,
+            "capital": 0,
+            "total": 1603.2
+          }
+        },
+        "2022_actual": {
+          "revenue": 1603.2,
+          "capital": 0,
+          "total": 1603.2
+        }
+      },
+      {
+        "index": "2.16",
+        "name": "Interest on Sovereign Gold Bond Scheme 2015",
+        "2024_budget": {
+          "revenue": 2000.0,
+          "capital": 0,
+          "total": 2000.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1227.79,
+            "capital": 0,
+            "total": 1227.79
+          },
+          "revised": {
+            "revenue": 1500.0,
+            "capital": 0,
+            "total": 1500.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 1051.55,
+          "capital": 0,
+          "total": 1051.55
+        }
+      },
+      {
+        "index": "2.17",
+        "name": "Interest on Gold Monetization Scheme 2015",
+        "2024_budget": {
+          "revenue": 213.0,
+          "capital": 0,
+          "total": 213.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 165.0,
+            "capital": 0,
+            "total": 165.0
+          },
+          "revised": {
+            "revenue": 193.37,
+            "capital": 0,
+            "total": 193.37
+          }
+        },
+        "2022_actual": {
+          "revenue": 159.36,
+          "capital": 0,
+          "total": 159.36
+        }
+      },
+      {
+        "index": "2.18",
+        "name": "Interest on Sovereign Green Bond",
+        "2024_budget": {
+          "revenue": 2625.5,
+          "capital": 0,
+          "total": 2625.5
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 1151.0,
+            "capital": 0,
+            "total": 1151.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 23.6,
+          "capital": 0,
+          "total": 23.6
+        }
+      },
+      {
+        "index": "3.",
+        "name": "Interest on External Debt",
+        "2024_budget": {
+          "revenue": 32597.9,
+          "capital": 0,
+          "total": 32597.9
+        },
+        "2023": {
+          "budget": {
+            "revenue": 12254.7,
+            "capital": 0,
+            "total": 12254.7
+          },
+          "revised": {
+            "revenue": 29911.0,
+            "capital": 0,
+            "total": 29911.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 12667.37,
+          "capital": 0,
+          "total": 12667.37
+        }
+      },
+      {
+        "index": "4.",
+        "name": "Interest on Small Savings, Provident Funds etc."
+      },
+      {
+        "index": "4.01",
+        "name": "Interest on Small Savings deposits, certificates and operational expenses",
+        "2024_budget": {
+          "revenue": 216021.32,
+          "capital": 0,
+          "total": 216021.32
+        },
+        "2023": {
+          "budget": {
+            "revenue": 184840.39,
+            "capital": 0,
+            "total": 184840.39
+          },
+          "revised": {
+            "revenue": 185371.41,
+            "capital": 0,
+            "total": 185371.41
+          }
+        },
+        "2022_actual": {
+          "revenue": 156268.28,
+          "capital": 0,
+          "total": 156268.28
+        }
+      },
+      {
+        "index": "4.02",
+        "name": "State Provident Funds",
+        "2024_budget": {
+          "revenue": 20043.85,
+          "capital": 0,
+          "total": 20043.85
+        },
+        "2023": {
+          "budget": {
+            "revenue": 18117.78,
+            "capital": 0,
+            "total": 18117.78
+          },
+          "revised": {
+            "revenue": 19256.13,
+            "capital": 0,
+            "total": 19256.13
+          }
+        },
+        "2022_actual": {
+          "revenue": 18847.86,
+          "capital": 0,
+          "total": 18847.86
+        }
+      },
+      {
+        "index": "4.03",
+        "name": "Insurance and Pension Funds",
+        "2024_budget": {
+          "revenue": 7018.76,
+          "capital": 0,
+          "total": 7018.76
+        },
+        "2023": {
+          "budget": {
+            "revenue": 7133.73,
+            "capital": 0,
+            "total": 7133.73
+          },
+          "revised": {
+            "revenue": 7217.57,
+            "capital": 0,
+            "total": 7217.57
+          }
+        },
+        "2022_actual": {
+          "revenue": 7101.53,
+          "capital": 0,
+          "total": 7101.53
+        }
+      },
+      {
+        "index": "4.04",
+        "name": "Special Deposits of Non Government Provident Funds",
+        "2024_budget": {
+          "revenue": 4435.41,
+          "capital": 0,
+          "total": 4435.41
+        },
+        "2023": {
+          "budget": {
+            "revenue": 3969.75,
+            "capital": 0,
+            "total": 3969.75
+          },
+          "revised": {
+            "revenue": 4079.2,
+            "capital": 0,
+            "total": 4079.2
+          }
+        },
+        "2022_actual": {
+          "revenue": 3696.37,
+          "capital": 0,
+          "total": 3696.37
+        }
+      },
+      {
+        "index": "4.05",
+        "name": "Other Special Deposits",
+        "2024_budget": {
+          "revenue": 20202.32,
+          "capital": 0,
+          "total": 20202.32
+        },
+        "2023": {
+          "budget": {
+            "revenue": 18890.17,
+            "capital": 0,
+            "total": 18890.17
+          },
+          "revised": {
+            "revenue": 18212.4,
+            "capital": 0,
+            "total": 18212.4
+          }
+        },
+        "2022_actual": {
+          "revenue": 17393.46,
+          "capital": 0,
+          "total": 17393.46
+        }
+      },
+      {
+        "index": "5.",
+        "name": "Interest on Reserve Funds",
+        "2024_budget": {
+          "revenue": 1450.13,
+          "capital": 0,
+          "total": 1450.13
+        },
+        "2023": {
+          "budget": {
+            "revenue": 967.99,
+            "capital": 0,
+            "total": 967.99
+          },
+          "revised": {
+            "revenue": 1204.69,
+            "capital": 0,
+            "total": 1204.69
+          }
+        },
+        "2022_actual": {
+          "revenue": 929.2,
+          "capital": 0,
+          "total": 929.2
+        }
+      },
+      {
+        "index": "6.",
+        "name": "Interest on other obligations"
+      },
+      {
+        "index": "6.01",
+        "name": "Special bonds to Oil Companies",
+        "2024_budget": {
+          "revenue": 5153.05,
+          "capital": 0,
+          "total": 5153.05
+        },
+        "2023": {
+          "budget": {
+            "revenue": 6848.16,
+            "capital": 0,
+            "total": 6848.16
+          },
+          "revised": {
+            "revenue": 6848.16,
+            "capital": 0,
+            "total": 6848.16
+          }
+        },
+        "2022_actual": {
+          "revenue": 6848.16,
+          "capital": 0,
+          "total": 6848.16
+        }
+      },
+      {
+        "index": "6.02",
+        "name": "Special bonds issued to Food Corporation of India",
+        "2024_budget": {
+          "revenue": 911.76,
+          "capital": 0,
+          "total": 911.76
+        },
+        "2023": {
+          "budget": {
+            "revenue": 911.76,
+            "capital": 0,
+            "total": 911.76
+          },
+          "revised": {
+            "revenue": 911.76,
+            "capital": 0,
+            "total": 911.76
+          }
+        },
+        "2022_actual": {
+          "revenue": 1319.26,
+          "capital": 0,
+          "total": 1319.26
+        }
+      },
+      {
+        "index": "6.03",
+        "name": "Special bonds issued to Fertilizer Companies",
+        "2024_budget": {
+          "revenue": 282.29,
+          "capital": 0,
+          "total": 282.29
+        },
+        "2023": {
+          "budget": {
+            "revenue": 604.33,
+            "capital": 0,
+            "total": 604.33
+          },
+          "revised": {
+            "revenue": 604.33,
+            "capital": 0,
+            "total": 604.33
+          }
+        },
+        "2022_actual": {
+          "revenue": 1173.59,
+          "capital": 0,
+          "total": 1173.59
+        }
+      },
+      {
+        "index": "6.04",
+        "name": "Bonds for SBI Rights",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 834.67,
+            "capital": 0,
+            "total": 834.67
+          },
+          "revised": {
+            "revenue": 834.67,
+            "capital": 0,
+            "total": 834.67
+          }
+        },
+        "2022_actual": {
+          "revenue": 834.67,
+          "capital": 0,
+          "total": 834.67
+        }
+      },
+      {
+        "index": "6.05",
+        "name": "Special Bonds to PLI",
+        "2024_budget": {
+          "revenue": 1687.56,
+          "capital": 0,
+          "total": 1687.56
+        },
+        "2023": {
+          "budget": {
+            "revenue": 727.4,
+            "capital": 0,
+            "total": 727.4
+          },
+          "revised": {
+            "revenue": 1217.66,
+            "capital": 0,
+            "total": 1217.66
+          }
+        },
+        "2022_actual": {
+          "revenue": 1535.08,
+          "capital": 0,
+          "total": 1535.08
+        }
+      },
+      {
+        "index": "6.06",
+        "name": "Interest on others",
+        "2024_budget": {
+          "revenue": 1458.09,
+          "capital": 0,
+          "total": 1458.09
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1341.92,
+            "capital": 0,
+            "total": 1341.92
+          },
+          "revised": {
+            "revenue": 1389.96,
+            "capital": 0,
+            "total": 1389.96
+          }
+        },
+        "2022_actual": {
+          "revenue": 1243.62,
+          "capital": 0,
+          "total": 1243.62
+        }
+      },
+      {
+        "index": "7.",
+        "name": "Actual Recoveries",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": -0.02,
+          "capital": 0,
+          "total": -0.02
+        }
+      }
+    ],
+    "development_heads": [
+      {
+        "index": "1.",
+        "name": "Appropriation for Reduction or Avoidance of Debt",
+        "2024_budget": {
+          "revenue": 1000.0,
+          "capital": 0,
+          "total": 1000.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1332.5,
+            "capital": 0,
+            "total": 1332.5
+          },
+          "revised": {
+            "revenue": 761.29,
+            "capital": 0,
+            "total": 761.29
+          }
+        },
+        "2022_actual": {
+          "revenue": 1025.68,
+          "capital": 0,
+          "total": 1025.68
+        }
+      },
+      {
+        "index": "2.",
+        "name": "Interest Payments",
+        "2024_budget": {
+          "revenue": 1189440.29,
+          "capital": 0,
+          "total": 1189440.29
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1078638.5,
+            "capital": 0,
+            "total": 1078638.5
+          },
+          "revised": {
+            "revenue": 1054665.92,
+            "capital": 0,
+            "total": 1054665.92
+          }
+        },
+        "2022_actual": {
+          "revenue": 927491.35,
+          "capital": 0,
+          "total": 927491.35
+        }
+      }
+    ],
+    "public_enterprises": []
+  },
+  "number": 39
+}

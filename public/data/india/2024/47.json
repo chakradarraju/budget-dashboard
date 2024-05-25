@@ -1,0 +1,351 @@
+{
+  "name": "MINISTRY OF HEALTH AND FAMILY WELFARE",
+  "demand": "DEMAND NO. 47",
+  "department": "Department of Health Research",
+  "sections": {
+    "allocation": [
+      {
+        "index": "1",
+        "name": "Secretariat",
+        "2024_budget": {
+          "revenue": 51.55,
+          "capital": 0.8,
+          "total": 52.35
+        },
+        "2023": {
+          "budget": {
+            "revenue": 53.2,
+            "capital": 0.8,
+            "total": 54.0
+          },
+          "revised": {
+            "revenue": 44.75,
+            "capital": 0.8,
+            "total": 45.55
+          }
+        },
+        "2022_actual": {
+          "revenue": 35.92,
+          "capital": 0,
+          "total": 35.92
+        }
+      },
+      {
+        "index": "2",
+        "name": "Health Technology Assessment",
+        "2024_budget": {
+          "revenue": 9.94,
+          "capital": 0.06,
+          "total": 10.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "3",
+        "name": "Setting up of nation wide network of laboratories for managing epidemics and national calamities",
+        "2024_budget": {
+          "revenue": 60.0,
+          "capital": 0,
+          "total": 60.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 60.0,
+            "capital": 0,
+            "total": 60.0
+          },
+          "revised": {
+            "revenue": 60.0,
+            "capital": 0,
+            "total": 60.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 69.98,
+          "capital": 0,
+          "total": 69.98
+        }
+      },
+      {
+        "index": "4",
+        "name": "Development of Infrastructure for Promotion of Health Research",
+        "2024_budget": {
+          "revenue": 80.0,
+          "capital": 0,
+          "total": 80.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 80.0,
+            "capital": 0,
+            "total": 80.0
+          },
+          "revised": {
+            "revenue": 70.0,
+            "capital": 0,
+            "total": 70.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 57.64,
+          "capital": 0,
+          "total": 57.64
+        }
+      },
+      {
+        "index": "5",
+        "name": "Development of tools/support to prevent outbreaks of epidemics",
+        "2024_budget": {
+          "revenue": 8.0,
+          "capital": 0,
+          "total": 8.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 10.0,
+            "capital": 0,
+            "total": 10.0
+          },
+          "revised": {
+            "revenue": 10.0,
+            "capital": 0,
+            "total": 10.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 14.24,
+          "capital": 0,
+          "total": 14.24
+        }
+      },
+      {
+        "index": "6",
+        "name": "Human Resource and Capacity Development",
+        "2024_budget": {
+          "revenue": 147.04,
+          "capital": 0,
+          "total": 147.04
+        },
+        "2023": {
+          "budget": {
+            "revenue": 92.06,
+            "capital": 0,
+            "total": 92.06
+          },
+          "revised": {
+            "revenue": 87.8,
+            "capital": 0,
+            "total": 87.8
+          }
+        },
+        "2022_actual": {
+          "revenue": 72.45,
+          "capital": 0,
+          "total": 72.45
+        }
+      },
+      {
+        "index": "7",
+        "name": "Prime Minister's Ayushman Bharat Health Infrastructure Mission (PM -ABHIM) -Bio Security Preparedness and strengthening Pandemic Research and Multi Sector and National Institutions and Platform for One Health",
+        "2024_budget": {
+          "revenue": 212.21,
+          "capital": 0,
+          "total": 212.21
+        },
+        "2023": {
+          "budget": {
+            "revenue": 324.36,
+            "capital": 0,
+            "total": 324.36
+          },
+          "revised": {
+            "revenue": 324.36,
+            "capital": 0,
+            "total": 324.36
+          }
+        },
+        "2022_actual": {
+          "revenue": 125.84,
+          "capital": 0,
+          "total": 125.84
+        }
+      },
+      {
+        "index": "8",
+        "name": "Indian Council of Medical Research, New Delhi",
+        "2024_budget": {
+          "revenue": 2432.13,
+          "capital": 0,
+          "total": 2432.13
+        },
+        "2023": {
+          "budget": {
+            "revenue": 2359.58,
+            "capital": 0,
+            "total": 2359.58
+          },
+          "revised": {
+            "revenue": 2295.12,
+            "capital": 0,
+            "total": 2295.12
+          }
+        },
+        "2022_actual": {
+          "revenue": 2056.04,
+          "capital": 0,
+          "total": 2056.04
+        }
+      }
+    ],
+    "development_heads": [
+      {
+        "index": "1",
+        "name": "Medical and Public Health",
+        "2024_budget": {
+          "revenue": 2820.32,
+          "capital": 0,
+          "total": 2820.32
+        },
+        "2023": {
+          "budget": {
+            "revenue": 2769.04,
+            "capital": 0,
+            "total": 2769.04
+          },
+          "revised": {
+            "revenue": 2691.32,
+            "capital": 0,
+            "total": 2691.32
+          }
+        },
+        "2022_actual": {
+          "revenue": 2386.84,
+          "capital": 0,
+          "total": 2386.84
+        }
+      },
+      {
+        "index": "2",
+        "name": "Secretariat -Social Services",
+        "2024_budget": {
+          "revenue": 51.55,
+          "capital": 0,
+          "total": 51.55
+        },
+        "2023": {
+          "budget": {
+            "revenue": 53.2,
+            "capital": 0,
+            "total": 53.2
+          },
+          "revised": {
+            "revenue": 44.75,
+            "capital": 0,
+            "total": 44.75
+          }
+        },
+        "2022_actual": {
+          "revenue": 35.92,
+          "capital": 0,
+          "total": 35.92
+        }
+      },
+      {
+        "index": "3",
+        "name": "Capital Outlay on Medical and Public Health",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0.06,
+          "total": 0.06
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "4",
+        "name": "Capital Outlay on other Social Services",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0.8,
+          "total": 0.8
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0.8,
+            "total": 0.8
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0.8,
+            "total": 0.8
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "5",
+        "name": "North Eastern Areas",
+        "2024_budget": {
+          "revenue": 129.0,
+          "capital": 0,
+          "total": 129.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 156.96,
+            "capital": 0,
+            "total": 156.96
+          },
+          "revised": {
+            "revenue": 155.96,
+            "capital": 0,
+            "total": 155.96
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      }
+    ],
+    "public_enterprises": []
+  },
+  "number": 47
+}

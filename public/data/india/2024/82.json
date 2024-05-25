@@ -1,0 +1,247 @@
+{
+  "name": "THE PRESIDENT, PARLIAMENT, UNION PUBLIC SERVICE COMMISSION AND THE SECRETARIAT  OF THE VICE PRESIDENT",
+  "demand": "DEMAND NO. 82",
+  "department": "Rajya Sabha",
+  "sections": {
+    "allocation": [
+      {
+        "index": "1",
+        "name": "Chairman and Deputy Chairman",
+        "2024_budget": {
+          "revenue": 2.63,
+          "capital": 0,
+          "total": 2.63
+        },
+        "2023": {
+          "budget": {
+            "revenue": 2.04,
+            "capital": 0,
+            "total": 2.04
+          },
+          "revised": {
+            "revenue": 2.37,
+            "capital": 0,
+            "total": 2.37
+          }
+        },
+        "2022_actual": {
+          "revenue": 1.74,
+          "capital": 0,
+          "total": 1.74
+        }
+      },
+      {
+        "index": "2",
+        "name": "Leader of Opposition and Secretariat",
+        "2024_budget": {
+          "revenue": 3.2,
+          "capital": 0,
+          "total": 3.2
+        },
+        "2023": {
+          "budget": {
+            "revenue": 2.95,
+            "capital": 0,
+            "total": 2.95
+          },
+          "revised": {
+            "revenue": 2.69,
+            "capital": 0,
+            "total": 2.69
+          }
+        },
+        "2022_actual": {
+          "revenue": 2.44,
+          "capital": 0,
+          "total": 2.44
+        }
+      },
+      {
+        "index": "3",
+        "name": "Members",
+        "2024_budget": {
+          "revenue": 103.15,
+          "capital": 1.95,
+          "total": 105.1
+        },
+        "2023": {
+          "budget": {
+            "revenue": 139.91,
+            "capital": 1.6,
+            "total": 141.51
+          },
+          "revised": {
+            "revenue": 110.87,
+            "capital": 1.57,
+            "total": 112.44
+          }
+        },
+        "2022_actual": {
+          "revenue": 108.63,
+          "capital": 0,
+          "total": 108.63
+        }
+      },
+      {
+        "index": "4",
+        "name": "Secretariat",
+        "2024_budget": {
+          "revenue": 308.05,
+          "capital": 13.73,
+          "total": 321.78
+        },
+        "2023": {
+          "budget": {
+            "revenue": 328.88,
+            "capital": 8.46,
+            "total": 337.34
+          },
+          "revised": {
+            "revenue": 291.29,
+            "capital": 11.7,
+            "total": 302.99
+          }
+        },
+        "2022_actual": {
+          "revenue": 270.49,
+          "capital": 0,
+          "total": 270.49
+        }
+      },
+      {
+        "index": "5",
+        "name": "Secretariat of the leaders, Deputy Leaders and Chief Whips of recognised parties and groups",
+        "2024_budget": {
+          "revenue": 0.14,
+          "capital": 0,
+          "total": 0.14
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0.22,
+            "capital": 0,
+            "total": 0.22
+          },
+          "revised": {
+            "revenue": 0.12,
+            "capital": 0,
+            "total": 0.12
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "6",
+        "name": "Other Expenditure",
+        "2024_budget": {
+          "revenue": 1.25,
+          "capital": 0,
+          "total": 1.25
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0.35,
+            "capital": 0,
+            "total": 0.35
+          },
+          "revised": {
+            "revenue": 1.25,
+            "capital": 0,
+            "total": 1.25
+          }
+        },
+        "2022_actual": {
+          "revenue": 0.23,
+          "capital": 0,
+          "total": 0.23
+        }
+      },
+      {
+        "index": "7",
+        "name": "Actual Recoveries",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": -0.34,
+          "capital": 0,
+          "total": -0.34
+        }
+      }
+    ],
+    "development_heads": [
+      {
+        "index": "1",
+        "name": "Parliament/State/Union Territory Legislatures",
+        "2024_budget": {
+          "revenue": 418.42,
+          "capital": 0,
+          "total": 418.42
+        },
+        "2023": {
+          "budget": {
+            "revenue": 474.35,
+            "capital": 0,
+            "total": 474.35
+          },
+          "revised": {
+            "revenue": 408.59,
+            "capital": 0,
+            "total": 408.59
+          }
+        },
+        "2022_actual": {
+          "revenue": 383.19,
+          "capital": 0,
+          "total": 383.19
+        }
+      },
+      {
+        "index": "2",
+        "name": "Capital Outlay on Miscellaneous General Services",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 15.68,
+          "total": 15.68
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 10.06,
+            "total": 10.06
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 13.27,
+            "total": 13.27
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      }
+    ],
+    "public_enterprises": []
+  },
+  "number": 82
+}

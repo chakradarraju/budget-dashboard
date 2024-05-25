@@ -1,0 +1,1452 @@
+{
+  "name": "MINISTRY OF SOCIAL JUSTICE AND EMPOWERMENT",
+  "demand": "DEMAND NO. 93",
+  "department": "Department of Social Justice and Empowerment",
+  "sections": {
+    "allocation": [
+      {
+        "index": "1",
+        "name": "Secretariat",
+        "2024_budget": {
+          "revenue": 61.89,
+          "capital": 5.11,
+          "total": 67.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 67.0,
+            "capital": 5.0,
+            "total": 72.0
+          },
+          "revised": {
+            "revenue": 72.95,
+            "capital": 5.5,
+            "total": 78.45
+          }
+        },
+        "2022_actual": {
+          "revenue": 60.18,
+          "capital": 8.17,
+          "total": 68.35
+        }
+      },
+      {
+        "index": "2",
+        "name": "National Commission for Scheduled Castes",
+        "2024_budget": {
+          "revenue": 35.5,
+          "capital": 2.5,
+          "total": 38.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 34.06,
+            "capital": 0.94,
+            "total": 35.0
+          },
+          "revised": {
+            "revenue": 33.8,
+            "capital": 1.32,
+            "total": 35.12
+          }
+        },
+        "2022_actual": {
+          "revenue": 21.9,
+          "capital": 0,
+          "total": 21.9
+        }
+      },
+      {
+        "index": "3",
+        "name": "National Commission for Backward Classes",
+        "2024_budget": {
+          "revenue": 18.5,
+          "capital": 2.5,
+          "total": 21.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 18.5,
+            "capital": 1.5,
+            "total": 20.0
+          },
+          "revised": {
+            "revenue": 18.5,
+            "capital": 1.5,
+            "total": 20.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 3.67,
+          "capital": 0,
+          "total": 3.67
+        }
+      },
+      {
+        "index": "4",
+        "name": "National Commission for Safai Karamcharis",
+        "2024_budget": {
+          "revenue": 12.04,
+          "capital": 0.71,
+          "total": 12.75
+        },
+        "2023": {
+          "budget": {
+            "revenue": 11.64,
+            "capital": 0.36,
+            "total": 12.0
+          },
+          "revised": {
+            "revenue": 10.62,
+            "capital": 0.36,
+            "total": 10.98
+          }
+        },
+        "2022_actual": {
+          "revenue": 3.08,
+          "capital": 0,
+          "total": 3.08
+        }
+      },
+      {
+        "index": "5",
+        "name": "Development and Welfare Board for Denotified, Nomadic and Semi -Nomadic Communities",
+        "2024_budget": {
+          "revenue": 5.0,
+          "capital": 0,
+          "total": 5.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 5.0,
+            "capital": 0,
+            "total": 5.0
+          },
+          "revised": {
+            "revenue": 5.0,
+            "capital": 0,
+            "total": 5.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 2.32,
+          "capital": 0,
+          "total": 2.32
+        }
+      },
+      {
+        "index": "6",
+        "name": "Commission under Commissions of Inquiry Act, 1952 to examine the matter of according SC status to new persons, who claim to historically have belonged to SC but have converted to religion other than those mentioned in Presidential Order",
+        "2024_budget": {
+          "revenue": 1.86,
+          "capital": 0.19,
+          "total": 2.05
+        },
+        "2023": {
+          "budget": {
+            "revenue": 2.8,
+            "capital": 0.25,
+            "total": 3.05
+          },
+          "revised": {
+            "revenue": 2.8,
+            "capital": 0.25,
+            "total": 3.05
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "7.",
+        "name": "Scholarships for Higher Education for Young Achievers Scheme (SHREYAS) for SCs"
+      },
+      {
+        "index": "7.01",
+        "name": "National Fellowship for SCs",
+        "2024_budget": {
+          "revenue": 188.0,
+          "capital": 0,
+          "total": 188.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 163.0,
+            "capital": 0,
+            "total": 163.0
+          },
+          "revised": {
+            "revenue": 188.0,
+            "capital": 0,
+            "total": 188.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 114.25,
+          "capital": 0,
+          "total": 114.25
+        }
+      },
+      {
+        "index": "7.02",
+        "name": "Free Coaching for SCs and OBCs",
+        "2024_budget": {
+          "revenue": 35.0,
+          "capital": 0,
+          "total": 35.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 47.0,
+            "capital": 0,
+            "total": 47.0
+          },
+          "revised": {
+            "revenue": 14.82,
+            "capital": 0,
+            "total": 14.82
+          }
+        },
+        "2022_actual": {
+          "revenue": 18.41,
+          "capital": 0,
+          "total": 18.41
+        }
+      },
+      {
+        "index": "7.03",
+        "name": "Top Class Education for SCs",
+        "2024_budget": {
+          "revenue": 110.0,
+          "capital": 0,
+          "total": 110.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 111.0,
+            "capital": 0,
+            "total": 111.0
+          },
+          "revised": {
+            "revenue": 100.0,
+            "capital": 0,
+            "total": 100.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 85.67,
+          "capital": 0,
+          "total": 85.67
+        }
+      },
+      {
+        "index": "7.04",
+        "name": "National Overseas Scholarship for SCs",
+        "2024_budget": {
+          "revenue": 95.0,
+          "capital": 0,
+          "total": 95.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 50.0,
+            "capital": 0,
+            "total": 50.0
+          },
+          "revised": {
+            "revenue": 85.0,
+            "capital": 0,
+            "total": 85.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 86.59,
+          "capital": 0,
+          "total": 86.59
+        }
+      },
+      {
+        "index": "8",
+        "name": "Scheme of Residential Education for Students in High School in Targeted Area (SRESHTA) for SCs",
+        "2024_budget": {
+          "revenue": 133.07,
+          "capital": 0,
+          "total": 133.07
+        },
+        "2023": {
+          "budget": {
+            "revenue": 104.65,
+            "capital": 0,
+            "total": 104.65
+          },
+          "revised": {
+            "revenue": 90.0,
+            "capital": 0,
+            "total": 90.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 51.01,
+          "capital": 0,
+          "total": 51.01
+        }
+      },
+      {
+        "index": "9",
+        "name": "Vanchit Ikai Samooh aur Vargon ki Arthik Sahayata (VISVAS) Yojana",
+        "2024_budget": {
+          "revenue": 0.02,
+          "capital": 0,
+          "total": 0.02
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0.02,
+            "capital": 0,
+            "total": 0.02
+          },
+          "revised": {
+            "revenue": 0.02,
+            "capital": 0,
+            "total": 0.02
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "10",
+        "name": "Pradhan Mantri Dakshta Aur Kushalta Sampann Hitgrahi (PM DAKSH) Yojana",
+        "2024_budget": {
+          "revenue": 130.0,
+          "capital": 0,
+          "total": 130.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 92.47,
+            "capital": 0,
+            "total": 92.47
+          },
+          "revised": {
+            "revenue": 120.0,
+            "capital": 0,
+            "total": 120.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 14.94,
+          "capital": 0,
+          "total": 14.94
+        }
+      },
+      {
+        "index": "11",
+        "name": "Venture Capital Fund for SCs and OBCs",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 50.0,
+          "total": 50.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 92.0,
+            "total": 92.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 32.0,
+            "total": 32.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 45.0,
+          "total": 45.0
+        }
+      },
+      {
+        "index": "12.",
+        "name": "Scholarships for Higher Education for Young Achievers Scheme (SHREYAS) for OBCs and EBCs"
+      },
+      {
+        "index": "12.01",
+        "name": "National Fellowship for OBCs",
+        "2024_budget": {
+          "revenue": 55.0,
+          "capital": 0,
+          "total": 55.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 57.0,
+            "capital": 0,
+            "total": 57.0
+          },
+          "revised": {
+            "revenue": 90.0,
+            "capital": 0,
+            "total": 90.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 51.32,
+          "capital": 0,
+          "total": 51.32
+        }
+      },
+      {
+        "index": "12.02",
+        "name": "Interest Subsidy on Overseas Studies of OBCs and EBCs",
+        "2024_budget": {
+          "revenue": 25.0,
+          "capital": 0,
+          "total": 25.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 29.0,
+            "capital": 0,
+            "total": 29.0
+          },
+          "revised": {
+            "revenue": 60.0,
+            "capital": 0,
+            "total": 60.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 24.05,
+          "capital": 0,
+          "total": 24.05
+        }
+      },
+      {
+        "index": "13",
+        "name": "Scheme for Economic Empowerment of DNT/NT/SNTs (SEED)",
+        "2024_budget": {
+          "revenue": 39.4,
+          "capital": 0,
+          "total": 39.4
+        },
+        "2023": {
+          "budget": {
+            "revenue": 40.4,
+            "capital": 0,
+            "total": 40.4
+          },
+          "revised": {
+            "revenue": 15.0,
+            "capital": 0,
+            "total": 15.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 2.82,
+          "capital": 0,
+          "total": 2.82
+        }
+      },
+      {
+        "index": "14",
+        "name": "Support for Marginalized Individuals for Livelihood & Enterprise (SMILE) 14.01 Comprehensive Rehabilitation of Persons Engaged in the Act of Begging",
+        "2024_budget": {
+          "revenue": 30.0,
+          "capital": 0,
+          "total": 30.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 20.0,
+            "capital": 0,
+            "total": 20.0
+          },
+          "revised": {
+            "revenue": 10.0,
+            "capital": 0,
+            "total": 10.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0.44,
+          "capital": 0,
+          "total": 0.44
+        }
+      },
+      {
+        "index": "14.02",
+        "name": "Comprehensive Rehabilitation for Welfare of Transgender Persons",
+        "2024_budget": {
+          "revenue": 68.46,
+          "capital": 0,
+          "total": 68.46
+        },
+        "2023": {
+          "budget": {
+            "revenue": 52.91,
+            "capital": 0,
+            "total": 52.91
+          },
+          "revised": {
+            "revenue": 22.82,
+            "capital": 0,
+            "total": 22.82
+          }
+        },
+        "2022_actual": {
+          "revenue": 0.12,
+          "capital": 0,
+          "total": 0.12
+        }
+      },
+      {
+        "index": "15",
+        "name": "Self Employment Scheme for Rehabilitation of Manual Scavengers 11.10 ... 11.10 ... ... ... ... ... ... ... ... ... 16. Information, Monitoring, Evaluation and Social Audit",
+        "2024_budget": {
+          "revenue": 10.0,
+          "capital": 0,
+          "total": 10.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 20.0,
+            "capital": 0,
+            "total": 20.0
+          },
+          "revised": {
+            "revenue": 25.0,
+            "capital": 0,
+            "total": 25.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 14.12,
+          "capital": 0,
+          "total": 14.12
+        }
+      },
+      {
+        "index": "17",
+        "name": "National Action for Mechanised Sanitation Ecosystem (NAMASTE)",
+        "2024_budget": {
+          "revenue": 116.94,
+          "capital": 0,
+          "total": 116.94
+        },
+        "2023": {
+          "budget": {
+            "revenue": 97.41,
+            "capital": 0,
+            "total": 97.41
+          },
+          "revised": {
+            "revenue": 30.06,
+            "capital": 0,
+            "total": 30.06
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "18",
+        "name": "Development Action Plan for SCs (DAPSC) 236.99 ... 236.99 ... ... ... ... ... ... ... ... ... 19. Atal Vayo Abhyuday Yojana (AVYAY) -CS 19.01 Support from Senior Citizen Welfare Fund (SCWF)",
+        "2024_budget": {
+          "revenue": 279.44,
+          "capital": 0,
+          "total": 279.44
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "19.02",
+        "name": "Amount Met from Senior Citizen Welfare Fund (SCWF)",
+        "2024_budget": {
+          "revenue": -279.44,
+          "capital": 0,
+          "total": -279.44
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "20",
+        "name": "Baba Saheb Dr. B.R. Ambedkar Foundation",
+        "2024_budget": {
+          "revenue": 30.0,
+          "capital": 0,
+          "total": 30.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 40.0,
+            "capital": 0,
+            "total": 40.0
+          },
+          "revised": {
+            "revenue": 40.0,
+            "capital": 0,
+            "total": 40.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 10.0,
+          "capital": 0,
+          "total": 10.0
+        }
+      },
+      {
+        "index": "21",
+        "name": "National Institute of Social Defence",
+        "2024_budget": {
+          "revenue": 20.0,
+          "capital": 0,
+          "total": 20.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 30.0,
+            "capital": 0,
+            "total": 30.0
+          },
+          "revised": {
+            "revenue": 30.0,
+            "capital": 0,
+            "total": 30.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 13.9,
+          "capital": 0,
+          "total": 13.9
+        }
+      },
+      {
+        "index": "22",
+        "name": "National Scheduled Castes Finance and Development Corporation",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0.01,
+          "total": 0.01
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 15.0,
+            "total": 15.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 15.0,
+            "total": 15.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "23",
+        "name": "National Safai Karamcharis Finance and Development Corporation",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0.01,
+          "total": 0.01
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 10.0,
+            "total": 10.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 10.0,
+            "total": 10.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "24",
+        "name": "National Backward Classes Finance and Development Corporation",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0.01,
+          "total": 0.01
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 15.0,
+            "total": 15.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 15.0,
+            "total": 15.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "25",
+        "name": "Dr. B. R. Ambedkar International Centre 30.00 ... 30.00 ... ... ... ... ... ... ... ... ... 26. Other Miscellaneous Expenditure",
+        "2024_budget": {
+          "revenue": 8.5,
+          "capital": 0,
+          "total": 8.5
+        },
+        "2023": {
+          "budget": {
+            "revenue": 10.0,
+            "capital": 0,
+            "total": 10.0
+          },
+          "revised": {
+            "revenue": 10.0,
+            "capital": 0,
+            "total": 10.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 8.09,
+          "capital": 0,
+          "total": 8.09
+        }
+      },
+      {
+        "index": "27",
+        "name": "Post Matric Scholarship for SCs",
+        "2024_budget": {
+          "revenue": 6349.98,
+          "capital": 0,
+          "total": 6349.98
+        },
+        "2023": {
+          "budget": {
+            "revenue": 6359.14,
+            "capital": 0,
+            "total": 6359.14
+          },
+          "revised": {
+            "revenue": 5400.0,
+            "capital": 0,
+            "total": 5400.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 4392.5,
+          "capital": 0,
+          "total": 4392.5
+        }
+      },
+      {
+        "index": "28",
+        "name": "Pre Matric Scholarship for SCs and Others",
+        "2024_budget": {
+          "revenue": 500.0,
+          "capital": 0,
+          "total": 500.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 500.0,
+            "capital": 0,
+            "total": 500.0
+          },
+          "revised": {
+            "revenue": 430.0,
+            "capital": 0,
+            "total": 430.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 208.62,
+          "capital": 0,
+          "total": 208.62
+        }
+      },
+      {
+        "index": "29",
+        "name": "Pradhan Mantri Anusuchit Jaati Abhyuday Yojana (PM AJAY)",
+        "2024_budget": {
+          "revenue": 2150.0,
+          "capital": 0,
+          "total": 2150.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 2050.0,
+            "capital": 0,
+            "total": 2050.0
+          },
+          "revised": {
+            "revenue": 450.0,
+            "capital": 0,
+            "total": 450.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 164.0,
+          "capital": 0,
+          "total": 164.0
+        }
+      },
+      {
+        "index": "30",
+        "name": "Strengthening of Machinery for Enforcement of Protection of Civil Rights Act, 1995 and Prevention of Atrocities Act, 1989",
+        "2024_budget": {
+          "revenue": 560.0,
+          "capital": 0,
+          "total": 560.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 500.0,
+            "capital": 0,
+            "total": 500.0
+          },
+          "revised": {
+            "revenue": 500.0,
+            "capital": 0,
+            "total": 500.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 392.71,
+          "capital": 0,
+          "total": 392.71
+        }
+      },
+      {
+        "index": "31",
+        "name": "PM Young Achievers Scholarship Award Scheme for Vibrant India (PM YASASVI) for OBCs, EBCs and DNTs 31.01 Post Matric Scholarship for OBCs, EBCs and DNTs",
+        "2024_budget": {
+          "revenue": 921.0,
+          "capital": 0,
+          "total": 921.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1087.0,
+            "capital": 0,
+            "total": 1087.0
+          },
+          "revised": {
+            "revenue": 1087.0,
+            "capital": 0,
+            "total": 1087.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 1007.99,
+          "capital": 0,
+          "total": 1007.99
+        }
+      },
+      {
+        "index": "31.02",
+        "name": "Pre Matric Scholarship for OBCs, EBCs and DNTs",
+        "2024_budget": {
+          "revenue": 210.0,
+          "capital": 0,
+          "total": 210.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 281.0,
+            "capital": 0,
+            "total": 281.0
+          },
+          "revised": {
+            "revenue": 281.0,
+            "capital": 0,
+            "total": 281.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 361.38,
+          "capital": 0,
+          "total": 361.38
+        }
+      },
+      {
+        "index": "31.03",
+        "name": "Boys and Girls Hostel for OBCs",
+        "2024_budget": {
+          "revenue": 40.0,
+          "capital": 0,
+          "total": 40.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 30.0,
+            "capital": 0,
+            "total": 30.0
+          },
+          "revised": {
+            "revenue": 45.0,
+            "capital": 0,
+            "total": 45.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 18.8,
+          "capital": 0,
+          "total": 18.8
+        }
+      },
+      {
+        "index": "31.04",
+        "name": "Top Class Colleges",
+        "2024_budget": {
+          "revenue": 515.0,
+          "capital": 0,
+          "total": 515.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 90.0,
+            "capital": 0,
+            "total": 90.0
+          },
+          "revised": {
+            "revenue": 90.0,
+            "capital": 0,
+            "total": 90.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "31.05",
+        "name": "Top Class Schools",
+        "2024_budget": {
+          "revenue": 150.0,
+          "capital": 0,
+          "total": 150.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 100.0,
+            "capital": 0,
+            "total": 100.0
+          },
+          "revised": {
+            "revenue": 100.0,
+            "capital": 0,
+            "total": 100.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 1.85,
+          "capital": 0,
+          "total": 1.85
+        }
+      },
+      {
+        "index": "32",
+        "name": "Atal Vayo Abhyuday Yojana (AVYAY) 32.01 Support from Gross Budgetary Support (GBS)",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 294.97,
+            "capital": 0,
+            "total": 294.97
+          },
+          "revised": {
+            "revenue": 140.0,
+            "capital": 0,
+            "total": 140.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 84.05,
+          "capital": 0,
+          "total": 84.05
+        }
+      },
+      {
+        "index": "32.02",
+        "name": "Support from Senior Citizens Welfare Fund (SCWF)",
+        "2024_budget": {
+          "revenue": 260.0,
+          "capital": 0,
+          "total": 260.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 410.14,
+            "capital": 0,
+            "total": 410.14
+          },
+          "revised": {
+            "revenue": 184.45,
+            "capital": 0,
+            "total": 184.45
+          }
+        },
+        "2022_actual": {
+          "revenue": 122.33,
+          "capital": 0,
+          "total": 122.33
+        }
+      },
+      {
+        "index": "32.03",
+        "name": "Amount met from Senior Citizens Welfare Fund (SCWF)",
+        "2024_budget": {
+          "revenue": -260.0,
+          "capital": 0,
+          "total": -260.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": -410.14,
+            "capital": 0,
+            "total": -410.14
+          },
+          "revised": {
+            "revenue": -184.45,
+            "capital": 0,
+            "total": -184.45
+          }
+        },
+        "2022_actual": {
+          "revenue": -122.33,
+          "capital": 0,
+          "total": -122.33
+        }
+      },
+      {
+        "index": "33",
+        "name": "National Action Plan for Drug Demand Reduction (NAPDDR)",
+        "2024_budget": {
+          "revenue": 314.0,
+          "capital": 0,
+          "total": 314.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 311.0,
+            "capital": 0,
+            "total": 311.0
+          },
+          "revised": {
+            "revenue": 175.0,
+            "capital": 0,
+            "total": 175.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 97.52,
+          "capital": 0,
+          "total": 97.52
+        }
+      }
+    ],
+    "development_heads": [
+      {
+        "index": "1",
+        "name": "Council of Ministers",
+        "2024_budget": {
+          "revenue": 0.04,
+          "capital": 0,
+          "total": 0.04
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0.04,
+            "capital": 0,
+            "total": 0.04
+          },
+          "revised": {
+            "revenue": 0.04,
+            "capital": 0,
+            "total": 0.04
+          }
+        },
+        "2022_actual": {
+          "revenue": 0.01,
+          "capital": 0,
+          "total": 0.01
+        }
+      },
+      {
+        "index": "2",
+        "name": "Welfare of Scheduled Castes, Scheduled Tribes, Other Backward Classes and Minorities",
+        "2024_budget": {
+          "revenue": 1890.94,
+          "capital": 0,
+          "total": 1890.94
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1300.86,
+            "capital": 0,
+            "total": 1300.86
+          },
+          "revised": {
+            "revenue": 1198.82,
+            "capital": 0,
+            "total": 1198.82
+          }
+        },
+        "2022_actual": {
+          "revenue": 795.1,
+          "capital": 0,
+          "total": 795.1
+        }
+      },
+      {
+        "index": "3",
+        "name": "Social Security and Welfare",
+        "2024_budget": {
+          "revenue": 377.06,
+          "capital": 0,
+          "total": 377.06
+        },
+        "2023": {
+          "budget": {
+            "revenue": 612.61,
+            "capital": 0,
+            "total": 612.61
+          },
+          "revised": {
+            "revenue": 327.05,
+            "capital": 0,
+            "total": 327.05
+          }
+        },
+        "2022_actual": {
+          "revenue": 185.89,
+          "capital": 0,
+          "total": 185.89
+        }
+      },
+      {
+        "index": "4",
+        "name": "Secretariat -Social Services",
+        "2024_budget": {
+          "revenue": 61.85,
+          "capital": 0,
+          "total": 61.85
+        },
+        "2023": {
+          "budget": {
+            "revenue": 66.96,
+            "capital": 0,
+            "total": 66.96
+          },
+          "revised": {
+            "revenue": 72.91,
+            "capital": 0,
+            "total": 72.91
+          }
+        },
+        "2022_actual": {
+          "revenue": 60.13,
+          "capital": 0,
+          "total": 60.13
+        }
+      },
+      {
+        "index": "5",
+        "name": "Capital Outlay on Welfare of Scheduled Castes, Scheduled Tribes , Other Backward Classes and Minorities",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 50.03,
+          "total": 50.03
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 128.4,
+            "total": 128.4
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 72.0,
+            "total": 72.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 45.0,
+          "total": 45.0
+        }
+      },
+      {
+        "index": "6",
+        "name": "Capital Outlay on other Social Services",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 11.01,
+          "total": 11.01
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 8.05,
+            "total": 8.05
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 8.93,
+            "total": 8.93
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 8.17,
+          "total": 8.17
+        }
+      },
+      {
+        "index": "7",
+        "name": "North Eastern Areas",
+        "2024_budget": {
+          "revenue": 456.59,
+          "capital": 0,
+          "total": 456.59
+        },
+        "2023": {
+          "budget": {
+            "revenue": 447.79,
+            "capital": 0,
+            "total": 447.79
+          },
+          "revised": {
+            "revenue": 368.6,
+            "capital": 0,
+            "total": 368.6
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "8",
+        "name": "Grants -in-aid to State Governments",
+        "2024_budget": {
+          "revenue": 10091.68,
+          "capital": 0,
+          "total": 10091.68
+        },
+        "2023": {
+          "budget": {
+            "revenue": 10223.71,
+            "capital": 0,
+            "total": 10223.71
+          },
+          "revised": {
+            "revenue": 7756.37,
+            "capital": 0,
+            "total": 7756.37
+          }
+        },
+        "2022_actual": {
+          "revenue": 6312.05,
+          "capital": 0,
+          "total": 6312.05
+        }
+      },
+      {
+        "index": "9",
+        "name": "Grants -in-aid to Union Territory Governments",
+        "2024_budget": {
+          "revenue": 61.0,
+          "capital": 0,
+          "total": 61.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 55.0,
+            "capital": 0,
+            "total": 55.0
+          },
+          "revised": {
+            "revenue": 48.6,
+            "capital": 0,
+            "total": 48.6
+          }
+        },
+        "2022_actual": {
+          "revenue": 7.41,
+          "capital": 0,
+          "total": 7.41
+        }
+      },
+      {
+        "index": "10",
+        "name": "Capital Outlay on North Eastern Areas",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 3.6,
+            "total": 3.6
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      }
+    ],
+    "public_enterprises": [
+      {
+        "index": "1",
+        "name": "National Scheduled Castes Finance and Development Corporation",
+        "2024_budget": {
+          "revenue": 0.01,
+          "capital": 845.0,
+          "total": 845.01
+        },
+        "2023": {
+          "budget": {
+            "revenue": 15.0,
+            "capital": 0,
+            "total": 15.0
+          },
+          "revised": {
+            "revenue": 15.0,
+            "capital": 795.0,
+            "total": 810.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 757.04,
+          "total": 757.04
+        }
+      },
+      {
+        "index": "2",
+        "name": "National Safai Karamcharis Finance and Development Corporation",
+        "2024_budget": {
+          "revenue": 0.01,
+          "capital": 259.11,
+          "total": 259.12
+        },
+        "2023": {
+          "budget": {
+            "revenue": 10.0,
+            "capital": 0,
+            "total": 10.0
+          },
+          "revised": {
+            "revenue": 10.0,
+            "capital": 243.49,
+            "total": 253.49
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 137.77,
+          "total": 137.77
+        }
+      },
+      {
+        "index": "3",
+        "name": "National Backward Classes",
+        "2024_budget": {
+          "revenue": 0.01,
+          "capital": 531.58,
+          "total": 531.59
+        },
+        "2023": {
+          "budget": {
+            "revenue": 15.0,
+            "capital": 623.93,
+            "total": 638.93
+          },
+          "revised": {
+            "revenue": 15.0,
+            "capital": 499.56,
+            "total": 514.56
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 511.85,
+          "total": 511.85
+        }
+      }
+    ]
+  },
+  "number": 93
+}

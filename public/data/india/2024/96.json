@@ -1,0 +1,433 @@
+{
+  "name": "MINISTRY OF STATISTICS AND PROGRAMME IMPLEMENTATION",
+  "demand": "DEMAND NO. 96",
+  "department": "Ministry of Statistics and Programme Implementation",
+  "sections": {
+    "allocation": [
+      {
+        "index": "1",
+        "name": "Secretariat",
+        "2024_budget": {
+          "revenue": 40.16,
+          "capital": 0.41,
+          "total": 40.57
+        },
+        "2023": {
+          "budget": {
+            "revenue": 37.44,
+            "capital": 0.41,
+            "total": 37.85
+          },
+          "revised": {
+            "revenue": 38.65,
+            "capital": 0.41,
+            "total": 39.06
+          }
+        },
+        "2022_actual": {
+          "revenue": 67.97,
+          "capital": 0,
+          "total": 67.97
+        }
+      },
+      {
+        "index": "2",
+        "name": "Indian Statistical Institute 299.37 ... 299.37 ... ... ... ... ... ... ... ... ... 3. Attached Offices 3.01 Central Statisical Organisation",
+        "2024_budget": {
+          "revenue": 73.52,
+          "capital": 0.16,
+          "total": 73.68
+        },
+        "2023": {
+          "budget": {
+            "revenue": 70.23,
+            "capital": 0.16,
+            "total": 70.39
+          },
+          "revised": {
+            "revenue": 70.47,
+            "capital": 0.16,
+            "total": 70.63
+          }
+        },
+        "2022_actual": {
+          "revenue": 62.5,
+          "capital": 0,
+          "total": 62.5
+        }
+      },
+      {
+        "index": "3.02",
+        "name": "National Sample Survey Office",
+        "2024_budget": {
+          "revenue": 464.46,
+          "capital": 0.66,
+          "total": 465.12
+        },
+        "2023": {
+          "budget": {
+            "revenue": 453.71,
+            "capital": 0.66,
+            "total": 454.37
+          },
+          "revised": {
+            "revenue": 443.11,
+            "capital": 0.66,
+            "total": 443.77
+          }
+        },
+        "2022_actual": {
+          "revenue": 391.83,
+          "capital": 0,
+          "total": 391.83
+        }
+      },
+      {
+        "index": "4",
+        "name": "Member of Parliament Local Area Development Scheme (MPLAD)",
+        "2024_budget": {
+          "revenue": 3954.75,
+          "capital": 0.25,
+          "total": 3955.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 3958.5,
+            "capital": 0,
+            "total": 3958.5
+          },
+          "revised": {
+            "revenue": 2600.0,
+            "capital": 0,
+            "total": 2600.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 2564.46,
+          "capital": 0,
+          "total": 2564.46
+        }
+      },
+      {
+        "index": "5.",
+        "name": "Capacity Development (CD)"
+      },
+      {
+        "index": "5.01",
+        "name": "Capacity Development CSO and NSSO",
+        "2024_budget": {
+          "revenue": 487.9,
+          "capital": 43.5,
+          "total": 531.4
+        },
+        "2023": {
+          "budget": {
+            "revenue": 495.83,
+            "capital": 31.55,
+            "total": 527.38
+          },
+          "revised": {
+            "revenue": 407.64,
+            "capital": 31.55,
+            "total": 439.19
+          }
+        },
+        "2022_actual": {
+          "revenue": 313.03,
+          "capital": 7.85,
+          "total": 320.88
+        }
+      },
+      {
+        "index": "5.02",
+        "name": "Economic Census",
+        "2024_budget": {
+          "revenue": 0.01,
+          "capital": 0,
+          "total": 0.01
+        },
+        "2023": {
+          "budget": {
+            "revenue": 61.61,
+            "capital": 0.7,
+            "total": 62.31
+          },
+          "revised": {
+            "revenue": 0.5,
+            "capital": 0,
+            "total": 0.5
+          }
+        },
+        "2022_actual": {
+          "revenue": 0.16,
+          "capital": 0,
+          "total": 0.16
+        }
+      },
+      {
+        "index": "5.03",
+        "name": "Support for Statistical Strengthening",
+        "2024_budget": {
+          "revenue": 12.46,
+          "capital": 0,
+          "total": 12.46
+        },
+        "2023": {
+          "budget": {
+            "revenue": 10.31,
+            "capital": 0,
+            "total": 10.31
+          },
+          "revised": {
+            "revenue": 10.31,
+            "capital": 0,
+            "total": 10.31
+          }
+        },
+        "2022_actual": {
+          "revenue": 6.64,
+          "capital": 0,
+          "total": 6.64
+        }
+      },
+      {
+        "index": "6",
+        "name": "Indian Statistical Institute (ISI)",
+        "2024_budget": {
+          "revenue": 375.59,
+          "capital": 0,
+          "total": 375.59
+        },
+        "2023": {
+          "budget": {
+            "revenue": 322.29,
+            "capital": 0,
+            "total": 322.29
+          },
+          "revised": {
+            "revenue": 357.55,
+            "capital": 0,
+            "total": 357.55
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "7",
+        "name": "Actual Recoveries",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": -1.38,
+          "capital": 0,
+          "total": -1.38
+        }
+      }
+    ],
+    "development_heads": [
+      {
+        "index": "1",
+        "name": "Secretariat -General Services",
+        "2024_budget": {
+          "revenue": 8.8,
+          "capital": 0,
+          "total": 8.8
+        },
+        "2023": {
+          "budget": {
+            "revenue": 8.51,
+            "capital": 0,
+            "total": 8.51
+          },
+          "revised": {
+            "revenue": 8.45,
+            "capital": 0,
+            "total": 8.45
+          }
+        },
+        "2022_actual": {
+          "revenue": 6.88,
+          "capital": 0,
+          "total": 6.88
+        }
+      },
+      {
+        "index": "2",
+        "name": "MPs Local Area Development Scheme",
+        "2024_budget": {
+          "revenue": 3954.75,
+          "capital": 0,
+          "total": 3954.75
+        },
+        "2023": {
+          "budget": {
+            "revenue": 3958.5,
+            "capital": 0,
+            "total": 3958.5
+          },
+          "revised": {
+            "revenue": 2600.0,
+            "capital": 0,
+            "total": 2600.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 2564.46,
+          "capital": 0,
+          "total": 2564.46
+        }
+      },
+      {
+        "index": "3",
+        "name": "Secretariat -Economic Services",
+        "2024_budget": {
+          "revenue": 31.36,
+          "capital": 0,
+          "total": 31.36
+        },
+        "2023": {
+          "budget": {
+            "revenue": 28.93,
+            "capital": 0,
+            "total": 28.93
+          },
+          "revised": {
+            "revenue": 30.2,
+            "capital": 0,
+            "total": 30.2
+          }
+        },
+        "2022_actual": {
+          "revenue": 61.03,
+          "capital": 0,
+          "total": 61.03
+        }
+      },
+      {
+        "index": "4",
+        "name": "Census Surveys and Statistics",
+        "2024_budget": {
+          "revenue": 1394.94,
+          "capital": 0,
+          "total": 1394.94
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1395.79,
+            "capital": 0,
+            "total": 1395.79
+          },
+          "revised": {
+            "revenue": 1271.39,
+            "capital": 0,
+            "total": 1271.39
+          }
+        },
+        "2022_actual": {
+          "revenue": 1072.92,
+          "capital": 0,
+          "total": 1072.92
+        }
+      },
+      {
+        "index": "5",
+        "name": "Capital Outlay on Other General Economic Services",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 44.98,
+          "total": 44.98
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 33.48,
+            "total": 33.48
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 32.78,
+            "total": 32.78
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 7.85,
+          "total": 7.85
+        }
+      },
+      {
+        "index": "6",
+        "name": "North Eastern Areas",
+        "2024_budget": {
+          "revenue": 19.0,
+          "capital": 0,
+          "total": 19.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 18.19,
+            "capital": 0,
+            "total": 18.19
+          },
+          "revised": {
+            "revenue": 18.19,
+            "capital": 0,
+            "total": 18.19
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "7",
+        "name": "Grants -in-aid to State Governments",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": -0.71,
+          "capital": 0,
+          "total": -0.71
+        }
+      }
+    ],
+    "public_enterprises": []
+  },
+  "number": 96
+}

@@ -1,0 +1,1271 @@
+{
+  "label": "Expenditure Budget 2024-25",
+  "sourceUrl": "https://www.indiabudget.gov.in/doc/eb/allsbe.pdf",
+  "link": "/india/2024/",
+  "schema": {
+    "label": "Ministry",
+    "value": "Total Expenditure (in cr.)",
+    "subitems": {
+      "label": "Department",
+      "value": "Total",
+      "subvalue1": "Revenue",
+      "subvalue2": "Capital"
+    }
+  },
+  "data": [
+    {
+      "label": "MINISTRY OF FINANCE",
+      "value": 1850228.87,
+      "subitems": [
+        {
+          "index": "39",
+          "label": "Interest Payments",
+          "subvalue1": 1190440.29,
+          "subvalue2": 0,
+          "value": 1190440.29,
+          "startPage": 142,
+          "endPage": 144
+        },
+        {
+          "index": "42",
+          "label": "Transfers to States",
+          "subvalue1": 144378.18,
+          "subvalue2": 142408.88,
+          "value": 286787.06,
+          "startPage": 149,
+          "endPage": 151
+        },
+        {
+          "index": "35",
+          "label": "Department of Revenue",
+          "subvalue1": 151449.33,
+          "subvalue2": 411.36,
+          "value": 151860.69,
+          "startPage": 132,
+          "endPage": 134
+        },
+        {
+          "index": "30",
+          "label": "Department of Economic Affairs",
+          "subvalue1": 9524.64,
+          "subvalue2": 74051.72,
+          "value": 83576.36,
+          "startPage": 115,
+          "endPage": 120
+        },
+        {
+          "index": "41",
+          "label": "Pensions",
+          "subvalue1": 76741.0,
+          "subvalue2": 0,
+          "value": 76741.0,
+          "startPage": 147,
+          "endPage": 148
+        },
+        {
+          "index": "37",
+          "label": "Indirect Taxes",
+          "subvalue1": 38859.36,
+          "subvalue2": 2238.62,
+          "value": 41097.98,
+          "startPage": 137,
+          "endPage": 139
+        },
+        {
+          "index": "36",
+          "label": "Direct Taxes",
+          "subvalue1": 9025.42,
+          "subvalue2": 1312.96,
+          "value": 10338.38,
+          "startPage": 135,
+          "endPage": 136
+        },
+        {
+          "index": "38",
+          "label": "Indian Audit and Accounts Department",
+          "subvalue1": 5785.98,
+          "subvalue2": 175.5,
+          "value": 5961.48,
+          "startPage": 140,
+          "endPage": 141
+        },
+        {
+          "index": "32",
+          "label": "Department of Financial Services",
+          "subvalue1": 2783.21,
+          "subvalue2": 61.94,
+          "value": 2845.15,
+          "startPage": 123,
+          "endPage": 128
+        },
+        {
+          "index": "31",
+          "label": "Department of Expenditure",
+          "subvalue1": 412.68,
+          "subvalue2": 91.46,
+          "value": 504.14,
+          "startPage": 121,
+          "endPage": 122
+        },
+        {
+          "index": "34",
+          "label": "Department of Investment and Public Asset Management (DIPAM)",
+          "subvalue1": 48.27,
+          "subvalue2": 1.47,
+          "value": 49.74,
+          "startPage": 131,
+          "endPage": 131
+        },
+        {
+          "index": "33",
+          "label": "Department of Public Enterprises",
+          "subvalue1": 25.91,
+          "subvalue2": 0.69,
+          "value": 26.6,
+          "startPage": 129,
+          "endPage": 130
+        },
+        {
+          "index": "40",
+          "label": "Repayment of Debt",
+          "subvalue1": 0,
+          "subvalue2": 0,
+          "value": 0,
+          "startPage": 145,
+          "endPage": 146
+        }
+      ]
+    },
+    {
+      "label": "MINISTRY OF DEFENCE",
+      "value": 621540.85,
+      "subitems": [
+        {
+          "index": "20",
+          "label": "Defence Services (Revenue)",
+          "subvalue1": 282772.67,
+          "subvalue2": 0,
+          "value": 282772.67,
+          "startPage": 74,
+          "endPage": 76
+        },
+        {
+          "index": "21",
+          "label": "Capital Outlay on Defence Services",
+          "subvalue1": 0,
+          "subvalue2": 172000.0,
+          "value": 172000.0,
+          "startPage": 77,
+          "endPage": 79
+        },
+        {
+          "index": "22",
+          "label": "Defence Pensions",
+          "subvalue1": 141205.0,
+          "subvalue2": 0,
+          "value": 141205.0,
+          "startPage": 80,
+          "endPage": 81
+        },
+        {
+          "index": "19",
+          "label": "Ministry of Defence (Civil)",
+          "subvalue1": 15322.33,
+          "subvalue2": 10240.85,
+          "value": 25563.18,
+          "startPage": 70,
+          "endPage": 73
+        }
+      ]
+    },
+    {
+      "label": "MINISTRY OF ROAD TRANSPORT AND HIGHWAYS",
+      "value": 278000.0,
+      "subitems": [
+        {
+          "index": "86",
+          "label": "Ministry of Road Transport and Highways",
+          "subvalue1": 5758.85,
+          "subvalue2": 272241.15,
+          "value": 278000.0,
+          "startPage": 292,
+          "endPage": 295
+        }
+      ]
+    },
+    {
+      "label": "MINISTRY OF RAILWAYS",
+      "value": 255393.0,
+      "subitems": [
+        {
+          "index": "85",
+          "label": "Ministry of Railways",
+          "subvalue1": 3393.0,
+          "subvalue2": 252000.0,
+          "value": 255393.0,
+          "startPage": 287,
+          "endPage": 291
+        }
+      ]
+    },
+    {
+      "label": "MINISTRY OF CONSUMER AFFAIRS, FOOD AND PUBLIC DISTRIBUTION",
+      "value": 213323.37,
+      "subitems": [
+        {
+          "index": "15",
+          "label": "Department of Food and Public Distribution",
+          "subvalue1": 212976.21,
+          "subvalue2": 43.54,
+          "value": 213019.75,
+          "startPage": 57,
+          "endPage": 60
+        },
+        {
+          "index": "14",
+          "label": "Department of Consumer Affairs",
+          "subvalue1": 237.3,
+          "subvalue2": 66.32,
+          "value": 303.62,
+          "startPage": 54,
+          "endPage": 56
+        }
+      ]
+    },
+    {
+      "label": "MINISTRY OF HOME AFFAIRS",
+      "value": 202868.7,
+      "subitems": [
+        {
+          "index": "51",
+          "label": "Police",
+          "subvalue1": 120588.1,
+          "subvalue2": 11757.37,
+          "value": 132345.47,
+          "startPage": 179,
+          "endPage": 183
+        },
+        {
+          "index": "58",
+          "label": "Transfers to Jammu and Kashmir",
+          "subvalue1": 37277.74,
+          "subvalue2": 0,
+          "value": 37277.74,
+          "startPage": 202,
+          "endPage": 203
+        },
+        {
+          "index": "55",
+          "label": "Ladakh",
+          "subvalue1": 2881.84,
+          "subvalue2": 3076.16,
+          "value": 5958.0,
+          "startPage": 194,
+          "endPage": 196
+        },
+        {
+          "index": "52",
+          "label": "Andaman and Nicobar Islands",
+          "subvalue1": 5399.24,
+          "subvalue2": 467.13,
+          "value": 5866.37,
+          "startPage": 184,
+          "endPage": 187
+        },
+        {
+          "index": "53",
+          "label": "Chandigarh",
+          "subvalue1": 5327.62,
+          "subvalue2": 535.0,
+          "value": 5862.62,
+          "startPage": 188,
+          "endPage": 190
+        },
+        {
+          "index": "49",
+          "label": "Ministry of Home Affairs",
+          "subvalue1": 5365.8,
+          "subvalue2": 367.71,
+          "value": 5733.51,
+          "startPage": 173,
+          "endPage": 176
+        },
+        {
+          "index": "59",
+          "label": "Transfers to Puducherry",
+          "subvalue1": 3268.99,
+          "subvalue2": 0.01,
+          "value": 3269.0,
+          "startPage": 204,
+          "endPage": 204
+        },
+        {
+          "index": "54",
+          "label": "Dadra and Nagar Haveli and Daman and Diu",
+          "subvalue1": 1632.71,
+          "subvalue2": 1016.26,
+          "value": 2648.97,
+          "startPage": 191,
+          "endPage": 193
+        },
+        {
+          "index": "56",
+          "label": "Lakshadweep",
+          "subvalue1": 1173.25,
+          "subvalue2": 316.85,
+          "value": 1490.1,
+          "startPage": 197,
+          "endPage": 199
+        },
+        {
+          "index": "50",
+          "label": "Cabinet",
+          "subvalue1": 1159.26,
+          "subvalue2": 89.65,
+          "value": 1248.91,
+          "startPage": 177,
+          "endPage": 178
+        },
+        {
+          "index": "57",
+          "label": "Transfers to Delhi",
+          "subvalue1": 1168.0,
+          "subvalue2": 0.01,
+          "value": 1168.01,
+          "startPage": 200,
+          "endPage": 201
+        }
+      ]
+    },
+    {
+      "label": "MINISTRY OF RURAL DEVELOPMENT",
+      "value": 180233.43,
+      "subitems": [
+        {
+          "index": "87",
+          "label": "Department of Rural Development",
+          "subvalue1": 177562.05,
+          "subvalue2": 4.14,
+          "value": 177566.19,
+          "startPage": 296,
+          "endPage": 300
+        },
+        {
+          "index": "88",
+          "label": "Department of Land Resources",
+          "subvalue1": 2666.23,
+          "subvalue2": 1.01,
+          "value": 2667.24,
+          "startPage": 301,
+          "endPage": 303
+        }
+      ]
+    },
+    {
+      "label": "MINISTRY OF CHEMICALS AND FERTILISERS",
+      "value": 168379.81,
+      "subitems": [
+        {
+          "index": "6",
+          "label": "Department of Fertilisers",
+          "subvalue1": 164147.2,
+          "subvalue2": 3.61,
+          "value": 164150.81,
+          "startPage": 23,
+          "endPage": 25
+        },
+        {
+          "index": "7",
+          "label": "Department of Pharmaceuticals",
+          "subvalue1": 4088.69,
+          "subvalue2": 1.26,
+          "value": 4089.95,
+          "startPage": 26,
+          "endPage": 29
+        },
+        {
+          "index": "5",
+          "label": "Department of Chemicals and Petrochemicals",
+          "subvalue1": 136.82,
+          "subvalue2": 2.23,
+          "value": 139.05,
+          "startPage": 20,
+          "endPage": 22
+        }
+      ]
+    },
+    {
+      "label": "MINISTRY OF COMMUNICATIONS",
+      "value": 137255.14,
+      "subitems": [
+        {
+          "index": "13",
+          "label": "Department of Telecommunications",
+          "subvalue1": 27419.17,
+          "subvalue2": 84457.5,
+          "value": 111876.67,
+          "startPage": 49,
+          "endPage": 53
+        },
+        {
+          "index": "12",
+          "label": "Department of Posts",
+          "subvalue1": 24115.87,
+          "subvalue2": 1262.6,
+          "value": 25378.47,
+          "startPage": 47,
+          "endPage": 48
+        }
+      ]
+    },
+    {
+      "label": "MINISTRY OF AGRICULTURE AND FARMERS WELFARE",
+      "value": 127469.88,
+      "subitems": [
+        {
+          "index": "1",
+          "label": "Department of Agriculture and Farmers Welfare",
+          "subvalue1": 117433.15,
+          "subvalue2": 95.64,
+          "value": 117528.79,
+          "startPage": 1,
+          "endPage": 5
+        },
+        {
+          "index": "2",
+          "label": "Department of Agricultural Research and Education",
+          "subvalue1": 9934.59,
+          "subvalue2": 6.5,
+          "value": 9941.09,
+          "startPage": 6,
+          "endPage": 9
+        }
+      ]
+    },
+    {
+      "label": "MINISTRY OF EDUCATION",
+      "value": 120627.87,
+      "subitems": [
+        {
+          "index": "25",
+          "label": "Department of School Education and Literacy",
+          "subvalue1": 73007.34,
+          "subvalue2": 0.76,
+          "value": 73008.1,
+          "startPage": 89,
+          "endPage": 91
+        },
+        {
+          "index": "26",
+          "label": "Department of Higher Education",
+          "subvalue1": 47612.71,
+          "subvalue2": 7.06,
+          "value": 47619.77,
+          "startPage": 92,
+          "endPage": 100
+        }
+      ]
+    },
+    {
+      "label": "MINISTRY OF JAL SHAKTI",
+      "value": 98418.79,
+      "subitems": [
+        {
+          "index": "63",
+          "label": "Department of Drinking Water and Sanitation",
+          "subvalue1": 77389.18,
+          "subvalue2": 1.5,
+          "value": 77390.68,
+          "startPage": 223,
+          "endPage": 225
+        },
+        {
+          "index": "62",
+          "label": "Department of Water Resources, River Development and Ganga Rejuvenation",
+          "subvalue1": 20627.97,
+          "subvalue2": 400.14,
+          "value": 21028.11,
+          "startPage": 216,
+          "endPage": 222
+        }
+      ]
+    },
+    {
+      "label": "MINISTRY OF HEALTH AND FAMILY WELFARE",
+      "value": 90658.63,
+      "subitems": [
+        {
+          "index": "46",
+          "label": "Department of Health and Family Welfare",
+          "subvalue1": 83305.28,
+          "subvalue2": 4351.62,
+          "value": 87656.9,
+          "startPage": 160,
+          "endPage": 167
+        },
+        {
+          "index": "47",
+          "label": "Department of Health Research",
+          "subvalue1": 3000.87,
+          "subvalue2": 0.86,
+          "value": 3001.73,
+          "startPage": 168,
+          "endPage": 169
+        }
+      ]
+    },
+    {
+      "label": "MINISTRY OF HOUSING AND URBAN AFFAIRS",
+      "value": 77523.58,
+      "subitems": [
+        {
+          "index": "60",
+          "label": "Ministry of Housing and Urban Affairs",
+          "subvalue1": 48897.1,
+          "subvalue2": 28626.48,
+          "value": 77523.58,
+          "startPage": 205,
+          "endPage": 211
+        }
+      ]
+    },
+    {
+      "label": "MINISTRY OF PETROLEUM AND NATURAL GAS",
+      "value": 29713.0,
+      "subitems": [
+        {
+          "index": "76",
+          "label": "Ministry of Petroleum and Natural Gas",
+          "subvalue1": 14304.99,
+          "subvalue2": 15408.01,
+          "value": 29713.0,
+          "startPage": 263,
+          "endPage": 267
+        }
+      ]
+    },
+    {
+      "label": "MINISTRY OF WOMEN AND CHILD DEVELOPMENT",
+      "value": 26092.19,
+      "subitems": [
+        {
+          "index": "101",
+          "label": "Ministry of Women and Child Development",
+          "subvalue1": 26088.81,
+          "subvalue2": 3.38,
+          "value": 26092.19,
+          "startPage": 345,
+          "endPage": 347
+        }
+      ]
+    },
+    {
+      "label": "DEPARTMENT OF ATOMIC ENERGY",
+      "value": 24968.98,
+      "subitems": [
+        {
+          "index": "3",
+          "label": "Atomic Energy",
+          "subvalue1": 11108.19,
+          "subvalue2": 13860.79,
+          "value": 24968.98,
+          "startPage": 10,
+          "endPage": 15
+        }
+      ]
+    },
+    {
+      "label": "MINISTRY OF EXTERNAL AFFAIRS",
+      "value": 22154.67,
+      "subitems": [
+        {
+          "index": "29",
+          "label": "Ministry of External Affairs",
+          "subvalue1": 20479.49,
+          "subvalue2": 1675.18,
+          "value": 22154.67,
+          "startPage": 111,
+          "endPage": 114
+        }
+      ]
+    },
+    {
+      "label": "MINISTRY OF MICRO, SMALL AND MEDIUM ENTERPRISES",
+      "value": 22137.95,
+      "subitems": [
+        {
+          "index": "68",
+          "label": "Ministry of Micro, Small and Medium Enterprises",
+          "subvalue1": 21549.87,
+          "subvalue2": 588.08,
+          "value": 22137.95,
+          "startPage": 236,
+          "endPage": 242
+        }
+      ]
+    },
+    {
+      "label": "MINISTRY OF ELECTRONICS AND INFORMATION TECHNOLOGY",
+      "value": 21385.15,
+      "subitems": [
+        {
+          "index": "27",
+          "label": "Ministry of Electronics and Information Technology",
+          "subvalue1": 20804.14,
+          "subvalue2": 581.01,
+          "value": 21385.15,
+          "startPage": 101,
+          "endPage": 105
+        }
+      ]
+    },
+    {
+      "label": "MINISTRY OF POWER",
+      "value": 20502.0,
+      "subitems": [
+        {
+          "index": "79",
+          "label": "Ministry of Power",
+          "subvalue1": 19984.18,
+          "subvalue2": 517.82,
+          "value": 20502.0,
+          "startPage": 274,
+          "endPage": 279
+        }
+      ]
+    },
+    {
+      "label": "MINISTRY OF SCIENCE AND TECHNOLOGY",
+      "value": 16603.94,
+      "subitems": [
+        {
+          "index": "89",
+          "label": "Department of Science and Technology",
+          "subvalue1": 7964.51,
+          "subvalue2": 64.5,
+          "value": 8029.01,
+          "startPage": 304,
+          "endPage": 306
+        },
+        {
+          "index": "91",
+          "label": "Department of Scientific and Industrial Research",
+          "subvalue1": 6321.71,
+          "subvalue2": 1.7,
+          "value": 6323.41,
+          "startPage": 309,
+          "endPage": 310
+        },
+        {
+          "index": "90",
+          "label": "Department of Biotechnology",
+          "subvalue1": 2251.52,
+          "subvalue2": 0,
+          "value": 2251.52,
+          "startPage": 307,
+          "endPage": 308
+        }
+      ]
+    },
+    {
+      "label": "MINISTRY OF SOCIAL JUSTICE AND EMPOWERMENT",
+      "value": 14225.47,
+      "subitems": [
+        {
+          "index": "93",
+          "label": "Department of Social Justice and Empowerment",
+          "subvalue1": 12939.16,
+          "subvalue2": 61.04,
+          "value": 13000.2,
+          "startPage": 315,
+          "endPage": 321
+        },
+        {
+          "index": "94",
+          "label": "Department of Empowerment of Persons with Disabilities",
+          "subvalue1": 1224.07,
+          "subvalue2": 1.2,
+          "value": 1225.27,
+          "startPage": 322,
+          "endPage": 324
+        }
+      ]
+    },
+    {
+      "label": "DEPARMENT OF SPACE",
+      "value": 13042.75,
+      "subitems": [
+        {
+          "index": "95",
+          "label": "Department of Space",
+          "subvalue1": 7475.22,
+          "subvalue2": 5567.53,
+          "value": 13042.75,
+          "startPage": 325,
+          "endPage": 327
+        }
+      ]
+    },
+    {
+      "label": "MINISTRY OF TRIBAL AFFAIRS",
+      "value": 13000.0,
+      "subitems": [
+        {
+          "index": "100",
+          "label": "Ministry of Tribal Affairs",
+          "subvalue1": 12968.17,
+          "subvalue2": 31.83,
+          "value": 13000.0,
+          "startPage": 341,
+          "endPage": 344
+        }
+      ]
+    },
+    {
+      "label": "MINISTRY OF NEW AND RENEWABLE ENERGY",
+      "value": 12850.0,
+      "subitems": [
+        {
+          "index": "71",
+          "label": "Ministry of New and Renewable Energy",
+          "subvalue1": 12832.55,
+          "subvalue2": 17.45,
+          "value": 12850.0,
+          "startPage": 251,
+          "endPage": 255
+        }
+      ]
+    },
+    {
+      "label": "MINISTRY OF LABOUR AND EMPLOYMENT",
+      "value": 12531.47,
+      "subitems": [
+        {
+          "index": "64",
+          "label": "Ministry of Labour and Employment",
+          "subvalue1": 12481.88,
+          "subvalue2": 49.59,
+          "value": 12531.47,
+          "startPage": 226,
+          "endPage": 229
+        }
+      ]
+    },
+    {
+      "label": "MINISTRY OF COMMERCE AND INDUSTRY",
+      "value": 10404.63,
+      "subitems": [
+        {
+          "index": "11",
+          "label": "Department for Promotion of Industry and Internal Trade",
+          "subvalue1": 5020.69,
+          "subvalue2": 1404.39,
+          "value": 6425.08,
+          "startPage": 41,
+          "endPage": 46
+        },
+        {
+          "index": "10",
+          "label": "Department of Commerce",
+          "subvalue1": 3920.33,
+          "subvalue2": 59.22,
+          "value": 3979.55,
+          "startPage": 36,
+          "endPage": 40
+        }
+      ]
+    },
+    {
+      "label": "MINISTRY OF FISHERIES, ANIMAL HUSBANDRY AND DAIRYING",
+      "value": 7105.74,
+      "subitems": [
+        {
+          "index": "44",
+          "label": "Department of Animal Husbandry and Dairying",
+          "subvalue1": 4283.57,
+          "subvalue2": 237.67,
+          "value": 4521.24,
+          "startPage": 154,
+          "endPage": 156
+        },
+        {
+          "index": "43",
+          "label": "Department of Fisheries",
+          "subvalue1": 2565.5,
+          "subvalue2": 19.0,
+          "value": 2584.5,
+          "startPage": 152,
+          "endPage": 153
+        }
+      ]
+    },
+    {
+      "label": "MINISTRY OF HEAVY INDUSTRIES",
+      "value": 6729.0,
+      "subitems": [
+        {
+          "index": "48",
+          "label": "Ministry of Heavy Industries",
+          "subvalue1": 6727.2,
+          "subvalue2": 1.8,
+          "value": 6729.0,
+          "startPage": 170,
+          "endPage": 172
+        }
+      ]
+    },
+    {
+      "label": "MINISTRY OF LAW AND JUSTICE",
+      "value": 6461.7,
+      "subitems": [
+        {
+          "index": "65",
+          "label": "Law and Justice",
+          "subvalue1": 5573.79,
+          "subvalue2": 80.53,
+          "value": 5654.32,
+          "startPage": 230,
+          "endPage": 233
+        },
+        {
+          "index": "67",
+          "label": "Supreme Court of India",
+          "subvalue1": 456.54,
+          "subvalue2": 28.95,
+          "value": 485.49,
+          "startPage": 235,
+          "endPage": 235
+        },
+        {
+          "index": "66",
+          "label": "Election Commission",
+          "subvalue1": 306.06,
+          "subvalue2": 15.83,
+          "value": 321.89,
+          "startPage": 234,
+          "endPage": 234
+        }
+      ]
+    },
+    {
+      "label": "MINISTRY OF DEVELOPMENT OF NORTH EASTERN REGION",
+      "value": 5900.0,
+      "subitems": [
+        {
+          "index": "23",
+          "label": "Ministry of Development of North Eastern Region",
+          "subvalue1": 2040.68,
+          "subvalue2": 3859.32,
+          "value": 5900.0,
+          "startPage": 82,
+          "endPage": 85
+        }
+      ]
+    },
+    {
+      "label": "MINISTRY OF STATISTICS AND PROGRAMME IMPLEMENTATION",
+      "value": 5453.83,
+      "subitems": [
+        {
+          "index": "96",
+          "label": "Ministry of Statistics and Programme Implementation",
+          "subvalue1": 5408.85,
+          "subvalue2": 44.98,
+          "value": 5453.83,
+          "startPage": 328,
+          "endPage": 329
+        }
+      ]
+    },
+    {
+      "label": "MINISTRY OF TEXTILES",
+      "value": 4392.85,
+      "subitems": [
+        {
+          "index": "98",
+          "label": "Ministry of Textiles",
+          "subvalue1": 4373.7,
+          "subvalue2": 19.15,
+          "value": 4392.85,
+          "startPage": 332,
+          "endPage": 336
+        }
+      ]
+    },
+    {
+      "label": "MINISTRY OF INFORMATION AND BROADCASTING",
+      "value": 4342.55,
+      "subitems": [
+        {
+          "index": "61",
+          "label": "Ministry of Information and Broadcasting",
+          "subvalue1": 4303.71,
+          "subvalue2": 38.84,
+          "value": 4342.55,
+          "startPage": 212,
+          "endPage": 215
+        }
+      ]
+    },
+    {
+      "label": "MINISTRY OF AYUSH",
+      "value": 3712.49,
+      "subitems": [
+        {
+          "index": "4",
+          "label": "Ministry of Ayush",
+          "subvalue1": 3703.74,
+          "subvalue2": 8.75,
+          "value": 3712.49,
+          "startPage": 16,
+          "endPage": 19
+        }
+      ]
+    },
+    {
+      "label": "MINISTRY OF SKILL DEVELOPMENT AND ENTREPRENEURSHIP",
+      "value": 3520.0,
+      "subitems": [
+        {
+          "index": "92",
+          "label": "Ministry of Skill Development and Entrepreneurship",
+          "subvalue1": 3409.63,
+          "subvalue2": 110.37,
+          "value": 3520.0,
+          "startPage": 311,
+          "endPage": 314
+        }
+      ]
+    },
+    {
+      "label": "MINISTRY OF YOUTH AFFAIRS AND SPORTS",
+      "value": 3442.32,
+      "subitems": [
+        {
+          "index": "102",
+          "label": "Ministry of Youth Affairs and Sports",
+          "subvalue1": 3435.85,
+          "subvalue2": 6.47,
+          "value": 3442.32,
+          "startPage": 348,
+          "endPage": 351
+        }
+      ]
+    },
+    {
+      "label": "MINISTRY OF FOOD PROCESSING INDUSTRIES",
+      "value": 3290.0,
+      "subitems": [
+        {
+          "index": "45",
+          "label": "Ministry of Food Processing Industries",
+          "subvalue1": 3287.46,
+          "subvalue2": 2.54,
+          "value": 3290.0,
+          "startPage": 157,
+          "endPage": 159
+        }
+      ]
+    },
+    {
+      "label": "MINISTRY OF ENVIRONMENT, FORESTS AND CLIMATE CHANGE",
+      "value": 3265.53,
+      "subitems": [
+        {
+          "index": "28",
+          "label": "Ministry of Environment, Forests and Climate Change",
+          "subvalue1": 3172.28,
+          "subvalue2": 93.25,
+          "value": 3265.53,
+          "startPage": 106,
+          "endPage": 110
+        }
+      ]
+    },
+    {
+      "label": "MINISTRY OF CULTURE",
+      "value": 3260.93,
+      "subitems": [
+        {
+          "index": "18",
+          "label": "Ministry of Culture",
+          "subvalue1": 3070.92,
+          "subvalue2": 190.01,
+          "value": 3260.93,
+          "startPage": 67,
+          "endPage": 69
+        }
+      ]
+    },
+    {
+      "label": "MINISTRY OF MINORITY AFFAIRS",
+      "value": 3183.24,
+      "subitems": [
+        {
+          "index": "70",
+          "label": "Ministry of Minority Affairs",
+          "subvalue1": 3179.49,
+          "subvalue2": 3.75,
+          "value": 3183.24,
+          "startPage": 246,
+          "endPage": 250
+        }
+      ]
+    },
+    {
+      "label": "MINISTRY OF EARTH SCIENCES",
+      "value": 2521.83,
+      "subitems": [
+        {
+          "index": "24",
+          "label": "Ministry of Earth Sciences",
+          "subvalue1": 1963.49,
+          "subvalue2": 558.34,
+          "value": 2521.83,
+          "startPage": 86,
+          "endPage": 88
+        }
+      ]
+    },
+    {
+      "label": "MINISTRY OF TOURISM",
+      "value": 2449.62,
+      "subitems": [
+        {
+          "index": "99",
+          "label": "Ministry of Tourism",
+          "subvalue1": 2447.85,
+          "subvalue2": 1.77,
+          "value": 2449.62,
+          "startPage": 337,
+          "endPage": 340
+        }
+      ]
+    },
+    {
+      "label": "MINISTRY OF PORTS, SHIPPING AND WATERWAYS",
+      "value": 2345.55,
+      "subitems": [
+        {
+          "index": "78",
+          "label": "Ministry of Ports, Shipping and Waterways",
+          "subvalue1": 1267.62,
+          "subvalue2": 1077.93,
+          "value": 2345.55,
+          "startPage": 270,
+          "endPage": 273
+        }
+      ]
+    },
+    {
+      "label": "MINISTRY OF CIVIL AVIATION",
+      "value": 2300.0,
+      "subitems": [
+        {
+          "index": "8",
+          "label": "Ministry of Civil Aviation",
+          "subvalue1": 2257.79,
+          "subvalue2": 42.21,
+          "value": 2300.0,
+          "startPage": 30,
+          "endPage": 32
+        }
+      ]
+    },
+    {
+      "label": "MINISTRY OF PERSONNEL, PUBLIC GRIEVANCES AND PENSIONS",
+      "value": 2284.87,
+      "subitems": [
+        {
+          "index": "74",
+          "label": "Ministry of Personnel, Public Grievances and Pensions",
+          "subvalue1": 1957.63,
+          "subvalue2": 275.93,
+          "value": 2233.56,
+          "startPage": 259,
+          "endPage": 261
+        },
+        {
+          "index": "75",
+          "label": "Central Vigilance Commission",
+          "subvalue1": 49.69,
+          "subvalue2": 1.62,
+          "value": 51.31,
+          "startPage": 262,
+          "endPage": 262
+        }
+      ]
+    },
+    {
+      "label": "MINISTRY OF MINES",
+      "value": 1941.06,
+      "subitems": [
+        {
+          "index": "69",
+          "label": "Ministry of Mines",
+          "subvalue1": 1895.64,
+          "subvalue2": 45.42,
+          "value": 1941.06,
+          "startPage": 243,
+          "endPage": 245
+        }
+      ]
+    },
+    {
+      "label": "VICE PRESIDENT",
+      "value": 1877.6,
+      "subitems": [
+        {
+          "index": "81",
+          "label": "Lok Sabha",
+          "subvalue1": 782.77,
+          "subvalue2": 79.23,
+          "value": 862.0,
+          "startPage": 281,
+          "endPage": 282
+        },
+        {
+          "index": "82",
+          "label": "Rajya Sabha",
+          "subvalue1": 418.42,
+          "subvalue2": 15.68,
+          "value": 434.1,
+          "startPage": 283,
+          "endPage": 284
+        },
+        {
+          "index": "84",
+          "label": "Union Public Service Commission",
+          "subvalue1": 404.17,
+          "subvalue2": 21.54,
+          "value": 425.71,
+          "startPage": 286,
+          "endPage": 286
+        },
+        {
+          "index": "80",
+          "label": "Staff, Household and Allowances of the President",
+          "subvalue1": 108.09,
+          "subvalue2": 36.09,
+          "value": 144.18,
+          "startPage": 280,
+          "endPage": 280
+        },
+        {
+          "index": "83",
+          "label": "Secretariat of the Vice -President",
+          "subvalue1": 11.3,
+          "subvalue2": 0.31,
+          "value": 11.61,
+          "startPage": 285,
+          "endPage": 285
+        }
+      ]
+    },
+    {
+      "label": "MINISTRY OF PANCHAYATI RAJ",
+      "value": 1183.64,
+      "subitems": [
+        {
+          "index": "72",
+          "label": "Ministry of Panchayati Raj",
+          "subvalue1": 1161.2,
+          "subvalue2": 22.44,
+          "value": 1183.64,
+          "startPage": 256,
+          "endPage": 257
+        }
+      ]
+    },
+    {
+      "label": "MINISTRY OF COOPERATION",
+      "value": 1183.39,
+      "subitems": [
+        {
+          "index": "16",
+          "label": "Ministry of Cooperation",
+          "subvalue1": 1182.38,
+          "subvalue2": 1.01,
+          "value": 1183.39,
+          "startPage": 61,
+          "endPage": 63
+        }
+      ]
+    },
+    {
+      "label": "MINISTRY OF PLANNING",
+      "value": 837.26,
+      "subitems": [
+        {
+          "index": "77",
+          "label": "Ministry of Planning",
+          "subvalue1": 818.3,
+          "subvalue2": 18.96,
+          "value": 837.26,
+          "startPage": 268,
+          "endPage": 269
+        }
+      ]
+    },
+    {
+      "label": "MINISTRY OF CORPORATE AFFAIRS",
+      "value": 667.06,
+      "subitems": [
+        {
+          "index": "17",
+          "label": "Ministry of Corporate Affairs",
+          "subvalue1": 611.96,
+          "subvalue2": 55.1,
+          "value": 667.06,
+          "startPage": 64,
+          "endPage": 66
+        }
+      ]
+    },
+    {
+      "label": "MINISTRY OF STEEL",
+      "value": 325.66,
+      "subitems": [
+        {
+          "index": "97",
+          "label": "Ministry of Steel",
+          "subvalue1": 324.19,
+          "subvalue2": 1.47,
+          "value": 325.66,
+          "startPage": 330,
+          "endPage": 331
+        }
+      ]
+    },
+    {
+      "label": "MINISTRY OF COAL",
+      "value": 192.55,
+      "subitems": [
+        {
+          "index": "9",
+          "label": "Ministry of Coal",
+          "subvalue1": 190.35,
+          "subvalue2": 2.2,
+          "value": 192.55,
+          "startPage": 33,
+          "endPage": 35
+        }
+      ]
+    },
+    {
+      "label": "MINISTRY OF PARLIAMENTARY AFFAIRS",
+      "value": 64.0,
+      "subitems": [
+        {
+          "index": "73",
+          "label": "Ministry of Parliamentary Affairs",
+          "subvalue1": 59.7,
+          "subvalue2": 4.3,
+          "value": 64.0,
+          "startPage": 258,
+          "endPage": 258
+        }
+      ]
+    }
+  ]
+}

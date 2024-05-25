@@ -1,0 +1,936 @@
+{
+  "name": "MINISTRY OF MINORITY AFFAIRS",
+  "demand": "DEMAND NO. 70",
+  "department": "Ministry of Minority Affairs",
+  "sections": {
+    "allocation": [
+      {
+        "index": "1",
+        "name": "Secretariat",
+        "2024_budget": {
+          "revenue": 33.62,
+          "capital": 2.0,
+          "total": 35.62
+        },
+        "2023": {
+          "budget": {
+            "revenue": 31.0,
+            "capital": 4.0,
+            "total": 35.0
+          },
+          "revised": {
+            "revenue": 31.0,
+            "capital": 4.0,
+            "total": 35.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 25.02,
+          "capital": 0,
+          "total": 25.02
+        }
+      },
+      {
+        "index": "2",
+        "name": "Special Programme for Minorities",
+        "2024_budget": {
+          "revenue": 95.25,
+          "capital": 1.75,
+          "total": 97.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 97.0,
+            "capital": 0,
+            "total": 97.0
+          },
+          "revised": {
+            "revenue": 86.69,
+            "capital": 0,
+            "total": 86.69
+          }
+        },
+        "2022_actual": {
+          "revenue": 61.56,
+          "capital": 0,
+          "total": 61.56
+        }
+      },
+      {
+        "index": "3",
+        "name": "Quami Waqf Board Taraqqiati Scheme and Sahari Waqf Sampati Vikas Yojna",
+        "2024_budget": {
+          "revenue": 16.0,
+          "capital": 0,
+          "total": 16.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 17.0,
+            "capital": 0,
+            "total": 17.0
+          },
+          "revised": {
+            "revenue": 8.0,
+            "capital": 0,
+            "total": 8.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 5.12,
+          "capital": 0,
+          "total": 5.12
+        }
+      },
+      {
+        "index": "4.",
+        "name": "Education Empowerment"
+      },
+      {
+        "index": "4.01",
+        "name": "Pre-Matric Scholarship for Minorities",
+        "2024_budget": {
+          "revenue": 326.16,
+          "capital": 0,
+          "total": 326.16
+        },
+        "2023": {
+          "budget": {
+            "revenue": 433.0,
+            "capital": 0,
+            "total": 433.0
+          },
+          "revised": {
+            "revenue": 400.0,
+            "capital": 0,
+            "total": 400.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 43.95,
+          "capital": 0,
+          "total": 43.95
+        }
+      },
+      {
+        "index": "4.02",
+        "name": "Post-Matric Scholarship for Minorities",
+        "2024_budget": {
+          "revenue": 1145.38,
+          "capital": 0,
+          "total": 1145.38
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1065.0,
+            "capital": 0,
+            "total": 1065.0
+          },
+          "revised": {
+            "revenue": 1000.0,
+            "capital": 0,
+            "total": 1000.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 29.0,
+          "capital": 0,
+          "total": 29.0
+        }
+      },
+      {
+        "index": "4.03",
+        "name": "Merit -cum-Means Scholarship for professional and technical courses (under graduate and post -graduate)",
+        "2024_budget": {
+          "revenue": 33.8,
+          "capital": 0,
+          "total": 33.8
+        },
+        "2023": {
+          "budget": {
+            "revenue": 44.0,
+            "capital": 0,
+            "total": 44.0
+          },
+          "revised": {
+            "revenue": 25.0,
+            "capital": 0,
+            "total": 25.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 34.89,
+          "capital": 0,
+          "total": 34.89
+        }
+      },
+      {
+        "index": "4.04",
+        "name": "Maulana Azad National Fellowship for Minority Students",
+        "2024_budget": {
+          "revenue": 45.08,
+          "capital": 0,
+          "total": 45.08
+        },
+        "2023": {
+          "budget": {
+            "revenue": 96.0,
+            "capital": 0,
+            "total": 96.0
+          },
+          "revised": {
+            "revenue": 54.0,
+            "capital": 0,
+            "total": 54.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 98.85,
+          "capital": 0,
+          "total": 98.85
+        }
+      },
+      {
+        "index": "4.05",
+        "name": "Free Coaching and allied schemes for Minorities",
+        "2024_budget": {
+          "revenue": 10.0,
+          "capital": 0,
+          "total": 10.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 30.0,
+            "capital": 0,
+            "total": 30.0
+          },
+          "revised": {
+            "revenue": 14.0,
+            "capital": 0,
+            "total": 14.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 25.0,
+          "capital": 0,
+          "total": 25.0
+        }
+      },
+      {
+        "index": "4.06",
+        "name": "Interest Subsidy on Educational loans for Overseas Studies",
+        "2024_budget": {
+          "revenue": 15.3,
+          "capital": 0,
+          "total": 15.3
+        },
+        "2023": {
+          "budget": {
+            "revenue": 21.0,
+            "capital": 0,
+            "total": 21.0
+          },
+          "revised": {
+            "revenue": 7.0,
+            "capital": 0,
+            "total": 7.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 24.0,
+          "capital": 0,
+          "total": 24.0
+        }
+      },
+      {
+        "index": "4.07",
+        "name": "Support for students clearing Prelims conducted by UPSC, SSC, State Public Service Commissions etc",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 1.66,
+          "capital": 0,
+          "total": 1.66
+        }
+      },
+      {
+        "index": "5.",
+        "name": "Skill Development and Livelihoods"
+      },
+      {
+        "index": "5.01",
+        "name": "Skill Development Initiatives",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0.1,
+            "capital": 0,
+            "total": 0.1
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 65.28,
+          "capital": 0,
+          "total": 65.28
+        }
+      },
+      {
+        "index": "5.02",
+        "name": "Nai Manzil - the Integrated Educational and Livelihood Initiative",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0.1,
+            "capital": 0,
+            "total": 0.1
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 7.62,
+          "capital": 0,
+          "total": 7.62
+        }
+      },
+      {
+        "index": "5.03",
+        "name": "Upgrading Skills and Training in Traditional Arts/Crafts for Development (USTTAD)",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0.1,
+            "capital": 0,
+            "total": 0.1
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 10.61,
+          "capital": 0,
+          "total": 10.61
+        }
+      },
+      {
+        "index": "5.04",
+        "name": "Scheme for Leadership Development of Minority Women",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0.1,
+            "capital": 0,
+            "total": 0.1
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0.62,
+          "capital": 0,
+          "total": 0.62
+        }
+      },
+      {
+        "index": "5.05",
+        "name": "Grants in aid to State Channelizing Agencies (SCAs) for implementation of NMDFC Programmes",
+        "2024_budget": {
+          "revenue": 3.0,
+          "capital": 0,
+          "total": 3.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 3.0,
+            "capital": 0,
+            "total": 3.0
+          },
+          "revised": {
+            "revenue": 3.0,
+            "capital": 0,
+            "total": 3.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 2.0,
+          "capital": 0,
+          "total": 2.0
+        }
+      },
+      {
+        "index": "5.06",
+        "name": "Equity contribution to National Minorities Development and Finance Corporation (NMDFC)",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 61.0,
+            "total": 61.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 61.0,
+            "total": 61.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 159.0,
+          "total": 159.0
+        }
+      },
+      {
+        "index": "6",
+        "name": "Special Programmes of Minorities 6.01 Research/Studies, Publicity, Monitoring and Evaluation of development Schemes for Minorities",
+        "2024_budget": {
+          "revenue": 20.0,
+          "capital": 0,
+          "total": 20.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 20.0,
+            "capital": 0,
+            "total": 20.0
+          },
+          "revised": {
+            "revenue": 15.0,
+            "capital": 0,
+            "total": 15.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 4.83,
+          "capital": 0,
+          "total": 4.83
+        }
+      },
+      {
+        "index": "6.02",
+        "name": "Hamari Dharohar for conservation and protection of culture and heritage of Minorities",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0.1,
+            "capital": 0,
+            "total": 0.1
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "6.03",
+        "name": "Scheme for containing population decline of small minority community",
+        "2024_budget": {
+          "revenue": 6.0,
+          "capital": 0,
+          "total": 6.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 6.0,
+            "capital": 0,
+            "total": 6.0
+          },
+          "revised": {
+            "revenue": 3.0,
+            "capital": 0,
+            "total": 3.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 2.7,
+          "capital": 0,
+          "total": 2.7
+        }
+      },
+      {
+        "index": "7.",
+        "name": "PM-Viraasat Ka Samvardhan (PM VIKAS)"
+      },
+      {
+        "index": "7.08",
+        "name": "PM-VIKAS Committed Liabilities",
+        "2024_budget": {
+          "revenue": 500.0,
+          "capital": 0,
+          "total": 500.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 540.0,
+            "capital": 0,
+            "total": 540.0
+          },
+          "revised": {
+            "revenue": 325.86,
+            "capital": 0,
+            "total": 325.86
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "8",
+        "name": "National Commission for Minorities",
+        "2024_budget": {
+          "revenue": 14.0,
+          "capital": 0,
+          "total": 14.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 15.0,
+            "capital": 0,
+            "total": 15.0
+          },
+          "revised": {
+            "revenue": 13.5,
+            "capital": 0,
+            "total": 13.5
+          }
+        },
+        "2022_actual": {
+          "revenue": 11.24,
+          "capital": 0,
+          "total": 11.24
+        }
+      },
+      {
+        "index": "9",
+        "name": "Special Officer for Linguistic Minorities",
+        "2024_budget": {
+          "revenue": 3.0,
+          "capital": 0,
+          "total": 3.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 4.0,
+            "capital": 0,
+            "total": 4.0
+          },
+          "revised": {
+            "revenue": 2.88,
+            "capital": 0,
+            "total": 2.88
+          }
+        },
+        "2022_actual": {
+          "revenue": 1.98,
+          "capital": 0,
+          "total": 1.98
+        }
+      },
+      {
+        "index": "10",
+        "name": "Maulana Azad Education Foundation (MAEF)",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0.1,
+            "capital": 0,
+            "total": 0.1
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "11",
+        "name": "Actual Recoveries -34.99 ... -34.99 ... ... ... ... ... ... ... ... ... Total -Other Central Sector Expenditure",
+        "2024_budget": {
+          "revenue": 17.0,
+          "capital": 0,
+          "total": 17.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 19.1,
+            "capital": 0,
+            "total": 19.1
+          },
+          "revised": {
+            "revenue": 16.38,
+            "capital": 0,
+            "total": 16.38
+          }
+        },
+        "2022_actual": {
+          "revenue": -21.77,
+          "capital": 0,
+          "total": -21.77
+        }
+      },
+      {
+        "index": "12",
+        "name": "Pradhan Mantri Jan Vikas Karyakaram",
+        "2024_budget": {
+          "revenue": 910.9,
+          "capital": 0,
+          "total": 910.9
+        },
+        "2023": {
+          "budget": {
+            "revenue": 600.0,
+            "capital": 0,
+            "total": 600.0
+          },
+          "revised": {
+            "revenue": 550.0,
+            "capital": 0,
+            "total": 550.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 222.67,
+          "capital": 0,
+          "total": 222.67
+        }
+      },
+      {
+        "index": "13",
+        "name": "Education Scheme for Madrasas and Minorities",
+        "2024_budget": {
+          "revenue": 2.0,
+          "capital": 0,
+          "total": 2.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 10.0,
+            "capital": 0,
+            "total": 10.0
+          },
+          "revised": {
+            "revenue": 5.0,
+            "capital": 0,
+            "total": 5.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0.08,
+          "capital": 0,
+          "total": 0.08
+        }
+      }
+    ],
+    "development_heads": [
+      {
+        "index": "1",
+        "name": "Welfare of Scheduled Castes, Scheduled Tribes, Other Backward Classes and Minorities",
+        "2024_budget": {
+          "revenue": 1667.44,
+          "capital": 0,
+          "total": 1667.44
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1797.98,
+            "capital": 0,
+            "total": 1797.98
+          },
+          "revised": {
+            "revenue": 1599.72,
+            "capital": 0,
+            "total": 1599.72
+          }
+        },
+        "2022_actual": {
+          "revenue": 341.24,
+          "capital": 0,
+          "total": 341.24
+        }
+      },
+      {
+        "index": "2",
+        "name": "Social Security and Welfare",
+        "2024_budget": {
+          "revenue": 602.55,
+          "capital": 0,
+          "total": 602.55
+        },
+        "2023": {
+          "budget": {
+            "revenue": 646.38,
+            "capital": 0,
+            "total": 646.38
+          },
+          "revised": {
+            "revenue": 414.06,
+            "capital": 0,
+            "total": 414.06
+          }
+        },
+        "2022_actual": {
+          "revenue": 174.17,
+          "capital": 0,
+          "total": 174.17
+        }
+      },
+      {
+        "index": "3",
+        "name": "Secretariat -Social Services",
+        "2024_budget": {
+          "revenue": 33.62,
+          "capital": 0,
+          "total": 33.62
+        },
+        "2023": {
+          "budget": {
+            "revenue": 31.0,
+            "capital": 0,
+            "total": 31.0
+          },
+          "revised": {
+            "revenue": 31.0,
+            "capital": 0,
+            "total": 31.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 25.02,
+          "capital": 0,
+          "total": 25.02
+        }
+      },
+      {
+        "index": "4",
+        "name": "Capital Outlay on Welfare of Scheduled Castes, Scheduled Tribes , Other Backward Classes and Minorities",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 61.0,
+            "total": 61.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 61.0,
+            "total": 61.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 159.0,
+          "total": 159.0
+        }
+      },
+      {
+        "index": "5",
+        "name": "Capital Outlay on other Social Services",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 3.75,
+          "total": 3.75
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 4.0,
+            "total": 4.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 4.0,
+            "total": 4.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "6",
+        "name": "North Eastern Areas",
+        "2024_budget": {
+          "revenue": 318.7,
+          "capital": 0,
+          "total": 318.7
+        },
+        "2023": {
+          "budget": {
+            "revenue": 309.7,
+            "capital": 0,
+            "total": 309.7
+          },
+          "revised": {
+            "revenue": 261.44,
+            "capital": 0,
+            "total": 261.44
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "7",
+        "name": "Grants -in-aid to State Governments",
+        "2024_budget": {
+          "revenue": 527.12,
+          "capital": 0,
+          "total": 527.12
+        },
+        "2023": {
+          "budget": {
+            "revenue": 247.21,
+            "capital": 0,
+            "total": 247.21
+          },
+          "revised": {
+            "revenue": 237.54,
+            "capital": 0,
+            "total": 237.54
+          }
+        },
+        "2022_actual": {
+          "revenue": 103.26,
+          "capital": 0,
+          "total": 103.26
+        }
+      },
+      {
+        "index": "8",
+        "name": "Grants -in-aid to Union Territory Governments",
+        "2024_budget": {
+          "revenue": 30.06,
+          "capital": 0,
+          "total": 30.06
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0.33,
+            "capital": 0,
+            "total": 0.33
+          },
+          "revised": {
+            "revenue": 0.17,
+            "capital": 0,
+            "total": 0.17
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      }
+    ],
+    "public_enterprises": [
+      {
+        "index": "1",
+        "name": "Equity contribution to National Minorities Development and Finance Corporation",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 800.0,
+          "total": 800.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 61.0,
+            "capital": 886.0,
+            "total": 947.0
+          },
+          "revised": {
+            "revenue": 61.0,
+            "capital": 826.0,
+            "total": 887.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 159.0,
+          "capital": 711.79,
+          "total": 870.79
+        }
+      }
+    ]
+  },
+  "number": 70
+}

@@ -1,0 +1,273 @@
+{
+  "name": "MINISTRY OF PANCHAYATI RAJ",
+  "demand": "DEMAND NO. 72",
+  "department": "Ministry of Panchayati Raj",
+  "sections": {
+    "allocation": [
+      {
+        "index": "1",
+        "name": "Secretariat",
+        "2024_budget": {
+          "revenue": 48.57,
+          "capital": 1.4,
+          "total": 49.97
+        },
+        "2023": {
+          "budget": {
+            "revenue": 44.31,
+            "capital": 1.11,
+            "total": 45.42
+          },
+          "revised": {
+            "revenue": 41.75,
+            "capital": 1.11,
+            "total": 42.86
+          }
+        },
+        "2022_actual": {
+          "revenue": 36.22,
+          "capital": 0,
+          "total": 36.22
+        }
+      },
+      {
+        "index": "2",
+        "name": "Svamitva",
+        "2024_budget": {
+          "revenue": 50.46,
+          "capital": 19.54,
+          "total": 70.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 55.46,
+            "capital": 20.54,
+            "total": 76.0
+          },
+          "revised": {
+            "revenue": 54.0,
+            "capital": 0,
+            "total": 54.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 103.29,
+          "capital": 0,
+          "total": 103.29
+        }
+      },
+      {
+        "index": "3",
+        "name": "Rashtriya Gram Swaraj Abhiyan (RGSA)",
+        "2024_budget": {
+          "revenue": 1062.17,
+          "capital": 1.5,
+          "total": 1063.67
+        },
+        "2023": {
+          "budget": {
+            "revenue": 893.5,
+            "capital": 1.5,
+            "total": 895.0
+          },
+          "revised": {
+            "revenue": 885.64,
+            "capital": 1.5,
+            "total": 887.14
+          }
+        },
+        "2022_actual": {
+          "revenue": 761.67,
+          "capital": 0,
+          "total": 761.67
+        }
+      }
+    ],
+    "development_heads": [
+      {
+        "index": "1",
+        "name": "Other Rural Development Programmes",
+        "2024_budget": {
+          "revenue": 223.13,
+          "capital": 0,
+          "total": 223.13
+        },
+        "2023": {
+          "budget": {
+            "revenue": 156.96,
+            "capital": 0,
+            "total": 156.96
+          },
+          "revised": {
+            "revenue": 142.48,
+            "capital": 0,
+            "total": 142.48
+          }
+        },
+        "2022_actual": {
+          "revenue": 193.13,
+          "capital": 0,
+          "total": 193.13
+        }
+      },
+      {
+        "index": "2",
+        "name": "Secretariat -Economic Services",
+        "2024_budget": {
+          "revenue": 48.57,
+          "capital": 0,
+          "total": 48.57
+        },
+        "2023": {
+          "budget": {
+            "revenue": 44.31,
+            "capital": 0,
+            "total": 44.31
+          },
+          "revised": {
+            "revenue": 41.75,
+            "capital": 0,
+            "total": 41.75
+          }
+        },
+        "2022_actual": {
+          "revenue": 36.22,
+          "capital": 0,
+          "total": 36.22
+        }
+      },
+      {
+        "index": "3",
+        "name": "Capital Outlay on Other Rural Development Programmes",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 21.04,
+          "total": 21.04
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 22.04,
+            "total": 22.04
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 1.5,
+            "total": 1.5
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "4",
+        "name": "Capital Outlay on Other General Economic Services",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 1.4,
+          "total": 1.4
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 1.11,
+            "total": 1.11
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 1.11,
+            "total": 1.11
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "5",
+        "name": "North Eastern Areas",
+        "2024_budget": {
+          "revenue": 113.37,
+          "capital": 0,
+          "total": 113.37
+        },
+        "2023": {
+          "budget": {
+            "revenue": 97.1,
+            "capital": 0,
+            "total": 97.1
+          },
+          "revised": {
+            "revenue": 97.1,
+            "capital": 0,
+            "total": 97.1
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "6",
+        "name": "Grants -in-aid to State Governments",
+        "2024_budget": {
+          "revenue": 726.13,
+          "capital": 0,
+          "total": 726.13
+        },
+        "2023": {
+          "budget": {
+            "revenue": 654.9,
+            "capital": 0,
+            "total": 654.9
+          },
+          "revised": {
+            "revenue": 635.06,
+            "capital": 0,
+            "total": 635.06
+          }
+        },
+        "2022_actual": {
+          "revenue": 631.83,
+          "capital": 0,
+          "total": 631.83
+        }
+      },
+      {
+        "index": "7",
+        "name": "Grants -in-aid to Union Territory Governments",
+        "2024_budget": {
+          "revenue": 50.0,
+          "capital": 0,
+          "total": 50.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 40.0,
+            "capital": 0,
+            "total": 40.0
+          },
+          "revised": {
+            "revenue": 65.0,
+            "capital": 0,
+            "total": 65.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 40.0,
+          "capital": 0,
+          "total": 40.0
+        }
+      }
+    ],
+    "public_enterprises": []
+  },
+  "number": 72
+}

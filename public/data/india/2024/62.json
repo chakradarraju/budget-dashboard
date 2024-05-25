@@ -1,0 +1,2060 @@
+{
+  "name": "MINISTRY OF JAL SHAKTI",
+  "demand": "DEMAND NO. 62",
+  "department": "Department of Water Resources, River Development and Ganga Rejuvenation",
+  "sections": {
+    "allocation": [
+      {
+        "index": "1.",
+        "name": "Secretariat"
+      },
+      {
+        "index": "1.01",
+        "name": "Secretariat",
+        "2024_budget": {
+          "revenue": 269.26,
+          "capital": 5.74,
+          "total": 275.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 275.9,
+            "capital": 3.17,
+            "total": 279.07
+          },
+          "revised": {
+            "revenue": 280.49,
+            "capital": 5.05,
+            "total": 285.54
+          }
+        },
+        "2022_actual": {
+          "revenue": 122.13,
+          "capital": 0,
+          "total": 122.13
+        }
+      },
+      {
+        "index": "1.02",
+        "name": "Recoveries",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": -0.01,
+          "capital": 0,
+          "total": -0.01
+        }
+      },
+      {
+        "index": "2.",
+        "name": "Central Water Commission"
+      },
+      {
+        "index": "2.01",
+        "name": "Central Water Commission",
+        "2024_budget": {
+          "revenue": 379.28,
+          "capital": 12.05,
+          "total": 391.33
+        },
+        "2023": {
+          "budget": {
+            "revenue": 448.7,
+            "capital": 11.3,
+            "total": 460.0
+          },
+          "revised": {
+            "revenue": 398.0,
+            "capital": 2.0,
+            "total": 400.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 378.52,
+          "capital": 8.6,
+          "total": 387.12
+        }
+      },
+      {
+        "index": "2.02",
+        "name": "Recoveries",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": -0.6,
+          "capital": 0,
+          "total": -0.6
+        }
+      },
+      {
+        "index": "3.",
+        "name": "Central Water and Power Research Station"
+      },
+      {
+        "index": "3.01",
+        "name": "Central Water and Power Research Station",
+        "2024_budget": {
+          "revenue": 89.64,
+          "capital": 0.36,
+          "total": 90.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 99.69,
+            "capital": 0.31,
+            "total": 100.0
+          },
+          "revised": {
+            "revenue": 87.8,
+            "capital": 0.2,
+            "total": 88.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 83.56,
+          "capital": 0,
+          "total": 83.56
+        }
+      },
+      {
+        "index": "3.02",
+        "name": "Recoveries",
+        "2024_budget": {
+          "revenue": -15.0,
+          "capital": 0,
+          "total": -15.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": -15.0,
+            "capital": 0,
+            "total": -15.0
+          }
+        },
+        "2022_actual": {
+          "revenue": -15.95,
+          "capital": 0,
+          "total": -15.95
+        }
+      },
+      {
+        "index": "4",
+        "name": "Central Soil and Material Research Station",
+        "2024_budget": {
+          "revenue": 29.89,
+          "capital": 0.11,
+          "total": 30.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 28.57,
+            "capital": 0.2,
+            "total": 28.77
+          },
+          "revised": {
+            "revenue": 30.38,
+            "capital": 0.09,
+            "total": 30.47
+          }
+        },
+        "2022_actual": {
+          "revenue": 27.6,
+          "capital": 0,
+          "total": 27.6
+        }
+      },
+      {
+        "index": "5",
+        "name": "Bansagar Control Board",
+        "2024_budget": {
+          "revenue": 0.3,
+          "capital": 0,
+          "total": 0.3
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0.55,
+            "capital": 0,
+            "total": 0.55
+          },
+          "revised": {
+            "revenue": 0.3,
+            "capital": 0,
+            "total": 0.3
+          }
+        },
+        "2022_actual": {
+          "revenue": 0.1,
+          "capital": 0,
+          "total": 0.1
+        }
+      },
+      {
+        "index": "6.",
+        "name": "Upper Yamuna River Board"
+      },
+      {
+        "index": "6.01",
+        "name": "Upper Yamuna River Board",
+        "2024_budget": {
+          "revenue": 5.98,
+          "capital": 3.31,
+          "total": 9.29
+        },
+        "2023": {
+          "budget": {
+            "revenue": 2.92,
+            "capital": 7.08,
+            "total": 10.0
+          },
+          "revised": {
+            "revenue": 3.23,
+            "capital": 8.03,
+            "total": 11.26
+          }
+        },
+        "2022_actual": {
+          "revenue": 8.82,
+          "capital": 3.12,
+          "total": 11.94
+        }
+      },
+      {
+        "index": "6.02",
+        "name": "Recoveries",
+        "2024_budget": {
+          "revenue": -1.8,
+          "capital": -1.23,
+          "total": -3.03
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": -1.0,
+            "capital": -3.0,
+            "total": -4.0
+          }
+        },
+        "2022_actual": {
+          "revenue": -3.92,
+          "capital": 0,
+          "total": -3.92
+        }
+      },
+      {
+        "index": "7",
+        "name": "Central Ground Water Board",
+        "2024_budget": {
+          "revenue": 296.5,
+          "capital": 13.5,
+          "total": 310.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 289.51,
+            "capital": 14.98,
+            "total": 304.49
+          },
+          "revised": {
+            "revenue": 289.7,
+            "capital": 14.3,
+            "total": 304.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 276.05,
+          "capital": 7.57,
+          "total": 283.62
+        }
+      },
+      {
+        "index": "8",
+        "name": "National Dam Safety Authority",
+        "2024_budget": {
+          "revenue": 19.78,
+          "capital": 5.22,
+          "total": 25.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 12.03,
+            "capital": 0.65,
+            "total": 12.68
+          },
+          "revised": {
+            "revenue": 9.58,
+            "capital": 3.1,
+            "total": 12.68
+          }
+        },
+        "2022_actual": {
+          "revenue": 0.12,
+          "capital": 0,
+          "total": 0.12
+        }
+      },
+      {
+        "index": "9",
+        "name": "National Institute of Hydrology",
+        "2024_budget": {
+          "revenue": 50.0,
+          "capital": 0,
+          "total": 50.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 50.0,
+            "capital": 0,
+            "total": 50.0
+          },
+          "revised": {
+            "revenue": 55.0,
+            "capital": 0,
+            "total": 55.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 43.67,
+          "capital": 0,
+          "total": 43.67
+        }
+      },
+      {
+        "index": "10",
+        "name": "National Water Informatics Centre",
+        "2024_budget": {
+          "revenue": 4.0,
+          "capital": 0,
+          "total": 4.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 3.95,
+            "capital": 0,
+            "total": 3.95
+          },
+          "revised": {
+            "revenue": 3.59,
+            "capital": 0.01,
+            "total": 3.6
+          }
+        },
+        "2022_actual": {
+          "revenue": 2.68,
+          "capital": 0,
+          "total": 2.68
+        }
+      },
+      {
+        "index": "11",
+        "name": "National River Conservation Directorate",
+        "2024_budget": {
+          "revenue": 8.81,
+          "capital": 0.19,
+          "total": 9.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 8.5,
+            "capital": 0,
+            "total": 8.5
+          },
+          "revised": {
+            "revenue": 8.5,
+            "capital": 0,
+            "total": 8.5
+          }
+        },
+        "2022_actual": {
+          "revenue": 7.44,
+          "capital": 0,
+          "total": 7.44
+        }
+      },
+      {
+        "index": "12",
+        "name": "North Eastern Regional Institute of Water and Land Management (NERIWALM)",
+        "2024_budget": {
+          "revenue": 24.0,
+          "capital": 0,
+          "total": 24.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 26.02,
+            "capital": 0,
+            "total": 26.02
+          },
+          "revised": {
+            "revenue": 24.0,
+            "capital": 0,
+            "total": 24.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 18.01,
+          "capital": 0,
+          "total": 18.01
+        }
+      },
+      {
+        "index": "13",
+        "name": "National Water Development Agency (NWDA)",
+        "2024_budget": {
+          "revenue": 50.0,
+          "capital": 0,
+          "total": 50.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 55.0,
+            "capital": 0,
+            "total": 55.0
+          },
+          "revised": {
+            "revenue": 55.0,
+            "capital": 0,
+            "total": 55.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 53.01,
+          "capital": 0,
+          "total": 53.01
+        }
+      },
+      {
+        "index": "14",
+        "name": "Brahmaputra Board",
+        "2024_budget": {
+          "revenue": 50.0,
+          "capital": 0,
+          "total": 50.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 50.0,
+            "capital": 0,
+            "total": 50.0
+          },
+          "revised": {
+            "revenue": 55.5,
+            "capital": 0,
+            "total": 55.5
+          }
+        },
+        "2022_actual": {
+          "revenue": 43.47,
+          "capital": 0,
+          "total": 43.47
+        }
+      },
+      {
+        "index": "15",
+        "name": "National Water Academy",
+        "2024_budget": {
+          "revenue": 13.27,
+          "capital": 0.73,
+          "total": 14.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 15.87,
+            "capital": 0.58,
+            "total": 16.45
+          },
+          "revised": {
+            "revenue": 11.82,
+            "capital": 0.18,
+            "total": 12.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 9.55,
+          "capital": 0,
+          "total": 9.55
+        }
+      },
+      {
+        "index": "16",
+        "name": "Rajeev Gandhi National Ground Water Training and Research Institute",
+        "2024_budget": {
+          "revenue": 3.85,
+          "capital": 0.15,
+          "total": 4.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 3.57,
+            "capital": 0.28,
+            "total": 3.85
+          },
+          "revised": {
+            "revenue": 2.9,
+            "capital": 0.1,
+            "total": 3.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 2.8,
+          "capital": 0,
+          "total": 2.8
+        }
+      },
+      {
+        "index": "17",
+        "name": "Polavaram Project Authority",
+        "2024_budget": {
+          "revenue": 0.01,
+          "capital": 0,
+          "total": 0.01
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "18.",
+        "name": "Farakka Barrage Project"
+      },
+      {
+        "index": "18.01",
+        "name": "Farakka Barrage Project",
+        "2024_budget": {
+          "revenue": 79.78,
+          "capital": 47.22,
+          "total": 127.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 68.86,
+            "capital": 31.14,
+            "total": 100.0
+          },
+          "revised": {
+            "revenue": 73.02,
+            "capital": 43.98,
+            "total": 117.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 58.21,
+          "capital": 29.23,
+          "total": 87.44
+        }
+      },
+      {
+        "index": "18.02",
+        "name": "Recoveries",
+        "2024_budget": {
+          "revenue": -47.0,
+          "capital": 0,
+          "total": -47.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": -44.02,
+            "capital": 0,
+            "total": -44.02
+          },
+          "revised": {
+            "revenue": -46.08,
+            "capital": 0,
+            "total": -46.08
+          }
+        },
+        "2022_actual": {
+          "revenue": -62.48,
+          "capital": 0,
+          "total": -62.48
+        }
+      },
+      {
+        "index": "19.",
+        "name": "Dam Rehabilitation and Improvement Programme"
+      },
+      {
+        "index": "19.01",
+        "name": "EAP Component",
+        "2024_budget": {
+          "revenue": 22.82,
+          "capital": 0.12,
+          "total": 22.94
+        },
+        "2023": {
+          "budget": {
+            "revenue": 49.76,
+            "capital": 0.24,
+            "total": 50.0
+          },
+          "revised": {
+            "revenue": 25.99,
+            "capital": 0.14,
+            "total": 26.13
+          }
+        },
+        "2022_actual": {
+          "revenue": 9.44,
+          "capital": 2.14,
+          "total": 11.58
+        }
+      },
+      {
+        "index": "19.02",
+        "name": "Programme Component",
+        "2024_budget": {
+          "revenue": 23.92,
+          "capital": 0.12,
+          "total": 24.04
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 27.78,
+            "capital": 0.14,
+            "total": 27.92
+          }
+        },
+        "2022_actual": {
+          "revenue": 10.07,
+          "capital": 2.14,
+          "total": 12.21
+        }
+      },
+      {
+        "index": "20.",
+        "name": "National Ganga Plan"
+      },
+      {
+        "index": "20.01",
+        "name": "EAP Component",
+        "2024_budget": {
+          "revenue": 1000.0,
+          "capital": 0,
+          "total": 1000.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1000.0,
+            "capital": 0,
+            "total": 1000.0
+          },
+          "revised": {
+            "revenue": 900.0,
+            "capital": 0,
+            "total": 900.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 869.37,
+          "capital": 0,
+          "total": 869.37
+        }
+      },
+      {
+        "index": "20.02",
+        "name": "Transfer to Agriculture Infrastructure and Development Fund",
+        "2024_budget": {
+          "revenue": 2500.0,
+          "capital": 0,
+          "total": 2500.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 1500.0,
+            "capital": 0,
+            "total": 1500.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "20.03",
+        "name": "Non EAP Component",
+        "2024_budget": {
+          "revenue": 2500.0,
+          "capital": 0,
+          "total": 2500.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 3000.0,
+            "capital": 0,
+            "total": 3000.0
+          },
+          "revised": {
+            "revenue": 1500.0,
+            "capital": 0,
+            "total": 1500.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 1314.31,
+          "capital": 0,
+          "total": 1314.31
+        }
+      },
+      {
+        "index": "20.04",
+        "name": "Less - Amount met from Agriculture Infrastructure and Development Fund",
+        "2024_budget": {
+          "revenue": -2500.0,
+          "capital": 0,
+          "total": -2500.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": -1500.0,
+            "capital": 0,
+            "total": -1500.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "20.05",
+        "name": "Recoveries -135.70 ... -135.70 ... ... ... ... ... ... ... ... ... Net",
+        "2024_budget": {
+          "revenue": 3500.0,
+          "capital": 0,
+          "total": 3500.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 4000.0,
+            "capital": 0,
+            "total": 4000.0
+          },
+          "revised": {
+            "revenue": 2400.0,
+            "capital": 0,
+            "total": 2400.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 2047.98,
+          "capital": 0,
+          "total": 2047.98
+        }
+      },
+      {
+        "index": "21",
+        "name": "River Basin Management",
+        "2024_budget": {
+          "revenue": 154.16,
+          "capital": 0.63,
+          "total": 154.79
+        },
+        "2023": {
+          "budget": {
+            "revenue": 107.12,
+            "capital": 2.88,
+            "total": 110.0
+          },
+          "revised": {
+            "revenue": 93.7,
+            "capital": 0.3,
+            "total": 94.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 77.98,
+          "capital": 0.16,
+          "total": 78.14
+        }
+      },
+      {
+        "index": "22",
+        "name": "Development of Water Resources Information System",
+        "2024_budget": {
+          "revenue": 97.39,
+          "capital": 17.61,
+          "total": 115.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 149.43,
+            "capital": 12.7,
+            "total": 162.13
+          },
+          "revised": {
+            "revenue": 151.9,
+            "capital": 19.1,
+            "total": 171.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 144.0,
+          "capital": 13.71,
+          "total": 157.71
+        }
+      },
+      {
+        "index": "23.",
+        "name": "Ground Water Management and Regulation"
+      },
+      {
+        "index": "23.01",
+        "name": "Ground Water Management and Regulation",
+        "2024_budget": {
+          "revenue": 101.95,
+          "capital": 223.05,
+          "total": 325.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 106.22,
+            "capital": 243.78,
+            "total": 350.0
+          },
+          "revised": {
+            "revenue": 102.0,
+            "capital": 178.0,
+            "total": 280.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 105.24,
+          "capital": 85.73,
+          "total": 190.97
+        }
+      },
+      {
+        "index": "23.02",
+        "name": "Recoveries",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": -20.0,
+            "total": -20.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": -13.79,
+          "total": -13.79
+        }
+      },
+      {
+        "index": "24.",
+        "name": "National Hydrology Project"
+      },
+      {
+        "index": "24.01",
+        "name": "EAP Component",
+        "2024_budget": {
+          "revenue": 302.5,
+          "capital": 28.1,
+          "total": 330.6
+        },
+        "2023": {
+          "budget": {
+            "revenue": 211.8,
+            "capital": 38.2,
+            "total": 250.0
+          },
+          "revised": {
+            "revenue": 195.93,
+            "capital": 17.07,
+            "total": 213.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 239.5,
+          "capital": 10.52,
+          "total": 250.02
+        }
+      },
+      {
+        "index": "24.02",
+        "name": "Programme Component",
+        "2024_budget": {
+          "revenue": 302.5,
+          "capital": 28.1,
+          "total": 330.6
+        },
+        "2023": {
+          "budget": {
+            "revenue": 250.0,
+            "capital": 0,
+            "total": 250.0
+          },
+          "revised": {
+            "revenue": 191.53,
+            "capital": 21.47,
+            "total": 213.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 220.83,
+          "capital": 10.15,
+          "total": 230.98
+        }
+      },
+      {
+        "index": "25",
+        "name": "Research and Development and Implementation of National Water Mission",
+        "2024_budget": {
+          "revenue": 52.02,
+          "capital": 15.04,
+          "total": 67.06
+        },
+        "2023": {
+          "budget": {
+            "revenue": 38.58,
+            "capital": 11.42,
+            "total": 50.0
+          },
+          "revised": {
+            "revenue": 36.68,
+            "capital": 13.32,
+            "total": 50.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 28.77,
+          "capital": 7.68,
+          "total": 36.45
+        }
+      },
+      {
+        "index": "26.",
+        "name": "Atal Bhujal Yojna"
+      },
+      {
+        "index": "26.01",
+        "name": "EAP Components",
+        "2024_budget": {
+          "revenue": 985.0,
+          "capital": 0,
+          "total": 985.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 453.0,
+            "capital": 0,
+            "total": 453.0
+          },
+          "revised": {
+            "revenue": 968.0,
+            "capital": 0,
+            "total": 968.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 608.0,
+          "capital": 0,
+          "total": 608.0
+        }
+      },
+      {
+        "index": "26.02",
+        "name": "Programme Component",
+        "2024_budget": {
+          "revenue": 793.0,
+          "capital": 0,
+          "total": 793.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 547.0,
+            "capital": 0,
+            "total": 547.0
+          },
+          "revised": {
+            "revenue": 810.0,
+            "capital": 0,
+            "total": 810.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 547.43,
+          "capital": 0,
+          "total": 547.43
+        }
+      },
+      {
+        "index": "27",
+        "name": "Additional transfer to Agriculture Infrastructure and Development Fund",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 800.0,
+            "capital": 0,
+            "total": 800.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "28",
+        "name": "Har Khet Ko Pani",
+        "2024_budget": {
+          "revenue": 600.0,
+          "capital": 0,
+          "total": 600.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 300.0,
+            "capital": 0,
+            "total": 300.0
+          },
+          "revised": {
+            "revenue": 600.0,
+            "capital": 0,
+            "total": 600.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 436.0,
+          "capital": 0,
+          "total": 436.0
+        }
+      },
+      {
+        "index": "29",
+        "name": "Command Area Development And Water Management",
+        "2024_budget": {
+          "revenue": 1400.0,
+          "capital": 0,
+          "total": 1400.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 400.0,
+            "capital": 0,
+            "total": 400.0
+          },
+          "revised": {
+            "revenue": 236.69,
+            "capital": 0,
+            "total": 236.69
+          }
+        },
+        "2022_actual": {
+          "revenue": 99.07,
+          "capital": 0,
+          "total": 99.07
+        }
+      },
+      {
+        "index": "30",
+        "name": "Accelerated Irrigation Benefit Programme and National/Special Projects 30.01 Transfer to Agriculture Infrastructure and Development Fund",
+        "2024_budget": {
+          "revenue": 2500.0,
+          "capital": 0,
+          "total": 2500.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 1500.0,
+            "capital": 0,
+            "total": 1500.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "30.02",
+        "name": "Accelerated Irrigation Benefit Programme and National/Special Projects",
+        "2024_budget": {
+          "revenue": 2500.0,
+          "capital": 0,
+          "total": 2500.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 3122.23,
+            "capital": 0,
+            "total": 3122.23
+          },
+          "revised": {
+            "revenue": 1500.0,
+            "capital": 0,
+            "total": 1500.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 668.61,
+          "capital": 0,
+          "total": 668.61
+        }
+      },
+      {
+        "index": "30.03",
+        "name": "Less - Amount met from Agriculture Infrastructure and Development Fund",
+        "2024_budget": {
+          "revenue": -2500.0,
+          "capital": 0,
+          "total": -2500.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": -1500.0,
+            "capital": 0,
+            "total": -1500.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "31",
+        "name": "Servicing of loans from NABARD under PMKSY 31.01 Payment of interest for NABARD loan to NWDA under PMKSY",
+        "2024_budget": {
+          "revenue": 2114.0,
+          "capital": 0,
+          "total": 2114.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 2200.0,
+            "capital": 0,
+            "total": 2200.0
+          },
+          "revised": {
+            "revenue": 2178.0,
+            "capital": 0,
+            "total": 2178.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 2241.12,
+          "capital": 0,
+          "total": 2241.12
+        }
+      },
+      {
+        "index": "31.02",
+        "name": "Repayment of principal for NABARD loan to NWDA under PMKSY",
+        "2024_budget": {
+          "revenue": 1024.0,
+          "capital": 0,
+          "total": 1024.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1025.0,
+            "capital": 0,
+            "total": 1025.0
+          },
+          "revised": {
+            "revenue": 1024.0,
+            "capital": 0,
+            "total": 1024.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 1023.82,
+          "capital": 0,
+          "total": 1023.82
+        }
+      },
+      {
+        "index": "31.03",
+        "name": "Interest subvention for NABARD to States under PMKSY",
+        "2024_budget": {
+          "revenue": 611.8,
+          "capital": 0,
+          "total": 611.8
+        },
+        "2023": {
+          "budget": {
+            "revenue": 650.0,
+            "capital": 0,
+            "total": 650.0
+          },
+          "revised": {
+            "revenue": 572.41,
+            "capital": 0,
+            "total": 572.41
+          }
+        },
+        "2022_actual": {
+          "revenue": 492.91,
+          "capital": 0,
+          "total": 492.91
+        }
+      },
+      {
+        "index": "32",
+        "name": "Flood Management and Border Areas Programme(FMBAP)",
+        "2024_budget": {
+          "revenue": 0.25,
+          "capital": 0.02,
+          "total": 0.27
+        },
+        "2023": {
+          "budget": {
+            "revenue": 448.43,
+            "capital": 1.57,
+            "total": 450.0
+          },
+          "revised": {
+            "revenue": 198.65,
+            "capital": 1.35,
+            "total": 200.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 432.54,
+          "capital": 0.67,
+          "total": 433.21
+        }
+      },
+      {
+        "index": "33",
+        "name": "Irrigation Census",
+        "2024_budget": {
+          "revenue": 40.0,
+          "capital": 0,
+          "total": 40.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 40.0,
+            "capital": 0,
+            "total": 40.0
+          },
+          "revised": {
+            "revenue": 20.0,
+            "capital": 0,
+            "total": 20.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 29.0,
+          "capital": 0,
+          "total": 29.0
+        }
+      },
+      {
+        "index": "34",
+        "name": "Special Package for Irrigation Projects to address agrarian distress in districts of Vidarbha and Marathawada and other chronically drought prone areas of rest of Maharashtra",
+        "2024_budget": {
+          "revenue": 600.0,
+          "capital": 0,
+          "total": 600.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 400.0,
+            "capital": 0,
+            "total": 400.0
+          },
+          "revised": {
+            "revenue": 700.0,
+            "capital": 0,
+            "total": 700.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 213.02,
+          "capital": 0,
+          "total": 213.02
+        }
+      },
+      {
+        "index": "35.",
+        "name": "National River Conservation Plan -Other Basins"
+      },
+      {
+        "index": "35.01",
+        "name": "EAP Component",
+        "2024_budget": {
+          "revenue": 232.87,
+          "capital": 0,
+          "total": 232.87
+        },
+        "2023": {
+          "budget": {
+            "revenue": 100.0,
+            "capital": 0,
+            "total": 100.0
+          },
+          "revised": {
+            "revenue": 100.0,
+            "capital": 0,
+            "total": 100.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 116.53,
+          "capital": 0,
+          "total": 116.53
+        }
+      },
+      {
+        "index": "35.02",
+        "name": "Programme Component",
+        "2024_budget": {
+          "revenue": 359.24,
+          "capital": 0,
+          "total": 359.24
+        },
+        "2023": {
+          "budget": {
+            "revenue": 200.0,
+            "capital": 0,
+            "total": 200.0
+          },
+          "revised": {
+            "revenue": 332.0,
+            "capital": 0,
+            "total": 332.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 332.42,
+          "capital": 0,
+          "total": 332.42
+        }
+      },
+      {
+        "index": "35.03",
+        "name": "Recoveries",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": -6.31,
+          "capital": 0,
+          "total": -6.31
+        }
+      },
+      {
+        "index": "36",
+        "name": "Interlinking of Rivers 36.01 Transfer to Agriculture Infrastructure & Development Fund",
+        "2024_budget": {
+          "revenue": 3500.0,
+          "capital": 0,
+          "total": 3500.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 1400.0,
+            "capital": 0,
+            "total": 1400.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "36.02",
+        "name": "Interlinking of Rivers",
+        "2024_budget": {
+          "revenue": 4000.0,
+          "capital": 0,
+          "total": 4000.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 3500.0,
+            "capital": 0,
+            "total": 3500.0
+          },
+          "revised": {
+            "revenue": 1400.0,
+            "capital": 0,
+            "total": 1400.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 624.34,
+          "capital": 0,
+          "total": 624.34
+        }
+      },
+      {
+        "index": "36.03",
+        "name": "Less -Amount met from Agriculture Infrastructure & Development Fund",
+        "2024_budget": {
+          "revenue": -4000.0,
+          "capital": 0,
+          "total": -4000.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": -1400.0,
+            "capital": 0,
+            "total": -1400.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "37",
+        "name": "Additional transfer to Agriculture Infrastructure and Development Fund",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 3200.0,
+            "capital": 0,
+            "total": 3200.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      }
+    ],
+    "development_heads": [
+      {
+        "index": "1",
+        "name": "Major Irrigation",
+        "2024_budget": {
+          "revenue": 3500.0,
+          "capital": 0,
+          "total": 3500.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 3500.0,
+            "capital": 0,
+            "total": 3500.0
+          },
+          "revised": {
+            "revenue": 3200.0,
+            "capital": 0,
+            "total": 3200.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 624.34,
+          "capital": 0,
+          "total": 624.34
+        }
+      },
+      {
+        "index": "2",
+        "name": "Major and Medium Irrigation",
+        "2024_budget": {
+          "revenue": 6928.54,
+          "capital": 0,
+          "total": 6928.54
+        },
+        "2023": {
+          "budget": {
+            "revenue": 6280.08,
+            "capital": 0,
+            "total": 6280.08
+          },
+          "revised": {
+            "revenue": 6806.38,
+            "capital": 0,
+            "total": 6806.38
+          }
+        },
+        "2022_actual": {
+          "revenue": 6206.4,
+          "capital": 0,
+          "total": 6206.4
+        }
+      },
+      {
+        "index": "3",
+        "name": "Minor Irrigation",
+        "2024_budget": {
+          "revenue": 402.34,
+          "capital": 0,
+          "total": 402.34
+        },
+        "2023": {
+          "budget": {
+            "revenue": 399.34,
+            "capital": 0,
+            "total": 399.34
+          },
+          "revised": {
+            "revenue": 394.64,
+            "capital": 0,
+            "total": 394.64
+          }
+        },
+        "2022_actual": {
+          "revenue": 383.45,
+          "capital": 0,
+          "total": 383.45
+        }
+      },
+      {
+        "index": "4",
+        "name": "Flood Control and Drainage",
+        "2024_budget": {
+          "revenue": 0.21,
+          "capital": 0,
+          "total": 0.21
+        },
+        "2023": {
+          "budget": {
+            "revenue": 36.34,
+            "capital": 0,
+            "total": 36.34
+          },
+          "revised": {
+            "revenue": 26.74,
+            "capital": 0,
+            "total": 26.74
+          }
+        },
+        "2022_actual": {
+          "revenue": 104.65,
+          "capital": 0,
+          "total": 104.65
+        }
+      },
+      {
+        "index": "5",
+        "name": "Other Transport Services",
+        "2024_budget": {
+          "revenue": 32.78,
+          "capital": 0,
+          "total": 32.78
+        },
+        "2023": {
+          "budget": {
+            "revenue": 24.84,
+            "capital": 0,
+            "total": 24.84
+          },
+          "revised": {
+            "revenue": 26.94,
+            "capital": 0,
+            "total": 26.94
+          }
+        },
+        "2022_actual": {
+          "revenue": -4.27,
+          "capital": 0,
+          "total": -4.27
+        }
+      },
+      {
+        "index": "6",
+        "name": "Ecology and Environment",
+        "2024_budget": {
+          "revenue": 3535.8,
+          "capital": 0,
+          "total": 3535.8
+        },
+        "2023": {
+          "budget": {
+            "revenue": 4025.75,
+            "capital": 0,
+            "total": 4025.75
+          },
+          "revised": {
+            "revenue": 3230.75,
+            "capital": 0,
+            "total": 3230.75
+          }
+        },
+        "2022_actual": {
+          "revenue": 2071.45,
+          "capital": 0,
+          "total": 2071.45
+        }
+      },
+      {
+        "index": "7",
+        "name": "Secretariat -Economic Services",
+        "2024_budget": {
+          "revenue": 289.04,
+          "capital": 0,
+          "total": 289.04
+        },
+        "2023": {
+          "budget": {
+            "revenue": 287.93,
+            "capital": 0,
+            "total": 287.93
+          },
+          "revised": {
+            "revenue": 290.07,
+            "capital": 0,
+            "total": 290.07
+          }
+        },
+        "2022_actual": {
+          "revenue": 122.24,
+          "capital": 0,
+          "total": 122.24
+        }
+      },
+      {
+        "index": "8",
+        "name": "Capital Outlay on Major and Medium Irrigation",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 103.29,
+          "total": 103.29
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 83.64,
+            "total": 83.64
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 77.1,
+            "total": 77.1
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 58.22,
+          "total": 58.22
+        }
+      },
+      {
+        "index": "9",
+        "name": "Capital Outlay on Minor Irrigation",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 236.7,
+          "total": 236.7
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 239.04,
+            "total": 239.04
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 192.4,
+            "total": 192.4
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 79.51,
+          "total": 79.51
+        }
+      },
+      {
+        "index": "10",
+        "name": "Capital Outlay on Flood Control Projects",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0.02,
+          "total": 0.02
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 1.57,
+            "total": 1.57
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 1.35,
+            "total": 1.35
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0.67,
+          "total": 0.67
+        }
+      },
+      {
+        "index": "11",
+        "name": "Capital Outlay on Other Transport Services",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 47.22,
+          "total": 47.22
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 31.14,
+            "total": 31.14
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 43.98,
+            "total": 43.98
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 29.23,
+          "total": 29.23
+        }
+      },
+      {
+        "index": "12",
+        "name": "Capital Outlay on Other Scientific and Environmental Research",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0.19,
+          "total": 0.19
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "13",
+        "name": "Capital Outlay on Other General Economic Services",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 10.96,
+          "total": 10.96
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 3.82,
+            "total": 3.82
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 8.15,
+            "total": 8.15
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "14",
+        "name": "North Eastern Areas",
+        "2024_budget": {
+          "revenue": 284.0,
+          "capital": 0,
+          "total": 284.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 272.76,
+            "capital": 0,
+            "total": 272.76
+          },
+          "revised": {
+            "revenue": 241.9,
+            "capital": 0,
+            "total": 241.9
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "15",
+        "name": "Grants -in-aid to State Governments",
+        "2024_budget": {
+          "revenue": 5592.23,
+          "capital": 0,
+          "total": 5592.23
+        },
+        "2023": {
+          "budget": {
+            "revenue": 4704.11,
+            "capital": 0,
+            "total": 4704.11
+          },
+          "revised": {
+            "revenue": 4903.59,
+            "capital": 0,
+            "total": 4903.59
+          }
+        },
+        "2022_actual": {
+          "revenue": 2261.1,
+          "capital": 0,
+          "total": 2261.1
+        }
+      },
+      {
+        "index": "16",
+        "name": "Grants -in-aid to Union Territory Governments",
+        "2024_budget": {
+          "revenue": 63.03,
+          "capital": 0,
+          "total": 63.03
+        },
+        "2023": {
+          "budget": {
+            "revenue": 163.04,
+            "capital": 0,
+            "total": 163.04
+          },
+          "revised": {
+            "revenue": 70.98,
+            "capital": 0,
+            "total": 70.98
+          }
+        },
+        "2022_actual": {
+          "revenue": 25.08,
+          "capital": 0,
+          "total": 25.08
+        }
+      },
+      {
+        "index": "17",
+        "name": "Capital Outlay on North Eastern Areas",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 1.76,
+          "total": 1.76
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 1.27,
+            "total": 1.27
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 1.95,
+            "total": 1.95
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      }
+    ],
+    "public_enterprises": [
+      {
+        "index": "1",
+        "name": "WAPCOS Limited",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 1.5,
+          "total": 1.5
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 2.0,
+            "total": 2.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 1.5,
+            "total": 1.5
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 7.89,
+          "total": 7.89
+        }
+      },
+      {
+        "index": "5",
+        "name": "Bansagar Control Board: ..Provision is establishment expenditure of Bansagar Control Board. Based on the Inter -State Agreement among the Chief Ministers of Madhya Pradesh, Uttar Pradesh and Bihar, Bansagar Control Board was constituted in January 1976 for efficient, economical and early execution of Bansagar Dam and connected works. The respective States carry out works of canals and power systems within their territory. The Control Board has an overall responsibility for construction of the Bansagar dam and its appurtenant structures. 6. Upper Yamuna River Board: ..Provision is establishment expenditure of monitoring of Upper Yamuna River Board. The main function of Upper Yamuna River Board is to regulate the allocation of available flows amongst the beneficiary States and also monitoring the return flows; monitoring conserving and upgrading the quality of surface and ground water; maintai ning hydro -meteorological data for the basin; over viewing plans for watershed management; monitoring and reviewing the progress of all projects upto and including Okhla barrage. 7. Central Ground Water Board: ..Provision is for establishment expenditure o f Central Ground Water Board. Central Ground Water Board (CGWB), is a multidisciplinary scientific organization with a mandate to Develop and disseminate technologies and monitor and implement national policies for the scientific and sustainable deve lopment and management of ground water resources, including their exploration, assessment, conservation, augmentation, protection from pollution, and distribution, based on principles of economic and ecological efficiency and equity. CGWB, being the nation al apex organization, is vested with the responsibilities to carry out scientific studies, exploration aided by drilling, monitoring of ground water regime, assessment, augmentation, management and regulation of ground water resources. 8. National Dam Saf ety Authority: ..Provision is for Secretariat under National Dam Safety Authority. 9. National Institute of Hydrology: ..Provision is for National Institute of Hydrology. The Institute was established in December, 1979 by the Government of India as an auton omous society fully aided by the Union Ministry of Water Resources. Its main functions are to undertake, aid, promote and co -ordinate systematic and scientific work in all aspects of Hydrology, to co -operate and collaborate with other National, Foreign and International Organisations in the field of Hydrology, to establish and maintain a research and reference library in pursuance of objectives of the Society and equip the same with books, reviews, magazines newspapers and other relevant publications etc. 10. National Water Informatics Centre: ..Provision is for establishment expenditure of National Water Informatics Centre (NWIC). The Informatics Centre was set up with approval of Cabinet. The EFC Meeting was held on 16.10.2015 and it was considered that in view of the importance of National Hydrology data, the entire data and Decision Support System would be managed by NWIC. 11. National River Conservation Directorate: ..Provision is made for Establishment Expenditure for National River Conservation Direc torate. The National River Conservation Directorate (NRCD) is providing financial assistance under the National River Conservation Plan to the State Governments/ local bodies to set up infrastructure for pollution abatement of rivers in identified polluted river stretches based on proposals received from the State Governments/ local bodies, excluding Ganga and its tributaries. NRCD has been shifted from M/o Environment,",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 2019.0,
+            "capital": -20.0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      }
+    ]
+  },
+  "number": 62
+}

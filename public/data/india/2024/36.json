@@ -1,0 +1,441 @@
+{
+  "name": "MINISTRY OF FINANCE",
+  "demand": "DEMAND NO. 36",
+  "department": "Direct Taxes",
+  "sections": {
+    "allocation": [
+      {
+        "index": "1.",
+        "name": "Collection of Taxes on Income and Expenditure"
+      },
+      {
+        "index": "1.01",
+        "name": "Collection of Income Tax",
+        "2024_budget": {
+          "revenue": 7626.48,
+          "capital": 0,
+          "total": 7626.48
+        },
+        "2023": {
+          "budget": {
+            "revenue": 6999.03,
+            "capital": 0,
+            "total": 6999.03
+          },
+          "revised": {
+            "revenue": 7451.46,
+            "capital": 0,
+            "total": 7451.46
+          }
+        },
+        "2022_actual": {
+          "revenue": 7148.97,
+          "capital": 0,
+          "total": 7148.97
+        }
+      },
+      {
+        "index": "1.02",
+        "name": "Collection of Corporation Tax",
+        "2024_budget": {
+          "revenue": 1173.3,
+          "capital": 0,
+          "total": 1173.3
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1076.77,
+            "capital": 0,
+            "total": 1076.77
+          },
+          "revised": {
+            "revenue": 1146.38,
+            "capital": 0,
+            "total": 1146.38
+          }
+        },
+        "2022_actual": {
+          "revenue": 1098.78,
+          "capital": 0,
+          "total": 1098.78
+        }
+      },
+      {
+        "index": "1.03",
+        "name": "Actual Recoveries",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": -6.9,
+          "capital": 0,
+          "total": -6.9
+        }
+      },
+      {
+        "index": "2.",
+        "name": "Collection of Taxes on Wealth, Securities Transaction and other Taxes"
+      },
+      {
+        "index": "2.01",
+        "name": "Collection of Wealth Tax",
+        "2024_budget": {
+          "revenue": 22.56,
+          "capital": 0,
+          "total": 22.56
+        },
+        "2023": {
+          "budget": {
+            "revenue": 20.71,
+            "capital": 0,
+            "total": 20.71
+          },
+          "revised": {
+            "revenue": 22.05,
+            "capital": 0,
+            "total": 22.05
+          }
+        },
+        "2022_actual": {
+          "revenue": 21.13,
+          "capital": 0,
+          "total": 21.13
+        }
+      },
+      {
+        "index": "2.02",
+        "name": "Securities Transaction Tax",
+        "2024_budget": {
+          "revenue": 45.13,
+          "capital": 0,
+          "total": 45.13
+        },
+        "2023": {
+          "budget": {
+            "revenue": 41.41,
+            "capital": 0,
+            "total": 41.41
+          },
+          "revised": {
+            "revenue": 44.09,
+            "capital": 0,
+            "total": 44.09
+          }
+        },
+        "2022_actual": {
+          "revenue": 42.26,
+          "capital": 0,
+          "total": 42.26
+        }
+      },
+      {
+        "index": "2.03",
+        "name": "Collection of Other Taxes",
+        "2024_budget": {
+          "revenue": 157.95,
+          "capital": 0,
+          "total": 157.95
+        },
+        "2023": {
+          "budget": {
+            "revenue": 144.95,
+            "capital": 0,
+            "total": 144.95
+          },
+          "revised": {
+            "revenue": 154.32,
+            "capital": 0,
+            "total": 154.32
+          }
+        },
+        "2022_actual": {
+          "revenue": 147.91,
+          "capital": 0,
+          "total": 147.91
+        }
+      },
+      {
+        "index": "2.04",
+        "name": "Purchase of Ready Built Accommodation - Office Buildings",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 312.01,
+          "total": 312.01
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 466.2,
+            "total": 466.2
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 319.61,
+            "total": 319.61
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 151.79,
+          "total": 151.79
+        }
+      },
+      {
+        "index": "2.05",
+        "name": "Purchase of Ready Built Accommodation - Residential Buildings",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 184.51,
+          "total": 184.51
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 91.8,
+            "total": 91.8
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 92.03,
+            "total": 92.03
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 264.63,
+          "total": 264.63
+        }
+      },
+      {
+        "index": "3.",
+        "name": "Acquisition of Immovable Property under the Income Tax Act"
+      },
+      {
+        "index": "3.01",
+        "name": "Gross Expenditure",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 2.0,
+          "total": 2.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 2.0,
+            "total": 2.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 2.0,
+            "total": 2.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 1.38,
+          "total": 1.38
+        }
+      },
+      {
+        "index": "3.02",
+        "name": "Less - Sale Proceeds",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": -2.0,
+          "total": -2.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": -2.0,
+            "total": -2.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": -2.0,
+            "total": -2.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": -1.17,
+          "total": -1.17
+        }
+      },
+      {
+        "index": "4",
+        "name": "Capital Outlay on Miscellaneous General Services",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 816.44,
+          "total": 816.44
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 1050.0,
+            "total": 1050.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 798.75,
+            "total": 798.75
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      }
+    ],
+    "development_heads": [
+      {
+        "index": "1",
+        "name": "Collection of Taxes on Income and Expenditure",
+        "2024_budget": {
+          "revenue": 8799.78,
+          "capital": 0,
+          "total": 8799.78
+        },
+        "2023": {
+          "budget": {
+            "revenue": 8075.8,
+            "capital": 0,
+            "total": 8075.8
+          },
+          "revised": {
+            "revenue": 8597.84,
+            "capital": 0,
+            "total": 8597.84
+          }
+        },
+        "2022_actual": {
+          "revenue": 8240.85,
+          "capital": 0,
+          "total": 8240.85
+        }
+      },
+      {
+        "index": "2",
+        "name": "Collection of Taxes on Wealth, Securities Transaction Tax and Other Taxes",
+        "2024_budget": {
+          "revenue": 225.64,
+          "capital": 0,
+          "total": 225.64
+        },
+        "2023": {
+          "budget": {
+            "revenue": 207.07,
+            "capital": 0,
+            "total": 207.07
+          },
+          "revised": {
+            "revenue": 220.46,
+            "capital": 0,
+            "total": 220.46
+          }
+        },
+        "2022_actual": {
+          "revenue": 211.3,
+          "capital": 0,
+          "total": 211.3
+        }
+      },
+      {
+        "index": "3",
+        "name": "Capital Outlay on Public Works",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 312.01,
+          "total": 312.01
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 466.2,
+            "total": 466.2
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 319.61,
+            "total": 319.61
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 150.62,
+          "total": 150.62
+        }
+      },
+      {
+        "index": "4",
+        "name": "Capital Outlay on Miscellaneous General Services",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 816.44,
+          "total": 816.44
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 1050.0,
+            "total": 1050.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 798.75,
+            "total": 798.75
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 1.38,
+          "total": 1.38
+        }
+      },
+      {
+        "index": "5",
+        "name": "Capital Outlay on Housing",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 184.51,
+          "total": 184.51
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 91.8,
+            "total": 91.8
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 92.03,
+            "total": 92.03
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 264.63,
+          "total": 264.63
+        }
+      }
+    ],
+    "public_enterprises": []
+  },
+  "number": 36
+}

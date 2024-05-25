@@ -1,0 +1,15 @@
+{
+    "data": [
+        {
+            "id": "india",
+            "label": "India",
+            "data": [
+                {
+                    "id": "2024",
+                    "label": "2024",
+                    "linkPath": "./india/2024/"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,772 @@
+{
+  "name": "MINISTRY OF AGRICULTURE AND FARMERS WELFARE",
+  "demand": "DEMAND NO. 2",
+  "department": "Department of Agricultural Research and Education",
+  "sections": {
+    "allocation": [
+      {
+        "index": "1",
+        "name": "Secretariat",
+        "2024_budget": {
+          "revenue": 51.64,
+          "capital": 6.5,
+          "total": 58.14
+        },
+        "2023": {
+          "budget": {
+            "revenue": 33.3,
+            "capital": 10.41,
+            "total": 43.71
+          },
+          "revised": {
+            "revenue": 43.92,
+            "capital": 9.96,
+            "total": 53.88
+          }
+        },
+        "2022_actual": {
+          "revenue": 40.52,
+          "capital": 0,
+          "total": 40.52
+        }
+      },
+      {
+        "index": "2",
+        "name": "Agricultural Extension",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 327.0,
+            "capital": 0,
+            "total": 327.0
+          },
+          "revised": {
+            "revenue": 250.0,
+            "capital": 0,
+            "total": 250.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 243.59,
+          "capital": 0,
+          "total": 243.59
+        }
+      },
+      {
+        "index": "3",
+        "name": "Agricultural Engineering",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 65.0,
+            "capital": 0,
+            "total": 65.0
+          },
+          "revised": {
+            "revenue": 70.09,
+            "capital": 0,
+            "total": 70.09
+          }
+        },
+        "2022_actual": {
+          "revenue": 48.29,
+          "capital": 0,
+          "total": 48.29
+        }
+      },
+      {
+        "index": "4",
+        "name": "Natural Resource Management Institutes including Agro Forestry Research",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 240.0,
+            "capital": 0,
+            "total": 240.0
+          },
+          "revised": {
+            "revenue": 239.98,
+            "capital": 0,
+            "total": 239.98
+          }
+        },
+        "2022_actual": {
+          "revenue": 144.77,
+          "capital": 0,
+          "total": 144.77
+        }
+      },
+      {
+        "index": "5",
+        "name": "Climate Resilient Agriculture Initiative 40.87 ... 40.87 ... ... ... ... ... ... ... ... ... Total -Management of Natural Resources",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 240.0,
+            "capital": 0,
+            "total": 240.0
+          },
+          "revised": {
+            "revenue": 239.98,
+            "capital": 0,
+            "total": 239.98
+          }
+        },
+        "2022_actual": {
+          "revenue": 185.64,
+          "capital": 0,
+          "total": 185.64
+        }
+      },
+      {
+        "index": "6",
+        "name": "Crop Science",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 714.41,
+            "capital": 0,
+            "total": 714.41
+          },
+          "revised": {
+            "revenue": 962.78,
+            "capital": 0,
+            "total": 962.78
+          }
+        },
+        "2022_actual": {
+          "revenue": 525.47,
+          "capital": 0,
+          "total": 525.47
+        }
+      },
+      {
+        "index": "7",
+        "name": "Horticultural Science",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 212.0,
+            "capital": 0,
+            "total": 212.0
+          },
+          "revised": {
+            "revenue": 217.45,
+            "capital": 0,
+            "total": 217.45
+          }
+        },
+        "2022_actual": {
+          "revenue": 157.49,
+          "capital": 0,
+          "total": 157.49
+        }
+      },
+      {
+        "index": "8",
+        "name": "National Agricultural Science Fund 35.67 ... 35.67 ... ... ... ... ... ... ... ... ... Total -Crop Sciences",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 926.41,
+            "capital": 0,
+            "total": 926.41
+          },
+          "revised": {
+            "revenue": 1180.23,
+            "capital": 0,
+            "total": 1180.23
+          }
+        },
+        "2022_actual": {
+          "revenue": 718.63,
+          "capital": 0,
+          "total": 718.63
+        }
+      },
+      {
+        "index": "9",
+        "name": "Animal Science",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 300.0,
+            "capital": 0,
+            "total": 300.0
+          },
+          "revised": {
+            "revenue": 306.72,
+            "capital": 0,
+            "total": 306.72
+          }
+        },
+        "2022_actual": {
+          "revenue": 223.97,
+          "capital": 0,
+          "total": 223.97
+        }
+      },
+      {
+        "index": "10",
+        "name": "Fisheries Science",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 150.0,
+            "capital": 0,
+            "total": 150.0
+          },
+          "revised": {
+            "revenue": 150.0,
+            "capital": 0,
+            "total": 150.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 118.88,
+          "capital": 0,
+          "total": 118.88
+        }
+      },
+      {
+        "index": "11",
+        "name": "Agricultural Universities and Institutions",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 322.74,
+            "capital": 0,
+            "total": 322.74
+          },
+          "revised": {
+            "revenue": 322.74,
+            "capital": 0,
+            "total": 322.74
+          }
+        },
+        "2022_actual": {
+          "revenue": 263.77,
+          "capital": 0,
+          "total": 263.77
+        }
+      },
+      {
+        "index": "13",
+        "name": "National Agricultural Higher Education Project (EAP)",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 92.26,
+            "capital": 0,
+            "total": 92.26
+          },
+          "revised": {
+            "revenue": 54.6,
+            "capital": 0,
+            "total": 54.6
+          }
+        },
+        "2022_actual": {
+          "revenue": 166.2,
+          "capital": 0,
+          "total": 166.2
+        }
+      },
+      {
+        "index": "14",
+        "name": "Strengthening of Krishi Vigyan Kendras (KVKs)",
+        "2024_budget": {
+          "revenue": 234.89,
+          "capital": 0,
+          "total": 234.89
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "15",
+        "name": "Agricultural Production and Post -Production Mechanization Augmented with Innovative Technologies for Sustainable Agriculture Development",
+        "2024_budget": {
+          "revenue": 91.24,
+          "capital": 0,
+          "total": 91.24
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "16",
+        "name": "Natural Resource Management",
+        "2024_budget": {
+          "revenue": 252.16,
+          "capital": 0,
+          "total": 252.16
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "17",
+        "name": "Crop Science for Food and Nutritional Security",
+        "2024_budget": {
+          "revenue": 930.22,
+          "capital": 0,
+          "total": 930.22
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "18",
+        "name": "Technology based support in improvement and management of horticulture crops towards enhanced and sustainable productivity for nutritional security (Horticultural Science)",
+        "2024_budget": {
+          "revenue": 257.07,
+          "capital": 0,
+          "total": 257.07
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "19",
+        "name": "Research, Education and Technology Development for Sustainable Livestock Health and Production towards Nutritional Security",
+        "2024_budget": {
+          "revenue": 415.15,
+          "capital": 0,
+          "total": 415.15
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "20",
+        "name": "Fisheries and Aquaculture for Sustainable Development",
+        "2024_budget": {
+          "revenue": 200.92,
+          "capital": 0,
+          "total": 200.92
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "21",
+        "name": "Strengthening Agricultural Education, Management & Social Sciences",
+        "2024_budget": {
+          "revenue": 398.74,
+          "capital": 0,
+          "total": 398.74
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "22",
+        "name": "ICAR Headquarters",
+        "2024_budget": {
+          "revenue": 6378.7,
+          "capital": 0,
+          "total": 6378.7
+        },
+        "2023": {
+          "budget": {
+            "revenue": 6384.59,
+            "capital": 0,
+            "total": 6384.59
+          },
+          "revised": {
+            "revenue": 6576.49,
+            "capital": 0,
+            "total": 6576.49
+          }
+        },
+        "2022_actual": {
+          "revenue": 5934.27,
+          "capital": 0,
+          "total": 5934.27
+        }
+      },
+      {
+        "index": "23",
+        "name": "Central Agricultural Universities",
+        "2024_budget": {
+          "revenue": 723.55,
+          "capital": 0,
+          "total": 723.55
+        },
+        "2023": {
+          "budget": {
+            "revenue": 651.53,
+            "capital": 0,
+            "total": 651.53
+          },
+          "revised": {
+            "revenue": 671.11,
+            "capital": 0,
+            "total": 671.11
+          }
+        },
+        "2022_actual": {
+          "revenue": 608.88,
+          "capital": 0,
+          "total": 608.88
+        }
+      },
+      {
+        "index": "24",
+        "name": "National Academy of Agricultural Sciences",
+        "2024_budget": {
+          "revenue": 0.31,
+          "capital": 0,
+          "total": 0.31
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0.76,
+            "capital": 0,
+            "total": 0.76
+          },
+          "revised": {
+            "revenue": 0.76,
+            "capital": 0,
+            "total": 0.76
+          }
+        },
+        "2022_actual": {
+          "revenue": 1.13,
+          "capital": 0,
+          "total": 1.13
+        }
+      },
+      {
+        "index": "25",
+        "name": "Actual Recoveries -178.43 ... -178.43 ... ... ... ... ... ... ... ... ... Total -Other Central Sector Expenditure",
+        "2024_budget": {
+          "revenue": 7102.56,
+          "capital": 0,
+          "total": 7102.56
+        },
+        "2023": {
+          "budget": {
+            "revenue": 7036.88,
+            "capital": 0,
+            "total": 7036.88
+          },
+          "revised": {
+            "revenue": 7248.36,
+            "capital": 0,
+            "total": 7248.36
+          }
+        },
+        "2022_actual": {
+          "revenue": 6365.85,
+          "capital": 0,
+          "total": 6365.85
+        }
+      }
+    ],
+    "development_heads": [
+      {
+        "index": "1",
+        "name": "Agricultural Research and Education",
+        "2024_budget": {
+          "revenue": 9303.22,
+          "capital": 0,
+          "total": 9303.22
+        },
+        "2023": {
+          "budget": {
+            "revenue": 8941.93,
+            "capital": 0,
+            "total": 8941.93
+          },
+          "revised": {
+            "revenue": 9281.38,
+            "capital": 0,
+            "total": 9281.38
+          }
+        },
+        "2022_actual": {
+          "revenue": 8366.54,
+          "capital": 0,
+          "total": 8366.54
+        }
+      },
+      {
+        "index": "2",
+        "name": "Secretariat -Economic Services",
+        "2024_budget": {
+          "revenue": 43.98,
+          "capital": 0,
+          "total": 43.98
+        },
+        "2023": {
+          "budget": {
+            "revenue": 25.87,
+            "capital": 0,
+            "total": 25.87
+          },
+          "revised": {
+            "revenue": 36.32,
+            "capital": 0,
+            "total": 36.32
+          }
+        },
+        "2022_actual": {
+          "revenue": 33.18,
+          "capital": 0,
+          "total": 33.18
+        }
+      },
+      {
+        "index": "3",
+        "name": "Capital Outlay on Other General Economic Services",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 6.5,
+          "total": 6.5
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 10.41,
+            "total": 10.41
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 9.96,
+            "total": 9.96
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "4",
+        "name": "North Eastern Areas",
+        "2024_budget": {
+          "revenue": 587.39,
+          "capital": 0,
+          "total": 587.39
+        },
+        "2023": {
+          "budget": {
+            "revenue": 525.79,
+            "capital": 0,
+            "total": 525.79
+          },
+          "revised": {
+            "revenue": 548.94,
+            "capital": 0,
+            "total": 548.94
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      }
+    ],
+    "public_enterprises": [
+      {
+        "index": "1",
+        "name": "Agrinnovate India Limited",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 20.0,
+          "total": 20.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 2.87,
+            "total": 2.87
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 16.0,
+            "total": 16.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 14.64,
+          "total": 14.64
+        }
+      },
+      {
+        "index": "1.",
+        "name": "Secretariat: ..The provision is for the expenditure on salary and establishment expenditure of Department and Agricultural Scientists Recruitment Board(ASRB). ASRB is an attached office of DARE. 2. Agricultural Extension: ..The provision is for the activities to reach out to the farmers at grass root level through Krishi Vigyan Kendras to disseminate and refine frontline agricultural technologies. It includes training of farmers and extension personnel on local te chnologies, distribution of seed, planting materials, testing of soil and water samples. 3. Agricultural Engineering: ..The provision is for research, development and refinement of farm equipment, process and value addition protocols. 4. Natural Resource Management Institutes including Agro Forestry Research: ..The provision is for research to address low farm productivity and profitability, land degradation, low water productivity, soil health deterioration and low nutrient use efficiency, deterioration in ecosystem services, abiotic stresses, etc. It is necessary to encounter deteriorating natural resource base for long term sustainability. 5. Climate Resilient Agriculture Initiative: ..The provision is to conduct strategic research and technology demonstr ation to enhance resilience of Indian agriculture to climate change and climate vulnerability. The research on adaptation and mitigation covers crops, livestock, fisheries and natural resource management.This scheme will be merged with Natural Resource Man agement Institutes including Agro Forestry Research scheme with effect from financial year 2023 -24."
+      }
+    ]
+  },
+  "number": 2
+}

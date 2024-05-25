@@ -1,0 +1,299 @@
+{
+  "name": "MINISTRY OF PLANNING",
+  "demand": "DEMAND NO. 77",
+  "department": "Ministry of Planning",
+  "sections": {
+    "allocation": [
+      {
+        "index": "1",
+        "name": "Secretariat",
+        "2024_budget": {
+          "revenue": 185.71,
+          "capital": 7.88,
+          "total": 193.59
+        },
+        "2023": {
+          "budget": {
+            "revenue": 156.74,
+            "capital": 7.35,
+            "total": 164.09
+          },
+          "revised": {
+            "revenue": 168.62,
+            "capital": 6.2,
+            "total": 174.82
+          }
+        },
+        "2022_actual": {
+          "revenue": 152.73,
+          "capital": 0,
+          "total": 152.73
+        }
+      },
+      {
+        "index": "2",
+        "name": "Development Monitoring and Evaluation Office",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0.37,
+          "total": 0.37
+        },
+        "2023": {
+          "budget": {
+            "revenue": 16.69,
+            "capital": 0.31,
+            "total": 17.0
+          },
+          "revised": {
+            "revenue": 15.55,
+            "capital": 0.52,
+            "total": 16.07
+          }
+        },
+        "2022_actual": {
+          "revenue": 15.14,
+          "capital": 0,
+          "total": 15.14
+        }
+      },
+      {
+        "index": "3",
+        "name": "Atal Innovation Mission(AIM) including Self Employment and Talent Utilization (SETU)",
+        "2024_budget": {
+          "revenue": 144.3,
+          "capital": 10.7,
+          "total": 155.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 144.3,
+            "capital": 10.7,
+            "total": 155.0
+          },
+          "revised": {
+            "revenue": 144.3,
+            "capital": 10.7,
+            "total": 155.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 169.43,
+          "capital": 0,
+          "total": 169.43
+        }
+      },
+      {
+        "index": "4",
+        "name": "Ongoing Programme and Schemes",
+        "2024_budget": {
+          "revenue": 4.0,
+          "capital": 0,
+          "total": 4.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 4.0,
+            "capital": 0,
+            "total": 4.0
+          },
+          "revised": {
+            "revenue": 4.0,
+            "capital": 0,
+            "total": 4.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 3.38,
+          "capital": 0.3,
+          "total": 3.68
+        }
+      },
+      {
+        "index": "5",
+        "name": "Official Development Assistance for Sustainable Development Goals (EAP Component)",
+        "2024_budget": {
+          "revenue": 433.0,
+          "capital": 0,
+          "total": 433.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 433.0,
+            "capital": 0,
+            "total": 433.0
+          },
+          "revised": {
+            "revenue": 113.0,
+            "capital": 0,
+            "total": 113.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 496.81,
+          "capital": 0,
+          "total": 496.81
+        }
+      },
+      {
+        "index": "6",
+        "name": "State Support Mission",
+        "2024_budget": {
+          "revenue": 39.99,
+          "capital": 0.01,
+          "total": 40.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 39.7,
+            "capital": 0.3,
+            "total": 40.0
+          },
+          "revised": {
+            "revenue": 39.99,
+            "capital": 0.01,
+            "total": 40.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "7",
+        "name": "National Institute of Labour Economics Research and Development",
+        "2024_budget": {
+          "revenue": 11.3,
+          "capital": 0,
+          "total": 11.3
+        },
+        "2023": {
+          "budget": {
+            "revenue": 11.3,
+            "capital": 0,
+            "total": 11.3
+          },
+          "revised": {
+            "revenue": 11.3,
+            "capital": 0,
+            "total": 11.3
+          }
+        },
+        "2022_actual": {
+          "revenue": 11.3,
+          "capital": 0,
+          "total": 11.3
+        }
+      },
+      {
+        "index": "8",
+        "name": "Actual Recoveries",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": -1.95,
+          "capital": 0,
+          "total": -1.95
+        }
+      }
+    ],
+    "development_heads": [
+      {
+        "index": "1",
+        "name": "Secretariat -Economic Services",
+        "2024_budget": {
+          "revenue": 185.71,
+          "capital": 0,
+          "total": 185.71
+        },
+        "2023": {
+          "budget": {
+            "revenue": 156.74,
+            "capital": 0,
+            "total": 156.74
+          },
+          "revised": {
+            "revenue": 168.62,
+            "capital": 0,
+            "total": 168.62
+          }
+        },
+        "2022_actual": {
+          "revenue": 152.73,
+          "capital": 0,
+          "total": 152.73
+        }
+      },
+      {
+        "index": "2",
+        "name": "Other General Economic Services",
+        "2024_budget": {
+          "revenue": 632.59,
+          "capital": 0,
+          "total": 632.59
+        },
+        "2023": {
+          "budget": {
+            "revenue": 648.99,
+            "capital": 0,
+            "total": 648.99
+          },
+          "revised": {
+            "revenue": 328.14,
+            "capital": 0,
+            "total": 328.14
+          }
+        },
+        "2022_actual": {
+          "revenue": 694.11,
+          "capital": 0,
+          "total": 694.11
+        }
+      },
+      {
+        "index": "3",
+        "name": "Capital Outlay on Other General Economic Services",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 18.96,
+          "total": 18.96
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 18.66,
+            "total": 18.66
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 17.43,
+            "total": 17.43
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0.3,
+          "total": 0.3
+        }
+      }
+    ],
+    "public_enterprises": []
+  },
+  "number": 77
+}

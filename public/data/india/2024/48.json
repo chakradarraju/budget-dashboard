@@ -1,0 +1,846 @@
+{
+  "name": "MINISTRY OF HEAVY INDUSTRIES",
+  "demand": "DEMAND NO. 48",
+  "department": "Ministry of Heavy Industries",
+  "sections": {
+    "allocation": [
+      {
+        "index": "1",
+        "name": "Secretariat",
+        "2024_budget": {
+          "revenue": 32.44,
+          "capital": 1.6,
+          "total": 34.04
+        },
+        "2023": {
+          "budget": {
+            "revenue": 37.02,
+            "capital": 2.0,
+            "total": 39.02
+          },
+          "revised": {
+            "revenue": 35.73,
+            "capital": 2.0,
+            "total": 37.73
+          }
+        },
+        "2022_actual": {
+          "revenue": 32.54,
+          "capital": 0,
+          "total": 32.54
+        }
+      },
+      {
+        "index": "2",
+        "name": "Scheme for Faster Adoption and Manufacturing of (Hybrid and) Electric Vehicle in India - (FAME - India).",
+        "2024_budget": {
+          "revenue": 2671.33,
+          "capital": 0,
+          "total": 2671.33
+        },
+        "2023": {
+          "budget": {
+            "revenue": 5171.97,
+            "capital": 0,
+            "total": 5171.97
+          },
+          "revised": {
+            "revenue": 4807.4,
+            "capital": 0,
+            "total": 4807.4
+          }
+        },
+        "2022_actual": {
+          "revenue": 2402.51,
+          "capital": 0,
+          "total": 2402.51
+        }
+      },
+      {
+        "index": "3",
+        "name": "Development Council for Automobile and Allied Industries",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 2.09,
+          "capital": 0,
+          "total": 2.09
+        }
+      },
+      {
+        "index": "4",
+        "name": "Production Linked Incentive (PLI) Scheme for Automobiles and Auto Components",
+        "2024_budget": {
+          "revenue": 3500.0,
+          "capital": 0,
+          "total": 3500.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 604.0,
+            "capital": 0,
+            "total": 604.0
+          },
+          "revised": {
+            "revenue": 483.77,
+            "capital": 0,
+            "total": 483.77
+          }
+        },
+        "2022_actual": {
+          "revenue": 5.69,
+          "capital": 0,
+          "total": 5.69
+        }
+      },
+      {
+        "index": "5",
+        "name": "Production Linked Incentive (PLI) Scheme for National Programme on Advanced Chemistry Cell (ACC) Battery Storage",
+        "2024_budget": {
+          "revenue": 250.0,
+          "capital": 0,
+          "total": 250.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1.0,
+            "capital": 0,
+            "total": 1.0
+          },
+          "revised": {
+            "revenue": 12.01,
+            "capital": 0,
+            "total": 12.01
+          }
+        },
+        "2022_actual": {
+          "revenue": 1.65,
+          "capital": 0,
+          "total": 1.65
+        }
+      },
+      {
+        "index": "6",
+        "name": "Enhancement of Competitiveness in the Indian Capital Goods Sector",
+        "2024_budget": {
+          "revenue": 250.0,
+          "capital": 0,
+          "total": 250.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 250.0,
+            "capital": 0,
+            "total": 250.0
+          },
+          "revised": {
+            "revenue": 187.2,
+            "capital": 0,
+            "total": 187.2
+          }
+        },
+        "2022_actual": {
+          "revenue": 199.25,
+          "capital": 0,
+          "total": 199.25
+        }
+      },
+      {
+        "index": "7",
+        "name": "Central Manufacturing Technology Institute (CMTI)",
+        "2024_budget": {
+          "revenue": 21.4,
+          "capital": 0,
+          "total": 21.4
+        },
+        "2023": {
+          "budget": {
+            "revenue": 24.0,
+            "capital": 0,
+            "total": 24.0
+          },
+          "revised": {
+            "revenue": 20.78,
+            "capital": 0,
+            "total": 20.78
+          }
+        },
+        "2022_actual": {
+          "revenue": 24.0,
+          "capital": 0,
+          "total": 24.0
+        }
+      },
+      {
+        "index": "8",
+        "name": "Support to Central Public Sector Enterprises",
+        "2024_budget": {
+          "revenue": 2.03,
+          "capital": 0.2,
+          "total": 2.23
+        },
+        "2023": {
+          "budget": {
+            "revenue": 57.33,
+            "capital": 24.31,
+            "total": 81.64
+          },
+          "revised": {
+            "revenue": 842.43,
+            "capital": 0.19,
+            "total": 842.62
+          }
+        },
+        "2022_actual": {
+          "revenue": 0.85,
+          "capital": 43.96,
+          "total": 44.81
+        }
+      },
+      {
+        "index": "9",
+        "name": "Actual Recovery",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": -6.27,
+          "capital": 0,
+          "total": -6.27
+        }
+      }
+    ],
+    "development_heads": [
+      {
+        "index": "1",
+        "name": "Industries",
+        "2024_budget": {
+          "revenue": 6694.76,
+          "capital": 0,
+          "total": 6694.76
+        },
+        "2023": {
+          "budget": {
+            "revenue": 6108.3,
+            "capital": 0,
+            "total": 6108.3
+          },
+          "revised": {
+            "revenue": 6353.59,
+            "capital": 0,
+            "total": 6353.59
+          }
+        },
+        "2022_actual": {
+          "revenue": 2629.81,
+          "capital": 0,
+          "total": 2629.81
+        }
+      },
+      {
+        "index": "2",
+        "name": "Secretariat -Economic Services",
+        "2024_budget": {
+          "revenue": 32.44,
+          "capital": 0,
+          "total": 32.44
+        },
+        "2023": {
+          "budget": {
+            "revenue": 37.02,
+            "capital": 0,
+            "total": 37.02
+          },
+          "revised": {
+            "revenue": 35.73,
+            "capital": 0,
+            "total": 35.73
+          }
+        },
+        "2022_actual": {
+          "revenue": 32.5,
+          "capital": 0,
+          "total": 32.5
+        }
+      },
+      {
+        "index": "3",
+        "name": "Capital Outlay on Engineering Industries",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0.05,
+          "total": 0.05
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0.05,
+            "total": 0.05
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0.05,
+            "total": 0.05
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "4",
+        "name": "Capital Outlay on Consumer Industries",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0.02,
+          "total": 0.02
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0.02,
+            "total": 0.02
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0.02,
+            "total": 0.02
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "5",
+        "name": "Capital Outlay on Other General Economic Services",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 1.6,
+          "total": 1.6
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 2.0,
+            "total": 2.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 2.0,
+            "total": 2.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "6",
+        "name": "Loans for Cement and Non -Metallic Mineral Industries",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0.01,
+          "total": 0.01
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0.01,
+            "total": 0.01
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0.01,
+            "total": 0.01
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "7",
+        "name": "Loans for Engineering Industries",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0.08,
+          "total": 0.08
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 24.19,
+            "total": 24.19
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0.07,
+            "total": 0.07
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "8",
+        "name": "Loans for Consumer Industries",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0.04,
+          "total": 0.04
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0.04,
+            "total": 0.04
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0.04,
+            "total": 0.04
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 43.96,
+          "total": 43.96
+        }
+      }
+    ],
+    "public_enterprises": [
+      {
+        "index": "1",
+        "name": "Bharat Heavy Electricals Ltd",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 227.0,
+          "total": 227.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 200.0,
+            "total": 200.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 223.0,
+            "total": 223.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 262.0,
+          "total": 262.0
+        }
+      },
+      {
+        "index": "2",
+        "name": "Heavy Engineering Corporation Limited",
+        "2024_budget": {
+          "revenue": 0.02,
+          "capital": 0,
+          "total": 0.02
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0.01,
+            "capital": 0,
+            "total": 0.01
+          },
+          "revised": {
+            "revenue": 0.02,
+            "capital": 0,
+            "total": 0.02
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "3",
+        "name": "Scooter India Limited",
+        "2024_budget": {
+          "revenue": 0.09,
+          "capital": 0,
+          "total": 0.09
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0.01,
+            "capital": 0,
+            "total": 0.01
+          },
+          "revised": {
+            "revenue": 0.08,
+            "capital": 0,
+            "total": 0.08
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "4",
+        "name": "HMT Limited",
+        "2024_budget": {
+          "revenue": 0.02,
+          "capital": 6.65,
+          "total": 6.67
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0.01,
+            "capital": 22.28,
+            "total": 22.29
+          },
+          "revised": {
+            "revenue": 0.02,
+            "capital": 8.7,
+            "total": 8.72
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 8.49,
+          "total": 8.49
+        }
+      },
+      {
+        "index": "5",
+        "name": "Hindustan Cables Limited",
+        "2024_budget": {
+          "revenue": 0.02,
+          "capital": 0,
+          "total": 0.02
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0.01,
+            "capital": 0,
+            "total": 0.01
+          },
+          "revised": {
+            "revenue": 0.02,
+            "capital": 0,
+            "total": 0.02
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "6",
+        "name": "Andrew Yule and Co Ltd",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 38.0,
+          "total": 38.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 37.0,
+            "total": 37.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 36.8,
+            "total": 36.8
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 42.7,
+          "total": 42.7
+        }
+      },
+      {
+        "index": "7",
+        "name": "Engineering Projects India Limited",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 1.2,
+          "total": 1.2
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 1.0,
+            "total": 1.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0.8,
+            "total": 0.8
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 1.67,
+          "total": 1.67
+        }
+      },
+      {
+        "index": "8",
+        "name": "Rajasthan Electronics and Instruments Limited",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0.09,
+          "total": 0.09
+        }
+      },
+      {
+        "index": "9",
+        "name": "Bridge and Roof Company Limited",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 3.0,
+          "total": 3.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 3.0,
+            "total": 3.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 3.0,
+            "total": 3.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 5.73,
+          "total": 5.73
+        }
+      },
+      {
+        "index": "10",
+        "name": "Richardson and Cruddas Limited",
+        "2024_budget": {
+          "revenue": 0.01,
+          "capital": 0,
+          "total": 0.01
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0.01,
+            "capital": 0,
+            "total": 0.01
+          },
+          "revised": {
+            "revenue": 0.01,
+            "capital": 0,
+            "total": 0.01
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "11",
+        "name": "Braithwaite Burn Jessop Construction Company Limited",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 1.0,
+          "total": 1.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 1.0,
+            "total": 1.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 5.0,
+            "total": 5.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 3.52,
+          "total": 3.52
+        }
+      },
+      {
+        "index": "12",
+        "name": "Nepa Limited",
+        "2024_budget": {
+          "revenue": 0.02,
+          "capital": 0,
+          "total": 0.02
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0.01,
+            "capital": 0,
+            "total": 0.01
+          },
+          "revised": {
+            "revenue": 0.02,
+            "capital": 0,
+            "total": 0.02
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "13",
+        "name": "Hindustan Salt Limited",
+        "2024_budget": {
+          "revenue": 0.01,
+          "capital": 0,
+          "total": 0.01
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0.01,
+            "capital": 0,
+            "total": 0.01
+          },
+          "revised": {
+            "revenue": 0.01,
+            "capital": 0,
+            "total": 0.01
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "14",
+        "name": "Cement Corporation of India",
+        "2024_budget": {
+          "revenue": 0.01,
+          "capital": 27.55,
+          "total": 27.56
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 17.51,
+            "total": 17.51
+          },
+          "revised": {
+            "revenue": 0.01,
+            "capital": 32.34,
+            "total": 32.35
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 5.93,
+          "total": 5.93
+        }
+      },
+      {
+        "index": "15",
+        "name": "Hindustan Photo Films 43.96 ... 43.96 ... ... ... ... ... ... ... ... ...  Total",
+        "2024_budget": {
+          "revenue": 0.2,
+          "capital": 304.4,
+          "total": 304.6
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0.07,
+            "capital": 281.79,
+            "total": 281.86
+          },
+          "revised": {
+            "revenue": 0.19,
+            "capital": 309.64,
+            "total": 309.83
+          }
+        },
+        "2022_actual": {
+          "revenue": 43.96,
+          "capital": 330.13,
+          "total": 374.09
+        }
+      }
+    ]
+  },
+  "number": 48
+}

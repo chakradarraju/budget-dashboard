@@ -1,0 +1,195 @@
+{
+  "name": "MINISTRY OF FINANCE",
+  "demand": "DEMAND NO. 33",
+  "department": "Department of Public Enterprises",
+  "sections": {
+    "allocation": [
+      {
+        "index": "1",
+        "name": "Secretariat - Economic Services",
+        "2024_budget": {
+          "revenue": 17.53,
+          "capital": 0.69,
+          "total": 18.22
+        },
+        "2023": {
+          "budget": {
+            "revenue": 22.24,
+            "capital": 0.9,
+            "total": 23.14
+          },
+          "revised": {
+            "revenue": 21.76,
+            "capital": 2.6,
+            "total": 24.36
+          }
+        },
+        "2022_actual": {
+          "revenue": 23.17,
+          "capital": 150.0,
+          "total": 173.17
+        }
+      },
+      {
+        "index": "2",
+        "name": "Counselling, Retraining and Redeployment (CRR) Scheme",
+        "2024_budget": {
+          "revenue": 2.0,
+          "capital": 0,
+          "total": 2.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 3.4,
+            "capital": 0,
+            "total": 3.4
+          },
+          "revised": {
+            "revenue": 1.7,
+            "capital": 0,
+            "total": 1.7
+          }
+        },
+        "2022_actual": {
+          "revenue": 1.75,
+          "capital": 0,
+          "total": 1.75
+        }
+      },
+      {
+        "index": "3",
+        "name": "Research, Development and Consultancy on generic issues related to CPSEs and State Level Public Enterprises",
+        "2024_budget": {
+          "revenue": 6.38,
+          "capital": 0,
+          "total": 6.38
+        },
+        "2023": {
+          "budget": {
+            "revenue": 6.51,
+            "capital": 0,
+            "total": 6.51
+          },
+          "revised": {
+            "revenue": 6.51,
+            "capital": 0,
+            "total": 6.51
+          }
+        },
+        "2022_actual": {
+          "revenue": 6.07,
+          "capital": 0,
+          "total": 6.07
+        }
+      }
+    ],
+    "development_heads": [
+      {
+        "index": "1",
+        "name": "Industries",
+        "2024_budget": {
+          "revenue": 7.54,
+          "capital": 0,
+          "total": 7.54
+        },
+        "2023": {
+          "budget": {
+            "revenue": 8.92,
+            "capital": 0,
+            "total": 8.92
+          },
+          "revised": {
+            "revenue": 7.39,
+            "capital": 0,
+            "total": 7.39
+          }
+        },
+        "2022_actual": {
+          "revenue": 7.82,
+          "capital": 0,
+          "total": 7.82
+        }
+      },
+      {
+        "index": "2",
+        "name": "Secretariat -Economic Services",
+        "2024_budget": {
+          "revenue": 17.53,
+          "capital": 0,
+          "total": 17.53
+        },
+        "2023": {
+          "budget": {
+            "revenue": 22.24,
+            "capital": 0,
+            "total": 22.24
+          },
+          "revised": {
+            "revenue": 21.76,
+            "capital": 0,
+            "total": 21.76
+          }
+        },
+        "2022_actual": {
+          "revenue": 23.17,
+          "capital": 0,
+          "total": 23.17
+        }
+      },
+      {
+        "index": "3",
+        "name": "Capital Outlay on Other Industries ... 150.00 150.00 ... ... ... ... ... ... ... ... ... 4. Capital Outlay on Other General Economic Services",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0.69,
+          "total": 0.69
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0.9,
+            "total": 0.9
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 2.6,
+            "total": 2.6
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "5",
+        "name": "North Eastern Areas",
+        "2024_budget": {
+          "revenue": 0.84,
+          "capital": 0,
+          "total": 0.84
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0.99,
+            "capital": 0,
+            "total": 0.99
+          },
+          "revised": {
+            "revenue": 0.82,
+            "capital": 0,
+            "total": 0.82
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      }
+    ],
+    "public_enterprises": []
+  },
+  "number": 33
+}

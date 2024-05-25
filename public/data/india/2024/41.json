@@ -1,0 +1,463 @@
+{
+  "name": "MINISTRY OF FINANCE",
+  "demand": "DEMAND NO. 41",
+  "department": "Pensions",
+  "sections": {
+    "allocation": [
+      {
+        "index": "1.",
+        "name": "Pensions and other Retirement Benefits"
+      },
+      {
+        "index": "1.01",
+        "name": "Superannuation and Retirement Allowances",
+        "2024_budget": {
+          "revenue": 34909.0,
+          "capital": 0,
+          "total": 34909.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 35167.01,
+            "capital": 0,
+            "total": 35167.01
+          },
+          "revised": {
+            "revenue": 36367.01,
+            "capital": 0,
+            "total": 36367.01
+          }
+        },
+        "2022_actual": {
+          "revenue": 31394.01,
+          "capital": 0,
+          "total": 31394.01
+        }
+      },
+      {
+        "index": "1.02",
+        "name": "Commuted Value of Pensions",
+        "2024_budget": {
+          "revenue": 5035.0,
+          "capital": 0,
+          "total": 5035.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 4832.0,
+            "capital": 0,
+            "total": 4832.0
+          },
+          "revised": {
+            "revenue": 4832.0,
+            "capital": 0,
+            "total": 4832.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 4726.04,
+          "capital": 0,
+          "total": 4726.04
+        }
+      },
+      {
+        "index": "1.03",
+        "name": "Gratuities",
+        "2024_budget": {
+          "revenue": 6837.0,
+          "capital": 0,
+          "total": 6837.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 5829.23,
+            "capital": 0,
+            "total": 5829.23
+          },
+          "revised": {
+            "revenue": 6229.23,
+            "capital": 0,
+            "total": 6229.23
+          }
+        },
+        "2022_actual": {
+          "revenue": 6250.76,
+          "capital": 0,
+          "total": 6250.76
+        }
+      },
+      {
+        "index": "1.04",
+        "name": "Family Pension",
+        "2024_budget": {
+          "revenue": 10735.38,
+          "capital": 0,
+          "total": 10735.38
+        },
+        "2023": {
+          "budget": {
+            "revenue": 9943.38,
+            "capital": 0,
+            "total": 9943.38
+          },
+          "revised": {
+            "revenue": 9953.38,
+            "capital": 0,
+            "total": 9953.38
+          }
+        },
+        "2022_actual": {
+          "revenue": 9496.48,
+          "capital": 0,
+          "total": 9496.48
+        }
+      },
+      {
+        "index": "1.05",
+        "name": "Leave Encashment",
+        "2024_budget": {
+          "revenue": 4530.0,
+          "capital": 0,
+          "total": 4530.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 3577.0,
+            "capital": 0,
+            "total": 3577.0
+          },
+          "revised": {
+            "revenue": 3857.0,
+            "capital": 0,
+            "total": 3857.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 3562.7,
+          "capital": 0,
+          "total": 3562.7
+        }
+      },
+      {
+        "index": "1.06",
+        "name": "Contribution to Provident Funds",
+        "2024_budget": {
+          "revenue": 5.05,
+          "capital": 0,
+          "total": 5.05
+        },
+        "2023": {
+          "budget": {
+            "revenue": 5.05,
+            "capital": 0,
+            "total": 5.05
+          },
+          "revised": {
+            "revenue": 5.05,
+            "capital": 0,
+            "total": 5.05
+          }
+        },
+        "2022_actual": {
+          "revenue": 3.57,
+          "capital": 0,
+          "total": 3.57
+        }
+      },
+      {
+        "index": "1.07",
+        "name": "Miscellaneous Pensionary Payments",
+        "2024_budget": {
+          "revenue": 10843.62,
+          "capital": 0,
+          "total": 10843.62
+        },
+        "2023": {
+          "budget": {
+            "revenue": 9001.58,
+            "capital": 0,
+            "total": 9001.58
+          },
+          "revised": {
+            "revenue": 10011.48,
+            "capital": 0,
+            "total": 10011.48
+          }
+        },
+        "2022_actual": {
+          "revenue": 8621.51,
+          "capital": 0,
+          "total": 8621.51
+        }
+      },
+      {
+        "index": "1.08",
+        "name": "Others",
+        "2024_budget": {
+          "revenue": 0.5,
+          "capital": 0,
+          "total": 0.5
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1.0,
+            "capital": 0,
+            "total": 1.0
+          },
+          "revised": {
+            "revenue": 1.1,
+            "capital": 0,
+            "total": 1.1
+          }
+        },
+        "2022_actual": {
+          "revenue": 0.45,
+          "capital": 0,
+          "total": 0.45
+        }
+      },
+      {
+        "index": "1.09",
+        "name": "Actual Recoveries -204.59 ... -204.59 ... ... ... ... ... ... ... ... ... Net",
+        "2024_budget": {
+          "revenue": 72895.55,
+          "capital": 0,
+          "total": 72895.55
+        },
+        "2023": {
+          "budget": {
+            "revenue": 68356.25,
+            "capital": 0,
+            "total": 68356.25
+          },
+          "revised": {
+            "revenue": 71256.25,
+            "capital": 0,
+            "total": 71256.25
+          }
+        },
+        "2022_actual": {
+          "revenue": 63850.93,
+          "capital": 0,
+          "total": 63850.93
+        }
+      },
+      {
+        "index": "2",
+        "name": "Pensionary charges of Government of National Capital Territory (NCT) of Delhi 2.01 Pensionary Charges payable to employees of NCT Delhi",
+        "2024_budget": {
+          "revenue": 4801.35,
+          "capital": 0,
+          "total": 4801.35
+        },
+        "2023": {
+          "budget": {
+            "revenue": 4301.35,
+            "capital": 0,
+            "total": 4301.35
+          },
+          "revised": {
+            "revenue": 4401.35,
+            "capital": 0,
+            "total": 4401.35
+          }
+        },
+        "2022_actual": {
+          "revenue": 4181.79,
+          "capital": 0,
+          "total": 4181.79
+        }
+      },
+      {
+        "index": "2.02",
+        "name": "Less amount receivable from Government of NCT Delhi",
+        "2024_budget": {
+          "revenue": -1000.0,
+          "capital": 0,
+          "total": -1000.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": -1000.0,
+            "capital": 0,
+            "total": -1000.0
+          },
+          "revised": {
+            "revenue": -1000.0,
+            "capital": 0,
+            "total": -1000.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "3.",
+        "name": "Social Security and Welfare"
+      },
+      {
+        "index": "3.01",
+        "name": "Deposit Linked Insurance Scheme",
+        "2024_budget": {
+          "revenue": 40.1,
+          "capital": 0,
+          "total": 40.1
+        },
+        "2023": {
+          "budget": {
+            "revenue": 40.1,
+            "capital": 0,
+            "total": 40.1
+          },
+          "revised": {
+            "revenue": 40.1,
+            "capital": 0,
+            "total": 40.1
+          }
+        },
+        "2022_actual": {
+          "revenue": 31.35,
+          "capital": 0,
+          "total": 31.35
+        }
+      },
+      {
+        "index": "3.02",
+        "name": "Central Government Employees Insurance Scheme",
+        "2024_budget": {
+          "revenue": 1.0,
+          "capital": 0,
+          "total": 1.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1.0,
+            "capital": 0,
+            "total": 1.0
+          },
+          "revised": {
+            "revenue": 1.0,
+            "capital": 0,
+            "total": 1.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0.07,
+          "capital": 0,
+          "total": 0.07
+        }
+      },
+      {
+        "index": "3.03",
+        "name": "Others",
+        "2024_budget": {
+          "revenue": 1.3,
+          "capital": 0,
+          "total": 1.3
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0.6,
+            "capital": 0,
+            "total": 0.6
+          },
+          "revised": {
+            "revenue": 0.6,
+            "capital": 0,
+            "total": 0.6
+          }
+        },
+        "2022_actual": {
+          "revenue": 0.98,
+          "capital": 0,
+          "total": 0.98
+        }
+      },
+      {
+        "index": "3.04",
+        "name": "Deposit Linked Insurance Scheme Payable to employees of Government of NCT Delhi",
+        "2024_budget": {
+          "revenue": 1.7,
+          "capital": 0,
+          "total": 1.7
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1.7,
+            "capital": 0,
+            "total": 1.7
+          },
+          "revised": {
+            "revenue": 1.7,
+            "capital": 0,
+            "total": 1.7
+          }
+        },
+        "2022_actual": {
+          "revenue": 1.01,
+          "capital": 0,
+          "total": 1.01
+        }
+      }
+    ],
+    "development_heads": [
+      {
+        "index": "1",
+        "name": "Pensions and other Retirement Benefits",
+        "2024_budget": {
+          "revenue": 76696.9,
+          "capital": 0,
+          "total": 76696.9
+        },
+        "2023": {
+          "budget": {
+            "revenue": 71657.6,
+            "capital": 0,
+            "total": 71657.6
+          },
+          "revised": {
+            "revenue": 74657.6,
+            "capital": 0,
+            "total": 74657.6
+          }
+        },
+        "2022_actual": {
+          "revenue": 68032.72,
+          "capital": 0,
+          "total": 68032.72
+        }
+      },
+      {
+        "index": "2",
+        "name": "Social Security and Welfare",
+        "2024_budget": {
+          "revenue": 44.1,
+          "capital": 0,
+          "total": 44.1
+        },
+        "2023": {
+          "budget": {
+            "revenue": 43.4,
+            "capital": 0,
+            "total": 43.4
+          },
+          "revised": {
+            "revenue": 43.4,
+            "capital": 0,
+            "total": 43.4
+          }
+        },
+        "2022_actual": {
+          "revenue": 33.41,
+          "capital": 0,
+          "total": 33.41
+        }
+      }
+    ],
+    "public_enterprises": []
+  },
+  "number": 41
+}

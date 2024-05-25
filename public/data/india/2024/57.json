@@ -1,0 +1,169 @@
+{
+  "name": "MINISTRY OF HOME AFFAIRS",
+  "demand": "DEMAND NO. 57",
+  "department": "Transfers to Delhi",
+  "sections": {
+    "allocation": [
+      {
+        "index": "1",
+        "name": "Enhanced compensation to 1984 riots victims",
+        "2024_budget": {
+          "revenue": 2.0,
+          "capital": 0,
+          "total": 2.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 2.0,
+            "capital": 0,
+            "total": 2.0
+          },
+          "revised": {
+            "revenue": 2.0,
+            "capital": 0,
+            "total": 2.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 9.49,
+          "capital": 0,
+          "total": 9.49
+        }
+      },
+      {
+        "index": "2",
+        "name": "Grants in lieu of share in Central Taxes and Duties 325.00 ... 325.00 ... ... ... ... ... ... ... ... ... 3. Grants towards contribution to Union Territory Disaster Response Fund",
+        "2024_budget": {
+          "revenue": 15.0,
+          "capital": 0,
+          "total": 15.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 15.0,
+            "capital": 0,
+            "total": 15.0
+          },
+          "revised": {
+            "revenue": 15.0,
+            "capital": 0,
+            "total": 15.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "4",
+        "name": "Central Assistance to Union Territories",
+        "2024_budget": {
+          "revenue": 951.0,
+          "capital": 0,
+          "total": 951.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 951.0,
+            "capital": 0,
+            "total": 951.0
+          },
+          "revised": {
+            "revenue": 951.0,
+            "capital": 0,
+            "total": 951.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 626.0,
+          "capital": 0,
+          "total": 626.0
+        }
+      },
+      {
+        "index": "5",
+        "name": "Additional Central Assistance for Externally Aided Projects (Chandrawal water treatment Plant)",
+        "2024_budget": {
+          "revenue": 200.0,
+          "capital": 0.01,
+          "total": 200.01
+        },
+        "2023": {
+          "budget": {
+            "revenue": 200.0,
+            "capital": 0.01,
+            "total": 200.01
+          },
+          "revised": {
+            "revenue": 200.0,
+            "capital": 0.01,
+            "total": 200.01
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      }
+    ],
+    "development_heads": [
+      {
+        "index": "1",
+        "name": "Grants -in-aid to Union Territory Governments",
+        "2024_budget": {
+          "revenue": 1168.0,
+          "capital": 0,
+          "total": 1168.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1168.0,
+            "capital": 0,
+            "total": 1168.0
+          },
+          "revised": {
+            "revenue": 1168.0,
+            "capital": 0,
+            "total": 1168.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 960.49,
+          "capital": 0,
+          "total": 960.49
+        }
+      },
+      {
+        "index": "2",
+        "name": "Loans and Advances to Union Territory Governments",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0.01,
+          "total": 0.01
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0.01,
+            "total": 0.01
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0.01,
+            "total": 0.01
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      }
+    ],
+    "public_enterprises": []
+  },
+  "number": 57
+}

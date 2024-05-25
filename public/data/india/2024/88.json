@@ -1,0 +1,381 @@
+{
+  "name": "No. 88/Department of Land Resources MINISTRY OF RURAL DEVELOPMENT",
+  "demand": "DEMAND NO. 88",
+  "department": "Department of Land Resources",
+  "sections": {
+    "allocation": [
+      {
+        "index": "1.Secretariat",
+        "name": "",
+        "2024_budget": {
+          "revenue": 24.23,
+          "capital": 1.01,
+          "total": 25.24
+        },
+        "2023": {
+          "budget": {
+            "revenue": 22.22,
+            "capital": 1.26,
+            "total": 23.48
+          },
+          "revised": {
+            "revenue": 21.78,
+            "capital": 1.26,
+            "total": 23.04
+          }
+        },
+        "2022_actual": {
+          "revenue": 20.18,
+          "capital": 0,
+          "total": 20.18
+        }
+      },
+      {
+        "index": "2.Land",
+        "name": "Records Modernization Programme",
+        "2024_budget": {
+          "revenue": 141.0,
+          "capital": 0,
+          "total": 141.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 195.75,
+            "capital": 0,
+            "total": 195.75
+          },
+          "revised": {
+            "revenue": 125.0,
+            "capital": 0,
+            "total": 125.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 239.25,
+          "capital": 0,
+          "total": 239.25
+        }
+      },
+      {
+        "index": "3.Integrated",
+        "name": "Watershed Development Program 3.01 Programme Component 983.47 ... 983.47 ... ... ... ... ... ... ... ... ... -244.53 ... -244.53 ... ... ... ... ... ... ... ... ... Net 738.94 ... 738.94 ... ... ... ... ... ... ... ... ... 4.Watershed Development Component -Pradhan Mantri Krishi Sinchai Yojana 4.01 Program Component",
+        "2024_budget": {
+          "revenue": 2481.0,
+          "capital": 0,
+          "total": 2481.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 2181.0,
+            "capital": 0,
+            "total": 2181.0
+          },
+          "revised": {
+            "revenue": 1739.55,
+            "capital": 0,
+            "total": 1739.55
+          }
+        },
+        "2022_actual": {
+          "revenue": 11.8,
+          "capital": 0,
+          "total": 11.8
+        }
+      },
+      {
+        "index": "4.02",
+        "name": "EAP Component",
+        "2024_budget": {
+          "revenue": 20.0,
+          "capital": 0,
+          "total": 20.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 19.0,
+            "capital": 0,
+            "total": 19.0
+          },
+          "revised": {
+            "revenue": 10.45,
+            "capital": 0,
+            "total": 10.45
+          }
+        },
+        "2022_actual": {
+          "revenue": 4.43,
+          "capital": 0,
+          "total": 4.43
+        }
+      },
+      {
+        "index": "4.03",
+        "name": "Transfer to Agriculture Infrastructure and Development Reserve",
+        "2024_budget": {
+          "revenue": 2481.0,
+          "capital": 0,
+          "total": 2481.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 1739.55,
+            "capital": 0,
+            "total": 1739.55
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "4.04",
+        "name": "Less - amount met from Agriculture",
+        "2024_budget": {
+          "revenue": -2481.0,
+          "capital": 0,
+          "total": -2481.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": -1739.55,
+            "capital": 0,
+            "total": -1739.55
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      }
+    ],
+    "development_heads": [
+      {
+        "index": "1.Special",
+        "name": "Programmes for Rural Development",
+        "2024_budget": {
+          "revenue": 75.21,
+          "capital": 0,
+          "total": 75.21
+        },
+        "2023": {
+          "budget": {
+            "revenue": 68.28,
+            "capital": 0,
+            "total": 68.28
+          },
+          "revised": {
+            "revenue": 45.3,
+            "capital": 0,
+            "total": 45.3
+          }
+        },
+        "2022_actual": {
+          "revenue": 9.13,
+          "capital": 0,
+          "total": 9.13
+        }
+      },
+      {
+        "index": "2.Land",
+        "name": "Reforms",
+        "2024_budget": {
+          "revenue": 126.9,
+          "capital": 0,
+          "total": 126.9
+        },
+        "2023": {
+          "budget": {
+            "revenue": 176.17,
+            "capital": 0,
+            "total": 176.17
+          },
+          "revised": {
+            "revenue": 105.42,
+            "capital": 0,
+            "total": 105.42
+          }
+        },
+        "2022_actual": {
+          "revenue": 239.25,
+          "capital": 0,
+          "total": 239.25
+        }
+      },
+      {
+        "index": "3.Secretariat",
+        "name": "-Economic Services",
+        "2024_budget": {
+          "revenue": 24.23,
+          "capital": 0,
+          "total": 24.23
+        },
+        "2023": {
+          "budget": {
+            "revenue": 22.22,
+            "capital": 0,
+            "total": 22.22
+          },
+          "revised": {
+            "revenue": 21.78,
+            "capital": 0,
+            "total": 21.78
+          }
+        },
+        "2022_actual": {
+          "revenue": 20.18,
+          "capital": 0,
+          "total": 20.18
+        }
+      },
+      {
+        "index": "4.Capital",
+        "name": "Outlay on Other General Economic Services",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 1.01,
+          "total": 1.01
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 1.26,
+            "total": 1.26
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 1.26,
+            "total": 1.26
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "5.North",
+        "name": "Eastern Areas",
+        "2024_budget": {
+          "revenue": 264.11,
+          "capital": 0,
+          "total": 264.11
+        },
+        "2023": {
+          "budget": {
+            "revenue": 239.58,
+            "capital": 0,
+            "total": 239.58
+          },
+          "revised": {
+            "revenue": 197.08,
+            "capital": 0,
+            "total": 197.08
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "6.Grants",
+        "name": "-in-aid to State Governments",
+        "2024_budget": {
+          "revenue": 2121.78,
+          "capital": 0,
+          "total": 2121.78
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1864.22,
+            "capital": 0,
+            "total": 1864.22
+          },
+          "revised": {
+            "revenue": 1491.29,
+            "capital": 0,
+            "total": 1491.29
+          }
+        },
+        "2022_actual": {
+          "revenue": 736.51,
+          "capital": 0,
+          "total": 736.51
+        }
+      },
+      {
+        "index": "7.Grants",
+        "name": "-in-aid to Union Territory Governments",
+        "2024_budget": {
+          "revenue": 54.0,
+          "capital": 0,
+          "total": 54.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 47.5,
+            "capital": 0,
+            "total": 47.5
+          },
+          "revised": {
+            "revenue": 35.91,
+            "capital": 0,
+            "total": 35.91
+          }
+        },
+        "2022_actual": {
+          "revenue": -2.75,
+          "capital": 0,
+          "total": -2.75
+        }
+      },
+      {
+        "index": "1.",
+        "name": "Secretariat:.. Provision is for expenditure on Secretariat of Department of Land Resources 3. Integrated Watershed Development Program: ..(a) (i) Integrated Watershed Management Programme IWMP was amalgamated as Watershed Development Component (WDC) of Pradhan Mantri Krishi Sinchayee Yojana PMKSY in 2015-16. WDC-PMKSY is for development of rainfed and degraded areas. Under the IWMP 8214 watershed development projects were sanctioned during 2009-10 to 2014-15 in 28 States now 27 States and UTs of Jammu and Kashmir and Ladakh involving an area of about 39.07 million ha. Since inception of the scheme, an amount of ..`1992 6.69 crore has been released to the States as Central Share. The scheme has been closed on 31.03.2022. (ii) Under WDC-PMKSY 1.0 since 2014-15 to 2021-22, 36.34 lakh farmers were"
+      },
+      {
+        "index": "26",
+        "name": "Total budget includes USD 115",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 49.0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 60.0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      }
+    ],
+    "public_enterprises": []
+  },
+  "number": 88
+}

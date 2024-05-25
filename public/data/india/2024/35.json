@@ -1,0 +1,849 @@
+{
+  "name": "MINISTRY OF FINANCE",
+  "demand": "DEMAND NO. 35",
+  "department": "Department of Revenue",
+  "sections": {
+    "allocation": [
+      {
+        "index": "1",
+        "name": "Secretariat",
+        "2024_budget": {
+          "revenue": 349.38,
+          "capital": 55.71,
+          "total": 405.09
+        },
+        "2023": {
+          "budget": {
+            "revenue": 335.77,
+            "capital": 71.44,
+            "total": 407.21
+          },
+          "revised": {
+            "revenue": 329.27,
+            "capital": 52.44,
+            "total": 381.71
+          }
+        },
+        "2022_actual": {
+          "revenue": 345.54,
+          "capital": 0,
+          "total": 345.54
+        }
+      },
+      {
+        "index": "2",
+        "name": "Implementation of VAT Scheme",
+        "2024_budget": {
+          "revenue": 0.01,
+          "capital": 0,
+          "total": 0.01
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0.01,
+            "capital": 0,
+            "total": 0.01
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "3",
+        "name": "Enforcement Directorate",
+        "2024_budget": {
+          "revenue": 470.0,
+          "capital": 0,
+          "total": 470.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 404.57,
+            "capital": 0,
+            "total": 404.57
+          },
+          "revised": {
+            "revenue": 524.17,
+            "capital": 0,
+            "total": 524.17
+          }
+        },
+        "2022_actual": {
+          "revenue": 495.48,
+          "capital": 0,
+          "total": 495.48
+        }
+      },
+      {
+        "index": "4",
+        "name": "Narcotics Control",
+        "2024_budget": {
+          "revenue": 56.58,
+          "capital": 0,
+          "total": 56.58
+        },
+        "2023": {
+          "budget": {
+            "revenue": 49.92,
+            "capital": 0,
+            "total": 49.92
+          },
+          "revised": {
+            "revenue": 57.17,
+            "capital": 0,
+            "total": 57.17
+          }
+        },
+        "2022_actual": {
+          "revenue": 48.95,
+          "capital": 0,
+          "total": 48.95
+        }
+      },
+      {
+        "index": "5",
+        "name": "Special Investigation Team (SIT)",
+        "2024_budget": {
+          "revenue": 3.09,
+          "capital": 0,
+          "total": 3.09
+        },
+        "2023": {
+          "budget": {
+            "revenue": 2.91,
+            "capital": 0,
+            "total": 2.91
+          },
+          "revised": {
+            "revenue": 2.89,
+            "capital": 0,
+            "total": 2.89
+          }
+        },
+        "2022_actual": {
+          "revenue": 2.36,
+          "capital": 0,
+          "total": 2.36
+        }
+      },
+      {
+        "index": "6",
+        "name": "Actual Recoveries",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": -0.75,
+          "capital": 0,
+          "total": -0.75
+        }
+      },
+      {
+        "index": "7",
+        "name": "National Institute of Public Finance and Policy",
+        "2024_budget": {
+          "revenue": 14.79,
+          "capital": 0,
+          "total": 14.79
+        },
+        "2023": {
+          "budget": {
+            "revenue": 10.5,
+            "capital": 0,
+            "total": 10.5
+          },
+          "revised": {
+            "revenue": 10.5,
+            "capital": 0,
+            "total": 10.5
+          }
+        },
+        "2022_actual": {
+          "revenue": 9.5,
+          "capital": 0,
+          "total": 9.5
+        }
+      },
+      {
+        "index": "8",
+        "name": "Capital Outlay for Other Fiscal Services",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 49.21,
+          "total": 49.21
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 42.71,
+            "total": 42.71
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 42.81,
+            "total": 42.81
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "9",
+        "name": "International Cooperation",
+        "2024_budget": {
+          "revenue": 11.28,
+          "capital": 0,
+          "total": 11.28
+        },
+        "2023": {
+          "budget": {
+            "revenue": 13.7,
+            "capital": 0,
+            "total": 13.7
+          },
+          "revised": {
+            "revenue": 14.35,
+            "capital": 0,
+            "total": 14.35
+          }
+        },
+        "2022_actual": {
+          "revenue": 11.03,
+          "capital": 0,
+          "total": 11.03
+        }
+      },
+      {
+        "index": "10",
+        "name": "Other Expenditure",
+        "2024_budget": {
+          "revenue": 71.28,
+          "capital": 0,
+          "total": 71.28
+        },
+        "2023": {
+          "budget": {
+            "revenue": 58.07,
+            "capital": 0,
+            "total": 58.07
+          },
+          "revised": {
+            "revenue": 71.17,
+            "capital": 0,
+            "total": 71.17
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "11",
+        "name": "Opium and Alkaloid Factories 11.01 Working expenditure in Opium and Alkaloid Factories",
+        "2024_budget": {
+          "revenue": 412.51,
+          "capital": 0,
+          "total": 412.51
+        },
+        "2023": {
+          "budget": {
+            "revenue": 331.36,
+            "capital": 0,
+            "total": 331.36
+          },
+          "revised": {
+            "revenue": 342.47,
+            "capital": 0,
+            "total": 342.47
+          }
+        },
+        "2022_actual": {
+          "revenue": 279.21,
+          "capital": 0,
+          "total": 279.21
+        }
+      },
+      {
+        "index": "11.02",
+        "name": "Less Revenue Receipt",
+        "2024_budget": {
+          "revenue": -334.0,
+          "capital": 0,
+          "total": -334.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": -275.0,
+            "capital": 0,
+            "total": -275.0
+          },
+          "revised": {
+            "revenue": -270.0,
+            "capital": 0,
+            "total": -270.0
+          }
+        },
+        "2022_actual": {
+          "revenue": -284.5,
+          "capital": 0,
+          "total": -284.5
+        }
+      },
+      {
+        "index": "11.03",
+        "name": "Capital Expenditure in Opium and Alkaloid Factories",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 6.43,
+          "total": 6.43
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 5.57,
+            "total": 5.57
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 12.51,
+            "total": 12.51
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 2.14,
+          "total": 2.14
+        }
+      },
+      {
+        "index": "12",
+        "name": "Capital Outlay on Public Works",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 300.0,
+          "total": 300.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0.09,
+            "total": 0.09
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 199.0,
+            "total": 199.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 26.85,
+          "total": 26.85
+        }
+      },
+      {
+        "index": "13",
+        "name": "Capital Outlay on Housing",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0.01,
+          "total": 0.01
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0.03,
+            "total": 0.03
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "14",
+        "name": "User Charges to GSTN(Goods and Services Tax Network)",
+        "2024_budget": {
+          "revenue": 394.38,
+          "capital": 0,
+          "total": 394.38
+        },
+        "2023": {
+          "budget": {
+            "revenue": 296.0,
+            "capital": 0,
+            "total": 296.0
+          },
+          "revised": {
+            "revenue": 561.89,
+            "capital": 0,
+            "total": 561.89
+          }
+        },
+        "2022_actual": {
+          "revenue": 134.84,
+          "capital": 0,
+          "total": 134.84
+        }
+      },
+      {
+        "index": "15",
+        "name": "Compensation to States/UTs for revenue Losses due to implementation of VAT and VAT related Expenditure",
+        "2024_budget": {
+          "revenue": 0.02,
+          "capital": 0,
+          "total": 0.02
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0.02,
+            "capital": 0,
+            "total": 0.02
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "16",
+        "name": "Compensation to States/UTs for revenue losses due to phasing out of CST",
+        "2024_budget": {
+          "revenue": 0.01,
+          "capital": 0,
+          "total": 0.01
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0.01,
+            "capital": 0,
+            "total": 0.01
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "17.",
+        "name": "Compensation to States/UTs for revenue losses on roll out of GST"
+      },
+      {
+        "index": "17.01",
+        "name": "Transfer to GST Compensation Fund",
+        "2024_budget": {
+          "revenue": 150000.0,
+          "capital": 0,
+          "total": 150000.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 145000.0,
+            "capital": 0,
+            "total": 145000.0
+          },
+          "revised": {
+            "revenue": 145000.0,
+            "capital": 0,
+            "total": 145000.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 163506.29,
+          "capital": 0,
+          "total": 163506.29
+        }
+      },
+      {
+        "index": "17.02",
+        "name": "Release to States/UTs for revenue loss",
+        "2024_budget": {
+          "revenue": 13000.0,
+          "capital": 0,
+          "total": 13000.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 43055.0,
+            "capital": 0,
+            "total": 43055.0
+          },
+          "revised": {
+            "revenue": 43055.0,
+            "capital": 0,
+            "total": 43055.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 149167.79,
+          "capital": 0,
+          "total": 149167.79
+        }
+      },
+      {
+        "index": "17.03",
+        "name": "Amount met from GST Compensation Fund",
+        "2024_budget": {
+          "revenue": -13000.0,
+          "capital": 0,
+          "total": -13000.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": -43055.0,
+            "capital": 0,
+            "total": -43055.0
+          },
+          "revised": {
+            "revenue": -43055.0,
+            "capital": 0,
+            "total": -43055.0
+          }
+        },
+        "2022_actual": {
+          "revenue": -149167.79,
+          "capital": 0,
+          "total": -149167.79
+        }
+      }
+    ],
+    "development_heads": [
+      {
+        "index": "1",
+        "name": "Other Fiscal Services",
+        "2024_budget": {
+          "revenue": 955.65,
+          "capital": 0,
+          "total": 955.65
+        },
+        "2023": {
+          "budget": {
+            "revenue": 773.92,
+            "capital": 0,
+            "total": 773.92
+          },
+          "revised": {
+            "revenue": 1172.91,
+            "capital": 0,
+            "total": 1172.91
+          }
+        },
+        "2022_actual": {
+          "revenue": 643.35,
+          "capital": 0,
+          "total": 643.35
+        }
+      },
+      {
+        "index": "2",
+        "name": "Secretariat -General Services",
+        "2024_budget": {
+          "revenue": 349.39,
+          "capital": 0,
+          "total": 349.39
+        },
+        "2023": {
+          "budget": {
+            "revenue": 335.78,
+            "capital": 0,
+            "total": 335.78
+          },
+          "revised": {
+            "revenue": 329.27,
+            "capital": 0,
+            "total": 329.27
+          }
+        },
+        "2022_actual": {
+          "revenue": 345.54,
+          "capital": 0,
+          "total": 345.54
+        }
+      },
+      {
+        "index": "3",
+        "name": "Other Administrative Services",
+        "2024_budget": {
+          "revenue": 65.75,
+          "capital": 0,
+          "total": 65.75
+        },
+        "2023": {
+          "budget": {
+            "revenue": 61.75,
+            "capital": 0,
+            "total": 61.75
+          },
+          "revised": {
+            "revenue": 69.23,
+            "capital": 0,
+            "total": 69.23
+          }
+        },
+        "2022_actual": {
+          "revenue": 58.06,
+          "capital": 0,
+          "total": 58.06
+        }
+      },
+      {
+        "index": "4",
+        "name": "Capital Outlay on Other Fiscal Services",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 49.21,
+          "total": 49.21
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 42.71,
+            "total": 42.71
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 42.81,
+            "total": 42.81
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "5",
+        "name": "Capital Outlay on Public Works",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 300.0,
+          "total": 300.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0.09,
+            "total": 0.09
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 199.0,
+            "total": 199.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 26.85,
+          "total": 26.85
+        }
+      },
+      {
+        "index": "6",
+        "name": "Capital Outlay on Other Administrative Services",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 55.71,
+          "total": 55.71
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 71.44,
+            "total": 71.44
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 52.44,
+            "total": 52.44
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "7",
+        "name": "Capital Outlay on Housing",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0.01,
+          "total": 0.01
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0.03,
+            "total": 0.03
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "8",
+        "name": "Other Industries",
+        "2024_budget": {
+          "revenue": 78.51,
+          "capital": 0,
+          "total": 78.51
+        },
+        "2023": {
+          "budget": {
+            "revenue": 56.36,
+            "capital": 0,
+            "total": 56.36
+          },
+          "revised": {
+            "revenue": 72.47,
+            "capital": 0,
+            "total": 72.47
+          }
+        },
+        "2022_actual": {
+          "revenue": -5.29,
+          "capital": 0,
+          "total": -5.29
+        }
+      },
+      {
+        "index": "9",
+        "name": "Capital Outlay on Other Industries",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 6.43,
+          "total": 6.43
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 5.57,
+            "total": 5.57
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 12.51,
+            "total": 12.51
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 2.14,
+          "total": 2.14
+        }
+      },
+      {
+        "index": "10",
+        "name": "Grants -in-aid to State Governments",
+        "2024_budget": {
+          "revenue": 145000.02,
+          "capital": 0,
+          "total": 145000.02
+        },
+        "2023": {
+          "budget": {
+            "revenue": 130500.02,
+            "capital": 0,
+            "total": 130500.02
+          },
+          "revised": {
+            "revenue": 130500.0,
+            "capital": 0,
+            "total": 130500.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 148299.82,
+          "capital": 0,
+          "total": 148299.82
+        }
+      },
+      {
+        "index": "11",
+        "name": "Grants -in-aid to Union Territory Governments",
+        "2024_budget": {
+          "revenue": 5000.01,
+          "capital": 0,
+          "total": 5000.01
+        },
+        "2023": {
+          "budget": {
+            "revenue": 14500.01,
+            "capital": 0,
+            "total": 14500.01
+          },
+          "revised": {
+            "revenue": 14500.0,
+            "capital": 0,
+            "total": 14500.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 15206.47,
+          "capital": 0,
+          "total": 15206.47
+        }
+      }
+    ],
+    "public_enterprises": []
+  },
+  "number": 35
+}

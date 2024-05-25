@@ -1,0 +1,875 @@
+{
+  "name": "MINISTRY OF LABOUR AND EMPLOYMENT",
+  "demand": "DEMAND NO. 64",
+  "department": "Ministry of Labour and Employment",
+  "sections": {
+    "allocation": [
+      {
+        "index": "1",
+        "name": "Secretariat",
+        "2024_budget": {
+          "revenue": 98.78,
+          "capital": 4.48,
+          "total": 103.26
+        },
+        "2023": {
+          "budget": {
+            "revenue": 86.36,
+            "capital": 2.95,
+            "total": 89.31
+          },
+          "revised": {
+            "revenue": 92.29,
+            "capital": 4.3,
+            "total": 96.59
+          }
+        },
+        "2022_actual": {
+          "revenue": 76.38,
+          "capital": 0,
+          "total": 76.38
+        }
+      },
+      {
+        "index": "2",
+        "name": "Labour Bureau",
+        "2024_budget": {
+          "revenue": 29.9,
+          "capital": 0.17,
+          "total": 30.07
+        },
+        "2023": {
+          "budget": {
+            "revenue": 31.5,
+            "capital": 0.15,
+            "total": 31.65
+          },
+          "revised": {
+            "revenue": 28.27,
+            "capital": 0.12,
+            "total": 28.39
+          }
+        },
+        "2022_actual": {
+          "revenue": 24.97,
+          "capital": 0.01,
+          "total": 24.98
+        }
+      },
+      {
+        "index": "3",
+        "name": "Other Expenditure related to Chief Labour Commissioner,Central Government Industrial Tribunal, Research and Information Technology",
+        "2024_budget": {
+          "revenue": 118.3,
+          "capital": 7.42,
+          "total": 125.72
+        },
+        "2023": {
+          "budget": {
+            "revenue": 109.5,
+            "capital": 8.27,
+            "total": 117.77
+          },
+          "revised": {
+            "revenue": 112.27,
+            "capital": 5.77,
+            "total": 118.04
+          }
+        },
+        "2022_actual": {
+          "revenue": 102.69,
+          "capital": 7.26,
+          "total": 109.95
+        }
+      },
+      {
+        "index": "4",
+        "name": "Direcorate General of Factory Advice Services (DGFASLI)",
+        "2024_budget": {
+          "revenue": 31.78,
+          "capital": 7.56,
+          "total": 39.34
+        },
+        "2023": {
+          "budget": {
+            "revenue": 32.1,
+            "capital": 7.0,
+            "total": 39.1
+          },
+          "revised": {
+            "revenue": 31.74,
+            "capital": 8.29,
+            "total": 40.03
+          }
+        },
+        "2022_actual": {
+          "revenue": 28.02,
+          "capital": 11.43,
+          "total": 39.45
+        }
+      },
+      {
+        "index": "5",
+        "name": "Directorate General of Mines Safety (DGMS)",
+        "2024_budget": {
+          "revenue": 99.63,
+          "capital": 19.37,
+          "total": 119.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 99.08,
+            "capital": 10.0,
+            "total": 109.08
+          },
+          "revised": {
+            "revenue": 110.93,
+            "capital": 10.0,
+            "total": 120.93
+          }
+        },
+        "2022_actual": {
+          "revenue": 91.97,
+          "capital": 10.46,
+          "total": 102.43
+        }
+      },
+      {
+        "index": "6",
+        "name": "International Cooperation",
+        "2024_budget": {
+          "revenue": 43.14,
+          "capital": 0,
+          "total": 43.14
+        },
+        "2023": {
+          "budget": {
+            "revenue": 27.0,
+            "capital": 0,
+            "total": 27.0
+          },
+          "revised": {
+            "revenue": 42.8,
+            "capital": 0,
+            "total": 42.8
+          }
+        },
+        "2022_actual": {
+          "revenue": 33.18,
+          "capital": 0,
+          "total": 33.18
+        }
+      },
+      {
+        "index": "7",
+        "name": "Directorate General of Employment",
+        "2024_budget": {
+          "revenue": 68.93,
+          "capital": 7.93,
+          "total": 76.86
+        },
+        "2023": {
+          "budget": {
+            "revenue": 63.22,
+            "capital": 7.0,
+            "total": 70.22
+          },
+          "revised": {
+            "revenue": 67.97,
+            "capital": 6.99,
+            "total": 74.96
+          }
+        },
+        "2022_actual": {
+          "revenue": 54.9,
+          "capital": 7.97,
+          "total": 62.87
+        }
+      },
+      {
+        "index": "8",
+        "name": "Directorate General of Labour Welfare Scheme",
+        "2024_budget": {
+          "revenue": 154.31,
+          "capital": 2.05,
+          "total": 156.36
+        },
+        "2023": {
+          "budget": {
+            "revenue": 173.78,
+            "capital": 2.0,
+            "total": 175.78
+          },
+          "revised": {
+            "revenue": 155.43,
+            "capital": 1.9,
+            "total": 157.33
+          }
+        },
+        "2022_actual": {
+          "revenue": 143.24,
+          "capital": 0.3,
+          "total": 143.54
+        }
+      },
+      {
+        "index": "9",
+        "name": "Labour and Employment Statistical System (LESS)",
+        "2024_budget": {
+          "revenue": 50.0,
+          "capital": 0,
+          "total": 50.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 110.0,
+            "capital": 0,
+            "total": 110.0
+          },
+          "revised": {
+            "revenue": 44.8,
+            "capital": 0,
+            "total": 44.8
+          }
+        },
+        "2022_actual": {
+          "revenue": 49.12,
+          "capital": 0,
+          "total": 49.12
+        }
+      },
+      {
+        "index": "10",
+        "name": "Labour Welfare Scheme",
+        "2024_budget": {
+          "revenue": 50.68,
+          "capital": 0,
+          "total": 50.68
+        },
+        "2023": {
+          "budget": {
+            "revenue": 75.0,
+            "capital": 0,
+            "total": 75.0
+          },
+          "revised": {
+            "revenue": 102.0,
+            "capital": 0,
+            "total": 102.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 80.78,
+          "capital": 0,
+          "total": 80.78
+        }
+      },
+      {
+        "index": "11",
+        "name": "Employees Pension Scheme, 1995",
+        "2024_budget": {
+          "revenue": 10950.0,
+          "capital": 0,
+          "total": 10950.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 9167.0,
+            "capital": 0,
+            "total": 9167.0
+          },
+          "revised": {
+            "revenue": 9760.0,
+            "capital": 0,
+            "total": 9760.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 8785.0,
+          "capital": 0,
+          "total": 8785.0
+        }
+      },
+      {
+        "index": "12",
+        "name": "Social Security for Plantation Workers in Assam",
+        "2024_budget": {
+          "revenue": 66.2,
+          "capital": 0,
+          "total": 66.2
+        },
+        "2023": {
+          "budget": {
+            "revenue": 60.0,
+            "capital": 0,
+            "total": 60.0
+          },
+          "revised": {
+            "revenue": 59.94,
+            "capital": 0,
+            "total": 59.94
+          }
+        },
+        "2022_actual": {
+          "revenue": 60.0,
+          "capital": 0,
+          "total": 60.0
+        }
+      },
+      {
+        "index": "13",
+        "name": "Pradhan Mantri Shram Yogi Maandhan",
+        "2024_budget": {
+          "revenue": 177.24,
+          "capital": 0,
+          "total": 177.24
+        },
+        "2023": {
+          "budget": {
+            "revenue": 350.0,
+            "capital": 0,
+            "total": 350.0
+          },
+          "revised": {
+            "revenue": 205.21,
+            "capital": 0,
+            "total": 205.21
+          }
+        },
+        "2022_actual": {
+          "revenue": 269.91,
+          "capital": 0,
+          "total": 269.91
+        }
+      },
+      {
+        "index": "14",
+        "name": "Pradhan Mantri Karam Yogi Maandhan",
+        "2024_budget": {
+          "revenue": 0.01,
+          "capital": 0,
+          "total": 0.01
+        },
+        "2023": {
+          "budget": {
+            "revenue": 3.0,
+            "capital": 0,
+            "total": 3.0
+          },
+          "revised": {
+            "revenue": 0.1,
+            "capital": 0,
+            "total": 0.1
+          }
+        },
+        "2022_actual": {
+          "revenue": 0.02,
+          "capital": 0,
+          "total": 0.02
+        }
+      },
+      {
+        "index": "15",
+        "name": "Aatmanirbhar Bharat Rojgar Yojana",
+        "2024_budget": {
+          "revenue": 150.0,
+          "capital": 0,
+          "total": 150.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 2272.82,
+            "capital": 0,
+            "total": 2272.82
+          },
+          "revised": {
+            "revenue": 1350.0,
+            "capital": 0,
+            "total": 1350.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 4636.0,
+          "capital": 0,
+          "total": 4636.0
+        }
+      },
+      {
+        "index": "16",
+        "name": "National database for Unorganized Workers",
+        "2024_budget": {
+          "revenue": 176.84,
+          "capital": 0,
+          "total": 176.84
+        },
+        "2023": {
+          "budget": {
+            "revenue": 300.0,
+            "capital": 0,
+            "total": 300.0
+          },
+          "revised": {
+            "revenue": 102.96,
+            "capital": 0,
+            "total": 102.96
+          }
+        },
+        "2022_actual": {
+          "revenue": 123.98,
+          "capital": 0,
+          "total": 123.98
+        }
+      },
+      {
+        "index": "17",
+        "name": "National Child Labour Project including grants in aid to voluntary agencies and reimbursement of assistance to bonded labour",
+        "2024_budget": {
+          "revenue": 6.0,
+          "capital": 0,
+          "total": 6.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 20.0,
+            "capital": 0,
+            "total": 20.0
+          },
+          "revised": {
+            "revenue": 12.98,
+            "capital": 0,
+            "total": 12.98
+          }
+        },
+        "2022_actual": {
+          "revenue": 21.05,
+          "capital": 0,
+          "total": 21.05
+        }
+      },
+      {
+        "index": "18",
+        "name": "Coaching and Guidance for SC,ST and Other Backward Classes",
+        "2024_budget": {
+          "revenue": 19.99,
+          "capital": 0.61,
+          "total": 20.6
+        },
+        "2023": {
+          "budget": {
+            "revenue": 24.5,
+            "capital": 0.5,
+            "total": 25.0
+          },
+          "revised": {
+            "revenue": 24.5,
+            "capital": 0.5,
+            "total": 25.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 21.97,
+          "capital": 0,
+          "total": 21.97
+        }
+      },
+      {
+        "index": "19",
+        "name": "National Career Services",
+        "2024_budget": {
+          "revenue": 58.0,
+          "capital": 0,
+          "total": 58.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 52.0,
+            "capital": 0,
+            "total": 52.0
+          },
+          "revised": {
+            "revenue": 52.0,
+            "capital": 0,
+            "total": 52.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "20",
+        "name": "Dattopant Thengadi National Board for Workers Education and Development",
+        "2024_budget": {
+          "revenue": 117.0,
+          "capital": 0,
+          "total": 117.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 113.1,
+            "capital": 0,
+            "total": 113.1
+          },
+          "revised": {
+            "revenue": 113.1,
+            "capital": 0,
+            "total": 113.1
+          }
+        },
+        "2022_actual": {
+          "revenue": 103.15,
+          "capital": 0,
+          "total": 103.15
+        }
+      },
+      {
+        "index": "21",
+        "name": "National Labour Institute",
+        "2024_budget": {
+          "revenue": 15.15,
+          "capital": 0,
+          "total": 15.15
+        },
+        "2023": {
+          "budget": {
+            "revenue": 13.9,
+            "capital": 0,
+            "total": 13.9
+          },
+          "revised": {
+            "revenue": 13.9,
+            "capital": 0,
+            "total": 13.9
+          }
+        },
+        "2022_actual": {
+          "revenue": 12.77,
+          "capital": 0,
+          "total": 12.77
+        }
+      },
+      {
+        "index": "22.",
+        "name": "Transfer to/from Labour Welfare Funds"
+      },
+      {
+        "index": "22.01",
+        "name": "From",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": -5.62,
+          "capital": 0,
+          "total": -5.62
+        }
+      },
+      {
+        "index": "23",
+        "name": "Employment Generation Programs 23.01 Coaching and Guidance for SC,ST and Other Backward Classes",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": -0.1,
+          "capital": 0.09,
+          "total": -0.01
+        }
+      },
+      {
+        "index": "23.02",
+        "name": "National Career Services 43.99 ... 43.99 ... ... ... ... ... ... ... ... ... Total - Employment Generation Programs",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 43.89,
+          "capital": 0.09,
+          "total": 43.98
+        }
+      }
+    ],
+    "development_heads": [
+      {
+        "index": "1",
+        "name": "Welfare of Scheduled Castes, Scheduled Tribes, Other Backward Classes and Minorities",
+        "2024_budget": {
+          "revenue": 18.6,
+          "capital": 0,
+          "total": 18.6
+        },
+        "2023": {
+          "budget": {
+            "revenue": 22.5,
+            "capital": 0,
+            "total": 22.5
+          },
+          "revised": {
+            "revenue": 22.5,
+            "capital": 0,
+            "total": 22.5
+          }
+        },
+        "2022_actual": {
+          "revenue": 21.87,
+          "capital": 0,
+          "total": 21.87
+        }
+      },
+      {
+        "index": "2",
+        "name": "Labour, Employment and Skill Development",
+        "2024_budget": {
+          "revenue": 10627.44,
+          "capital": 0,
+          "total": 10627.44
+        },
+        "2023": {
+          "budget": {
+            "revenue": 11283.32,
+            "capital": 0,
+            "total": 11283.32
+          },
+          "revised": {
+            "revenue": 10614.66,
+            "capital": 0,
+            "total": 10614.66
+          }
+        },
+        "2022_actual": {
+          "revenue": 14636.14,
+          "capital": 0,
+          "total": 14636.14
+        }
+      },
+      {
+        "index": "3",
+        "name": "Secretariat -Social Services",
+        "2024_budget": {
+          "revenue": 644.77,
+          "capital": 0,
+          "total": 644.77
+        },
+        "2023": {
+          "budget": {
+            "revenue": 622.54,
+            "capital": 0,
+            "total": 622.54
+          },
+          "revised": {
+            "revenue": 641.7,
+            "capital": 0,
+            "total": 641.7
+          }
+        },
+        "2022_actual": {
+          "revenue": 76.38,
+          "capital": 0,
+          "total": 76.38
+        }
+      },
+      {
+        "index": "4",
+        "name": "Capital Outlay on Welfare of Scheduled Castes, Scheduled Tribes , Other Backward Classes and",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0.61,
+          "total": 0.61
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0.5,
+            "total": 0.5
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0.5,
+            "total": 0.5
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0.09,
+          "total": 0.09
+        }
+      },
+      {
+        "index": "5",
+        "name": "Capital Outlay on other Social Services",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 48.98,
+          "total": 48.98
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 37.37,
+            "total": 37.37
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 37.37,
+            "total": 37.37
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 37.43,
+          "total": 37.43
+        }
+      },
+      {
+        "index": "6",
+        "name": "North Eastern Areas",
+        "2024_budget": {
+          "revenue": 1191.07,
+          "capital": 0,
+          "total": 1191.07
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1243.5,
+            "capital": 0,
+            "total": 1243.5
+          },
+          "revised": {
+            "revenue": 1204.33,
+            "capital": 0,
+            "total": 1204.33
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "7",
+        "name": "Grants -in-aid to State Governments",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 11.0,
+            "capital": 0,
+            "total": 11.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 22.0,
+          "capital": 0,
+          "total": 22.0
+        }
+      },
+      {
+        "index": "8",
+        "name": "Grants -in-aid to Union Territory Governments",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1.0,
+            "capital": 0,
+            "total": 1.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0.98,
+          "capital": 0,
+          "total": 0.98
+        }
+      },
+      {
+        "index": "19",
+        "name": "National Ca reer Services: ..National Career Service Project is a Mission Mode Project which envisages a digital portal that provides a nationwide online platform for jobseekers and employers for job matching in a dynamic, efficient and responsive manner. It has a rich repository of career content of over 3000 occupations. The scheme also facilitates organization of job fairs where both employers and job seekers can interact. It has envisages setting up of Model Career Centres (MCCs) to be established by States to deliv er employment service using technology. 20. Dattopant Thengadi National Board for Workers Education and Development: ..The objective of the scheme is to increase awareness and educate them for their effective participating in the socioeconomic development of the country. To achieve this objective, various training programmes are conducted by the Board for the Workers of Organized, Unorganized, Rural and Informal Sector at national, regional and unit levels through a network",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 9.0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 50.0,
+          "total": 0
+        }
+      }
+    ],
+    "public_enterprises": []
+  },
+  "number": 64
+}

@@ -1,0 +1,1183 @@
+{
+  "name": "MINISTRY OF TEXTILES",
+  "demand": "DEMAND NO. 98",
+  "department": "Ministry of Textiles",
+  "sections": {
+    "allocation": [
+      {
+        "index": "1",
+        "name": "Secretariat",
+        "2024_budget": {
+          "revenue": 49.0,
+          "capital": 2.0,
+          "total": 51.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 49.5,
+            "capital": 2.0,
+            "total": 51.5
+          },
+          "revised": {
+            "revenue": 42.51,
+            "capital": 1.2,
+            "total": 43.71
+          }
+        },
+        "2022_actual": {
+          "revenue": 36.95,
+          "capital": 0,
+          "total": 36.95
+        }
+      },
+      {
+        "index": "2",
+        "name": "Textile Commissioner",
+        "2024_budget": {
+          "revenue": 61.0,
+          "capital": 0.66,
+          "total": 61.66
+        },
+        "2023": {
+          "budget": {
+            "revenue": 63.16,
+            "capital": 0.18,
+            "total": 63.34
+          },
+          "revised": {
+            "revenue": 55.0,
+            "capital": 0.61,
+            "total": 55.61
+          }
+        },
+        "2022_actual": {
+          "revenue": 55.53,
+          "capital": 0,
+          "total": 55.53
+        }
+      },
+      {
+        "index": "3",
+        "name": "Jute Commissioner",
+        "2024_budget": {
+          "revenue": 15.4,
+          "capital": 0.43,
+          "total": 15.83
+        },
+        "2023": {
+          "budget": {
+            "revenue": 12.3,
+            "capital": 0.1,
+            "total": 12.4
+          },
+          "revised": {
+            "revenue": 13.0,
+            "capital": 0.15,
+            "total": 13.15
+          }
+        },
+        "2022_actual": {
+          "revenue": 11.48,
+          "capital": 0,
+          "total": 11.48
+        }
+      },
+      {
+        "index": "4",
+        "name": "Development Commissioner (Handloom)",
+        "2024_budget": {
+          "revenue": 100.5,
+          "capital": 14.5,
+          "total": 115.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 103.46,
+            "capital": 21.5,
+            "total": 124.96
+          },
+          "revised": {
+            "revenue": 100.45,
+            "capital": 15.05,
+            "total": 115.5
+          }
+        },
+        "2022_actual": {
+          "revenue": 91.96,
+          "capital": 24.24,
+          "total": 116.2
+        }
+      },
+      {
+        "index": "5",
+        "name": "Development Commissioner (Handicraft)",
+        "2024_budget": {
+          "revenue": 101.0,
+          "capital": 1.56,
+          "total": 102.56
+        },
+        "2023": {
+          "budget": {
+            "revenue": 117.61,
+            "capital": 2.0,
+            "total": 119.61
+          },
+          "revised": {
+            "revenue": 96.81,
+            "capital": 1.55,
+            "total": 98.36
+          }
+        },
+        "2022_actual": {
+          "revenue": 101.37,
+          "capital": 0,
+          "total": 101.37
+        }
+      },
+      {
+        "index": "6",
+        "name": "Export Promotion Studies & Activities",
+        "2024_budget": {
+          "revenue": 5.0,
+          "capital": 0,
+          "total": 5.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 5.0,
+            "capital": 0,
+            "total": 5.0
+          },
+          "revised": {
+            "revenue": 59.0,
+            "capital": 0,
+            "total": 59.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 7.32,
+          "capital": 0,
+          "total": 7.32
+        }
+      },
+      {
+        "index": "7",
+        "name": "COP and COP Jute",
+        "2024_budget": {
+          "revenue": 0.18,
+          "capital": 0,
+          "total": 0.18
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0.14,
+            "capital": 0,
+            "total": 0.14
+          },
+          "revised": {
+            "revenue": 0.18,
+            "capital": 0,
+            "total": 0.18
+          }
+        },
+        "2022_actual": {
+          "revenue": 0.08,
+          "capital": 0,
+          "total": 0.08
+        }
+      },
+      {
+        "index": "8",
+        "name": "Amended Technology Upgradation Fund Scheme(ATUFS)",
+        "2024_budget": {
+          "revenue": 675.0,
+          "capital": 0,
+          "total": 675.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 900.0,
+            "capital": 0,
+            "total": 900.0
+          },
+          "revised": {
+            "revenue": 675.0,
+            "capital": 0,
+            "total": 675.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 674.5,
+          "capital": 0,
+          "total": 674.5
+        }
+      },
+      {
+        "index": "9",
+        "name": "Procurement of Cotton by Cotton Corporation under Price Support Scheme",
+        "2024_budget": {
+          "revenue": 600.0,
+          "capital": 0,
+          "total": 600.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0.01,
+            "capital": 0,
+            "total": 0.01
+          },
+          "revised": {
+            "revenue": 0.01,
+            "capital": 0,
+            "total": 0.01
+          }
+        },
+        "2022_actual": {
+          "revenue": 678.99,
+          "capital": 0,
+          "total": 678.99
+        }
+      },
+      {
+        "index": "10",
+        "name": "National Handloom Development Programme",
+        "2024_budget": {
+          "revenue": 200.0,
+          "capital": 0,
+          "total": 200.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 200.0,
+            "capital": 0,
+            "total": 200.0
+          },
+          "revised": {
+            "revenue": 190.0,
+            "capital": 0,
+            "total": 190.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 152.51,
+          "capital": 0,
+          "total": 152.51
+        }
+      },
+      {
+        "index": "11",
+        "name": "National Handicrafts Development Programme (NHDP)",
+        "2024_budget": {
+          "revenue": 206.0,
+          "capital": 0,
+          "total": 206.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 237.33,
+            "capital": 1.0,
+            "total": 238.33
+          },
+          "revised": {
+            "revenue": 155.49,
+            "capital": 0,
+            "total": 155.49
+          }
+        },
+        "2022_actual": {
+          "revenue": 168.78,
+          "capital": 5.85,
+          "total": 174.63
+        }
+      },
+      {
+        "index": "12",
+        "name": "Handicraft Cluster Development Program - Handicraft Mega Cluster",
+        "2024_budget": {
+          "revenue": 30.0,
+          "capital": 0,
+          "total": 30.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 40.0,
+            "capital": 0,
+            "total": 40.0
+          },
+          "revised": {
+            "revenue": 15.7,
+            "capital": 0,
+            "total": 15.7
+          }
+        },
+        "2022_actual": {
+          "revenue": 2.93,
+          "capital": 0,
+          "total": 2.93
+        }
+      },
+      {
+        "index": "13",
+        "name": "Integrated Wool Development Programme",
+        "2024_budget": {
+          "revenue": 20.0,
+          "capital": 0,
+          "total": 20.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 27.11,
+            "capital": 0,
+            "total": 27.11
+          },
+          "revised": {
+            "revenue": 13.5,
+            "capital": 0,
+            "total": 13.5
+          }
+        },
+        "2022_actual": {
+          "revenue": 6.38,
+          "capital": 0,
+          "total": 6.38
+        }
+      },
+      {
+        "index": "14",
+        "name": "Central Silk Board",
+        "2024_budget": {
+          "revenue": 900.0,
+          "capital": 0,
+          "total": 900.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 917.77,
+            "capital": 0,
+            "total": 917.77
+          },
+          "revised": {
+            "revenue": 875.0,
+            "capital": 0,
+            "total": 875.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 874.99,
+          "capital": 0,
+          "total": 874.99
+        }
+      },
+      {
+        "index": "15",
+        "name": "Scheme for Development of Jute Sector",
+        "2024_budget": {
+          "revenue": 50.0,
+          "capital": 0,
+          "total": 50.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 100.0,
+            "capital": 0,
+            "total": 100.0
+          },
+          "revised": {
+            "revenue": 75.0,
+            "capital": 0,
+            "total": 75.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 30.0,
+          "capital": 0,
+          "total": 30.0
+        }
+      },
+      {
+        "index": "16",
+        "name": "Subsidy to Jute Corporation of India towards market operation",
+        "2024_budget": {
+          "revenue": 30.0,
+          "capital": 0,
+          "total": 30.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 42.0,
+            "capital": 0,
+            "total": 42.0
+          },
+          "revised": {
+            "revenue": 28.0,
+            "capital": 0,
+            "total": 28.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 27.91,
+          "capital": 0,
+          "total": 27.91
+        }
+      },
+      {
+        "index": "17",
+        "name": "Integrated Processing Development Scheme",
+        "2024_budget": {
+          "revenue": 30.0,
+          "capital": 0,
+          "total": 30.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 60.0,
+            "capital": 0,
+            "total": 60.0
+          },
+          "revised": {
+            "revenue": 26.0,
+            "capital": 0,
+            "total": 26.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 30.75,
+          "capital": 0,
+          "total": 30.75
+        }
+      },
+      {
+        "index": "18",
+        "name": "Assistant to Textile Committee 59.79 ... 59.79 ... ... ... ... ... ... ... ... ... Total -Textile Infrastructure",
+        "2024_budget": {
+          "revenue": 30.0,
+          "capital": 0,
+          "total": 30.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 60.0,
+            "capital": 0,
+            "total": 60.0
+          },
+          "revised": {
+            "revenue": 26.0,
+            "capital": 0,
+            "total": 26.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 90.54,
+          "capital": 0,
+          "total": 90.54
+        }
+      },
+      {
+        "index": "19",
+        "name": "Production Linked Incentive (PLI) Scheme for Textiles",
+        "2024_budget": {
+          "revenue": 5.0,
+          "capital": 0,
+          "total": 5.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 5.0,
+            "capital": 0,
+            "total": 5.0
+          },
+          "revised": {
+            "revenue": 5.0,
+            "capital": 0,
+            "total": 5.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 7.08,
+          "capital": 0,
+          "total": 7.08
+        }
+      },
+      {
+        "index": "20",
+        "name": "Integrated Scheme for Skill Development",
+        "2024_budget": {
+          "revenue": 166.0,
+          "capital": 0,
+          "total": 166.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 115.0,
+            "capital": 0,
+            "total": 115.0
+          },
+          "revised": {
+            "revenue": 115.0,
+            "capital": 0,
+            "total": 115.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 23.27,
+          "capital": 0,
+          "total": 23.27
+        }
+      },
+      {
+        "index": "21",
+        "name": "R and D Textiles",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0.02,
+            "capital": 0,
+            "total": 0.02
+          },
+          "revised": {
+            "revenue": 20.5,
+            "capital": 0,
+            "total": 20.5
+          }
+        },
+        "2022_actual": {
+          "revenue": 7.33,
+          "capital": 0,
+          "total": 7.33
+        }
+      },
+      {
+        "index": "22",
+        "name": "National Institute of Fashion Technology (NIFT) 24.10 ... 24.10 ... ... ... ... ... ... ... ... ... 23. National Technical Textiles Mission.",
+        "2024_budget": {
+          "revenue": 375.0,
+          "capital": 0,
+          "total": 375.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 450.0,
+            "capital": 0,
+            "total": 450.0
+          },
+          "revised": {
+            "revenue": 170.0,
+            "capital": 0,
+            "total": 170.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 36.15,
+          "capital": 0,
+          "total": 36.15
+        }
+      },
+      {
+        "index": "24",
+        "name": "Textile Cluster Development Scheme",
+        "2024_budget": {
+          "revenue": 100.0,
+          "capital": 0,
+          "total": 100.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 141.54,
+            "capital": 0,
+            "total": 141.54
+          },
+          "revised": {
+            "revenue": 70.0,
+            "capital": 0,
+            "total": 70.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 66.81,
+          "capital": 0,
+          "total": 66.81
+        }
+      },
+      {
+        "index": "25",
+        "name": "Scheme for Usage of Geotextiles in North East",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 1.37,
+            "capital": 0,
+            "total": 1.37
+          }
+        },
+        "2022_actual": {
+          "revenue": 2.53,
+          "capital": 0,
+          "total": 2.53
+        }
+      },
+      {
+        "index": "26",
+        "name": "PM - MITRA",
+        "2024_budget": {
+          "revenue": 300.0,
+          "capital": 0,
+          "total": 300.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 200.0,
+            "capital": 0,
+            "total": 200.0
+          },
+          "revised": {
+            "revenue": 52.3,
+            "capital": 0,
+            "total": 52.3
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "27",
+        "name": "Scheme for Protection of the Handlooms and Implementation of the Handlooms (Reservation of Articles for Production) Act, 1985",
+        "2024_budget": {
+          "revenue": 7.0,
+          "capital": 0,
+          "total": 7.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 7.0,
+            "capital": 0,
+            "total": 7.0
+          },
+          "revised": {
+            "revenue": 7.0,
+            "capital": 0,
+            "total": 7.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 5.0,
+          "capital": 0,
+          "total": 5.0
+        }
+      },
+      {
+        "index": "28",
+        "name": "Raw Material Supply Scheme",
+        "2024_budget": {
+          "revenue": 172.17,
+          "capital": 0,
+          "total": 172.17
+        },
+        "2023": {
+          "budget": {
+            "revenue": 160.0,
+            "capital": 0,
+            "total": 160.0
+          },
+          "revised": {
+            "revenue": 160.0,
+            "capital": 0,
+            "total": 160.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 139.7,
+          "capital": 0,
+          "total": 139.7
+        }
+      },
+      {
+        "index": "29",
+        "name": "National Institute of Fashion Technology",
+        "2024_budget": {
+          "revenue": 98.67,
+          "capital": 0,
+          "total": 98.67
+        },
+        "2023": {
+          "budget": {
+            "revenue": 104.0,
+            "capital": 0,
+            "total": 104.0
+          },
+          "revised": {
+            "revenue": 103.13,
+            "capital": 0,
+            "total": 103.13
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "30",
+        "name": "Assistant to Textiles Committee",
+        "2024_budget": {
+          "revenue": 51.77,
+          "capital": 0,
+          "total": 51.77
+        },
+        "2023": {
+          "budget": {
+            "revenue": 56.55,
+            "capital": 0,
+            "total": 56.55
+          },
+          "revised": {
+            "revenue": 56.55,
+            "capital": 0,
+            "total": 56.55
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "31",
+        "name": "Textiles Research Association & IJIRA",
+        "2024_budget": {
+          "revenue": 17.0,
+          "capital": 0,
+          "total": 17.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 17.0,
+            "capital": 0,
+            "total": 17.0
+          },
+          "revised": {
+            "revenue": 17.0,
+            "capital": 0,
+            "total": 17.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 17.0,
+          "capital": 0,
+          "total": 17.0
+        }
+      },
+      {
+        "index": "32",
+        "name": "Indian Institute of Carpet Technology (IICT)",
+        "2024_budget": {
+          "revenue": 6.0,
+          "capital": 0,
+          "total": 6.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 6.19,
+            "capital": 0,
+            "total": 6.19
+          },
+          "revised": {
+            "revenue": 6.19,
+            "capital": 0,
+            "total": 6.19
+          }
+        },
+        "2022_actual": {
+          "revenue": 6.07,
+          "capital": 0,
+          "total": 6.07
+        }
+      },
+      {
+        "index": "33",
+        "name": "Assistance to Sardar Vallbhabhai Patel Institute of Textiles Management",
+        "2024_budget": {
+          "revenue": 0.5,
+          "capital": 0,
+          "total": 0.5
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0.5,
+            "capital": 0,
+            "total": 0.5
+          },
+          "revised": {
+            "revenue": 0.5,
+            "capital": 0,
+            "total": 0.5
+          }
+        },
+        "2022_actual": {
+          "revenue": 0.5,
+          "capital": 0,
+          "total": 0.5
+        }
+      },
+      {
+        "index": "34",
+        "name": "National Jute Manufacturers Corporation",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0.01,
+            "total": 0.01
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "35",
+        "name": "Bird Jute Export Corporation",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0.01,
+            "total": 0.01
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "36",
+        "name": "British India Corporation Limited",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0.01,
+            "total": 0.01
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "37",
+        "name": "Support to PSU's",
+        "2024_budget": {
+          "revenue": 0.01,
+          "capital": 0,
+          "total": 0.01
+        },
+        "2023": {
+          "budget": {
+            "revenue": 222.84,
+            "capital": 0,
+            "total": 222.84
+          },
+          "revised": {
+            "revenue": 217.84,
+            "capital": 0,
+            "total": 217.84
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "38",
+        "name": "Contributions to International Institute of Cotton and Cotton Advisory Committee",
+        "2024_budget": {
+          "revenue": 1.5,
+          "capital": 0,
+          "total": 1.5
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1.5,
+            "capital": 0,
+            "total": 1.5
+          },
+          "revised": {
+            "revenue": 1.5,
+            "capital": 0,
+            "total": 1.5
+          }
+        },
+        "2022_actual": {
+          "revenue": 1.36,
+          "capital": 0,
+          "total": 1.36
+        }
+      },
+      {
+        "index": "39",
+        "name": "Actual Recovery -70.06 ... -70.06 ... ... ... ... ... ... ... ... ... Total -Others",
+        "2024_budget": {
+          "revenue": 1.5,
+          "capital": 0,
+          "total": 1.5
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1.5,
+            "capital": 0,
+            "total": 1.5
+          },
+          "revised": {
+            "revenue": 1.5,
+            "capital": 0,
+            "total": 1.5
+          }
+        },
+        "2022_actual": {
+          "revenue": -68.7,
+          "capital": 0,
+          "total": -68.7
+        }
+      }
+    ],
+    "development_heads": [
+      {
+        "index": "1",
+        "name": "Village and Small Industries",
+        "2024_budget": {
+          "revenue": 1631.04,
+          "capital": 0,
+          "total": 1631.04
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1696.96,
+            "capital": 0,
+            "total": 1696.96
+          },
+          "revised": {
+            "revenue": 1509.76,
+            "capital": 0,
+            "total": 1509.76
+          }
+        },
+        "2022_actual": {
+          "revenue": 1530.78,
+          "capital": 0,
+          "total": 1530.78
+        }
+      },
+      {
+        "index": "2",
+        "name": "Industries",
+        "2024_budget": {
+          "revenue": 2581.03,
+          "capital": 0,
+          "total": 2581.03
+        },
+        "2023": {
+          "budget": {
+            "revenue": 2494.56,
+            "capital": 0,
+            "total": 2494.56
+          },
+          "revised": {
+            "revenue": 1758.51,
+            "capital": 0,
+            "total": 1758.51
+          }
+        },
+        "2022_actual": {
+          "revenue": 1712.16,
+          "capital": 0,
+          "total": 1712.16
+        }
+      },
+      {
+        "index": "3",
+        "name": "Secretariat -Economic Services",
+        "2024_budget": {
+          "revenue": 49.0,
+          "capital": 0,
+          "total": 49.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 49.5,
+            "capital": 0,
+            "total": 49.5
+          },
+          "revised": {
+            "revenue": 42.51,
+            "capital": 0,
+            "total": 42.51
+          }
+        },
+        "2022_actual": {
+          "revenue": 36.12,
+          "capital": 0,
+          "total": 36.12
+        }
+      },
+      {
+        "index": "4",
+        "name": "Capital Outlay on Village and Small Industries",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 16.06,
+          "total": 16.06
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 24.5,
+            "total": 24.5
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 16.6,
+            "total": 16.6
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 30.09,
+          "total": 30.09
+        }
+      },
+      {
+        "index": "5",
+        "name": "Capital Outlay on Other General Economic Services",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 3.09,
+          "total": 3.09
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 2.28,
+            "total": 2.28
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 1.96,
+            "total": 1.96
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "6",
+        "name": "Loans for Consumer Industries",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0.03,
+            "total": 0.03
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "7",
+        "name": "North Eastern Areas",
+        "2024_budget": {
+          "revenue": 112.63,
+          "capital": 0,
+          "total": 112.63
+        },
+        "2023": {
+          "budget": {
+            "revenue": 121.51,
+            "capital": 0,
+            "total": 121.51
+          },
+          "revised": {
+            "revenue": 113.75,
+            "capital": 0,
+            "total": 113.75
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      }
+    ],
+    "public_enterprises": []
+  },
+  "number": 98
+}

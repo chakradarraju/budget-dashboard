@@ -1,0 +1,589 @@
+{
+  "name": "MINISTRY OF CONSUMER AFFAIRS, FOOD AND PUBLIC DISTRIBUTION",
+  "demand": "DEMAND NO. 14",
+  "department": "Department of Consumer  Affairs",
+  "sections": {
+    "allocation": [
+      {
+        "index": "1",
+        "name": "Secretariat",
+        "2024_budget": {
+          "revenue": 133.34,
+          "capital": 1.27,
+          "total": 134.61
+        },
+        "2023": {
+          "budget": {
+            "revenue": 136.12,
+            "capital": 1.04,
+            "total": 137.16
+          },
+          "revised": {
+            "revenue": 125.61,
+            "capital": 1.04,
+            "total": 126.65
+          }
+        },
+        "2022_actual": {
+          "revenue": 116.03,
+          "capital": 0,
+          "total": 116.03
+        }
+      },
+      {
+        "index": "2",
+        "name": "Price Stabilisation Fund",
+        "2024_budget": {
+          "revenue": 0.01,
+          "capital": 0,
+          "total": 0.01
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0.01,
+            "capital": 0,
+            "total": 0.01
+          },
+          "revised": {
+            "revenue": 0.01,
+            "capital": 0,
+            "total": 0.01
+          }
+        },
+        "2022_actual": {
+          "revenue": 0.01,
+          "capital": 0,
+          "total": 0.01
+        }
+      },
+      {
+        "index": "3",
+        "name": "CONFONET",
+        "2024_budget": {
+          "revenue": 42.0,
+          "capital": 0,
+          "total": 42.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 29.4,
+            "capital": 0,
+            "total": 29.4
+          },
+          "revised": {
+            "revenue": 67.0,
+            "capital": 0,
+            "total": 67.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 29.26,
+          "capital": 0,
+          "total": 29.26
+        }
+      },
+      {
+        "index": "4",
+        "name": "Consumer Awareness (Advertising and Publicity)",
+        "2024_budget": {
+          "revenue": 17.99,
+          "capital": 0,
+          "total": 17.99
+        },
+        "2023": {
+          "budget": {
+            "revenue": 17.99,
+            "capital": 0,
+            "total": 17.99
+          },
+          "revised": {
+            "revenue": 25.0,
+            "capital": 0,
+            "total": 25.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 17.49,
+          "capital": 0,
+          "total": 17.49
+        }
+      },
+      {
+        "index": "5",
+        "name": "Consumer Protection Cell",
+        "2024_budget": {
+          "revenue": 8.0,
+          "capital": 0,
+          "total": 8.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 7.6,
+            "capital": 0,
+            "total": 7.6
+          },
+          "revised": {
+            "revenue": 8.6,
+            "capital": 0,
+            "total": 8.6
+          }
+        },
+        "2022_actual": {
+          "revenue": 5.38,
+          "capital": 0,
+          "total": 5.38
+        }
+      },
+      {
+        "index": "6",
+        "name": "Price Monitoring Structure",
+        "2024_budget": {
+          "revenue": 0.01,
+          "capital": 0,
+          "total": 0.01
+        },
+        "2023": {
+          "budget": {
+            "revenue": 5.73,
+            "capital": 0.27,
+            "total": 6.0
+          },
+          "revised": {
+            "revenue": 5.7,
+            "capital": 0.3,
+            "total": 6.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 3.0,
+          "capital": 0,
+          "total": 3.0
+        }
+      },
+      {
+        "index": "7",
+        "name": "Strengthening Consumer Forum, Consumer Counseling and Mediation",
+        "2024_budget": {
+          "revenue": 5.0,
+          "capital": 0,
+          "total": 5.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 7.0,
+            "capital": 0,
+            "total": 7.0
+          },
+          "revised": {
+            "revenue": 5.0,
+            "capital": 0,
+            "total": 5.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 3.16,
+          "capital": 0,
+          "total": 3.16
+        }
+      },
+      {
+        "index": "8.",
+        "name": "Consumer Welfare Fund"
+      },
+      {
+        "index": "8.01",
+        "name": "Consumer Welfare Fund",
+        "2024_budget": {
+          "revenue": 56.2,
+          "capital": 0,
+          "total": 56.2
+        },
+        "2023": {
+          "budget": {
+            "revenue": 37.0,
+            "capital": 0,
+            "total": 37.0
+          },
+          "revised": {
+            "revenue": 57.87,
+            "capital": 0,
+            "total": 57.87
+          }
+        },
+        "2022_actual": {
+          "revenue": 37.0,
+          "capital": 0,
+          "total": 37.0
+        }
+      },
+      {
+        "index": "8.02",
+        "name": "Met from Consumer Welfare Fund",
+        "2024_budget": {
+          "revenue": -56.2,
+          "capital": 0,
+          "total": -56.2
+        },
+        "2023": {
+          "budget": {
+            "revenue": -37.0,
+            "capital": 0,
+            "total": -37.0
+          },
+          "revised": {
+            "revenue": -57.87,
+            "capital": 0,
+            "total": -57.87
+          }
+        },
+        "2022_actual": {
+          "revenue": -37.0,
+          "capital": 0,
+          "total": -37.0
+        }
+      },
+      {
+        "index": "9",
+        "name": "Bureau of Indian Standard 9.01 Setting -up of Gold Hallmarking / Assaying Centers in India",
+        "2024_budget": {
+          "revenue": 1.0,
+          "capital": 0,
+          "total": 1.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0.5,
+            "capital": 0,
+            "total": 0.5
+          },
+          "revised": {
+            "revenue": 1.0,
+            "capital": 0,
+            "total": 1.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0.01,
+          "capital": 0,
+          "total": 0.01
+        }
+      },
+      {
+        "index": "10",
+        "name": "National Test House",
+        "2024_budget": {
+          "revenue": 17.45,
+          "capital": 17.55,
+          "total": 35.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 9.24,
+            "capital": 7.76,
+            "total": 17.0
+          },
+          "revised": {
+            "revenue": 13.41,
+            "capital": 11.59,
+            "total": 25.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 9.47,
+          "capital": 9.98,
+          "total": 19.45
+        }
+      },
+      {
+        "index": "11",
+        "name": "Strengthening of Weights and Measures Infrastructure and Strengthening of Regional Reference Standard Laboratories and Indian Institute",
+        "2024_budget": {
+          "revenue": 12.5,
+          "capital": 47.5,
+          "total": 60.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 9.0,
+            "capital": 19.0,
+            "total": 28.0
+          },
+          "revised": {
+            "revenue": 7.49,
+            "capital": 37.51,
+            "total": 45.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 3.27,
+          "capital": 15.66,
+          "total": 18.93
+        }
+      },
+      {
+        "index": "12",
+        "name": "Actual Recoveries",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": -3.24,
+          "capital": 0,
+          "total": -3.24
+        }
+      }
+    ],
+    "development_heads": [
+      {
+        "index": "1",
+        "name": "Industries",
+        "2024_budget": {
+          "revenue": 0.9,
+          "capital": 0,
+          "total": 0.9
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0.45,
+            "capital": 0,
+            "total": 0.45
+          },
+          "revised": {
+            "revenue": 0.9,
+            "capital": 0,
+            "total": 0.9
+          }
+        },
+        "2022_actual": {
+          "revenue": 0.01,
+          "capital": 0,
+          "total": 0.01
+        }
+      },
+      {
+        "index": "2",
+        "name": "Other Scientific Research",
+        "2024_budget": {
+          "revenue": 65.72,
+          "capital": 0,
+          "total": 65.72
+        },
+        "2023": {
+          "budget": {
+            "revenue": 63.12,
+            "capital": 0,
+            "total": 63.12
+          },
+          "revised": {
+            "revenue": 59.76,
+            "capital": 0,
+            "total": 59.76
+          }
+        },
+        "2022_actual": {
+          "revenue": 54.01,
+          "capital": 0,
+          "total": 54.01
+        }
+      },
+      {
+        "index": "3",
+        "name": "Secretariat -Economic Services",
+        "2024_budget": {
+          "revenue": 35.28,
+          "capital": 0,
+          "total": 35.28
+        },
+        "2023": {
+          "budget": {
+            "revenue": 33.32,
+            "capital": 0,
+            "total": 33.32
+          },
+          "revised": {
+            "revenue": 33.7,
+            "capital": 0,
+            "total": 33.7
+          }
+        },
+        "2022_actual": {
+          "revenue": 30.0,
+          "capital": 0,
+          "total": 30.0
+        }
+      },
+      {
+        "index": "4",
+        "name": "Civil Supplies",
+        "2024_budget": {
+          "revenue": 106.73,
+          "capital": 0,
+          "total": 106.73
+        },
+        "2023": {
+          "budget": {
+            "revenue": 101.05,
+            "capital": 0,
+            "total": 101.05
+          },
+          "revised": {
+            "revenue": 137.36,
+            "capital": 0,
+            "total": 137.36
+          }
+        },
+        "2022_actual": {
+          "revenue": 88.02,
+          "capital": 0,
+          "total": 88.02
+        }
+      },
+      {
+        "index": "5",
+        "name": "Other General Economic Services",
+        "2024_budget": {
+          "revenue": 20.62,
+          "capital": 0,
+          "total": 20.62
+        },
+        "2023": {
+          "budget": {
+            "revenue": 16.65,
+            "capital": 0,
+            "total": 16.65
+          },
+          "revised": {
+            "revenue": 15.75,
+            "capital": 0,
+            "total": 15.75
+          }
+        },
+        "2022_actual": {
+          "revenue": 11.8,
+          "capital": 0,
+          "total": 11.8
+        }
+      },
+      {
+        "index": "6",
+        "name": "Capital Outlay on Other Scientific and Environmental Research",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 14.05,
+          "total": 14.05
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 6.06,
+            "total": 6.06
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 9.09,
+            "total": 9.09
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 9.98,
+          "total": 9.98
+        }
+      },
+      {
+        "index": "7",
+        "name": "Capital Outlay on Other General Economic Services",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 43.42,
+          "total": 43.42
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 18.51,
+            "total": 18.51
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 34.33,
+            "total": 34.33
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 15.66,
+          "total": 15.66
+        }
+      },
+      {
+        "index": "8",
+        "name": "North Eastern Areas",
+        "2024_budget": {
+          "revenue": 8.05,
+          "capital": 0,
+          "total": 8.05
+        },
+        "2023": {
+          "budget": {
+            "revenue": 8.0,
+            "capital": 0,
+            "total": 8.0
+          },
+          "revised": {
+            "revenue": 11.35,
+            "capital": 0,
+            "total": 11.35
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "9",
+        "name": "Capital Outlay on North Eastern Areas",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 8.85,
+          "total": 8.85
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 3.5,
+            "total": 3.5
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 7.02,
+            "total": 7.02
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      }
+    ],
+    "public_enterprises": []
+  },
+  "number": 14
+}

@@ -1,0 +1,117 @@
+{
+  "name": "MINISTRY OF PARLIAMENTARY AFFAIRS",
+  "demand": "DEMAND NO. 73",
+  "department": "Ministry of Parliamentary Affairs",
+  "sections": {
+    "allocation": [
+      {
+        "index": "1",
+        "name": "Secretariat",
+        "2024_budget": {
+          "revenue": 26.7,
+          "capital": 4.3,
+          "total": 31.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 21.0,
+            "capital": 4.0,
+            "total": 25.0
+          },
+          "revised": {
+            "revenue": 24.33,
+            "capital": 6.07,
+            "total": 30.4
+          }
+        },
+        "2022_actual": {
+          "revenue": 23.62,
+          "capital": 0,
+          "total": 23.62
+        }
+      },
+      {
+        "index": "2",
+        "name": "National eVidhan Application",
+        "2024_budget": {
+          "revenue": 33.0,
+          "capital": 0,
+          "total": 33.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 38.0,
+            "capital": 0,
+            "total": 38.0
+          },
+          "revised": {
+            "revenue": 32.6,
+            "capital": 0,
+            "total": 32.6
+          }
+        },
+        "2022_actual": {
+          "revenue": 28.58,
+          "capital": 0,
+          "total": 28.58
+        }
+      }
+    ],
+    "development_heads": [
+      {
+        "index": "1",
+        "name": "Secretariat -General Services",
+        "2024_budget": {
+          "revenue": 59.7,
+          "capital": 0,
+          "total": 59.7
+        },
+        "2023": {
+          "budget": {
+            "revenue": 59.0,
+            "capital": 0,
+            "total": 59.0
+          },
+          "revised": {
+            "revenue": 56.93,
+            "capital": 0,
+            "total": 56.93
+          }
+        },
+        "2022_actual": {
+          "revenue": 52.2,
+          "capital": 0,
+          "total": 52.2
+        }
+      },
+      {
+        "index": "2",
+        "name": "Capital Outlay on Other Administrative Services",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 4.3,
+          "total": 4.3
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 4.0,
+            "total": 4.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 6.07,
+            "total": 6.07
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      }
+    ],
+    "public_enterprises": []
+  },
+  "number": 73
+}

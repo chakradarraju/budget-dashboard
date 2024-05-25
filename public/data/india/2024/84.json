@@ -1,0 +1,117 @@
+{
+  "name": "THE PRESIDENT, PARLIAMENT, UNION PUBLIC SERVICE COMMISSION AND THE SECRET ARIAT  OF THE VICE PRESIDENT",
+  "demand": "No. 84 (APPROPRIATION)",
+  "department": "Union Public Service Commission",
+  "sections": {
+    "allocation": [
+      {
+        "index": "1",
+        "name": "Administrative Expenditure",
+        "2024_budget": {
+          "revenue": 187.45,
+          "capital": 21.54,
+          "total": 208.99
+        },
+        "2023": {
+          "budget": {
+            "revenue": 186.9,
+            "capital": 21.54,
+            "total": 208.44
+          },
+          "revised": {
+            "revenue": 179.0,
+            "capital": 17.54,
+            "total": 196.54
+          }
+        },
+        "2022_actual": {
+          "revenue": 171.73,
+          "capital": 0,
+          "total": 171.73
+        }
+      },
+      {
+        "index": "2",
+        "name": "Examinations and Selections",
+        "2024_budget": {
+          "revenue": 216.72,
+          "capital": 0,
+          "total": 216.72
+        },
+        "2023": {
+          "budget": {
+            "revenue": 171.56,
+            "capital": 0,
+            "total": 171.56
+          },
+          "revised": {
+            "revenue": 229.7,
+            "capital": 0,
+            "total": 229.7
+          }
+        },
+        "2022_actual": {
+          "revenue": 197.98,
+          "capital": 0,
+          "total": 197.98
+        }
+      }
+    ],
+    "development_heads": [
+      {
+        "index": "1",
+        "name": "Public Service Commission",
+        "2024_budget": {
+          "revenue": 404.17,
+          "capital": 0,
+          "total": 404.17
+        },
+        "2023": {
+          "budget": {
+            "revenue": 358.46,
+            "capital": 0,
+            "total": 358.46
+          },
+          "revised": {
+            "revenue": 408.7,
+            "capital": 0,
+            "total": 408.7
+          }
+        },
+        "2022_actual": {
+          "revenue": 369.71,
+          "capital": 0,
+          "total": 369.71
+        }
+      },
+      {
+        "index": "2",
+        "name": "Capital Outlay on Other Administrative Services",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 21.54,
+          "total": 21.54
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 21.54,
+            "total": 21.54
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 17.54,
+            "total": 17.54
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      }
+    ],
+    "public_enterprises": []
+  },
+  "number": 84
+}

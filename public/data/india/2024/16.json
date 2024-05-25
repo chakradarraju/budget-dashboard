@@ -1,0 +1,511 @@
+{
+  "name": "MINISTRY OF COOPERATION",
+  "demand": "DEMAND NO. 16",
+  "department": "Ministry of Cooperation",
+  "sections": {
+    "allocation": [
+      {
+        "index": "1.",
+        "name": "Secretariat"
+      },
+      {
+        "index": "1.01",
+        "name": "Secretariat",
+        "2024_budget": {
+          "revenue": 27.93,
+          "capital": 0.63,
+          "total": 28.56
+        },
+        "2023": {
+          "budget": {
+            "revenue": 59.59,
+            "capital": 1.0,
+            "total": 60.59
+          },
+          "revised": {
+            "revenue": 26.94,
+            "capital": 1.5,
+            "total": 28.44
+          }
+        },
+        "2022_actual": {
+          "revenue": 20.78,
+          "capital": 164.78,
+          "total": 185.56
+        }
+      },
+      {
+        "index": "1.02",
+        "name": "Other Attached and Subordinate Offices",
+        "2024_budget": {
+          "revenue": 10.46,
+          "capital": 0.38,
+          "total": 10.84
+        },
+        "2023": {
+          "budget": {
+            "revenue": 15.41,
+            "capital": 0,
+            "total": 15.41
+          },
+          "revised": {
+            "revenue": 17.36,
+            "capital": 0,
+            "total": 17.36
+          }
+        },
+        "2022_actual": {
+          "revenue": 5.03,
+          "capital": 0,
+          "total": 5.03
+        }
+      },
+      {
+        "index": "2",
+        "name": "Integrated Scheme on Agriculture Cooperation (ISAC)",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0.01,
+            "capital": 0,
+            "total": 0.01
+          },
+          "revised": {
+            "revenue": 300.0,
+            "capital": 0,
+            "total": 300.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 376.93,
+          "capital": 0,
+          "total": 376.93
+        }
+      },
+      {
+        "index": "3",
+        "name": "Co-operative Education",
+        "2024_budget": {
+          "revenue": 0.01,
+          "capital": 0,
+          "total": 0.01
+        },
+        "2023": {
+          "budget": {
+            "revenue": 30.0,
+            "capital": 0,
+            "total": 30.0
+          },
+          "revised": {
+            "revenue": 0.01,
+            "capital": 0,
+            "total": 0.01
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "4",
+        "name": "Cooperative Training",
+        "2024_budget": {
+          "revenue": 0.01,
+          "capital": 0,
+          "total": 0.01
+        },
+        "2023": {
+          "budget": {
+            "revenue": 25.0,
+            "capital": 0,
+            "total": 25.0
+          },
+          "revised": {
+            "revenue": 0.01,
+            "capital": 0,
+            "total": 0.01
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "5",
+        "name": "Grant -in-aid to National Cooperative Development Corporation (NCDC) for strengthening of Cooperative Sugar Mills (CSMs)",
+        "2024_budget": {
+          "revenue": 500.0,
+          "capital": 0,
+          "total": 500.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0.01,
+            "capital": 0,
+            "total": 0.01
+          }
+        },
+        "2022_actual": {
+          "revenue": 500.0,
+          "capital": 0,
+          "total": 500.0
+        }
+      },
+      {
+        "index": "6",
+        "name": "National Council for Cooperative Training (NCCT)",
+        "2024_budget": {
+          "revenue": 43.0,
+          "capital": 0,
+          "total": 43.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 40.0,
+            "capital": 0,
+            "total": 40.0
+          },
+          "revised": {
+            "revenue": 42.0,
+            "capital": 0,
+            "total": 42.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 35.75,
+          "capital": 0,
+          "total": 35.75
+        }
+      },
+      {
+        "index": "7",
+        "name": "Vaikunthlal Mehta National Institute of Cooperative Management (VAMNICOM)",
+        "2024_budget": {
+          "revenue": 12.0,
+          "capital": 0,
+          "total": 12.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 11.12,
+            "capital": 0,
+            "total": 11.12
+          },
+          "revised": {
+            "revenue": 10.0,
+            "capital": 0,
+            "total": 10.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 38.25,
+          "capital": 0,
+          "total": 38.25
+        }
+      },
+      {
+        "index": "8",
+        "name": "Computerization of Primary Agricultural Credit Societies",
+        "2024_budget": {
+          "revenue": 500.0,
+          "capital": 0,
+          "total": 500.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 968.24,
+            "capital": 0,
+            "total": 968.24
+          },
+          "revised": {
+            "revenue": 309.09,
+            "capital": 0,
+            "total": 309.09
+          }
+        },
+        "2022_actual": {
+          "revenue": 495.0,
+          "capital": 0,
+          "total": 495.0
+        }
+      },
+      {
+        "index": "9",
+        "name": "Prosperity through Cooperatives",
+        "2024_budget": {
+          "revenue": 0.01,
+          "capital": 0,
+          "total": 0.01
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0.01,
+            "capital": 0,
+            "total": 0.01
+          },
+          "revised": {
+            "revenue": 0.01,
+            "capital": 0,
+            "total": 0.01
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "10",
+        "name": "Centrally Sponsored Project for Strengthening of Cooperatives through IT Interventions",
+        "2024_budget": {
+          "revenue": 88.96,
+          "capital": 0,
+          "total": 88.96
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 40.91,
+            "capital": 0,
+            "total": 40.91
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      }
+    ],
+    "development_heads": [
+      {
+        "index": "1",
+        "name": "Capital Outlay on Public Works ... 164.78 164.78 ... ... ... ... ... ... ... ... ... Total -General Services ... 164.78 164.78 ... ... ... ... ... ... ... ... ... Economic Services 2. Co-operation",
+        "2024_budget": {
+          "revenue": 683.44,
+          "capital": 0,
+          "total": 683.44
+        },
+        "2023": {
+          "budget": {
+            "revenue": 116.04,
+            "capital": 0,
+            "total": 116.04
+          },
+          "revised": {
+            "revenue": 382.95,
+            "capital": 0,
+            "total": 382.95
+          }
+        },
+        "2022_actual": {
+          "revenue": 1055.96,
+          "capital": 0,
+          "total": 1055.96
+        }
+      },
+      {
+        "index": "3",
+        "name": "Secretariat -Economic Services",
+        "2024_budget": {
+          "revenue": 27.93,
+          "capital": 0,
+          "total": 27.93
+        },
+        "2023": {
+          "budget": {
+            "revenue": 59.59,
+            "capital": 0,
+            "total": 59.59
+          },
+          "revised": {
+            "revenue": 26.94,
+            "capital": 0,
+            "total": 26.94
+          }
+        },
+        "2022_actual": {
+          "revenue": 20.78,
+          "capital": 0,
+          "total": 20.78
+        }
+      },
+      {
+        "index": "4",
+        "name": "Capital Outlay on Other General Economic Services",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 1.01,
+          "total": 1.01
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 1.0,
+            "total": 1.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 1.5,
+            "total": 1.5
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "5",
+        "name": "North Eastern Areas",
+        "2024_budget": {
+          "revenue": 50.0,
+          "capital": 0,
+          "total": 50.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 5.5,
+            "capital": 0,
+            "total": 5.5
+          },
+          "revised": {
+            "revenue": 30.0,
+            "capital": 0,
+            "total": 30.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "6",
+        "name": "Grants -in-aid to State Governments",
+        "2024_budget": {
+          "revenue": 415.72,
+          "capital": 0,
+          "total": 415.72
+        },
+        "2023": {
+          "budget": {
+            "revenue": 968.25,
+            "capital": 0,
+            "total": 968.25
+          },
+          "revised": {
+            "revenue": 300.13,
+            "capital": 0,
+            "total": 300.13
+          }
+        },
+        "2022_actual": {
+          "revenue": 389.31,
+          "capital": 0,
+          "total": 389.31
+        }
+      },
+      {
+        "index": "7",
+        "name": "Grants -in-aid to Union Territory Governments",
+        "2024_budget": {
+          "revenue": 5.29,
+          "capital": 0,
+          "total": 5.29
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 6.32,
+            "capital": 0,
+            "total": 6.32
+          }
+        },
+        "2022_actual": {
+          "revenue": 5.69,
+          "capital": 0,
+          "total": 5.69
+        }
+      },
+      {
+        "index": "1",
+        "name": "Secretariat: ..The provision is for expenditure on Secretariat of Ministry of Cooperation and includes Offices of Central Registrar of Cooperation Societies. 2. Integrated Scheme on Agriculture Cooperation (ISAC): ..This is the existing Central Sector schem e of Ministry of Cooperation and takes care of all its mandated activities so far. However, with the creation of a new Ministry with expanded mandate, the scheme is to be substituted by a host of other new schemes from the FY 2022 -23 onwards. However, to take care of remaining unresolved liabilities it is proposed to continue with this budget",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 2022.0,
+            "total": -23.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "6",
+        "name": "National Council for Cooperative Training (NCCT): ..NCCT is a Society responsible for organizing, monitoring and evaluation arrangements for cooperative training in the country. The provision is for Grants -in-Aid Salary. 7. Vaikunthlal Mehta National Institute of Cooperative Management (VAMNICOM): ..It is a national level Cooperative Training Institute. It falls within the administrative purview of NCCT and presently its budgetary requirements are met through the Grants -in-aid released to NCCT. It is envisaged to convert it into a full fledged independent",
+        "2024_budget": {
+          "revenue": 2022.0,
+          "capital": -23.0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      }
+    ],
+    "public_enterprises": []
+  },
+  "number": 16
+}

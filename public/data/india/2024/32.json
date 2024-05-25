@@ -1,0 +1,1762 @@
+{
+  "name": "MINISTRY OF FINANCE",
+  "demand": "DEMAND NO. 32",
+  "department": "Department of Financial Services",
+  "sections": {
+    "allocation": [
+      {
+        "index": "1",
+        "name": "Secretariat - General Services",
+        "2024_budget": {
+          "revenue": 76.51,
+          "capital": 5.8,
+          "total": 82.31
+        },
+        "2023": {
+          "budget": {
+            "revenue": 68.95,
+            "capital": 0,
+            "total": 68.95
+          },
+          "revised": {
+            "revenue": 67.35,
+            "capital": 8.68,
+            "total": 76.03
+          }
+        },
+        "2022_actual": {
+          "revenue": 65.8,
+          "capital": 0,
+          "total": 65.8
+        }
+      },
+      {
+        "index": "2.",
+        "name": "Direction and Administration"
+      },
+      {
+        "index": "2.01",
+        "name": "Office of Special Court",
+        "2024_budget": {
+          "revenue": 4.25,
+          "capital": 0.06,
+          "total": 4.31
+        },
+        "2023": {
+          "budget": {
+            "revenue": 4.08,
+            "capital": 0,
+            "total": 4.08
+          },
+          "revised": {
+            "revenue": 5.79,
+            "capital": 0.06,
+            "total": 5.85
+          }
+        },
+        "2022_actual": {
+          "revenue": 3.62,
+          "capital": 0,
+          "total": 3.62
+        }
+      },
+      {
+        "index": "2.02",
+        "name": "Office of Custodian",
+        "2024_budget": {
+          "revenue": 7.29,
+          "capital": 0.06,
+          "total": 7.35
+        },
+        "2023": {
+          "budget": {
+            "revenue": 6.13,
+            "capital": 0,
+            "total": 6.13
+          },
+          "revised": {
+            "revenue": 5.73,
+            "capital": 0.05,
+            "total": 5.78
+          }
+        },
+        "2022_actual": {
+          "revenue": 6.23,
+          "capital": 0,
+          "total": 6.23
+        }
+      },
+      {
+        "index": "2.03",
+        "name": "Debt Recovery Tribunals (DRTs)",
+        "2024_budget": {
+          "revenue": 174.46,
+          "capital": 5.96,
+          "total": 180.42
+        },
+        "2023": {
+          "budget": {
+            "revenue": 208.44,
+            "capital": 0,
+            "total": 208.44
+          },
+          "revised": {
+            "revenue": 170.01,
+            "capital": 9.77,
+            "total": 179.78
+          }
+        },
+        "2022_actual": {
+          "revenue": 154.79,
+          "capital": 0,
+          "total": 154.79
+        }
+      },
+      {
+        "index": "2.04",
+        "name": "Office of Court Liquidator",
+        "2024_budget": {
+          "revenue": 0.03,
+          "capital": 0,
+          "total": 0.03
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0.16,
+            "capital": 12.24,
+            "total": 12.4
+          },
+          "revised": {
+            "revenue": 0.02,
+            "capital": 0,
+            "total": 0.02
+          }
+        },
+        "2022_actual": {
+          "revenue": 0.01,
+          "capital": 0,
+          "total": 0.01
+        }
+      },
+      {
+        "index": "3",
+        "name": "Actual Recoveries -160.96 ... -160.96 ... ... ... ... ... ... ... ... ... Total -Establishment Expenditure of the Centre",
+        "2024_budget": {
+          "revenue": 262.54,
+          "capital": 11.88,
+          "total": 274.42
+        },
+        "2023": {
+          "budget": {
+            "revenue": 287.76,
+            "capital": 12.24,
+            "total": 300.0
+          },
+          "revised": {
+            "revenue": 248.9,
+            "capital": 18.56,
+            "total": 267.46
+          }
+        },
+        "2022_actual": {
+          "revenue": 69.39,
+          "capital": 0,
+          "total": 69.39
+        }
+      },
+      {
+        "index": "4",
+        "name": "Recapitalization of Public Sector Banks",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0.01,
+          "total": 0.01
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0.01,
+            "total": 0.01
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0.01,
+            "total": 0.01
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "5.",
+        "name": "Recapitalization of Public Sector Banks (through Bonds)"
+      },
+      {
+        "index": "5.01",
+        "name": "Gross Budgetary Support",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0.01,
+          "total": 0.01
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0.01,
+            "total": 0.01
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0.01,
+            "total": 0.01
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "5.02",
+        "name": "Less met through issue of Special Securities to PSBs",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": -0.01,
+          "total": -0.01
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": -0.01,
+            "total": -0.01
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": -0.01,
+            "total": -0.01
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "6",
+        "name": "Subscription to the Share Capital of Export -Import Bank of India",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0.01,
+          "total": 0.01
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0.01,
+            "total": 0.01
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0.02,
+            "total": 0.02
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "7.",
+        "name": "Recapitalization of Insurance Companies"
+      },
+      {
+        "index": "7.01",
+        "name": "Transfer to National Investment Fund",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0.01,
+          "total": 0.01
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0.01,
+            "total": 0.01
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "7.02",
+        "name": "Gross Budgetary Support",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0.01,
+          "total": 0.01
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0.01,
+            "total": 0.01
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "7.03",
+        "name": "Amount met from National Investment Fund",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": -0.01,
+          "total": -0.01
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": -0.01,
+            "total": -0.01
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "8.",
+        "name": "Issue of Bonus Shares"
+      },
+      {
+        "index": "8.01",
+        "name": "Life Insurance Corporation of India (LIC)",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 5994.99,
+            "total": 5994.99
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "8.02",
+        "name": "New India Assurance Company Ltd. (NIACL)",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 552.0,
+            "total": 552.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "8.03",
+        "name": "General Insurance Corporation of India (GIC)",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 376.25,
+            "total": 376.25
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "8.04",
+        "name": "Oriental Insurance Company Ltd. (OICL)",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 50.0,
+            "total": 50.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "8.05",
+        "name": "Equivalent Receipts assumed",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": -6973.24,
+            "total": -6973.24
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "9.",
+        "name": "Subscription to Share Captial of National Bank for Agricultural and Rural Development (NABARD) 9.01 Transfer to National Investment Fund"
+      },
+      {
+        "index": "9.02",
+        "name": "Gross Budgetary Support",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0.01,
+          "total": 0.01
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0.01,
+            "total": 0.01
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "9.03",
+        "name": "Amount met from National Investment Fund ... ... ... ... ... ... ... ... ... ... ... ... Net",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0.01,
+          "total": 0.01
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0.01,
+            "total": 0.01
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "10.",
+        "name": "Recapitalization of Regional Rural Banks (RRBs) 10.01 Transfer to National Investment Fund"
+      },
+      {
+        "index": "10.02",
+        "name": "Gross Budgetary Support",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 1100.0,
+            "total": 1100.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "10.03",
+        "name": "Amount met from National Investment Fund",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": -1100.0,
+            "total": -1100.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "11",
+        "name": "Equity Support to Industrial Finance Corporation of India (IFCI)",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0.01,
+          "total": 0.01
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0.01,
+            "total": 0.01
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 500.0,
+            "total": 500.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 500.0,
+          "total": 500.0
+        }
+      },
+      {
+        "index": "12",
+        "name": "Grants to ICICI Bank for Externally Aided Components",
+        "2024_budget": {
+          "revenue": 0.01,
+          "capital": 0,
+          "total": 0.01
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0.01,
+            "capital": 0,
+            "total": 0.01
+          },
+          "revised": {
+            "revenue": 0.01,
+            "capital": 0,
+            "total": 0.01
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "13",
+        "name": "Contribution to Financial Inclusion Fund (FIF) of NABARD to promote AADHAR Enabled Payment System",
+        "2024_budget": {
+          "revenue": 0.01,
+          "capital": 0,
+          "total": 0.01
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0.01,
+            "capital": 0,
+            "total": 0.01
+          },
+          "revised": {
+            "revenue": 0.01,
+            "capital": 0,
+            "total": 0.01
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "14",
+        "name": "Grants to NABARD to settle the claims under Indo - Swiss Cooperation -VI",
+        "2024_budget": {
+          "revenue": 0.83,
+          "capital": 0,
+          "total": 0.83
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0.83,
+            "capital": 0,
+            "total": 0.83
+          },
+          "revised": {
+            "revenue": 0.83,
+            "capital": 0,
+            "total": 0.83
+          }
+        },
+        "2022_actual": {
+          "revenue": 0.83,
+          "capital": 0,
+          "total": 0.83
+        }
+      },
+      {
+        "index": "15",
+        "name": "Subsidy to National Housing Bank for Interest Subvention on Housing Loans",
+        "2024_budget": {
+          "revenue": 0.01,
+          "capital": 0,
+          "total": 0.01
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0.01,
+            "capital": 0,
+            "total": 0.01
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "16.01",
+        "name": "Gross Budgetary Support",
+        "2024_budget": {
+          "revenue": 0.01,
+          "capital": 0,
+          "total": 0.01
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0.01,
+            "capital": 0,
+            "total": 0.01
+          },
+          "revised": {
+            "revenue": 275.0,
+            "capital": 0,
+            "total": 275.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 255.0,
+          "capital": 0,
+          "total": 255.0
+        }
+      },
+      {
+        "index": "17.",
+        "name": "Grant to National Bank for Financing Infrastructure and Development 17.01 Transfer to National Investment Fund"
+      },
+      {
+        "index": "17.02",
+        "name": "Gross Budgetary Support",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": -0.87,
+          "capital": 0,
+          "total": -0.87
+        }
+      },
+      {
+        "index": "17.03",
+        "name": "Amount met from National Investment Fund ... ... ... ... ... ... ... ... ... ... ... ... Net",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": -0.87,
+          "capital": 0,
+          "total": -0.87
+        }
+      },
+      {
+        "index": "18",
+        "name": "Government Co -contribution to Atal Pension Yojana",
+        "2024_budget": {
+          "revenue": 521.0,
+          "capital": 0,
+          "total": 521.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 521.0,
+            "capital": 0,
+            "total": 521.0
+          },
+          "revised": {
+            "revenue": 521.0,
+            "capital": 0,
+            "total": 521.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 725.0,
+          "capital": 0,
+          "total": 725.0
+        }
+      },
+      {
+        "index": "19",
+        "name": "Interest Subsidy to LIC for Pension Plan for Senior Citizens",
+        "2024_budget": {
+          "revenue": 134.96,
+          "capital": 0,
+          "total": 134.96
+        },
+        "2023": {
+          "budget": {
+            "revenue": 111.47,
+            "capital": 0,
+            "total": 111.47
+          },
+          "revised": {
+            "revenue": 134.96,
+            "capital": 0,
+            "total": 134.96
+          }
+        },
+        "2022_actual": {
+          "revenue": 111.54,
+          "capital": 0,
+          "total": 111.54
+        }
+      },
+      {
+        "index": "20",
+        "name": "Pradhan Mantri Jeevan Jyoti Bima Yojna and Pradhan Mantri Suraksha Bima Yojna (Publicity and Awareness)",
+        "2024_budget": {
+          "revenue": 0.01,
+          "capital": 0,
+          "total": 0.01
+        },
+        "2023": {
+          "budget": {
+            "revenue": 1.5,
+            "capital": 0,
+            "total": 1.5
+          },
+          "revised": {
+            "revenue": 1.5,
+            "capital": 0,
+            "total": 1.5
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "21",
+        "name": "Loan Guarantee Scheme for Covid Affected Sectors (LGSCAS)",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0.01,
+          "total": 0.01
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 100.0,
+            "total": 100.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 125.0,
+          "total": 125.0
+        }
+      },
+      {
+        "index": "22",
+        "name": "Pradhan Mantri Vaya Vandan Yojana (PMVVY)",
+        "2024_budget": {
+          "revenue": 422.78,
+          "capital": 0,
+          "total": 422.78
+        },
+        "2023": {
+          "budget": {
+            "revenue": 189.7,
+            "capital": 0,
+            "total": 189.7
+          },
+          "revised": {
+            "revenue": 422.78,
+            "capital": 0,
+            "total": 422.78
+          }
+        },
+        "2022_actual": {
+          "revenue": 27.58,
+          "capital": 0,
+          "total": 27.58
+        }
+      },
+      {
+        "index": "23",
+        "name": "Pradhan Mantri Mudra Yojana (PMMY)(through NCGTC)",
+        "2024_budget": {
+          "revenue": 0.01,
+          "capital": 0,
+          "total": 0.01
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0.01,
+            "capital": 0,
+            "total": 0.01
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "24",
+        "name": "Publicity and awareness for Pradhan Mantri Mudra Yojana (PMMY) and other initiatives by MUDRA Ltd.",
+        "2024_budget": {
+          "revenue": 0.01,
+          "capital": 0,
+          "total": 0.01
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0.01,
+            "capital": 0,
+            "total": 0.01
+          },
+          "revised": {
+            "revenue": 0.01,
+            "capital": 0,
+            "total": 0.01
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "25",
+        "name": "Credit Guarantee Scheme for Micro Finance Institutions (CGSMFI)",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 50.0,
+          "total": 50.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 100.0,
+            "total": 100.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "26",
+        "name": "Stand -Up India (through NCGTC)",
+        "2024_budget": {
+          "revenue": 0.01,
+          "capital": 0,
+          "total": 0.01
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0.01,
+            "capital": 0,
+            "total": 0.01
+          },
+          "revised": {
+            "revenue": 0.01,
+            "capital": 0,
+            "total": 0.01
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "27",
+        "name": "Publicity and awareness for Stand -Up India and other initiatives by SIDBI",
+        "2024_budget": {
+          "revenue": 0.01,
+          "capital": 0,
+          "total": 0.01
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0.01,
+            "capital": 0,
+            "total": 0.01
+          },
+          "revised": {
+            "revenue": 0.01,
+            "capital": 0,
+            "total": 0.01
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "28.",
+        "name": "Loans for settlement of claims on invoking guarantee given by Government under Partial Credit Guarantee Scheme"
+      },
+      {
+        "index": "28.01",
+        "name": "Gross Budgetary Support",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0.01,
+          "total": 0.01
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 50.0,
+            "total": 50.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0.01,
+            "total": 0.01
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "28.02",
+        "name": "Less met from Guarantee Redemption Fund",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": -0.01,
+          "total": -0.01
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": -50.0,
+            "total": -50.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": -0.01,
+            "total": -0.01
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "29",
+        "name": "Subsidy to small Industries Development Bank of India (SIDBI) on Interest Subvention of 2 percent for prompt repayment of Shishu Loans (subsidies)",
+        "2024_budget": {
+          "revenue": 0.01,
+          "capital": 0,
+          "total": 0.01
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0.01,
+            "capital": 0,
+            "total": 0.01
+          },
+          "revised": {
+            "revenue": 0.01,
+            "capital": 0,
+            "total": 0.01
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "30",
+        "name": "Swavalamban Scheme -Govt. Co -contribution",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 1.31,
+          "capital": 0,
+          "total": 1.31
+        }
+      },
+      {
+        "index": "31",
+        "name": "Incentive scheme for promotion of RuPay Debit Cards and low -value BHIM -UPI transactions (person - to-merchant)",
+        "2024_budget": {
+          "revenue": 1441.0,
+          "capital": 0,
+          "total": 1441.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 2485.0,
+            "capital": 0,
+            "total": 2485.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      }
+    ],
+    "development_heads": [
+      {
+        "index": "1",
+        "name": "Other Fiscal Services",
+        "2024_budget": {
+          "revenue": 11.54,
+          "capital": 0,
+          "total": 11.54
+        },
+        "2023": {
+          "budget": {
+            "revenue": 10.21,
+            "capital": 0,
+            "total": 10.21
+          },
+          "revised": {
+            "revenue": 11.52,
+            "capital": 0,
+            "total": 11.52
+          }
+        },
+        "2022_actual": {
+          "revenue": 9.84,
+          "capital": 0,
+          "total": 9.84
+        }
+      },
+      {
+        "index": "2",
+        "name": "Secretariat -General Services",
+        "2024_budget": {
+          "revenue": 76.51,
+          "capital": 0,
+          "total": 76.51
+        },
+        "2023": {
+          "budget": {
+            "revenue": 68.95,
+            "capital": 0,
+            "total": 68.95
+          },
+          "revised": {
+            "revenue": 67.35,
+            "capital": 0,
+            "total": 67.35
+          }
+        },
+        "2022_actual": {
+          "revenue": 65.73,
+          "capital": 0,
+          "total": 65.73
+        }
+      },
+      {
+        "index": "3",
+        "name": "Other Administrative Services",
+        "2024_budget": {
+          "revenue": 174.46,
+          "capital": 0,
+          "total": 174.46
+        },
+        "2023": {
+          "budget": {
+            "revenue": 208.44,
+            "capital": 0,
+            "total": 208.44
+          },
+          "revised": {
+            "revenue": 170.01,
+            "capital": 0,
+            "total": 170.01
+          }
+        },
+        "2022_actual": {
+          "revenue": 154.76,
+          "capital": 0,
+          "total": 154.76
+        }
+      },
+      {
+        "index": "4",
+        "name": "Capital Outlay on Other Administrative Services",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 11.76,
+          "total": 11.76
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 12.1,
+            "total": 12.1
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 18.45,
+            "total": 18.45
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "5",
+        "name": "Capital Outlay on Miscellaneous General Services",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0.12,
+          "total": 0.12
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0.14,
+            "total": 0.14
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0.11,
+            "total": 0.11
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "6",
+        "name": "Social Security and Welfare",
+        "2024_budget": {
+          "revenue": 1078.75,
+          "capital": 0,
+          "total": 1078.75
+        },
+        "2023": {
+          "budget": {
+            "revenue": 823.67,
+            "capital": 0,
+            "total": 823.67
+          },
+          "revised": {
+            "revenue": 1080.24,
+            "capital": 0,
+            "total": 1080.24
+          }
+        },
+        "2022_actual": {
+          "revenue": 850.27,
+          "capital": 0,
+          "total": 850.27
+        }
+      },
+      {
+        "index": "7",
+        "name": "Agricultural Financial Institutions",
+        "2024_budget": {
+          "revenue": 0.84,
+          "capital": 0,
+          "total": 0.84
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0.84,
+            "capital": 0,
+            "total": 0.84
+          },
+          "revised": {
+            "revenue": 0.84,
+            "capital": 0,
+            "total": 0.84
+          }
+        },
+        "2022_actual": {
+          "revenue": -23.95,
+          "capital": 0,
+          "total": -23.95
+        }
+      },
+      {
+        "index": "8",
+        "name": "Other Outlays on Industries and Minerals",
+        "2024_budget": {
+          "revenue": 0.04,
+          "capital": 0,
+          "total": 0.04
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0.04,
+            "capital": 0,
+            "total": 0.04
+          },
+          "revised": {
+            "revenue": 275.02,
+            "capital": 0,
+            "total": 275.02
+          }
+        },
+        "2022_actual": {
+          "revenue": 118.83,
+          "capital": 0,
+          "total": 118.83
+        }
+      },
+      {
+        "index": "9",
+        "name": "General Financial and Trading Institutions",
+        "2024_budget": {
+          "revenue": 1441.04,
+          "capital": 0,
+          "total": 1441.04
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0.04,
+            "capital": 0,
+            "total": 0.04
+          },
+          "revised": {
+            "revenue": 2485.03,
+            "capital": 0,
+            "total": 2485.03
+          }
+        },
+        "2022_actual": {
+          "revenue": -0.87,
+          "capital": 0,
+          "total": -0.87
+        }
+      },
+      {
+        "index": "10",
+        "name": "Other General Economic Services",
+        "2024_budget": {
+          "revenue": 0.03,
+          "capital": 0,
+          "total": 0.03
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0.16,
+            "capital": 0,
+            "total": 0.16
+          },
+          "revised": {
+            "revenue": 0.02,
+            "capital": 0,
+            "total": 0.02
+          }
+        },
+        "2022_actual": {
+          "revenue": 0.01,
+          "capital": 0,
+          "total": 0.01
+        }
+      },
+      {
+        "index": "11",
+        "name": "Investments in Agricultural Financial Institutions",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0.01,
+          "total": 0.01
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0.01,
+            "total": 0.01
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 1361.0,
+          "total": 1361.0
+        }
+      },
+      {
+        "index": "12",
+        "name": "Other Capital Outlay on Industries and Minerals",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0.02,
+          "total": 0.02
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0.02,
+            "total": 0.02
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 500.02,
+            "total": 500.02
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 500.0,
+          "total": 500.0
+        }
+      },
+      {
+        "index": "13",
+        "name": "Investments in General Financial and Trading Institutions",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0.02,
+          "total": 0.02
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0.02,
+            "total": 0.02
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0.01,
+            "total": 0.01
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "14",
+        "name": "Other Loans to Industries and Minerals",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 50.0,
+          "total": 50.0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 100.0,
+            "total": 100.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "15",
+        "name": "Loans to General Financial and Trading Institutions",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0.01,
+          "total": 0.01
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 100.0,
+            "total": 100.0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 125.0,
+          "total": 125.0
+        }
+      }
+    ],
+    "public_enterprises": [
+      {
+        "index": "1",
+        "name": "National Bank for Agriculture and Rural Development",
+        "2024_budget": {
+          "revenue": 0.01,
+          "capital": 0,
+          "total": 0.01
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "2",
+        "name": "Recapitalization of Regional Rural Banks",
+        "2024_budget": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          },
+          "revised": {
+            "revenue": 1100.0,
+            "capital": 0,
+            "total": 1100.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "3",
+        "name": "Export Import Bank of India",
+        "2024_budget": {
+          "revenue": 0.01,
+          "capital": 0,
+          "total": 0.01
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0.01,
+            "capital": 0,
+            "total": 0.01
+          },
+          "revised": {
+            "revenue": 0.02,
+            "capital": 0,
+            "total": 0.02
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "4",
+        "name": "Recapitalization of Public Sector Banks",
+        "2024_budget": {
+          "revenue": 0.02,
+          "capital": 0,
+          "total": 0.02
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0.02,
+            "capital": 0,
+            "total": 0.02
+          },
+          "revised": {
+            "revenue": 0.02,
+            "capital": 0,
+            "total": 0.02
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      },
+      {
+        "index": "5",
+        "name": "Industrial Finance Corporation of India",
+        "2024_budget": {
+          "revenue": 0.01,
+          "capital": 0,
+          "total": 0.01
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0.01,
+            "capital": 0,
+            "total": 0.01
+          },
+          "revised": {
+            "revenue": 500.0,
+            "capital": 0,
+            "total": 500.0
+          }
+        },
+        "2022_actual": {
+          "revenue": 500.0,
+          "capital": 0,
+          "total": 500.0
+        }
+      },
+      {
+        "index": "6",
+        "name": "Recapitalization of Insurance Companies",
+        "2024_budget": {
+          "revenue": 0.01,
+          "capital": 0,
+          "total": 0.01
+        },
+        "2023": {
+          "budget": {
+            "revenue": 0.01,
+            "capital": 0,
+            "total": 0.01
+          },
+          "revised": {
+            "revenue": 0,
+            "capital": 0,
+            "total": 0
+          }
+        },
+        "2022_actual": {
+          "revenue": 0,
+          "capital": 0,
+          "total": 0
+        }
+      }
+    ]
+  },
+  "number": 32
+}
